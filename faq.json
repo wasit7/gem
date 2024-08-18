@@ -1,0 +1,164 @@
+{
+    "FAQ": {
+      "Fashion Industry": {
+        "APP": [
+          "What materials are commonly used in this type of apparel?",
+          "How should this apparel be cared for to ensure longevity?",
+          "What are the latest fashion trends influencing this type of apparel?",
+          "How does the fit of this apparel compare to other styles?",
+          "What are the typical occasions where this apparel is worn?"
+        ],
+        "FW": [
+          "What are the best materials for this type of footwear?",
+          "How can this footwear be maintained to prevent wear and tear?",
+          "What are the distinguishing features of this footwear compared to others?",
+          "How does this footwear perform in different weather conditions?",
+          "What are the most popular brands producing this type of footwear?"
+        ],
+        "ACC": [
+          "What materials are typically used in crafting this accessory?",
+          "How can this accessory be styled with different outfits?",
+          "What care instructions are recommended to maintain this accessory?",
+          "What are the key trends in the design of this accessory?",
+          "How does this accessory complement other fashion items?"
+        ],
+        "FD": [
+          "What design principles are most important in creating this type of fashion item?",
+          "How has the design of this item evolved over time?",
+          "What are the common challenges faced in designing this item?",
+          "How does the design of this item reflect current fashion trends?",
+          "What are the sustainability considerations in designing this item?"
+        ]
+      },
+      "Jewellery Industry": {
+        "TOJ": [
+          "What materials are typically used in making this type of jewelry?",
+          "How should this jewelry be cared for to maintain its appearance?",
+          "What occasions is this type of jewelry most appropriate for?",
+          "What design styles are popular for this type of jewelry?",
+          "How does this type of jewelry compare to others in terms of durability?"
+        ],
+        "MAT": [
+          "What are the key properties of this material that make it suitable for jewelry?",
+          "How should this material be cared for to prevent damage?",
+          "What are the most common uses of this material in jewelry making?",
+          "How does this material compare to other materials in terms of cost and quality?",
+          "What sustainability concerns are associated with sourcing this material?"
+        ],
+        "JD": [
+          "What are the most popular design trends for this type of jewelry?",
+          "How does the design process for this jewelry differ from others?",
+          "What materials are most commonly used in designing this jewelry?",
+          "What cultural or historical influences affect the design of this jewelry?",
+          "How is technology influencing the design of this type of jewelry?"
+        ]
+      },
+      "Gem Industry": {
+        "GT": [
+          "What are the distinguishing features of this gemstone?",
+          "How is the value of this gemstone determined?",
+          "What are the most common uses of this gemstone in jewelry?",
+          "How should this gemstone be cared for to maintain its quality?",
+          "How does this gemstone compare to others in terms of rarity and price?"
+        ],
+        "GP": [
+          "What is the significance of this property in determining gemstone quality?",
+          "How does this property affect the appearance of a gemstone?",
+          "What methods are used to enhance or alter this property in gemstones?",
+          "How does this property compare between different types of gemstones?",
+          "What role does this property play in the market value of a gemstone?"
+        ],
+        "GPR": [
+          "What are the key steps involved in this gemstone processing technique?",
+          "How does this processing technique affect the final appearance of the gemstone?",
+          "What are the risks associated with using this processing technique?",
+          "How does this technique compare to others in terms of cost and efficiency?",
+          "What advancements have been made in this processing technique?"
+        ]
+      },
+      "Related Industries": {
+        "FR": [
+          "What strategies are effective in marketing this fashion item?",
+          "How does this fashion item perform in different retail environments?",
+          "What are the key consumer demographics for this fashion item?",
+          "How should inventory for this fashion item be managed?",
+          "What pricing strategies work best for this fashion item in retail?"
+        ],
+        "FM": [
+          "What are the most successful channels for promoting this fashion item?",
+          "How does this fashion item appeal to its target audience?",
+          "What are the key messaging points for marketing this fashion item?",
+          "How can social media be leveraged to market this fashion item?",
+          "What are the common challenges in marketing this fashion item?"
+        ],
+        "FT": [
+          "How does this technology enhance the design of fashion items?",
+          "What are the costs associated with implementing this technology?",
+          "How has this technology impacted the fashion industry?",
+          "What are the sustainability benefits of this technology?",
+          "What are the future trends in fashion technology related to this innovation?"
+        ],
+        "FE": [
+          "What is the significance of this event in the fashion industry?",
+          "How can brands effectively showcase their products at this event?",
+          "What are the typical audiences or attendees of this event?",
+          "How has this event evolved over time in the fashion world?",
+          "What are the logistical challenges of participating in this event?"
+        ]
+      },
+      "Sustainability in Fashion and Jewellery": {
+        "SMT": [
+          "What are the environmental benefits of using this material?",
+          "How is this material sourced and processed sustainably?",
+          "What are the common uses of this material in fashion or jewelry?",
+          "How does this material compare to traditional alternatives in terms of durability?",
+          "What certifications or standards apply to this material?"
+        ],
+        "SUP": [
+          "How does this practice reduce environmental impact in fashion or jewelry production?",
+          "What are the challenges in implementing this sustainable practice?",
+          "How does this practice compare to traditional methods in terms of cost?",
+          "What are the benefits of this practice for brand reputation?",
+          "How can this practice be scaled across the industry?"
+        ],
+        "CSS": [
+          "What criteria must be met to achieve this certification?",
+          "How does this certification impact consumer trust and sales?",
+          "What are the steps involved in obtaining this certification?",
+          "How does this certification compare to others in the industry?",
+          "What are the long-term benefits of maintaining this certification?"
+        ]
+      },
+      "Thailand Jewelry Export Development": {
+        "EXR": [
+          "What documentation is required for exporting jewelry from Thailand?",
+          "How do these regulations impact the cost of exporting jewelry?",
+          "What are the penalties for non-compliance with these regulations?",
+          "How can exporters ensure they meet these regulatory requirements?",
+          "What are the latest changes in export regulations that affect this market?"
+        ],
+        "MKT": [
+          "How does this trend affect Thailand's jewelry export market?",
+          "What consumer preferences are driving this trend in the global market?",
+          "How long is this trend expected to last?",
+          "What regions are most influenced by this trend?",
+          "How can Thai exporters capitalize on this trend?"
+        ],
+        "STR": [
+          "What are the most effective strategies for entering this market?",
+          "How can Thai jewelry brands differentiate themselves in this market?",
+          "What are the risks associated with this export strategy?",
+          "What investment is required to implement this strategy?",
+          "How has this strategy performed in similar markets?"
+        ],
+        "CPT": [
+          "How does this competitor's pricing strategy compare to Thailand's?",
+          "What strengths does this competitor have in the global market?",
+          "What are the weaknesses of this competitor in the jewelry market?",
+          "How can Thailand leverage its strengths against this competitor?",
+          "What recent strategic moves has this competitor made?"
+        ]
+      }
+    }
+  }
+  

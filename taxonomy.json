@@ -1,0 +1,269 @@
+{
+    "taxonomy": {
+      "Fashion Industry": {
+        "APP": {
+          "class name": "Apparel",
+          "description": "Clothing and garments across various styles, including casual, formal, and sportswear.",
+          "entity examples": ["T-shirts", "Dresses", "Suits", "Sportswear", "Outerwear"],
+          "attributes": {
+            "Material": "The fabric or textile used in the production of the apparel.",
+            "Fit": "The overall shape and size of the apparel as it fits the wearer.",
+            "Style": "The aesthetic design and fashion trend of the apparel.",
+            "Durability": "The longevity and resistance to wear and tear of the apparel.",
+            "Brand": "The manufacturer or designer label associated with the apparel."
+          }
+        },
+        "FW": {
+          "class name": "Footwear",
+          "description": "Various types of shoes and related products, designed for different purposes and styles.",
+          "entity examples": ["Sneakers", "Boots", "Sandals", "Heels", "Loafers"],
+          "attributes": {
+            "Material": "The primary material used in the footwear, such as leather, synthetic, or textile.",
+            "Sole Type": "The design and material of the sole, affecting comfort and durability.",
+            "Fit": "The size and shape of the footwear relative to the wearer's foot.",
+            "Purpose": "The intended use, such as casual, formal, athletic, or protective footwear.",
+            "Brand": "The manufacturer or designer associated with the footwear."
+          }
+        },
+        "ACC": {
+          "class name": "Accessories",
+          "description": "Items used to complement fashion apparel, including bags, belts, hats, and jewelry.",
+          "entity examples": ["Handbags", "Belts", "Hats", "Scarves", "Sunglasses"],
+          "attributes": {
+            "Material": "The main material used in the accessory, such as leather, fabric, or metal.",
+            "Design": "The aesthetic and functional design of the accessory.",
+            "Durability": "The ability of the accessory to withstand wear and tear.",
+            "Brand": "The manufacturer or designer associated with the accessory.",
+            "Functionality": "The practical use or purpose of the accessory in fashion."
+          }
+        },
+        "FD": {
+          "class name": "Fashion Design",
+          "description": "The creative process of designing fashion items, including apparel, footwear, and accessories.",
+          "entity examples": ["Runway Collections", "Sketches", "Patterns", "Mood Boards", "Textile Design"],
+          "attributes": {
+            "Creativity": "The originality and innovation in the design process.",
+            "Technical Skill": "The craftsmanship and technical ability required in fashion design.",
+            "Trend Alignment": "The extent to which the design reflects current fashion trends.",
+            "Sustainability": "The integration of eco-friendly practices in the design process.",
+            "Brand Signature": "Distinctive elements that reflect the designer's unique style or brand."
+          }
+        }
+      },
+      "Jewellery Industry": {
+        "TOJ": {
+          "class name": "Types of Jewellery",
+          "description": "Different categories of jewelry, such as rings, necklaces, bracelets, etc.",
+          "entity examples": ["Rings", "Necklaces", "Bracelets", "Earrings", "Brooches"],
+          "attributes": {
+            "Material": "The main material used in the jewelry piece, such as gold, silver, or platinum.",
+            "Gemstone": "Any precious or semi-precious stones used in the jewelry.",
+            "Design": "The artistic and structural design of the jewelry piece.",
+            "Craftsmanship": "The skill and quality of work in creating the jewelry.",
+            "Wearability": "The comfort and practicality of wearing the jewelry."
+          }
+        },
+        "MAT": {
+          "class name": "Materials",
+          "description": "Various materials used in jewelry making, including metals, gemstones, and other components.",
+          "entity examples": ["Gold", "Silver", "Platinum", "Diamond", "Pearl"],
+          "attributes": {
+            "Purity": "The proportion of the pure material present, particularly in metals.",
+            "Source": "The origin of the material, including ethical and sustainable sourcing.",
+            "Durability": "The resistance of the material to damage and wear over time.",
+            "Color": "The natural or treated color of the material.",
+            "Rarity": "The availability and commonality of the material in the market."
+          }
+        },
+        "JD": {
+          "class name": "Jewellery Design",
+          "description": "The artistic and technical aspects of designing jewelry pieces.",
+          "entity examples": ["Sketches", "3D Models", "Prototypes", "Custom Designs", "Signature Collections"],
+          "attributes": {
+            "Creativity": "The originality and innovation involved in the design process.",
+            "Technical Precision": "The accuracy and detail required in creating the design.",
+            "Material Compatibility": "How well the design accommodates different materials.",
+            "Cultural Significance": "The symbolic or cultural meaning embedded in the design.",
+            "Market Appeal": "The attractiveness of the design to potential buyers."
+          }
+        }
+      },
+      "Gem Industry": {
+        "GT": {
+          "class name": "Gem Types",
+          "description": "Classification of different types of gemstones used in jewelry.",
+          "entity examples": ["Diamond", "Ruby", "Emerald", "Sapphire", "Amethyst"],
+          "attributes": {
+            "Color": "The hue and saturation of the gemstone.",
+            "Clarity": "The presence or absence of inclusions or flaws within the gemstone.",
+            "Cut": "The quality and style of the gemstone's cut.",
+            "Carat Weight": "The size and weight of the gemstone.",
+            "Origin": "The geographical source of the gemstone."
+          }
+        },
+        "GP": {
+          "class name": "Gem Properties",
+          "description": "Key attributes of gemstones that determine their quality and value.",
+          "entity examples": ["Hardness", "Luster", "Refractive Index", "Fluorescence", "Birefringence"],
+          "attributes": {
+            "Hardness": "The resistance of the gemstone to scratching, measured on the Mohs scale.",
+            "Luster": "The quality and intensity of light reflected from the surface of the gemstone.",
+            "Refractive Index": "The degree to which light is bent as it passes through the gemstone.",
+            "Fluorescence": "The ability of the gemstone to emit visible light when exposed to ultraviolet light.",
+            "Birefringence": "The difference in refractive indices within the gemstone, causing double refraction."
+          }
+        },
+        "GPR": {
+          "class name": "Gem Processing",
+          "description": "The processes involved in cutting, polishing, and treating gemstones.",
+          "entity examples": ["Cutting", "Polishing", "Heat Treatment", "Irradiation", "Fracture Filling"],
+          "attributes": {
+            "Technique": "The specific method used in processing the gemstone.",
+            "Precision": "The accuracy and skill required in the processing technique.",
+            "Purpose": "The intended outcome of the processing, such as enhancing clarity or color.",
+            "Risk": "The potential for damage or alteration during processing.",
+            "Cost": "The financial cost associated with the processing technique."
+          }
+        }
+      },
+      "Related Industries": {
+        "FR": {
+          "class name": "Fashion Retail",
+          "description": "The business of selling fashion items directly to consumers.",
+          "entity examples": ["Brick-and-Mortar Stores", "Online Retailers", "Pop-Up Shops", "Department Stores", "Boutiques"],
+          "attributes": {
+            "Sales Model": "The approach used to sell products, such as direct sales or consignment.",
+            "Customer Experience": "The quality of interaction and service provided to the consumer.",
+            "Brand Representation": "How well the retail outlet represents the brand's image and values.",
+            "Inventory Management": "The system used to manage and replenish stock.",
+            "Marketing Strategy": "The methods used to attract and retain customers."
+          }
+        },
+        "FM": {
+          "class name": "Fashion Marketing",
+          "description": "Strategies and techniques used to promote fashion brands and products.",
+          "entity examples": ["Advertising Campaigns", "Social Media Marketing", "Influencer Collaborations", "Brand Partnerships", "Content Creation"],
+          "attributes": {
+            "Target Audience": "The specific group of consumers the marketing efforts are directed towards.",
+            "Brand Message": "The core message conveyed through the marketing efforts.",
+            "Media Channels": "The platforms used to distribute marketing content.",
+            "Engagement": "The level of interaction and interest generated by the marketing efforts.",
+            "ROI": "The return on investment for marketing activities."
+          }
+        },
+        "FT": {
+          "class name": "Fashion Technology",
+          "description": "Innovations and technological advancements in the fashion industry.",
+          "entity examples": ["Wearable Tech", "3D Printing", "E-Commerce Platforms", "AI Design Tools", "Virtual Fashion Shows"],
+          "attributes": {
+            "Innovation": "The novelty and originality of the technology.",
+            "Usability": "How easily the technology can be adopted by users.",
+            "Impact": "The influence of the technology on the fashion industry.",
+            "Cost": "The financial investment required to implement the technology.",
+            "Sustainability": "The environmental and social implications of the technology."
+          }
+        },
+        "FE": {
+          "class name": "Fashion Events",
+          "description": "Industry events such as fashion shows, trade fairs, and exhibitions.",
+          "entity examples": ["Fashion Weeks", "Trade Shows", "Runway Shows", "Exhibitions", "Award Ceremonies"],
+          "attributes": {
+            "Scale": "The size and scope of the event.",
+            "Audience": "The demographic and size of the event's attendees.",
+            "Purpose": "The main goal of the event, such as showcasing new collections or networking.",
+            "Brand Exposure": "The level of visibility and recognition achieved by participating brands.",
+            "Logistics": "The planning and execution aspects of the event."
+          }
+        }
+      },
+      "Sustainability in Fashion and Jewellery": {
+        "SMT": {
+          "class name": "Sustainable Materials",
+          "description": "Eco-friendly and ethically sourced materials used in fashion and jewelry.",
+          "entity examples": ["Recycled Gold", "Organic Cotton", "Bamboo Fabric", "Lab-Grown Diamonds", "Tencel"],
+          "attributes": {
+            "Source": "The origin of the material, including whether it is recycled or ethically sourced.",
+            "Environmental Impact": "The effect of material production on the environment, including factors like carbon footprint and pollution.",
+            "Certification": "Third-party verifications or labels that ensure the material meets sustainability standards.",
+            "Durability": "The longevity and resilience of the material under regular use.",
+            "Recyclability": "The ability of the material to be recycled or repurposed after its initial use."
+          }
+        },
+        "SUP": {
+          "class name": "Sustainable Practices",
+          "description": "Best practices for reducing environmental impact in the production and distribution of fashion and jewelry.",
+          "entity examples": ["Zero-Waste Production", "Ethical Sourcing", "Carbon Offsetting", "Circular Fashion", "Fair Trade"],
+          "attributes": {
+            "Efficiency": "The reduction of waste and resource usage in production.",
+            "Ethics": "Adherence to fair labor practices and ethical sourcing.",
+            "Carbon Footprint": "The total greenhouse gas emissions produced by the practice.",
+            "Scalability": "The ability of the practice to be adopted widely across the industry.",
+            "Compliance": "Adherence to international standards and regulations on sustainability."
+          }
+        },
+        "CSS": {
+          "class name": "Certifications and Standards",
+          "description": "The various certifications and standards that ensure products meet sustainability criteria.",
+          "entity examples": ["Fair Trade Certification", "GOTS (Global Organic Textile Standard)", "RJC (Responsible Jewellery Council) Certification", "LEED Certification", "B Corp Certification"],
+          "attributes": {
+            "Certification Body": "The organization responsible for issuing the certification.",
+            "Criteria": "The specific standards and requirements needed to obtain the certification.",
+            "Validity": "The duration and conditions under which the certification remains valid.",
+            "Industry Impact": "The influence of the certification on industry practices.",
+            "Consumer Trust": "The level of trust and recognition the certification holds with consumers."
+          }
+        }
+      },
+      "Thailand Jewelry Export Development": {
+        "EXR": {
+          "class name": "Export Regulations",
+          "description": "Legal and regulatory requirements specific to exporting jewelry from Thailand to international markets.",
+          "entity examples": ["Tariff Codes", "Export Licenses", "Customs Declarations", "Certificates of Origin", "Restricted Materials"],
+          "attributes": {
+            "Regulation Type": "The specific category of regulation applicable to the export process.",
+            "Jurisdiction": "The country or region where the regulation applies.",
+            "Compliance Requirements": "The necessary steps or documentation needed to meet the regulation.",
+            "Penalties": "The consequences of failing to comply with the regulation.",
+            "Exemptions": "Conditions under which certain regulations may not apply."
+          }
+        },
+        "MKT": {
+          "class name": "Market Trends",
+          "description": "Current and emerging trends in the global markets that affect Thailand's jewelry exports.",
+          "entity examples": ["Consumer Preferences", "Demand for Sustainable Jewelry", "Popularity of Lab-Grown Diamonds", "Shifts in Luxury Goods Market", "Regional Market Growth"],
+          "attributes": {
+            "Trend Duration": "The expected lifespan or relevance of a trend within the market.",
+            "Target Demographic": "The specific group of consumers most likely to engage with the trend.",
+            "Cultural Influence": "The impact of cultural movements or events on the trend.",
+            "Market Penetration": "The extent to which the trend has been adopted by the market.",
+            "Price Impact": "How the trend affects the pricing of related products."
+          }
+        },
+        "STR": {
+          "class name": "Export Strategies",
+          "description": "Strategic approaches for enhancing the competitiveness of Thailand's jewelry in international markets.",
+          "entity examples": ["Brand Positioning", "Market Entry Strategies", "Partnership Development", "Trade Fair Participation", "E-Commerce Expansion"],
+          "attributes": {
+            "Strategy Type": "The specific approach used to enter or expand in a market.",
+            "Target Market": "The specific international markets being targeted for expansion.",
+            "Competitive Advantage": "The unique strengths of Thai jewelry in the global market.",
+            "Investment Required": "The financial and resource investment needed to implement the strategy.",
+            "Risk Management": "The potential risks and how they are mitigated in the strategy."
+          }
+        },
+        "CPT": {
+          "class name": "Competitor Analysis",
+          "description": "Analysis of competing jewelry exporters and how they compare with Thailand's offerings.",
+          "entity examples": ["Market Share Analysis", "Pricing Strategies", "Product Differentiation", "Strengths and Weaknesses", "Innovation and Technology Use"],
+          "attributes": {
+            "Competitor Name": "The name of the competing country or company.",
+            "Market Position": "The current standing of the competitor in the global market.",
+            "Strengths": "Areas where the competitor excels, such as price, quality, or innovation.",
+            "Weaknesses": "Areas where the competitor is less strong or vulnerable.",
+            "Strategic Moves": "Recent actions or changes in strategy by the competitor."
+          }
+        }
+      }
+    }
+  }
+  
