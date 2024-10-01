@@ -1,0 +1,769 @@
+subjectLabel,predicateLabel,objectLabel,subject,object,class
+pearl,instance of,spherical body,Q43436,Q112511193,Q83437
+ruby,color,red,Q43088,Q3142,Q83437
+ruby,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q43088,Q602358,Q83437
+emerald,streak color,white,Q43513,Q23444,Q83437
+diamond,streak color,white,Q5283,Q23444,Q83437
+ruby,different from,Rubin,Q43088,Q295582,Q83437
+emerald,subclass of,material,Q43513,Q214609,Q83437
+pearl,subclass of,animal product,Q43436,Q629103,Q83437
+diamond,made from material,carbon,Q5283,Q623,Q83437
+ruby,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q43088,Q19180675,Q83437
+ruby,described by source,"Meyers Konversations-Lexikon, 4th edition (1885–1890)",Q43088,Q19219752,Q83437
+pearl,made from material,nacre,Q43436,Q215865,Q83437
+ruby,color,ruby,Q43088,Q3446513,Q83437
+ruby,subclass of,corundum,Q43088,Q131777,Q83437
+ruby,subclass of,gemstone,Q43088,Q83437,Q83437
+ruby,described by source,Bible Encyclopedia of Archimandrite Nicephorus,Q43088,Q4086271,Q83437
+ruby,described by source,Granat Encyclopedic Dictionary,Q43088,Q4532138,Q83437
+emerald,instance of,mineral variety,Q43513,Q429795,Q83437
+pearl,has use,costume accessory,Q43436,Q1065579,Q83437
+diamond,has part(s),carbon,Q5283,Q623,Q83437
+ruby,streak color,white,Q43088,Q23444,Q83437
+pearl,has use,jewelry,Q43436,Q161439,Q83437
+pearl,has use,traditional costume,Q43436,Q3172759,Q83437
+ruby,instance of,mineral variety,Q43088,Q429795,Q83437
+pearl,described by source,Bible Encyclopedia of Archimandrite Nicephorus,Q43436,Q4086271,Q83437
+emerald,crystal system,hexagonal crystal system,Q43513,Q663314,Q83437
+ruby,on focus list of Wikimedia project,Wikipedia:Vital articles/Level/4,Q43088,Q6173448,Q83437
+ruby,subclass of,sapphire,Q43088,Q127583,Q83437
+pearl,streak color,rainbow colours,Q43436,Q120833460,Q83437
+pearl,subclass of,organic gem,Q43436,Q110688445,Q83437
+pearl,described by source,Ottův slovník naučný,Q43436,Q2041543,Q83437
+ruby,described by source,"The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge",Q43088,Q56441911,Q83437
+ruby,described by source,hedendaagsesieraden.nl,Q43088,Q89929597,Q83437
+ruby,described by source,"Armenian Soviet Encyclopedia, vol. 10",Q43088,Q124737637,Q83437
+emerald,subclass of,gemstone,Q43513,Q83437,Q83437
+pearl,topic's main category,Category:Pearls,Q43436,Q7215630,Q83437
+pearl,described by source,hedendaagsesieraden.nl,Q43436,Q89929597,Q83437
+Akik,subclass of,quartz,Q4700957,Q43010,Q83437
+pearl,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q43436,Q602358,Q83437
+emerald,subclass of,beryl,Q43513,Q103480,Q83437
+pearl,on focus list of Wikimedia project,Wikipedia:Vital articles/Level/4,Q43436,Q6173448,Q83437
+emerald,described by source,Encyclopædia Britannica 11th edition,Q43513,Q867541,Q83437
+emerald,described by source,The Nuttall Encyclopædia,Q43513,Q3181656,Q83437
+jade,topic's main category,Category:Jade,Q175089,Q7219994,Q83437
+sapphire,instance of,mineral variety,Q127583,Q429795,Q83437
+ruby,described by source,Encyclopædia Britannica 11th edition,Q43088,Q867541,Q83437
+ruby,described by source,Explanatory Dictionary of the Living Great Russian Language,Q43088,Q1970746,Q83437
+ruby,described by source,The Nuttall Encyclopædia,Q43088,Q3181656,Q83437
+agate,described by source,"Meyers Konversations-Lexikon, 4th edition (1885–1890)",Q123314,Q19219752,Q83437
+agate,described by source,Great Soviet Encyclopedia (1926–1947),Q123314,Q20078554,Q83437
+pearl,described by source,The New Student's Reference Work,Q43436,Q16082057,Q83437
+diamond,subclass of,gemstone,Q5283,Q83437,Q83437
+pearl,described by source,"Collier's New Encyclopedia, 1921",Q43436,Q19047539,Q83437
+pearl,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q43436,Q19180675,Q83437
+pearl,described by source,"Meyers Konversations-Lexikon, 4th edition (1885–1890)",Q43436,Q19219752,Q83437
+pearl,described by source,Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,Q43436,Q30059240,Q83437
+jade,subclass of,metamorphic rock,Q175089,Q47069,Q83437
+jade,described by source,The Nuttall Encyclopædia,Q175089,Q3181656,Q83437
+jade,described by source,The New Student's Reference Work,Q175089,Q16082057,Q83437
+emerald,different from,emerald,Q43513,Q2465494,Q83437
+ruby,color,pink,Q43088,Q429220,Q83437
+precious stone,subclass of,gemstone,Q4990682,Q83437,Q83437
+Cardinal gem,subclass of,gemstone,Q5038632,Q83437,Q83437
+yttrium aluminium garnet,subclass of,gemstone,Q421189,Q83437,Q83437
+emerald,described by source,Bible Encyclopedia of Archimandrite Nicephorus,Q43513,Q4086271,Q83437
+diamond,has use,gemstone,Q5283,Q83437,Q83437
+emerald,on focus list of Wikimedia project,Wikipedia:Vital articles/Level/4,Q43513,Q6173448,Q83437
+agate,described by source,"Explanatory Dictionary of the Living Great Russian Language, Second Edition",Q123314,Q23705356,Q83437
+agate,described by source,Lexicon of Egyptology (1. Edition),Q123314,Q117232527,Q83437
+agate,described by source,"Armenian Soviet Encyclopedia, vol. 1",Q123314,Q123560817,Q83437
+jade,described by source,Encyclopædia Britannica 11th edition,Q175089,Q867541,Q83437
+jade,described by source,Gujin Tushu Jicheng,Q175089,Q1768721,Q83437
+diamond,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q5283,Q602358,Q83437
+nephrite,crystal system,monoclinic crystal system,Q138979,Q624543,Q83437
+nephrite,described by source,Explanatory Dictionary of the Living Great Russian Language,Q138979,Q1970746,Q83437
+afghanite,subclass of,gemstone,Q978346,Q83437,Q83437
+precious stone,subclass of,mineral,Q4990682,Q7946,Q83437
+amethyst,streak color,white,Q79058,Q23444,Q83437
+afghanite,streak color,white,Q978346,Q23444,Q83437
+diamond,subclass of,carbon-silicon family,Q5283,Q13292702,Q83437
+Cardinal gem,has part(s),emerald,Q5038632,Q43513,Q83437
+diamond,crystal system,cubic crystal system,Q5283,Q473227,Q83437
+emerald,topic's main category,Category:Emeralds,Q43513,Q13356045,Q83437
+Cardinal gem,has part(s),diamond,Q5038632,Q5283,Q83437
+afghanite,named after,Afghanistan,Q978346,Q889,Q83437
+baroque pearl,subclass of,pearl,Q4863054,Q43436,Q83437
+pearl,described by source,Encyclopædia Britannica 11th edition,Q43436,Q867541,Q83437
+diamond,described by source,Encyclopædia Britannica 11th edition,Q5283,Q867541,Q83437
+diamond,described by source,Paulys Realenzyklopädie der klassischen Altertumswissenschaft,Q5283,Q1138524,Q83437
+afghanite,crystal system,trigonal crystal system,Q978346,Q588274,Q83437
+sapphire,color,blue,Q127583,Q1088,Q83437
+Cardinal gem,has part(s),amethyst,Q5038632,Q79058,Q83437
+diamond,crystal habit,octahedron,Q5283,Q188884,Q83437
+diamond,IMA status and/or rank,grandfathered mineral (G),Q5283,Q13406846,Q83437
+diamond,point group,cubic-hexoctahedral,Q5283,Q13359931,Q83437
+diamond,space group,space group Fd-3m,Q5283,Q15041895,Q83437
+pearl,different from,bead,Q43436,Q1053956,Q83437
+jade,subclass of,gemstone,Q175089,Q83437,Q83437
+Cardinal gem,has part(s),sapphire,Q5038632,Q127583,Q83437
+nephrite,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q138979,Q602358,Q83437
+diamond,named after,Invincible,Q5283,Q226841,Q83437
+birthstone,topic's main category,Category:Birthstones,Q1144700,Q9814475,Q83437
+diamond,cleavage,{111},Q5283,Q14754934,Q83437
+diamond,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q5283,Q19180675,Q83437
+nephrite,subclass of,jade,Q138979,Q175089,Q83437
+birthstone,has use,symbolism,Q1144700,Q4419563,Q83437
+blood diamond,different from,Blood Diamond,Q464026,Q74958,Q83437
+diamond,different from,Diamond,Q5283,Q224096,Q83437
+ammolite,subclass of,gemstone,Q473346,Q83437,Q83437
+afghanite,color,blue,Q978346,Q1088,Q83437
+diamond,on focus list of Wikimedia project,Wikipedia:List of articles all languages should have,Q5283,Q5460604,Q83437
+diamond,on focus list of Wikimedia project,Wikipedia:Vital articles/Level/4,Q5283,Q6173448,Q83437
+diamond,mineral fracture,conchoidal fracture,Q5283,Q2747476,Q83437
+diamond,described by source,Bible Encyclopedia of Archimandrite Nicephorus,Q5283,Q4086271,Q83437
+diamond,described by source,Jewish Encyclopedia of Brockhaus and Efron,Q5283,Q4173137,Q83437
+Cardinal gem,has part(s),ruby,Q5038632,Q43088,Q83437
+diamond,has use,diamond industry,Q5283,Q56604589,Q83437
+nephrite,described by source,New Encyclopedic Dictionary,Q138979,Q19190511,Q83437
+emerald,described by source,"Explanatory Dictionary of the Living Great Russian Language, Second Edition",Q43513,Q23705356,Q83437
+emerald,described by source,"Armenian Soviet Encyclopedia, vol. 10",Q43513,Q124737637,Q83437
+precious stone,topic's main category,Category:Precious stone,Q4990682,Q7148091,Q83437
+Taiwan Black Jade,country,Taiwan,Q119133376,Q865,Q83437
+diamond,subclass of,allotrope of carbon,Q5283,Q622460,Q83437
+diamond,subclass of,covalent network solid,Q5283,Q632350,Q83437
+diamond,subclass of,native element mineral,Q5283,Q723127,Q83437
+brilliant,made from material,diamond,Q429571,Q5283,Q83437
+ruby,crystal system,trigonal crystal system,Q43088,Q588274,Q83437
+afghanite,subclass of,zeolite frameworks,Q978346,Q15889510,Q83437
+afghanite,subclass of,complex-sequence cancrinites,Q978346,Q18013979,Q83437
+birthstone,subclass of,gemstone,Q1144700,Q83437,Q83437
+ruby,topic's main category,Category:Ruby,Q43088,Q24272721,Q83437
+diamond,described by source,"Explanatory Dictionary of the Living Great Russian Language, Second Edition",Q5283,Q23705356,Q83437
+diamond,described by source,"Armenian Soviet Encyclopedia, vol. 1",Q5283,Q123560817,Q83437
+cultured freshwater pearl,subclass of,cultured pearl,Q5193690,Q3029022,Q83437
+cultured freshwater pearl,subclass of,freshwater pearl,Q5193690,Q31384432,Q83437
+national stone,subclass of,gemstone,Q10855580,Q83437,Q83437
+carbuncle,subclass of,gemstone,Q12108659,Q83437,Q83437
+sapphire,subclass of,corundum,Q127583,Q131777,Q83437
+cymophane,subclass of,chrysoberyl,Q612430,Q422179,Q83437
+bi,subclass of,Chinese jade,Q573870,Q4211668,Q83437
+sapphire,has part(s),aluminium oxide,Q127583,Q177342,Q83437
+afghanite,space group,space group P31c,Q978346,Q15040827,Q83437
+afghanite,type locality (geology),Ladjuar Medam,Q978346,Q26452287,Q83437
+Dur,subclass of,precious stone,Q12541258,Q4990682,Q83437
+sardine,subclass of,gemstone,Q3473589,Q83437,Q83437
+heliodor,instance of,mineral variety,Q429730,Q429795,Q83437
+bi,different from,cong,Q573870,Q1125665,Q83437
+Taiwan Black Jade,subclass of,jade,Q119133376,Q175089,Q83437
+Aggregated diamond nanorod,subclass of,diamond,Q393356,Q5283,Q83437
+brilliant,described by source,"Armenian Soviet Encyclopedia, vol. 1",Q429571,Q123560817,Q83437
+nephrite,named after,kidney,Q138979,Q9377,Q83437
+afghanite,instance of,mineral species,Q978346,Q12089225,Q83437
+birthstone,has use,custom,Q1144700,Q251777,Q83437
+afghanite,color,colorless,Q978346,Q1396399,Q83437
+aetites,subclass of,gemstone,Q2854580,Q83437,Q83437
+brilliant,said to be the same as,diamond cut,Q429571,Q12103146,Q83437
+brilliant,topic's main category,Category:Individual diamonds,Q429571,Q7214371,Q83437
+afghanite,IMA status and/or rank,approved mineral and/or valid name (A),Q978346,Q13406835,Q83437
+engraved gem,described by source,Encyclopædia Britannica 11th edition,Q1501187,Q867541,Q83437
+moss agate,described by source,Encyclopædia Britannica 11th edition,Q2413388,Q867541,Q83437
+amethyst,described by source,Encyclopædia Britannica 11th edition,Q79058,Q867541,Q83437
+brilliant,described by source,Great Soviet Encyclopedia (1926–1947),Q429571,Q20078554,Q83437
+sapphire,subclass of,material,Q127583,Q214609,Q83437
+Taiwan Black Jade,subclass of,gemstone,Q119133376,Q83437,Q83437
+emerald,described by source,The New Student's Reference Work,Q43513,Q16082057,Q83437
+emerald,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q43513,Q19180675,Q83437
+nephrite,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q138979,Q19180675,Q83437
+boron-doped diamond,subclass of,diamond,Q115631937,Q5283,Q83437
+heliodor,subclass of,beryl,Q429730,Q103480,Q83437
+national stone,subclass of,national symbol,Q10855580,Q1128637,Q83437
+gem,subclass of,mineral,Q12822126,Q7946,Q83437
+diamond,topic's main category,Category:Diamond,Q5283,Q7214380,Q83437
+sapphire,crystal system,trigonal crystal system,Q127583,Q588274,Q83437
+diamond simulant,subclass of,gemstone,Q1853946,Q83437,Q83437
+amethyst,subclass of,gemstone,Q79058,Q83437,Q83437
+gem,subclass of,gemstone,Q12822126,Q83437,Q83437
+pink diamond,color,pink,Q16191831,Q429220,Q83437
+agate,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q123314,Q602358,Q83437
+sapphire,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q127583,Q602358,Q83437
+diamond,instance of,mineral species,Q5283,Q12089225,Q83437
+sapphire,subclass of,gemstone,Q127583,Q83437,Q83437
+boron-doped diamond,subclass of,semiconductor,Q115631937,Q11456,Q83437
+cat's eye quartz,subclass of,quartz,Q1736875,Q43010,Q83437
+engraved gem,different from,Gema,Q1501187,Q1998982,Q83437
+Aggregated diamond nanorod,facet of,nanodiamonds,Q393356,Q16870989,Q83437
+carbuncle,described by source,Encyclopædia Britannica 11th edition,Q12108659,Q867541,Q83437
+diamond simulant,different from,synthetic diamond,Q1853946,Q751479,Q83437
+amethyst,instance of,mineral variety,Q79058,Q429795,Q83437
+amethyst,described by source,New International Encyclopedia,Q79058,Q1029706,Q83437
+amethyst,described by source,Paulys Realenzyklopädie der klassischen Altertumswissenschaft,Q79058,Q1138524,Q83437
+sapphire,on focus list of Wikimedia project,Wikipedia:Vital articles/Level/4,Q127583,Q6173448,Q83437
+carbonado,subclass of,diamond,Q429950,Q5283,Q83437
+memorial diamond,made from material,carbon,Q447923,Q623,Q83437
+black coral,natural product of taxon,Antipatharia,Q110693126,Q1479472,Q83437
+national stone,subclass of,stone,Q10855580,Q22731,Q83437
+Akik,subclass of,gemstone,Q4700957,Q83437,Q83437
+Chinese jade,subclass of,jade,Q4211668,Q175089,Q83437
+heliodor,subclass of,gemstone,Q429730,Q83437,Q83437
+precious stone,has use,jewelry,Q4990682,Q161439,Q83437
+moss agate,named after,Mocha,Q2413388,Q339258,Q83437
+agate-jasper,subclass of,agate,Q111244412,Q123314,Q83437
+Botswana agate,subclass of,agate,Q1942868,Q123314,Q83437
+Blue Lace agate,subclass of,agate,Q2103412,Q123314,Q83437
+scolecite agate,subclass of,agate,Q2292812,Q123314,Q83437
+moss agate,subclass of,agate,Q2413388,Q123314,Q83437
+sapphire,described by source,Explanatory Dictionary of the Living Great Russian Language,Q127583,Q1970746,Q83437
+sapphire,described by source,The Nuttall Encyclopædia,Q127583,Q3181656,Q83437
+sapphire,described by source,Bible Encyclopedia of Archimandrite Nicephorus,Q127583,Q4086271,Q83437
+sapphire,described by source,The Encyclopedia Americana,Q127583,Q19085957,Q83437
+engraved gem,described by source,Great Soviet Encyclopedia (1926–1947),Q1501187,Q20078554,Q83437
+amethyst,described by source,"Infernal Dictionary, 6th ed.",Q79058,Q20961706,Q83437
+amethyst,described by source,"Explanatory Dictionary of the Living Great Russian Language, Second Edition",Q79058,Q23705356,Q83437
+synthetic emerald,subclass of,synthetic gemstone,Q110849112,Q25510973,Q83437
+black coral,subclass of,coral,Q110693126,Q29386288,Q83437
+branch coral,subclass of,coral,Q110693154,Q29386288,Q83437
+sapphire glass,made from material,corundum,Q2713410,Q131777,Q83437
+brilliant,subclass of,gemstone,Q429571,Q83437,Q83437
+sapphire,topic's main category,Category:Sapphire,Q127583,Q13346220,Q83437
+heliodor,color,chartreuse,Q429730,Q1153119,Q83437
+black opal,subclass of,precious opal,Q11334572,Q110686457,Q83437
+pink diamond,subclass of,diamond,Q16191831,Q5283,Q83437
+amethyst,subclass of,quartz,Q79058,Q43010,Q83437
+sapphire,different from,Shafir,Q127583,Q2777322,Q83437
+Umba sapphire,subclass of,sapphire,Q7881230,Q127583,Q83437
+amethyst,described by source,Encyclopedic Lexicon,Q79058,Q4532135,Q83437
+engraved gem,described by source,National Encyclopedia of Uzbekistan,Q1501187,Q5217764,Q83437
+Taiwan Black Jade,streak color,white,Q119133376,Q23444,Q83437
+synthetic diamond,subclass of,diamond,Q751479,Q5283,Q83437
+memorial diamond,subclass of,synthetic diamond,Q447923,Q751479,Q83437
+heliodor,described by source,Minerals.net,Q429730,Q121890280,Q83437
+heliodor,different from,golden beryl,Q429730,Q122998741,Q83437
+diamond simulant,topic's main category,Category:Diamond simulants,Q1853946,Q8375992,Q83437
+sapphire,subclass of,precious stone,Q127583,Q4990682,Q83437
+agate,described by source,Encyclopædia Britannica 11th edition,Q123314,Q867541,Q83437
+agate,described by source,Paulys Realenzyklopädie der klassischen Altertumswissenschaft,Q123314,Q1138524,Q83437
+cymophane,subclass of,cat's eye,Q612430,Q25510612,Q83437
+agate,subclass of,quartz,Q123314,Q43010,Q83437
+boomagate,subclass of,agate,Q2679891,Q123314,Q83437
+tide jewels,subclass of,gemstone,Q7800836,Q83437,Q83437
+agate,streak color,white,Q123314,Q23444,Q83437
+amethyst,crystal system,trigonal crystal system,Q79058,Q588274,Q83437
+agate,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q123314,Q19180675,Q83437
+synthetic diamond,has use,gemstone,Q751479,Q83437,Q83437
+jet,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q543694,Q602358,Q83437
+carbonado,described by source,Encyclopædia Britannica 11th edition,Q429950,Q867541,Q83437
+engraved gem,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q1501187,Q602358,Q83437
+amethyst,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q79058,Q602358,Q83437
+sapphire,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q127583,Q19180675,Q83437
+peridot,named after,gold,Q288732,Q897,Q83437
+heliodor,has part(s),aluminium,Q429730,Q663,Q83437
+jet,subclass of,organic gem,Q543694,Q110688445,Q83437
+agate,described by source,Dictionnaire Infernal,Q123314,Q1210353,Q83437
+agate,described by source,Gujin Tushu Jicheng,Q123314,Q1768721,Q83437
+agate,described by source,Ottův slovník naučný,Q123314,Q2041543,Q83437
+Enhydro agate,subclass of,agate,Q5378829,Q123314,Q83437
+Lake Superior agate,subclass of,agate,Q6477906,Q123314,Q83437
+peridot,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q288732,Q602358,Q83437
+Derbyshire Blue John,subclass of,gemstone,Q5261556,Q83437,Q83437
+Derbyshire Blue John,located in the administrative territorial entity,Derbyshire,Q5261556,Q23098,Q83437
+cat's eye quartz,subclass of,cat's eye,Q1736875,Q25510612,Q83437
+Tahitian pearl,country of origin,France,Q7675555,Q142,Q83437
+freshwater pearl,subclass of,pearl,Q31384432,Q43436,Q83437
+cat's eye,subclass of,gemstone,Q25510612,Q83437,Q83437
+synthetic gemstone,subclass of,gemstone,Q25510973,Q83437,Q83437
+Derbyshire Blue John,country,United Kingdom,Q5261556,Q145,Q83437
+agate,described by source,Bible Encyclopedia of Archimandrite Nicephorus,Q123314,Q4086271,Q83437
+agate,described by source,The New Student's Reference Work,Q123314,Q16082057,Q83437
+agate,described by source,Encyclopedia of Armenian Nature,Q123314,Q16387823,Q83437
+synthetic diamond,subclass of,synthetic gemstone,Q751479,Q25510973,Q83437
+sapphire glass,has characteristic,artificiality,Q2713410,Q14623823,Q83437
+engraved gem,described by source,The Nuttall Encyclopædia,Q1501187,Q3181656,Q83437
+amethyst,described by source,Bible Encyclopedia of Archimandrite Nicephorus,Q79058,Q4086271,Q83437
+amethyst,described by source,Jewish Encyclopedia of Brockhaus and Efron,Q79058,Q4173137,Q83437
+synthetic diamond,has use,abrasive,Q751479,Q372301,Q83437
+coral,color,red,Q29386288,Q3142,Q83437
+Keshi pearls,subclass of,pearl,Q6395034,Q43436,Q83437
+synthetic gemstone,subclass of,synthetic material,Q25510973,Q3300022,Q83437
+synthetic gemstone,subclass of,precious stone,Q25510973,Q4990682,Q83437
+jet,subclass of,lignite,Q543694,Q156267,Q83437
+blue diamond,subclass of,diamond,Q28449765,Q5283,Q83437
+red diamond,subclass of,diamond,Q30680562,Q5283,Q83437
+Derbyshire Blue John,subclass of,fluorite,Q5261556,Q102151,Q83437
+amethyst,topic's main category,Category:Amethysts,Q79058,Q55324995,Q83437
+agate-jasper,instance of,mineral variety,Q111244412,Q429795,Q83437
+plasma agate,subclass of,agate,Q10350376,Q123314,Q83437
+peridot,subclass of,gemstone,Q288732,Q83437,Q83437
+engraved gem,described by source,Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,Q1501187,Q30059240,Q83437
+amethyst,described by source,hedendaagsesieraden.nl,Q79058,Q89929597,Q83437
+amethyst,described by source,"Armenian Soviet Encyclopedia, vol. 1",Q79058,Q123560817,Q83437
+engraved gem,described by source,"Armenian Soviet Encyclopedia, vol. 3",Q1501187,Q124737616,Q83437
+Tahitian pearl,location of creation,Tahiti,Q7675555,Q42000,Q83437
+Taiwan Black Jade,crystal system,monoclinic crystal system,Q119133376,Q624543,Q83437
+agate,subclass of,gemstone,Q123314,Q83437,Q83437
+ballas,subclass of,diamond,Q9164686,Q5283,Q83437
+rough diamond,subclass of,diamond,Q10371097,Q5283,Q83437
+industrial diamond,subclass of,diamond,Q25510571,Q5283,Q83437
+coral,made from material,skeleton,Q29386288,Q7881,Q83437
+synthetic diamond,different from,diamond simulant,Q751479,Q1853946,Q83437
+peridot,color,green,Q288732,Q3133,Q83437
+synthetic diamond,topic's main category,Category:Synthetic diamond,Q751479,Q8839988,Q83437
+Colombian emeralds,country,Colombia,Q17007270,Q739,Q83437
+synthetic diamond,partially coincident with,synthetic gemstone,Q751479,Q25510973,Q83437
+trapiche emerald,subclass of,emerald,Q26033683,Q43513,Q83437
+Tahitian pearl,subclass of,cultured pearl,Q7675555,Q3029022,Q83437
+tide jewels,subclass of,magic item,Q7800836,Q27506396,Q83437
+Cintamani (Gem),subclass of,gemstone,Q2963837,Q83437,Q83437
+toadstone,subclass of,gemstone,Q3002139,Q83437,Q83437
+sapphire,described by source,Encyclopædia Britannica 11th edition,Q127583,Q867541,Q83437
+nanodiamonds,subclass of,diamond,Q16870989,Q5283,Q83437
+nanodiamonds,facet of,diamond,Q16870989,Q5283,Q83437
+synthetic emerald,subclass of,emerald,Q110849112,Q43513,Q83437
+cat's eye,has characteristic,chatoyancy,Q25510612,Q1068275,Q83437
+Mabe pearl,subclass of,cultured pearl,Q20827212,Q3029022,Q83437
+tide jewels,from narrative universe,Japanese mythology,Q7800836,Q814158,Q83437
+jet,subclass of,mineraloid,Q543694,Q2091637,Q83437
+engraved gem,subclass of,gem,Q1501187,Q12822126,Q83437
+detonation nanodiamond,subclass of,nanodiamonds,Q1439836,Q16870989,Q83437
+sapphire glass,subclass of,sapphire,Q2713410,Q127583,Q83437
+Maw sit sit,subclass of,gemstone,Q6794322,Q83437,Q83437
+Minoan sealstone,subclass of,gemstone,Q6868926,Q83437,Q83437
+peridot,described by source,Paulys Realenzyklopädie der klassischen Altertumswissenschaft,Q288732,Q1138524,Q83437
+peridot,described by source,Explanatory Dictionary of the Living Great Russian Language,Q288732,Q1970746,Q83437
+jet,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q543694,Q19180675,Q83437
+jet,described by source,Great Soviet Encyclopedia (1926–1947),Q543694,Q20078554,Q83437
+jet,described by source,"The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge",Q543694,Q56441911,Q83437
+peridot,described by source,Encyclopædia Britannica 11th edition,Q288732,Q867541,Q83437
+Cintamani (Gem),worshipped by,Hinduism,Q2963837,Q9089,Q83437
+Taiwan Jade,subclass of,gemstone,Q119352992,Q83437,Q83437
+azurite-malachite,subclass of,gemstone,Q121890693,Q83437,Q83437
+star garnet,subclass of,gemstone,Q122418066,Q83437,Q83437
+golden beryl,subclass of,gemstone,Q122998741,Q83437,Q83437
+table cut,subclass of,gemstone,Q25510986,Q83437,Q83437
+iolite,subclass of,gemstone,Q122998805,Q83437,Q83437
+assembled gem,subclass of,gemstone,Q48791607,Q83437,Q83437
+Mycenaean sealstone,subclass of,gemstone,Q58968828,Q83437,Q83437
+rose,subclass of,gemstone,Q65276915,Q83437,Q83437
+Jade of Itoigawa,subclass of,gemstone,Q97097388,Q83437,Q83437
+precious opal,subclass of,gemstone,Q110686457,Q83437,Q83437
+organic gem,subclass of,gemstone,Q110688445,Q83437,Q83437
+padparadscha,subclass of,sapphire,Q16585773,Q127583,Q83437
+Oltu stone,subclass of,jet,Q16960138,Q543694,Q83437
+ballas,has part(s),carbon,Q9164686,Q623,Q83437
+peridot,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q288732,Q19180675,Q83437
+golden beryl,color,yellow,Q122998741,Q943,Q83437
+blue diamond,color,blue,Q28449765,Q1088,Q83437
+iolite,color,blue,Q122998805,Q1088,Q83437
+Cintamani (Gem),different from,Chintamani,Q2963837,Q5766625,Q83437
+bort,different from,Bort,Q2465738,Q3642767,Q83437
+bort,has use,protective agent,Q2465738,Q50380088,Q83437
+lyngurium,subclass of,gemstone,Q17102824,Q83437,Q83437
+diamond,subclass of,gemstone,Q17413599,Q83437,Q83437
+cultured pearl,subclass of,pearl,Q3029022,Q43436,Q83437
+sardonyx,subclass of,agate,Q3428905,Q123314,Q83437
+Colombian emeralds,subclass of,emerald,Q17007270,Q43513,Q83437
+toadstone,subclass of,magic item,Q3002139,Q27506396,Q83437
+brown diamond,subclass of,diamond,Q3149936,Q5283,Q83437
+nanodiamonds,subclass of,nanoparticle,Q16870989,Q61231,Q83437
+gemstone,subclass of,mineral,Q83437,Q7946,Q83437
+coral,has use,jewelry,Q29386288,Q161439,Q83437
+bort,appears in the form of,nanoparticle,Q2465738,Q61231,Q83437
+Jade of Itoigawa,country of origin,Japan,Q97097388,Q17,Q83437
+blood diamond,subclass of,conflict resource,Q464026,Q5160207,Q83437
+jet,topic's main category,Category:Jet (lignite),Q543694,Q8565925,Q83437
+Mycenaean sealstone,subclass of,seal,Q58968828,Q162919,Q83437
+blood diamond,topic's main category,Category:Blood diamonds,Q464026,Q8302980,Q83437
+Minoan sealstone,studied in,Aegean glyptic,Q6868926,Q58681669,Q83437
+coral,subclass of,art material,Q29386288,Q15303351,Q83437
+jet,described by source,The Nuttall Encyclopædia,Q543694,Q3181656,Q83437
+jet,described by source,The New Student's Reference Work,Q543694,Q16082057,Q83437
+jet,described by source,The American Cyclopædia,Q543694,Q19077875,Q83437
+jet,described by source,Encyclopædia Britannica 11th edition,Q543694,Q867541,Q83437
+jet,described by source,Explanatory Dictionary of the Living Great Russian Language,Q543694,Q1970746,Q83437
+amethyst,described by source,The New Student's Reference Work,Q79058,Q16082057,Q83437
+engraved gem,described by source,"Collier's New Encyclopedia, 1921",Q1501187,Q19047539,Q83437
+engraved gem,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q1501187,Q19180675,Q83437
+amethyst,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q79058,Q19180675,Q83437
+golden beryl,subclass of,beryl,Q122998741,Q103480,Q83437
+Pig dragon,subclass of,amulet,Q7193237,Q131557,Q83437
+bort,subclass of,diamond,Q2465738,Q5283,Q83437
+bort,has use,polishing,Q2465738,Q1054722,Q83437
+Jade of Itoigawa,significant person,Gyofū Sōma,Q97097388,Q11582499,Q83437
+red coral,subclass of,coral,Q68429932,Q29386288,Q83437
+coral,subclass of,organic gem,Q29386288,Q110688445,Q83437
+iolite,color,gray,Q122998805,Q42519,Q83437
+bort,subclass of,by-product,Q2465738,Q1128255,Q83437
+peridot,subclass of,forsterite,Q288732,Q415037,Q83437
+Minoan sealstone,culture,Minoan civilization,Q6868926,Q134178,Q83437
+Taiwan Jade,streak color,white,Q119352992,Q23444,Q83437
+bort,described by source,Encyclopædia Britannica 11th edition,Q2465738,Q867541,Q83437
+bort,appears in the form of,crystal,Q2465738,Q43533,Q83437
+ballas,appears in the form of,sphere,Q9164686,Q12507,Q83437
+gemstone,studied in,gemology,Q83437,Q243330,Q83437
+Oltu stone,named after,Oltu,Q16960138,Q915429,Q83437
+gemstone,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q83437,Q602358,Q83437
+gemstone,described by source,Encyclopædia Britannica 11th edition,Q83437,Q867541,Q83437
+gemstone,described by source,Gujin Tushu Jicheng,Q83437,Q1768721,Q83437
+cultured pearl,topic's main category,Category:Pearl cultivation,Q3029022,Q124777132,Q83437
+bort,has use,component,Q2465738,Q1310239,Q83437
+diamond,made from material,diamond,Q17413599,Q5283,Q83437
+Minoan sealstone,subclass of,seal,Q6868926,Q162919,Q83437
+cultured pearl,different from,bead,Q3029022,Q1053956,Q83437
+cultured pearl,different from,imitation pearl,Q3029022,Q6004178,Q83437
+Colombian emeralds,topic's main category,Category:Colombian emeralds,Q17007270,Q28400974,Q83437
+azurite-malachite,has part(s),azurite,Q121890693,Q108212,Q83437
+Cintamani (Gem),worshipped by,Buddhism,Q2963837,Q748,Q83437
+Taiwan Jade,subclass of,jade,Q119352992,Q175089,Q83437
+Jade of Itoigawa,subclass of,jade,Q97097388,Q175089,Q83437
+azurite-malachite,has part(s),malachite,Q121890693,Q164411,Q83437
+gemstone,described by source,The New Student's Reference Work,Q83437,Q16082057,Q83437
+gemstone,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q83437,Q19180675,Q83437
+coral,different from,coral,Q29386288,Q171446,Q83437
+plasma agate,different from,Plazma,Q10350376,Q100324153,Q83437
+bort,appears in the form of,gravel,Q2465738,Q133833,Q83437
+bort,instance of,mineral variety,Q2465738,Q429795,Q83437
+gemstone,has use,jewelry,Q83437,Q161439,Q83437
+Pig dragon,subclass of,Chinese jade,Q7193237,Q4211668,Q83437
+carnelian,streak color,white,Q324369,Q23444,Q83437
+bort,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q2465738,Q602358,Q83437
+coral,color,coral,Q29386288,Q2411228,Q83437
+golden beryl,color,orange-yellow,Q122998741,Q122998749,Q83437
+iolite,color,purple,Q122998805,Q3257809,Q83437
+Mycenaean sealstone,culture,Mycenaean Greece,Q58968828,Q181264,Q83437
+Patuxent River stone,different from,Patuxent,Q7148783,Q7148770,Q83437
+bort,different from,bastard,Q2465738,Q810560,Q83437
+gemstone,topic's main template,Template:Gemstone,Q83437,Q25630962,Q83437
+Patuxent River stone,subclass of,agate,Q7148783,Q123314,Q83437
+carnelian,subclass of,gemstone,Q324369,Q83437,Q83437
+organic gem,topic's main category,Category:Organic gemstones,Q110688445,Q21032925,Q83437
+blood diamond,subclass of,diamond,Q464026,Q5283,Q83437
+iolite,instance of,mineral variety,Q122998805,Q429795,Q83437
+coral,natural product of taxon,Corallium rubrum,Q29386288,Q531601,Q83437
+red coral,natural product of taxon,Corallium rubrum,Q68429932,Q531601,Q83437
+sardonyx,instance of,mineral variety,Q3428905,Q429795,Q83437
+carnelian,subclass of,chalcedony,Q324369,Q170448,Q83437
+Taiwan Jade,crystal system,monoclinic crystal system,Q119352992,Q624543,Q83437
+precious opal,subclass of,opal,Q110686457,Q171058,Q83437
+ballas,subclass of,particle,Q9164686,Q1621273,Q83437
+coral,described by source,Encyclopaedia of the Qur'ān,Q29386288,Q2617708,Q83437
+bort,subclass of,powder,Q2465738,Q2908004,Q83437
+sardonyx,subclass of,chalcedony,Q3428905,Q170448,Q83437
+Mycenaean sealstone,studied in,Aegean glyptic,Q58968828,Q58681669,Q83437
+carnelian,instance of,mineral variety,Q324369,Q429795,Q83437
+gemstone,topic's main category,Category:Gemstones,Q83437,Q7213521,Q83437
+toadstone,subclass of,fossil,Q3002139,Q40614,Q83437
+carnelian,crystal system,trigonal crystal system,Q324369,Q588274,Q83437
+gemstone,described by source,Jewish Encyclopedia of Brockhaus and Efron,Q83437,Q4173137,Q83437
+carnelian,described by source,Encyclopædia Britannica 11th edition,Q324369,Q867541,Q83437
+bort,appears in the form of,powder,Q2465738,Q2908004,Q83437
+Jade of Itoigawa,location,Itoigawa,Q97097388,Q857208,Q83437
+bort,has use,additive,Q2465738,Q350176,Q83437
+bort,has use,abrasive,Q2465738,Q372301,Q83437
+bort,subclass of,waste,Q2465738,Q45701,Q83437
+organic gem,subclass of,organic matter,Q110688445,Q1783121,Q83437
+golden beryl,different from,heliodor,Q122998741,Q429730,Q83437
+carnelian,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q324369,Q19180675,Q83437
+bort,subclass of,particle,Q2465738,Q1621273,Q83437
+star garnet,subclass of,almandine,Q122418066,Q273663,Q83437
+iolite,subclass of,cordierite,Q122998805,Q410336,Q83437
+coral,color,pink,Q29386288,Q429220,Q83437
+jewelry,instance of,jewelry,Q161439,Q2142903,Q161439
+hair jewellery,indigenous to,Dalarna,Q145013,Q205218,Q161439
+hair jewellery,indigenous to,Bonäs,Q145013,Q2148649,Q161439
+hair jewellery,indigenous to,Våmhus,Q145013,Q3352701,Q161439
+belly chain,different from,belly chain,Q811138,Q16275074,Q161439
+plume,subclass of,jewelry,Q1400678,Q161439,Q161439
+hair jewellery,described by source,hedendaagsesieraden.nl,Q145013,Q89929597,Q161439
+hair jewellery,subclass of,mourning jewellery,Q145013,Q23564940,Q161439
+jewelry,subclass of,visual arts,Q161439,Q36649,Q161439
+jewelry,product or material produced or service provided,jewelry,Q161439,Q2142903,Q161439
+jewelry,different from,jewelry,Q161439,Q2142903,Q161439
+belly chain,subclass of,jewelry,Q811138,Q161439,Q161439
+jewelry,subclass of,applied arts,Q161439,Q207241,Q161439
+jewelry,named after,jewelry,Q161439,Q2142903,Q161439
+hair jewellery,practiced by,hårkulla,Q145013,Q61415613,Q161439
+hair jewellery,intangible cultural heritage status,Living traditions – An inventory of intangible cultural heritage in Sweden,Q145013,Q115596878,Q161439
+jewelry,practiced by,goldsmith,Q161439,Q211423,Q161439
+jewelry,instance of,industry,Q161439,Q268592,Q161439
+hair jewellery,maintained by WikiProject,WikiProject Intangible Cultural Heritage,Q145013,Q112898263,Q161439
+Red fox tails,subclass of,jewelry,Q1472659,Q161439,Q161439
+granulation,subclass of,jewelry,Q1543258,Q161439,Q161439
+jewelry,subclass of,product,Q161439,Q2424752,Q161439
+Bokréta,subclass of,jewelry,Q833804,Q161439,Q161439
+Chab chab,subclass of,jewelry,Q1058175,Q161439,Q161439
+oorijzer,subclass of,jewelry,Q3446299,Q161439,Q161439
+Red fox tails,subclass of,accessory,Q1472659,Q362200,Q161439
+plume,subclass of,featherwork,Q1400678,Q2864716,Q161439
+Nezem,subclass of,jewelry,Q3347260,Q161439,Q161439
+Etruscan jewelry,subclass of,jewelry,Q3355917,Q161439,Q161439
+jewelry,instance of,widget,Q161439,Q2467478,Q161439
+jewelry,practiced by,jewelry designer,Q161439,Q2519376,Q161439
+Red fox tails,named after,red fox,Q1472659,Q8332,Q161439
+oorijzer,subclass of,headdress,Q3446299,Q28972621,Q161439
+plume,fabrication method,featherwork,Q1400678,Q2099675,Q161439
+Majorica pearl,location,Mallorca,Q1370510,Q8828,Q161439
+granulation,different from,granule,Q1543258,Q845657,Q161439
+Etruscan jewelry,culture,Etruscans,Q3355917,Q17161,Q161439
+Slavic buttons,subclass of,jewelry,Q4142900,Q161439,Q161439
+jewelry,described by source,Brockhaus and Efron Encyclopedic Dictionary,Q161439,Q602358,Q161439
+Majorica pearl,manufacturer,Majorica,Q1370510,Q1887590,Q161439
+jewelry,product or material produced or service provided,decoration,Q161439,Q4470686,Q161439
+skan,subclass of,jewelry,Q4421576,Q161439,Q161439
+ferronnière,subclass of,jewelry,Q4483059,Q161439,Q161439
+Majorica pearl,subclass of,imitation pearl,Q1370510,Q6004178,Q161439
+skan,country of origin,Russia,Q4421576,Q159,Q161439
+jewelry,described by source,Encyclopædia Britannica 11th edition,Q161439,Q867541,Q161439
+oorijzer,country,Netherlands,Q3446299,Q55,Q161439
+jewelry,on focus list of Wikimedia project,Wikipedia:Vital articles/Level/4,Q161439,Q6173448,Q161439
+goldsmithing,practiced by,goldsmith,Q11202319,Q211423,Q161439
+jewelry,described by source,Jewish Encyclopedia of Brockhaus and Efron,Q161439,Q4173137,Q161439
+hackle,described by source,Desktop Encyclopedic Dictionary,Q1755375,Q63284758,Q161439
+hackle,made from material,feather,Q1755375,Q50998618,Q161439
+hackle,subclass of,plume,Q1755375,Q1400678,Q161439
+suffragette jewellery,subclass of,jewelry,Q30324403,Q161439,Q161439
+Jhumar,subclass of,jewelry,Q32067768,Q161439,Q161439
+jewelry,product or material produced or service provided,fashion product,Q161439,Q115797493,Q161439
+Ryfki,part of,sword,Q9324384,Q12791,Q161439
+Nezem,part of,culture,Q3347260,Q11042,Q161439
+headdress frontlet,subclass of,jewelry,Q50888195,Q161439,Q161439
+Bulak,subclass of,jewelry,Q66429720,Q161439,Q161439
+Alpabfahrtsherz,subclass of,jewelry,Q66486239,Q161439,Q161439
+Yacameztli,subclass of,jewelry,Q72287150,Q161439,Q161439
+Slavic buttons,country,Great Moravia,Q4142900,Q193152,Q161439
+imitation pearl,simulates,pearl,Q6004178,Q43436,Q161439
+jewelry,described by source,Desktop Encyclopedic Dictionary,Q161439,Q63284758,Q161439
+jewelry,described by source,Metropolitan Museum of Art Tagging Vocabulary,Q161439,Q106727050,Q161439
+jewelry,described by source,"Armenian Soviet Encyclopedia, vol. 1",Q161439,Q123560817,Q161439
+Slavic buttons,part of,Slavic jewellery,Q4142900,Q107400475,Q161439
+hackle,described by source,Small Brockhaus and Efron Encyclopedic Dictionary,Q1755375,Q19180675,Q161439
+hackle,described by source,"Meyers Konversations-Lexikon, 4th edition (1885–1890)",Q1755375,Q19219752,Q161439
+jewelry,practiced by,court jeweler,Q161439,Q109828300,Q161439
+Slavic buttons,subclass of,Slavic art,Q4142900,Q107400200,Q161439
+Nezem,instance of,costume accessory,Q3347260,Q1065579,Q161439
+jewelry,on focus list of Wikimedia project,WikiProject Applied arts,Q161439,Q109496377,Q161439
+jewelry,on focus list of Wikimedia project,WikiProject Craft,Q161439,Q110249806,Q161439
+gerdan,location,Ukraine,Q123414608,Q212,Q161439
+hackle,subclass of,costume accessory,Q1755375,Q1065579,Q161439
+skan,said to be the same as,filigree,Q4421576,Q1001313,Q161439
+Naycha,instance of,umbrella term,Q12828367,Q210588,Q161439
+Red fox tails,subclass of,tail,Q1472659,Q60960,Q161439
+Swedish Royal House jewellery,subclass of,jewelry,Q10685429,Q161439,Q161439
+goldsmithing,subclass of,jewelry,Q11202319,Q161439,Q161439
+goldsmithing,topic's main category,Category:Goldsmithing,Q11202319,Q6283032,Q161439
+Warshavi,subclass of,jewelry,Q12341428,Q161439,Q161439
+Öñir,instance of,costume accessory,Q12579882,Q1065579,Q161439
+Öñir,subclass of,jewelry,Q12579882,Q161439,Q161439
+Bibishak,subclass of,jewelry,Q12819817,Q161439,Q161439
+Naycha,subclass of,jewelry,Q12828367,Q161439,Q161439
+art jewelry,subclass of,jewelry,Q15145597,Q161439,Q161439
+Zeeuwse knoop,subclass of,jewelry,Q16619927,Q161439,Q161439
+Bibishak,subclass of,headdress,Q12819817,Q28972621,Q161439
+Slavic buttons,culture,Slavic culture,Q4142900,Q66049360,Q161439
+goldsmithing,uses,gold,Q11202319,Q897,Q161439
+Bibishak,described by source,National Encyclopedia of Uzbekistan,Q12819817,Q5217764,Q161439
+Naycha,described by source,National Encyclopedia of Uzbekistan,Q12828367,Q5217764,Q161439
+Black Hills gold jewelry,country,United States of America,Q16980272,Q30,Q161439
+imitation pearl,subclass of,jewelry,Q6004178,Q161439,Q161439
+live insect jewelry,subclass of,jewelry,Q6658015,Q161439,Q161439
+Dewizka,subclass of,jewelry,Q9206678,Q161439,Q161439
+Ryfki,subclass of,jewelry,Q9324384,Q161439,Q161439
+jewelry,topic's main template,Template:Jewellery,Q161439,Q7134773,Q161439
+mourning ring,subclass of,mourning jewellery,Q12004873,Q23564940,Q161439
+jewelry,on focus list of Wikimedia project,Art+Feminism,Q161439,Q24909800,Q161439
+Warshavi,instance of,fashion product,Q12341428,Q115797493,Q161439
+Dewizka,instance of,Chain,Q9206678,Q2397485,Q161439
+Yacameztli,culture,Aztec,Q72287150,Q12542,Q161439
+Zeeuwse knoop,part of,Zeeland traditional costume,Q16619927,Q124637539,Q161439
+"ivie, necklace",location of creation,Benin,Q124663614,Q962,Q161439
+jewelry,topic's main category,Category:Jewellery,Q161439,Q6770454,Q161439
+Dewizka,part of,pocket watch,Q9206678,Q849813,Q161439
+Swedish Royal House jewellery,owned by,Swedish royal family,Q10685429,Q289564,Q161439
+Swedish Royal House jewellery,owned by,Bernadotte Family Foundation,Q10685429,Q10428697,Q161439
+mourning ring,subclass of,ring,Q12004873,Q46847,Q161439
+Slavic buttons,subclass of,button,Q4142900,Q160464,Q161439
+Kabyle jewelery,country,Algeria,Q110478225,Q262,Q161439
+Berber jewellery,used by,Berber,Q19835346,Q45315,Q161439
+"ivie, necklace",location,Ipswich,Q124663614,Q184775,Q161439
+Etruscan jewelry,part of,Etruscan art,Q3355917,Q830331,Q161439
+imitation pearl,different from,bead,Q6004178,Q1053956,Q161439
+imitation pearl,different from,cultured pearl,Q6004178,Q3029022,Q161439
+jewelry,different from,jewelry design,Q161439,Q6189617,Q161439
+Black Hills gold jewelry,made from material,gold,Q16980272,Q897,Q161439
+Khit er rouh,country of origin,Algeria,Q116303419,Q262,Q161439
+headdress frontlet,described by source,Berg Encyclopedia of World Dress and Fashion,Q50888195,Q4891400,Q161439
+filigree headdress (dianzi),subclass of,hanfu,Q97619592,Q1327357,Q161439
+filigree headdress (dianzi),subclass of,hairstyle accessory,Q97619592,Q21369154,Q161439
+Berber jewellery,country,Tunisia,Q19835346,Q948,Q161439
+garnet jewelry,subclass of,jewelry,Q120647814,Q161439,Q161439
+goldsmithing,product or material produced or service provided,goldwork,Q11202319,Q63538237,Q161439
+goldsmithing,intangible cultural heritage status,National Inventory of Living Heritage in Finland,Q11202319,Q113039042,Q161439
+gerdan,subclass of,jewelry,Q123414608,Q161439,Q161439
+"ivie, necklace",subclass of,jewelry,Q124663614,Q161439,Q161439
+headdress frontlet,different from,frontlet,Q50888195,Q29980338,Q161439
+headdress frontlet,different from,frontlet,Q50888195,Q50888983,Q161439
+cut steel jewellery,made from material,steel,Q20010713,Q11427,Q161439
+Slavic jewellery,has part(s),torc,Q107400475,Q397447,Q161439
+Slavic jewellery,part of,Slavic art,Q107400475,Q107400200,Q161439
+Black Hills gold jewelry,location of creation,Black Hills,Q16980272,Q250937,Q161439
+Black Hills gold jewelry,subclass of,jewelry,Q16980272,Q161439,Q161439
+malespenne,subclass of,jewelry,Q19380920,Q161439,Q161439
+Berber jewellery,subclass of,jewelry,Q19835346,Q161439,Q161439
+cut steel jewellery,subclass of,jewelry,Q20010713,Q161439,Q161439
+rampai,subclass of,jewelry,Q20448346,Q161439,Q161439
+mourning jewellery,subclass of,jewelry,Q23564940,Q161439,Q161439
+dress hook,subclass of,jewelry,Q28599903,Q161439,Q161439
+cap hook,subclass of,jewelry,Q28605779,Q161439,Q161439
+Bronze Age golden hat goldsmithing style,part of,Bronze Age,Q115249475,Q11761,Q161439
+Black Hills gold jewelry,named after,Black Hills,Q16980272,Q250937,Q161439
+watch stickers & decal,subclass of,watch accessory,Q116960296,Q116960295,Q161439
+malespenne,subclass of,clasp,Q19380920,Q2239762,Q161439
+Halslås,subclass of,jewelry,Q80642015,Q161439,Q161439
+filigree headdress (dianzi),subclass of,jewelry,Q97619592,Q161439,Q161439
+Slavic jewellery,subclass of,jewelry,Q107400475,Q161439,Q161439
+Kabyle jewelery,subclass of,jewelry,Q110478225,Q161439,Q161439
+Slavic jewellery,culture,Slavic culture,Q107400475,Q66049360,Q161439
+Berber jewellery,country,Algeria,Q19835346,Q262,Q161439
+filigree headdress (dianzi),subclass of,metalworking,Q97619592,Q953045,Q161439
+Slavic jewellery,has part(s),Kolt,Q107400475,Q1964978,Q161439
+Slavic jewellery,has part(s),Temple ring,Q107400475,Q1965495,Q161439
+Slavic jewellery,has part(s),Slavic buttons,Q107400475,Q4142900,Q161439
+Slavic jewellery,has part(s),Kaptorga,Q107400475,Q11735356,Q161439
+dress hook,subclass of,hook,Q28599903,Q4243098,Q161439
+cap hook,subclass of,hook,Q28605779,Q4243098,Q161439
+Berber jewellery,country,Morocco,Q19835346,Q1028,Q161439
+rampai,made from material,bead,Q20448346,Q1053956,Q161439
+Slavic jewellery,has pattern,Slavonic ornament,Q107400475,Q106878323,Q161439
+Slavic jewellery,has pattern,Glagolitic ornaments,Q107400475,Q107123620,Q161439
+Bronze Age golden hat goldsmithing style,instance of,art style,Q115249475,Q1792644,Q161439
+Slavic jewellery,ethnic group,Slavs,Q107400475,Q40477,Q161439
+Khit er rouh,subclass of,jewelry,Q116303419,Q161439,Q161439
+brooches & lapel pin,subclass of,jewelry,Q116960292,Q161439,Q161439
+charms & pendant,subclass of,jewelry,Q116960293,Q161439,Q161439
+watch accessory,subclass of,jewelry,Q116960295,Q161439,Q161439
+Khit er rouh,maintained by WikiProject,WikiProject Intangible Cultural Heritage,Q116303419,Q112898263,Q161439
+Bronze Age golden hat goldsmithing style,based on,golden hat,Q115249475,Q737406,Q161439
+mourning jewellery,subclass of,memorial,Q23564940,Q5003624,Q161439
+filigree headdress (dianzi),country of origin,China,Q97619592,Q29520,Q161439
+"ivie, necklace",made from material,coral,Q124663614,Q29386288,Q161439
+"ivie, necklace",collection,Ipswich Museum,Q124663614,Q3329546,Q161439
+mourning jewellery,facet of,mourning dress,Q23564940,Q2450206,Q161439
+cap hook,subclass of,dress hook,Q28605779,Q28599903,Q161439
+Bronze Age golden hat goldsmithing style,instance of,artistic technique,Q115249475,Q11177771,Q161439
+Bronze Age golden hat goldsmithing style,subclass of,goldsmithing,Q115249475,Q11202319,Q161439
+garter hook,subclass of,dress hook,Q111226003,Q28599903,Q161439
+watch stickers & decal,instance of,product category,Q116960296,Q63981612,Q161439
+malespenne,subclass of,fastener,Q19380920,Q2002016,Q161439
+garter hook,different from,garter clip,Q111226003,Q28862550,Q161439
+brooches & lapel pin,instance of,product category,Q116960292,Q63981612,Q161439
+charms & pendant,instance of,product category,Q116960293,Q63981612,Q161439
+watch accessory,instance of,product category,Q116960295,Q63981612,Q161439
+goldsmith,instance of,profession,Q211423,Q28640,Q2519376
+medalist,instance of,profession,Q1708232,Q28640,Q2519376
+engraver,instance of,profession,Q329439,Q28640,Q2519376
+goldsmith,product or material produced or service provided,jewelry,Q211423,Q161439,Q2519376
+goldsmith,field of this occupation,jewelry,Q211423,Q161439,Q2519376
+jewelry designer,field of this occupation,jewelry,Q2519376,Q161439,Q2519376
+goldsmith,subclass of,jeweler,Q211423,Q336221,Q2519376
+engraver,subclass of,goldsmith,Q329439,Q211423,Q2519376
+medalist,has list,list of medalists,Q1708232,Q1059485,Q2519376
+medalist,subclass of,sculptor,Q1708232,Q1281618,Q2519376
+engraver,field of this occupation,artistic creation,Q329439,Q47407603,Q2519376
+Graveur du Roi,instance of,profession,Q110648073,Q28640,Q2519376
+metal engraver,instance of,profession,Q114049711,Q28640,Q2519376
+journeyman goldsmith,instance of,profession,Q120647652,Q28640,Q2519376
+goldsmith,product or material produced or service provided,tableware,Q211423,Q851782,Q2519376
+Chief Engraver of the Paris Mint,country,France,Q3115767,Q142,Q2519376
+goldsmith,topic's main category,Category:Goldsmiths,Q211423,Q7032104,Q2519376
+medalist,different from,phalerist,Q1708232,Q4287237,Q2519376
+goldsmith,different from,silversmith,Q211423,Q2216340,Q2519376
+medalist,product or material produced or service provided,medallion,Q1708232,Q131647,Q2519376
+jewelry designer,different from,jeweler,Q2519376,Q336221,Q2519376
+nacre engraver,instance of,profession,Q123738753,Q28640,Q2519376
+map engraver,instance of,profession,Q124711264,Q28640,Q2519376
+medal engraver,instance of,profession,Q42296496,Q28640,Q2519376
+liturgical artist,instance of,profession,Q44828747,Q28640,Q2519376
+mezzotinter,instance of,profession,Q61155183,Q28640,Q2519376
+goldsmith,on focus list of Wikimedia project,WikiProject Craft,Q211423,Q110249806,Q2519376
+goldsmith,described by source,"Armenian Soviet Encyclopedia, vol. 8",Q211423,Q124737635,Q2519376
+jewelry designer,field of this occupation,jewelry design,Q2519376,Q6189617,Q2519376
+gem engraver,subclass of,goldsmith,Q3109381,Q211423,Q2519376
+gem engraver,subclass of,engraver,Q3109381,Q329439,Q2519376
+Chief Engraver of the Paris Mint,subclass of,engraver,Q3115767,Q329439,Q2519376
+goldsmith banker,subclass of,goldsmith,Q65048785,Q211423,Q2519376
+goldsmith,described by source,Paulys Realenzyklopädie der klassischen Altertumswissenschaft,Q211423,Q1138524,Q2519376
+Chief Engraver of the Paris Mint,subclass of,civil servant,Q3115767,Q212238,Q2519376
+goldsmith,subclass of,metalsmith,Q211423,Q838566,Q2519376
+goldsmith,subclass of,jewelry designer,Q211423,Q2519376,Q2519376
+seal cutter,subclass of,engraver,Q61465891,Q329439,Q2519376
+steel engraver,subclass of,engraver,Q80167875,Q329439,Q2519376
+gem engraver,field of this occupation,hardstone carving,Q3109381,Q929254,Q2519376
+engraver,patron saint,John the Evangelist,Q329439,Q328804,Q2519376
+steel engraver,subclass of,artist,Q80167875,Q483501,Q2519376
+liturgical artist,product or material produced or service provided,art,Q44828747,Q735,Q2519376
+seal cutter,subclass of,seal cutter,Q89675973,Q61465891,Q2519376
+Graveur du Roi,subclass of,engraver,Q110648073,Q329439,Q2519376
+metal engraver,subclass of,engraver,Q114049711,Q329439,Q2519376
+goldsmith,field of this occupation,goldsmithing,Q211423,Q11202319,Q2519376
+gem engraver,instance of,profession,Q3109381,Q28640,Q2519376
+jewelry designer,instance of,profession,Q2519376,Q28640,Q2519376
+liturgical artist,subclass of,goldsmith,Q44828747,Q211423,Q2519376
+Chief Engraver of the Paris Mint,part of,Monnaie de Paris,Q3115767,Q1250541,Q2519376
+goldsmith banker,subclass of,banker,Q65048785,Q806798,Q2519376
+steel engraver,field of this occupation,steel engraving,Q80167875,Q482097,Q2519376
+jewelry designer,subclass of,artist,Q2519376,Q483501,Q2519376
+jewelry designer,has list,list of jewellery designers,Q2519376,Q16155169,Q2519376
+seal cutter,field of this occupation,gem cutting,Q61465891,Q2035314,Q2519376
+gem engraver,subclass of,gemcutter,Q3109381,Q1283397,Q2519376
+medalist,subclass of,engraver,Q1708232,Q329439,Q2519376
+engraver,field of this occupation,goldsmithing,Q329439,Q11202319,Q2519376
+jewelry designer,topic's main category,Category:Jewellery designers,Q2519376,Q7170324,Q2519376
+mezzotinter,topic's main category,Category:Mezzotint engravers,Q61155183,Q20186558,Q2519376
+Chief Engraver of the Paris Mint,instance of,position,Q3115767,Q4164871,Q2519376
+mezzotinter,uses,rocker,Q61155183,Q1543083,Q2519376
+seal cutter,instance of,profession,Q61465891,Q28640,Q2519376
+steel engraver,instance of,profession,Q80167875,Q28640,Q2519376
+seal cutter,subclass of,artisan,Q61465891,Q1294787,Q2519376
+liturgical artist,subclass of,wood carver,Q44828747,Q6138343,Q2519376
+mezzotinter,different from,rocker,Q61155183,Q1543083,Q2519376
+mezzotinter,field of this occupation,mezzotint technique,Q61155183,Q731980,Q2519376
+seal cutter,field of this occupation,seal cutting,Q61465891,Q1051110,Q2519376
+liturgical artist,subclass of,artist,Q44828747,Q483501,Q2519376
+jewelry designer,described by source,hedendaagsesieraden.nl,Q2519376,Q89929597,Q2519376
+nacre engraver,subclass of,engraver,Q123738753,Q329439,Q2519376
+map engraver,subclass of,engraver,Q124711264,Q329439,Q2519376
+map engraver,subclass of,cartographer,Q124711264,Q1734662,Q2519376
+engraver,topic's main category,Category:Engravers,Q329439,Q8418371,Q2519376
+medalist,field of this occupation,medallic art,Q1708232,Q25602843,Q2519376
+medal cutter,field of this occupation,coin,Q24336659,Q41207,Q2519376
+mezzotinter,product or material produced or service provided,mezzotint print,Q61155183,Q21647744,Q2519376
+liturgical artist,subclass of,painter,Q44828747,Q1028181,Q2519376
+photoengraver,field of this occupation,photoengraving,Q29452088,Q1439639,Q2519376
+seal cutter,subclass of,artist,Q89675973,Q483501,Q2519376
+liturgical artist,field of work,religious art,Q44828747,Q2864737,Q2519376
+mezzotinter,subclass of,printmaker,Q61155183,Q11569986,Q2519376
+manufacturer of gold wire,subclass of,spinner,Q104708160,Q19968805,Q2519376
+medalist,topic's main category,Category:Medallists,Q1708232,Q8102291,Q2519376
+manufacturer of gold wire,subclass of,goldsmith,Q104708160,Q211423,Q2519376
+journeyman goldsmith,subclass of,goldsmith,Q120647652,Q211423,Q2519376
+engraver,different from,printmaker,Q329439,Q11569986,Q2519376
+jewelry designer,subclass of,designer,Q2519376,Q5322166,Q2519376
+Chief Engraver of the Royal Mint,subclass of,engraver,Q30673636,Q329439,Q2519376
+photoengraver,subclass of,engraver,Q29452088,Q329439,Q2519376
+metal engraver,field of this occupation,metal engraving,Q114049711,Q12769612,Q2519376
+medal cutter,instance of,profession,Q24336659,Q28640,Q2519376
+stampcutter,instance of,profession,Q25616549,Q28640,Q2519376
+photoengraver,instance of,profession,Q29452088,Q28640,Q2519376
+Graveur du Roi,instance of,position,Q110648073,Q4164871,Q2519376
+manufacturer of gold wire,instance of,occupation,Q104708160,Q12737077,Q2519376
+liturgical artist,subclass of,ceramicist,Q44828747,Q7541856,Q2519376
+Graveur du Roi,field of this occupation,engraving,Q110648073,Q11835431,Q2519376
+medal cutter,subclass of,medalist,Q24336659,Q1708232,Q2519376
+stampcutter,subclass of,medalist,Q25616549,Q1708232,Q2519376
+liturgical artist,subclass of,sculptor,Q44828747,Q1281618,Q2519376
+Graveur du Roi,instance of,historical profession,Q110648073,Q16335296,Q2519376
+Chief Engraver of the Royal Mint,instance of,position,Q30673636,Q4164871,Q2519376
+seal cutter,field of this occupation,seal cutting,Q89675973,Q1051110,Q2519376
+manufacturer of gold wire,product or material produced or service provided,gold thread,Q104708160,Q29586582,Q2519376
+journeyman goldsmith,subclass of,journeyman,Q120647652,Q582096,Q2519376
+map engraver,instance of,position,Q124711264,Q4164871,Q2519376
+Graveur du Roi,subclass of,court artist,Q110648073,Q59922524,Q2519376
+liturgical artist,subclass of,imager,Q44828747,Q47458415,Q2519376
+Chief Engraver of the Royal Mint,subclass of,civil servant,Q30673636,Q212238,Q2519376
+medal engraver,subclass of,engraver,Q42296496,Q329439,Q2519376
+mezzotinter,subclass of,engraver,Q61155183,Q329439,Q2519376
+seal cutter,instance of,artistic profession,Q89675973,Q88789639,Q2519376
+medal engraver,field of this occupation,medal-engraving,Q42296496,Q113921884,Q2519376
+seal cutter,product or material produced or service provided,seal,Q89675973,Q3850202,Q2519376
+gem engraver,topic's main category,Category:Gem engraver,Q3109381,Q8965901,Q2519376
+mezzotinter,instance of,historical profession,Q61155183,Q16335296,Q2519376

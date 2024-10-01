@@ -1,0 +1,558 @@
+pearl,instance of,spherical body
+ruby,color,red
+emerald,streak color,white
+diamond,streak color,white
+emerald,subclass of,material
+pearl,subclass of,animal product
+diamond,made from material,carbon
+pearl,made from material,nacre
+ruby,color,ruby
+ruby,subclass of,corundum
+ruby,subclass of,gemstone
+emerald,instance of,mineral variety
+pearl,has use,costume accessory
+diamond,has part(s),carbon
+ruby,streak color,white
+pearl,has use,jewelry
+pearl,has use,traditional costume
+ruby,instance of,mineral variety
+emerald,crystal system,hexagonal crystal system
+ruby,subclass of,sapphire
+pearl,streak color,rainbow colours
+pearl,subclass of,organic gem
+emerald,subclass of,gemstone
+Akik,subclass of,quartz
+emerald,subclass of,beryl
+sapphire,instance of,mineral variety
+diamond,subclass of,gemstone
+jade,subclass of,metamorphic rock
+ruby,color,pink
+precious stone,subclass of,gemstone
+Cardinal gem,subclass of,gemstone
+yttrium aluminium garnet,subclass of,gemstone
+diamond,has use,gemstone
+nephrite,crystal system,monoclinic crystal system
+afghanite,subclass of,gemstone
+precious stone,subclass of,mineral
+amethyst,streak color,white
+afghanite,streak color,white
+diamond,subclass of,carbon-silicon family
+Cardinal gem,has part(s),emerald
+diamond,crystal system,cubic crystal system
+Cardinal gem,has part(s),diamond
+afghanite,named after,Afghanistan
+baroque pearl,subclass of,pearl
+afghanite,crystal system,trigonal crystal system
+sapphire,color,blue
+Cardinal gem,has part(s),amethyst
+diamond,crystal habit,octahedron
+diamond,IMA status and/or rank,grandfathered mineral (G)
+diamond,point group,cubic-hexoctahedral
+diamond,space group,space group Fd-3m
+jade,subclass of,gemstone
+Cardinal gem,has part(s),sapphire
+diamond,named after,Invincible
+diamond,cleavage,{111}
+nephrite,subclass of,jade
+birthstone,has use,symbolism
+ammolite,subclass of,gemstone
+afghanite,color,blue
+diamond,mineral fracture,conchoidal fracture
+Cardinal gem,has part(s),ruby
+diamond,has use,diamond industry
+Taiwan Black Jade,country,Taiwan
+diamond,subclass of,allotrope of carbon
+diamond,subclass of,covalent network solid
+diamond,subclass of,native element mineral
+brilliant,made from material,diamond
+ruby,crystal system,trigonal crystal system
+afghanite,subclass of,zeolite frameworks
+afghanite,subclass of,complex-sequence cancrinites
+birthstone,subclass of,gemstone
+cultured freshwater pearl,subclass of,cultured pearl
+cultured freshwater pearl,subclass of,freshwater pearl
+national stone,subclass of,gemstone
+carbuncle,subclass of,gemstone
+sapphire,subclass of,corundum
+cymophane,subclass of,chrysoberyl
+bi,subclass of,Chinese jade
+sapphire,has part(s),aluminium oxide
+afghanite,space group,space group P31c
+afghanite,type locality (geology),Ladjuar Medam
+Dur,subclass of,precious stone
+sardine,subclass of,gemstone
+heliodor,instance of,mineral variety
+Taiwan Black Jade,subclass of,jade
+Aggregated diamond nanorod,subclass of,diamond
+nephrite,named after,kidney
+afghanite,instance of,mineral species
+birthstone,has use,custom
+afghanite,color,colorless
+aetites,subclass of,gemstone
+brilliant,said to be the same as,diamond cut
+afghanite,IMA status and/or rank,approved mineral and/or valid name (A)
+sapphire,subclass of,material
+Taiwan Black Jade,subclass of,gemstone
+boron-doped diamond,subclass of,diamond
+heliodor,subclass of,beryl
+national stone,subclass of,national symbol
+gem,subclass of,mineral
+sapphire,crystal system,trigonal crystal system
+diamond simulant,subclass of,gemstone
+amethyst,subclass of,gemstone
+gem,subclass of,gemstone
+pink diamond,color,pink
+diamond,instance of,mineral species
+sapphire,subclass of,gemstone
+boron-doped diamond,subclass of,semiconductor
+cat's eye quartz,subclass of,quartz
+Aggregated diamond nanorod,facet of,nanodiamonds
+amethyst,instance of,mineral variety
+carbonado,subclass of,diamond
+memorial diamond,made from material,carbon
+black coral,natural product of taxon,Antipatharia
+national stone,subclass of,stone
+Akik,subclass of,gemstone
+Chinese jade,subclass of,jade
+heliodor,subclass of,gemstone
+precious stone,has use,jewelry
+moss agate,named after,Mocha
+agate-jasper,subclass of,agate
+Botswana agate,subclass of,agate
+Blue Lace agate,subclass of,agate
+scolecite agate,subclass of,agate
+moss agate,subclass of,agate
+synthetic emerald,subclass of,synthetic gemstone
+black coral,subclass of,coral
+branch coral,subclass of,coral
+sapphire glass,made from material,corundum
+brilliant,subclass of,gemstone
+heliodor,color,chartreuse
+black opal,subclass of,precious opal
+pink diamond,subclass of,diamond
+amethyst,subclass of,quartz
+Umba sapphire,subclass of,sapphire
+Taiwan Black Jade,streak color,white
+synthetic diamond,subclass of,diamond
+memorial diamond,subclass of,synthetic diamond
+sapphire,subclass of,precious stone
+cymophane,subclass of,cat's eye
+agate,subclass of,quartz
+boomagate,subclass of,agate
+tide jewels,subclass of,gemstone
+agate,streak color,white
+amethyst,crystal system,trigonal crystal system
+synthetic diamond,has use,gemstone
+peridot,named after,gold
+heliodor,has part(s),aluminium
+jet,subclass of,organic gem
+Enhydro agate,subclass of,agate
+Lake Superior agate,subclass of,agate
+Derbyshire Blue John,subclass of,gemstone
+Derbyshire Blue John,located in the administrative territorial entity,Derbyshire
+cat's eye quartz,subclass of,cat's eye
+Tahitian pearl,country of origin,France
+freshwater pearl,subclass of,pearl
+cat's eye,subclass of,gemstone
+synthetic gemstone,subclass of,gemstone
+Derbyshire Blue John,country,United Kingdom
+synthetic diamond,subclass of,synthetic gemstone
+sapphire glass,has characteristic,artificiality
+synthetic diamond,has use,abrasive
+coral,color,red
+Keshi pearls,subclass of,pearl
+synthetic gemstone,subclass of,synthetic material
+synthetic gemstone,subclass of,precious stone
+jet,subclass of,lignite
+blue diamond,subclass of,diamond
+red diamond,subclass of,diamond
+Derbyshire Blue John,subclass of,fluorite
+agate-jasper,instance of,mineral variety
+plasma agate,subclass of,agate
+peridot,subclass of,gemstone
+Tahitian pearl,location of creation,Tahiti
+Taiwan Black Jade,crystal system,monoclinic crystal system
+agate,subclass of,gemstone
+ballas,subclass of,diamond
+rough diamond,subclass of,diamond
+industrial diamond,subclass of,diamond
+coral,made from material,skeleton
+peridot,color,green
+Colombian emeralds,country,Colombia
+synthetic diamond,partially coincident with,synthetic gemstone
+trapiche emerald,subclass of,emerald
+Tahitian pearl,subclass of,cultured pearl
+tide jewels,subclass of,magic item
+Cintamani (Gem),subclass of,gemstone
+toadstone,subclass of,gemstone
+nanodiamonds,subclass of,diamond
+nanodiamonds,facet of,diamond
+synthetic emerald,subclass of,emerald
+cat's eye,has characteristic,chatoyancy
+Mabe pearl,subclass of,cultured pearl
+tide jewels,from narrative universe,Japanese mythology
+jet,subclass of,mineraloid
+engraved gem,subclass of,gem
+detonation nanodiamond,subclass of,nanodiamonds
+sapphire glass,subclass of,sapphire
+Maw sit sit,subclass of,gemstone
+Minoan sealstone,subclass of,gemstone
+Cintamani (Gem),worshipped by,Hinduism
+Taiwan Jade,subclass of,gemstone
+azurite-malachite,subclass of,gemstone
+star garnet,subclass of,gemstone
+golden beryl,subclass of,gemstone
+table cut,subclass of,gemstone
+iolite,subclass of,gemstone
+assembled gem,subclass of,gemstone
+Mycenaean sealstone,subclass of,gemstone
+rose,subclass of,gemstone
+Jade of Itoigawa,subclass of,gemstone
+precious opal,subclass of,gemstone
+organic gem,subclass of,gemstone
+padparadscha,subclass of,sapphire
+Oltu stone,subclass of,jet
+ballas,has part(s),carbon
+golden beryl,color,yellow
+blue diamond,color,blue
+iolite,color,blue
+bort,has use,protective agent
+lyngurium,subclass of,gemstone
+diamond,subclass of,gemstone
+cultured pearl,subclass of,pearl
+sardonyx,subclass of,agate
+Colombian emeralds,subclass of,emerald
+toadstone,subclass of,magic item
+brown diamond,subclass of,diamond
+nanodiamonds,subclass of,nanoparticle
+gemstone,subclass of,mineral
+coral,has use,jewelry
+bort,appears in the form of,nanoparticle
+Jade of Itoigawa,country of origin,Japan
+blood diamond,subclass of,conflict resource
+Mycenaean sealstone,subclass of,seal
+Minoan sealstone,studied in,Aegean glyptic
+coral,subclass of,art material
+golden beryl,subclass of,beryl
+Pig dragon,subclass of,amulet
+bort,subclass of,diamond
+bort,has use,polishing
+Jade of Itoigawa,significant person,Gyofū Sōma
+red coral,subclass of,coral
+coral,subclass of,organic gem
+iolite,color,gray
+bort,subclass of,by-product
+peridot,subclass of,forsterite
+Minoan sealstone,culture,Minoan civilization
+Taiwan Jade,streak color,white
+bort,appears in the form of,crystal
+ballas,appears in the form of,sphere
+gemstone,studied in,gemology
+Oltu stone,named after,Oltu
+bort,has use,component
+diamond,made from material,diamond
+Minoan sealstone,subclass of,seal
+azurite-malachite,has part(s),azurite
+Cintamani (Gem),worshipped by,Buddhism
+Taiwan Jade,subclass of,jade
+Jade of Itoigawa,subclass of,jade
+azurite-malachite,has part(s),malachite
+bort,appears in the form of,gravel
+bort,instance of,mineral variety
+gemstone,has use,jewelry
+Pig dragon,subclass of,Chinese jade
+carnelian,streak color,white
+coral,color,coral
+golden beryl,color,orange-yellow
+iolite,color,purple
+Mycenaean sealstone,culture,Mycenaean Greece
+Patuxent River stone,subclass of,agate
+carnelian,subclass of,gemstone
+blood diamond,subclass of,diamond
+iolite,instance of,mineral variety
+coral,natural product of taxon,Corallium rubrum
+red coral,natural product of taxon,Corallium rubrum
+sardonyx,instance of,mineral variety
+carnelian,subclass of,chalcedony
+Taiwan Jade,crystal system,monoclinic crystal system
+precious opal,subclass of,opal
+ballas,subclass of,particle
+bort,subclass of,powder
+sardonyx,subclass of,chalcedony
+Mycenaean sealstone,studied in,Aegean glyptic
+carnelian,instance of,mineral variety
+toadstone,subclass of,fossil
+carnelian,crystal system,trigonal crystal system
+bort,appears in the form of,powder
+Jade of Itoigawa,location,Itoigawa
+bort,has use,additive
+bort,has use,abrasive
+bort,subclass of,waste
+organic gem,subclass of,organic matter
+bort,subclass of,particle
+star garnet,subclass of,almandine
+iolite,subclass of,cordierite
+coral,color,pink
+jewelry,instance of,jewelry
+hair jewellery,indigenous to,Dalarna
+hair jewellery,indigenous to,Bonäs
+hair jewellery,indigenous to,Våmhus
+plume,subclass of,jewelry
+hair jewellery,subclass of,mourning jewellery
+jewelry,subclass of,visual arts
+jewelry,product or material produced or service provided,jewelry
+belly chain,subclass of,jewelry
+jewelry,subclass of,applied arts
+jewelry,named after,jewelry
+hair jewellery,practiced by,hårkulla
+hair jewellery,intangible cultural heritage status,Living traditions – An inventory of intangible cultural heritage in Sweden
+jewelry,practiced by,goldsmith
+jewelry,instance of,industry
+Red fox tails,subclass of,jewelry
+granulation,subclass of,jewelry
+jewelry,subclass of,product
+Bokréta,subclass of,jewelry
+Chab chab,subclass of,jewelry
+oorijzer,subclass of,jewelry
+Red fox tails,subclass of,accessory
+plume,subclass of,featherwork
+Nezem,subclass of,jewelry
+Etruscan jewelry,subclass of,jewelry
+jewelry,instance of,widget
+jewelry,practiced by,jewelry designer
+Red fox tails,named after,red fox
+oorijzer,subclass of,headdress
+plume,fabrication method,featherwork
+Majorica pearl,location,Mallorca
+Etruscan jewelry,culture,Etruscans
+Slavic buttons,subclass of,jewelry
+Majorica pearl,manufacturer,Majorica
+jewelry,product or material produced or service provided,decoration
+skan,subclass of,jewelry
+ferronnière,subclass of,jewelry
+Majorica pearl,subclass of,imitation pearl
+skan,country of origin,Russia
+oorijzer,country,Netherlands
+goldsmithing,practiced by,goldsmith
+hackle,made from material,feather
+hackle,subclass of,plume
+suffragette jewellery,subclass of,jewelry
+Jhumar,subclass of,jewelry
+jewelry,product or material produced or service provided,fashion product
+Ryfki,part of,sword
+Nezem,part of,culture
+headdress frontlet,subclass of,jewelry
+Bulak,subclass of,jewelry
+Alpabfahrtsherz,subclass of,jewelry
+Yacameztli,subclass of,jewelry
+Slavic buttons,country,Great Moravia
+imitation pearl,simulates,pearl
+Slavic buttons,part of,Slavic jewellery
+jewelry,practiced by,court jeweler
+Slavic buttons,subclass of,Slavic art
+Nezem,instance of,costume accessory
+gerdan,location,Ukraine
+hackle,subclass of,costume accessory
+skan,said to be the same as,filigree
+Naycha,instance of,umbrella term
+Red fox tails,subclass of,tail
+Swedish Royal House jewellery,subclass of,jewelry
+goldsmithing,subclass of,jewelry
+Warshavi,subclass of,jewelry
+Öñir,instance of,costume accessory
+Öñir,subclass of,jewelry
+Bibishak,subclass of,jewelry
+Naycha,subclass of,jewelry
+art jewelry,subclass of,jewelry
+Zeeuwse knoop,subclass of,jewelry
+Bibishak,subclass of,headdress
+Slavic buttons,culture,Slavic culture
+goldsmithing,uses,gold
+Black Hills gold jewelry,country,United States of America
+imitation pearl,subclass of,jewelry
+live insect jewelry,subclass of,jewelry
+Dewizka,subclass of,jewelry
+Ryfki,subclass of,jewelry
+mourning ring,subclass of,mourning jewellery
+Warshavi,instance of,fashion product
+Dewizka,instance of,Chain
+Yacameztli,culture,Aztec
+Zeeuwse knoop,part of,Zeeland traditional costume
+"ivie, necklace",location of creation,Benin
+Dewizka,part of,pocket watch
+Swedish Royal House jewellery,owned by,Swedish royal family
+Swedish Royal House jewellery,owned by,Bernadotte Family Foundation
+mourning ring,subclass of,ring
+Slavic buttons,subclass of,button
+Kabyle jewelery,country,Algeria
+Berber jewellery,used by,Berber
+"ivie, necklace",location,Ipswich
+Etruscan jewelry,part of,Etruscan art
+Black Hills gold jewelry,made from material,gold
+Khit er rouh,country of origin,Algeria
+filigree headdress (dianzi),subclass of,hanfu
+filigree headdress (dianzi),subclass of,hairstyle accessory
+Berber jewellery,country,Tunisia
+garnet jewelry,subclass of,jewelry
+goldsmithing,product or material produced or service provided,goldwork
+goldsmithing,intangible cultural heritage status,National Inventory of Living Heritage in Finland
+gerdan,subclass of,jewelry
+"ivie, necklace",subclass of,jewelry
+cut steel jewellery,made from material,steel
+Slavic jewellery,has part(s),torc
+Slavic jewellery,part of,Slavic art
+Black Hills gold jewelry,location of creation,Black Hills
+Black Hills gold jewelry,subclass of,jewelry
+malespenne,subclass of,jewelry
+Berber jewellery,subclass of,jewelry
+cut steel jewellery,subclass of,jewelry
+rampai,subclass of,jewelry
+mourning jewellery,subclass of,jewelry
+dress hook,subclass of,jewelry
+cap hook,subclass of,jewelry
+Bronze Age golden hat goldsmithing style,part of,Bronze Age
+Black Hills gold jewelry,named after,Black Hills
+watch stickers & decal,subclass of,watch accessory
+malespenne,subclass of,clasp
+Halslås,subclass of,jewelry
+filigree headdress (dianzi),subclass of,jewelry
+Slavic jewellery,subclass of,jewelry
+Kabyle jewelery,subclass of,jewelry
+Slavic jewellery,culture,Slavic culture
+Berber jewellery,country,Algeria
+filigree headdress (dianzi),subclass of,metalworking
+Slavic jewellery,has part(s),Kolt
+Slavic jewellery,has part(s),Temple ring
+Slavic jewellery,has part(s),Slavic buttons
+Slavic jewellery,has part(s),Kaptorga
+dress hook,subclass of,hook
+cap hook,subclass of,hook
+Berber jewellery,country,Morocco
+rampai,made from material,bead
+Slavic jewellery,has pattern,Slavonic ornament
+Slavic jewellery,has pattern,Glagolitic ornaments
+Bronze Age golden hat goldsmithing style,instance of,art style
+Slavic jewellery,ethnic group,Slavs
+Khit er rouh,subclass of,jewelry
+brooches & lapel pin,subclass of,jewelry
+charms & pendant,subclass of,jewelry
+watch accessory,subclass of,jewelry
+Bronze Age golden hat goldsmithing style,based on,golden hat
+mourning jewellery,subclass of,memorial
+filigree headdress (dianzi),country of origin,China
+"ivie, necklace",made from material,coral
+"ivie, necklace",collection,Ipswich Museum
+mourning jewellery,facet of,mourning dress
+cap hook,subclass of,dress hook
+Bronze Age golden hat goldsmithing style,instance of,artistic technique
+Bronze Age golden hat goldsmithing style,subclass of,goldsmithing
+garter hook,subclass of,dress hook
+watch stickers & decal,instance of,product category
+malespenne,subclass of,fastener
+brooches & lapel pin,instance of,product category
+charms & pendant,instance of,product category
+watch accessory,instance of,product category
+goldsmith,instance of,profession
+medalist,instance of,profession
+engraver,instance of,profession
+goldsmith,product or material produced or service provided,jewelry
+goldsmith,field of this occupation,jewelry
+jewelry designer,field of this occupation,jewelry
+goldsmith,subclass of,jeweler
+engraver,subclass of,goldsmith
+medalist,has list,list of medalists
+medalist,subclass of,sculptor
+engraver,field of this occupation,artistic creation
+Graveur du Roi,instance of,profession
+metal engraver,instance of,profession
+journeyman goldsmith,instance of,profession
+goldsmith,product or material produced or service provided,tableware
+Chief Engraver of the Paris Mint,country,France
+medalist,product or material produced or service provided,medallion
+nacre engraver,instance of,profession
+map engraver,instance of,profession
+medal engraver,instance of,profession
+liturgical artist,instance of,profession
+mezzotinter,instance of,profession
+jewelry designer,field of this occupation,jewelry design
+gem engraver,subclass of,goldsmith
+gem engraver,subclass of,engraver
+Chief Engraver of the Paris Mint,subclass of,engraver
+goldsmith banker,subclass of,goldsmith
+Chief Engraver of the Paris Mint,subclass of,civil servant
+goldsmith,subclass of,metalsmith
+goldsmith,subclass of,jewelry designer
+seal cutter,subclass of,engraver
+steel engraver,subclass of,engraver
+gem engraver,field of this occupation,hardstone carving
+engraver,patron saint,John the Evangelist
+steel engraver,subclass of,artist
+liturgical artist,product or material produced or service provided,art
+seal cutter,subclass of,seal cutter
+Graveur du Roi,subclass of,engraver
+metal engraver,subclass of,engraver
+goldsmith,field of this occupation,goldsmithing
+gem engraver,instance of,profession
+jewelry designer,instance of,profession
+liturgical artist,subclass of,goldsmith
+Chief Engraver of the Paris Mint,part of,Monnaie de Paris
+goldsmith banker,subclass of,banker
+steel engraver,field of this occupation,steel engraving
+jewelry designer,subclass of,artist
+jewelry designer,has list,list of jewellery designers
+seal cutter,field of this occupation,gem cutting
+gem engraver,subclass of,gemcutter
+medalist,subclass of,engraver
+engraver,field of this occupation,goldsmithing
+Chief Engraver of the Paris Mint,instance of,position
+mezzotinter,uses,rocker
+seal cutter,instance of,profession
+steel engraver,instance of,profession
+seal cutter,subclass of,artisan
+liturgical artist,subclass of,wood carver
+mezzotinter,field of this occupation,mezzotint technique
+seal cutter,field of this occupation,seal cutting
+liturgical artist,subclass of,artist
+nacre engraver,subclass of,engraver
+map engraver,subclass of,engraver
+map engraver,subclass of,cartographer
+medalist,field of this occupation,medallic art
+medal cutter,field of this occupation,coin
+mezzotinter,product or material produced or service provided,mezzotint print
+liturgical artist,subclass of,painter
+photoengraver,field of this occupation,photoengraving
+seal cutter,subclass of,artist
+liturgical artist,field of work,religious art
+mezzotinter,subclass of,printmaker
+manufacturer of gold wire,subclass of,spinner
+manufacturer of gold wire,subclass of,goldsmith
+journeyman goldsmith,subclass of,goldsmith
+jewelry designer,subclass of,designer
+Chief Engraver of the Royal Mint,subclass of,engraver
+photoengraver,subclass of,engraver
+metal engraver,field of this occupation,metal engraving
+medal cutter,instance of,profession
+stampcutter,instance of,profession
+photoengraver,instance of,profession
+Graveur du Roi,instance of,position
+manufacturer of gold wire,instance of,occupation
+liturgical artist,subclass of,ceramicist
+Graveur du Roi,field of this occupation,engraving
+medal cutter,subclass of,medalist
+stampcutter,subclass of,medalist
+liturgical artist,subclass of,sculptor
+Graveur du Roi,instance of,historical profession
+Chief Engraver of the Royal Mint,instance of,position
+seal cutter,field of this occupation,seal cutting
+manufacturer of gold wire,product or material produced or service provided,gold thread
+journeyman goldsmith,subclass of,journeyman
+map engraver,instance of,position
+Graveur du Roi,subclass of,court artist
+liturgical artist,subclass of,imager
+Chief Engraver of the Royal Mint,subclass of,civil servant
+medal engraver,subclass of,engraver
+mezzotinter,subclass of,engraver
+seal cutter,instance of,artistic profession
+medal engraver,field of this occupation,medal-engraving
+seal cutter,product or material produced or service provided,seal
+mezzotinter,instance of,historical profession

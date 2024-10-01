@@ -1,0 +1,3927 @@
+pearl,instance of,spherical body
+pearl,subclass of,organic gem
+pearl,has use,jewelry
+pearl,made from material,nacre
+pearl,subclass of,animal product
+pearl,has use,costume accessory
+pearl,has use,traditional costume
+pearl,streak color,rainbow colours
+ruby,instance of,mineral variety
+ruby,subclass of,gemstone
+ruby,subclass of,sapphire
+ruby,subclass of,corundum
+ruby,color,ruby
+ruby,color,red
+ruby,color,pink
+ruby,crystal system,trigonal crystal system
+ruby,streak color,white
+emerald,instance of,mineral variety
+emerald,subclass of,gemstone
+emerald,subclass of,material
+emerald,subclass of,beryl
+emerald,crystal system,hexagonal crystal system
+emerald,streak color,white
+diamond,instance of,mineral species
+diamond,named after,Invincible
+diamond,made from material,carbon
+diamond,subclass of,gemstone
+diamond,subclass of,allotrope of carbon
+diamond,subclass of,covalent network solid
+diamond,subclass of,native element mineral
+diamond,subclass of,carbon-silicon family
+diamond,has use,gemstone
+diamond,has use,diamond industry
+diamond,has part(s),carbon
+diamond,streak color,white
+diamond,crystal system,cubic crystal system
+diamond,mineral fracture,conchoidal fracture
+diamond,space group,space group Fd-3m
+diamond,crystal habit,octahedron
+diamond,point group,cubic-hexoctahedral
+diamond,IMA status and/or rank,grandfathered mineral (G)
+diamond,cleavage,{111}
+Akik,subclass of,gemstone
+Akik,subclass of,quartz
+sapphire,instance of,mineral variety
+sapphire,subclass of,precious stone
+sapphire,subclass of,gemstone
+sapphire,subclass of,corundum
+sapphire,subclass of,material
+sapphire,color,blue
+sapphire,crystal system,trigonal crystal system
+sapphire,has part(s),aluminium oxide
+jade,subclass of,metamorphic rock
+jade,subclass of,gemstone
+precious stone,subclass of,gemstone
+precious stone,subclass of,mineral
+precious stone,has use,jewelry
+Cardinal gem,subclass of,gemstone
+Cardinal gem,has part(s),ruby
+Cardinal gem,has part(s),diamond
+Cardinal gem,has part(s),emerald
+Cardinal gem,has part(s),sapphire
+Cardinal gem,has part(s),amethyst
+yttrium aluminium garnet,subclass of,gemstone
+nephrite,named after,kidney
+nephrite,subclass of,jade
+nephrite,crystal system,monoclinic crystal system
+afghanite,instance of,mineral species
+afghanite,subclass of,zeolite frameworks
+afghanite,subclass of,complex-sequence cancrinites
+afghanite,named after,Afghanistan
+afghanite,subclass of,gemstone
+afghanite,color,colorless
+afghanite,color,blue
+afghanite,space group,space group P31c
+afghanite,type locality (geology),Ladjuar Medam
+afghanite,crystal system,trigonal crystal system
+afghanite,IMA status and/or rank,approved mineral and/or valid name (A)
+afghanite,streak color,white
+amethyst,instance of,mineral variety
+amethyst,subclass of,quartz
+amethyst,streak color,white
+amethyst,crystal system,trigonal crystal system
+amethyst,subclass of,gemstone
+baroque pearl,subclass of,pearl
+birthstone,subclass of,gemstone
+birthstone,has use,custom
+birthstone,has use,symbolism
+ammolite,subclass of,gemstone
+Taiwan Black Jade,country,Taiwan
+Taiwan Black Jade,subclass of,jade
+Taiwan Black Jade,subclass of,gemstone
+Taiwan Black Jade,streak color,white
+Taiwan Black Jade,crystal system,monoclinic crystal system
+brilliant,said to be the same as,diamond cut
+brilliant,made from material,diamond
+brilliant,subclass of,gemstone
+cultured freshwater pearl,subclass of,cultured pearl
+cultured freshwater pearl,subclass of,freshwater pearl
+national stone,subclass of,stone
+national stone,subclass of,gemstone
+national stone,subclass of,national symbol
+carbuncle,subclass of,gemstone
+cymophane,subclass of,chrysoberyl
+cymophane,subclass of,cat's eye
+bi,subclass of,Chinese jade
+Dur,subclass of,precious stone
+sardine,subclass of,gemstone
+heliodor,instance of,mineral variety
+heliodor,subclass of,gemstone
+heliodor,color,chartreuse
+heliodor,subclass of,beryl
+heliodor,has part(s),aluminium
+Aggregated diamond nanorod,subclass of,diamond
+Aggregated diamond nanorod,facet of,nanodiamonds
+aetites,subclass of,gemstone
+boron-doped diamond,subclass of,diamond
+boron-doped diamond,subclass of,semiconductor
+gem,subclass of,mineral
+gem,subclass of,gemstone
+diamond simulant,subclass of,gemstone
+pink diamond,subclass of,diamond
+pink diamond,color,pink
+cat's eye quartz,subclass of,cat's eye
+cat's eye quartz,subclass of,quartz
+carbonado,subclass of,diamond
+memorial diamond,subclass of,synthetic diamond
+memorial diamond,made from material,carbon
+black coral,subclass of,coral
+black coral,natural product of taxon,Antipatharia
+Chinese jade,subclass of,jade
+moss agate,named after,Mocha
+moss agate,subclass of,agate
+agate-jasper,instance of,mineral variety
+agate-jasper,subclass of,agate
+Botswana agate,subclass of,agate
+Blue Lace agate,subclass of,agate
+scolecite agate,subclass of,agate
+synthetic emerald,subclass of,synthetic gemstone
+synthetic emerald,subclass of,emerald
+branch coral,subclass of,coral
+sapphire glass,has characteristic,artificiality
+sapphire glass,subclass of,sapphire
+sapphire glass,made from material,corundum
+black opal,subclass of,precious opal
+Umba sapphire,subclass of,sapphire
+synthetic diamond,subclass of,synthetic gemstone
+synthetic diamond,subclass of,diamond
+synthetic diamond,has use,abrasive
+synthetic diamond,has use,gemstone
+synthetic diamond,partially coincident with,synthetic gemstone
+agate,subclass of,gemstone
+agate,subclass of,quartz
+agate,streak color,white
+boomagate,subclass of,agate
+tide jewels,subclass of,gemstone
+tide jewels,subclass of,magic item
+tide jewels,from narrative universe,Japanese mythology
+peridot,subclass of,forsterite
+peridot,named after,gold
+peridot,subclass of,gemstone
+peridot,color,green
+jet,subclass of,organic gem
+jet,subclass of,lignite
+jet,subclass of,mineraloid
+Enhydro agate,subclass of,agate
+Lake Superior agate,subclass of,agate
+Derbyshire Blue John,country,United Kingdom
+Derbyshire Blue John,subclass of,fluorite
+Derbyshire Blue John,subclass of,gemstone
+Tahitian pearl,subclass of,cultured pearl
+Tahitian pearl,country of origin,France
+Tahitian pearl,location of creation,Tahiti
+freshwater pearl,subclass of,pearl
+cat's eye,has characteristic,chatoyancy
+cat's eye,subclass of,gemstone
+synthetic gemstone,subclass of,synthetic material
+synthetic gemstone,subclass of,precious stone
+synthetic gemstone,subclass of,gemstone
+coral,subclass of,organic gem
+coral,subclass of,art material
+coral,color,coral
+coral,made from material,skeleton
+coral,color,red
+coral,has use,jewelry
+coral,color,pink
+coral,natural product of taxon,Corallium rubrum
+Keshi pearls,subclass of,pearl
+blue diamond,subclass of,diamond
+blue diamond,color,blue
+red diamond,subclass of,diamond
+plasma agate,subclass of,agate
+ballas,subclass of,diamond
+ballas,subclass of,particle
+ballas,has part(s),carbon
+ballas,appears in the form of,sphere
+rough diamond,subclass of,diamond
+industrial diamond,subclass of,diamond
+Colombian emeralds,country,Colombia
+Colombian emeralds,subclass of,emerald
+trapiche emerald,subclass of,emerald
+Cintamani (Gem),subclass of,gemstone
+Cintamani (Gem),worshipped by,Buddhism
+Cintamani (Gem),worshipped by,Hinduism
+toadstone,subclass of,gemstone
+toadstone,subclass of,magic item
+toadstone,subclass of,fossil
+nanodiamonds,subclass of,diamond
+nanodiamonds,subclass of,nanoparticle
+nanodiamonds,facet of,diamond
+Mabe pearl,subclass of,cultured pearl
+engraved gem,subclass of,gem
+detonation nanodiamond,subclass of,nanodiamonds
+Maw sit sit,subclass of,gemstone
+Minoan sealstone,subclass of,gemstone
+Minoan sealstone,subclass of,seal
+Minoan sealstone,studied in,Aegean glyptic
+Minoan sealstone,culture,Minoan civilization
+Taiwan Jade,subclass of,jade
+Taiwan Jade,subclass of,gemstone
+Taiwan Jade,streak color,white
+Taiwan Jade,crystal system,monoclinic crystal system
+azurite-malachite,subclass of,gemstone
+azurite-malachite,has part(s),azurite
+azurite-malachite,has part(s),malachite
+star garnet,subclass of,almandine
+star garnet,subclass of,gemstone
+golden beryl,subclass of,gemstone
+golden beryl,subclass of,beryl
+golden beryl,color,yellow
+golden beryl,color,orange-yellow
+table cut,subclass of,gemstone
+iolite,instance of,mineral variety
+iolite,subclass of,cordierite
+iolite,subclass of,gemstone
+iolite,color,blue
+iolite,color,gray
+iolite,color,purple
+assembled gem,subclass of,gemstone
+Mycenaean sealstone,subclass of,gemstone
+Mycenaean sealstone,subclass of,seal
+Mycenaean sealstone,culture,Mycenaean Greece
+Mycenaean sealstone,studied in,Aegean glyptic
+rose,subclass of,gemstone
+Jade of Itoigawa,subclass of,gemstone
+Jade of Itoigawa,subclass of,jade
+Jade of Itoigawa,location,Itoigawa
+Jade of Itoigawa,significant person,Gyofū Sōma
+Jade of Itoigawa,country of origin,Japan
+precious opal,subclass of,gemstone
+precious opal,subclass of,opal
+organic gem,subclass of,organic matter
+organic gem,subclass of,gemstone
+padparadscha,subclass of,sapphire
+Oltu stone,subclass of,jet
+Oltu stone,named after,Oltu
+bort,instance of,mineral variety
+bort,subclass of,diamond
+bort,subclass of,waste
+bort,subclass of,powder
+bort,subclass of,particle
+bort,subclass of,by-product
+bort,has use,additive
+bort,has use,abrasive
+bort,has use,polishing
+bort,has use,component
+bort,has use,protective agent
+bort,appears in the form of,crystal
+bort,appears in the form of,powder
+bort,appears in the form of,nanoparticle
+bort,appears in the form of,gravel
+lyngurium,subclass of,gemstone
+diamond,made from material,diamond
+diamond,subclass of,gemstone
+cultured pearl,subclass of,pearl
+sardonyx,instance of,mineral variety
+sardonyx,subclass of,agate
+sardonyx,subclass of,chalcedony
+brown diamond,subclass of,diamond
+gemstone,subclass of,mineral
+gemstone,has use,jewelry
+gemstone,studied in,gemology
+blood diamond,subclass of,diamond
+blood diamond,subclass of,conflict resource
+Pig dragon,subclass of,amulet
+Pig dragon,subclass of,Chinese jade
+red coral,subclass of,coral
+red coral,natural product of taxon,Corallium rubrum
+carnelian,instance of,mineral variety
+carnelian,subclass of,chalcedony
+carnelian,subclass of,gemstone
+carnelian,crystal system,trigonal crystal system
+carnelian,streak color,white
+Patuxent River stone,subclass of,agate
+jewelry,instance of,jewelry
+jewelry,instance of,widget
+jewelry,named after,jewelry
+jewelry,instance of,industry
+jewelry,subclass of,applied arts
+jewelry,subclass of,visual arts
+jewelry,subclass of,product
+jewelry,product or material produced or service provided,jewelry
+jewelry,product or material produced or service provided,decoration
+jewelry,product or material produced or service provided,fashion product
+jewelry,practiced by,court jeweler
+jewelry,practiced by,goldsmith
+jewelry,practiced by,jewelry designer
+hair jewellery,subclass of,mourning jewellery
+hair jewellery,practiced by,hårkulla
+hair jewellery,intangible cultural heritage status,Living traditions – An inventory of intangible cultural heritage in Sweden
+hair jewellery,indigenous to,Dalarna
+hair jewellery,indigenous to,Bonäs
+hair jewellery,indigenous to,Våmhus
+plume,subclass of,featherwork
+plume,subclass of,jewelry
+plume,fabrication method,featherwork
+belly chain,subclass of,jewelry
+Red fox tails,named after,red fox
+Red fox tails,subclass of,tail
+Red fox tails,subclass of,accessory
+Red fox tails,subclass of,jewelry
+granulation,subclass of,jewelry
+Bokréta,subclass of,jewelry
+Chab chab,subclass of,jewelry
+oorijzer,country,Netherlands
+oorijzer,subclass of,headdress
+oorijzer,subclass of,jewelry
+Nezem,instance of,costume accessory
+Nezem,subclass of,jewelry
+Nezem,part of,culture
+Etruscan jewelry,subclass of,jewelry
+Etruscan jewelry,part of,Etruscan art
+Etruscan jewelry,culture,Etruscans
+Majorica pearl,manufacturer,Majorica
+Majorica pearl,subclass of,imitation pearl
+Majorica pearl,location,Mallorca
+Slavic buttons,country,Great Moravia
+Slavic buttons,subclass of,Slavic art
+Slavic buttons,part of,Slavic jewellery
+Slavic buttons,subclass of,jewelry
+Slavic buttons,subclass of,button
+Slavic buttons,culture,Slavic culture
+skan,said to be the same as,filigree
+skan,subclass of,jewelry
+skan,country of origin,Russia
+ferronnière,subclass of,jewelry
+goldsmithing,subclass of,jewelry
+goldsmithing,product or material produced or service provided,goldwork
+goldsmithing,uses,gold
+goldsmithing,intangible cultural heritage status,National Inventory of Living Heritage in Finland
+goldsmithing,practiced by,goldsmith
+hackle,subclass of,costume accessory
+hackle,subclass of,plume
+hackle,made from material,feather
+suffragette jewellery,subclass of,jewelry
+Jhumar,subclass of,jewelry
+Ryfki,subclass of,jewelry
+Ryfki,part of,sword
+headdress frontlet,subclass of,jewelry
+Bulak,subclass of,jewelry
+Alpabfahrtsherz,subclass of,jewelry
+Yacameztli,subclass of,jewelry
+Yacameztli,culture,Aztec
+imitation pearl,subclass of,jewelry
+imitation pearl,simulates,pearl
+gerdan,subclass of,jewelry
+gerdan,location,Ukraine
+Naycha,instance of,umbrella term
+Naycha,subclass of,jewelry
+Swedish Royal House jewellery,owned by,Swedish royal family
+Swedish Royal House jewellery,owned by,Bernadotte Family Foundation
+Swedish Royal House jewellery,subclass of,jewelry
+Warshavi,instance of,fashion product
+Warshavi,subclass of,jewelry
+Öñir,subclass of,jewelry
+Öñir,instance of,costume accessory
+Bibishak,subclass of,headdress
+Bibishak,subclass of,jewelry
+art jewelry,subclass of,jewelry
+Zeeuwse knoop,part of,Zeeland traditional costume
+Zeeuwse knoop,subclass of,jewelry
+Black Hills gold jewelry,country,United States of America
+Black Hills gold jewelry,named after,Black Hills
+Black Hills gold jewelry,subclass of,jewelry
+Black Hills gold jewelry,location of creation,Black Hills
+Black Hills gold jewelry,made from material,gold
+live insect jewelry,subclass of,jewelry
+Dewizka,instance of,Chain
+Dewizka,part of,pocket watch
+Dewizka,subclass of,jewelry
+mourning ring,subclass of,ring
+mourning ring,subclass of,mourning jewellery
+"ivie, necklace",made from material,coral
+"ivie, necklace",collection,Ipswich Museum
+"ivie, necklace",subclass of,jewelry
+"ivie, necklace",location,Ipswich
+"ivie, necklace",location of creation,Benin
+Kabyle jewelery,country,Algeria
+Kabyle jewelery,subclass of,jewelry
+Berber jewellery,country,Algeria
+Berber jewellery,country,Tunisia
+Berber jewellery,subclass of,jewelry
+Berber jewellery,country,Morocco
+Berber jewellery,used by,Berber
+Khit er rouh,subclass of,jewelry
+Khit er rouh,country of origin,Algeria
+filigree headdress (dianzi),subclass of,jewelry
+filigree headdress (dianzi),subclass of,hanfu
+filigree headdress (dianzi),subclass of,hairstyle accessory
+filigree headdress (dianzi),subclass of,metalworking
+filigree headdress (dianzi),country of origin,China
+garnet jewelry,subclass of,jewelry
+cut steel jewellery,made from material,steel
+cut steel jewellery,subclass of,jewelry
+Slavic jewellery,part of,Slavic art
+Slavic jewellery,ethnic group,Slavs
+Slavic jewellery,subclass of,jewelry
+Slavic jewellery,culture,Slavic culture
+Slavic jewellery,has part(s),torc
+Slavic jewellery,has part(s),Kolt
+Slavic jewellery,has part(s),Temple ring
+Slavic jewellery,has part(s),Slavic buttons
+Slavic jewellery,has part(s),Kaptorga
+Slavic jewellery,has pattern,Slavonic ornament
+Slavic jewellery,has pattern,Glagolitic ornaments
+malespenne,subclass of,jewelry
+malespenne,subclass of,fastener
+malespenne,subclass of,clasp
+rampai,subclass of,jewelry
+rampai,made from material,bead
+mourning jewellery,subclass of,jewelry
+mourning jewellery,subclass of,memorial
+mourning jewellery,facet of,mourning dress
+dress hook,subclass of,jewelry
+dress hook,subclass of,hook
+cap hook,subclass of,hook
+cap hook,subclass of,dress hook
+cap hook,subclass of,jewelry
+Bronze Age golden hat goldsmithing style,based on,golden hat
+Bronze Age golden hat goldsmithing style,subclass of,goldsmithing
+Bronze Age golden hat goldsmithing style,instance of,art style
+Bronze Age golden hat goldsmithing style,instance of,artistic technique
+Bronze Age golden hat goldsmithing style,part of,Bronze Age
+watch stickers & decal,subclass of,watch accessory
+watch stickers & decal,instance of,product category
+Halslås,subclass of,jewelry
+brooches & lapel pin,instance of,product category
+brooches & lapel pin,subclass of,jewelry
+charms & pendant,instance of,product category
+charms & pendant,subclass of,jewelry
+watch accessory,instance of,product category
+watch accessory,subclass of,jewelry
+garter hook,subclass of,dress hook
+goldsmith,product or material produced or service provided,jewelry
+goldsmith,instance of,profession
+goldsmith,product or material produced or service provided,tableware
+goldsmith,subclass of,jeweler
+goldsmith,subclass of,metalsmith
+goldsmith,subclass of,jewelry designer
+goldsmith,field of this occupation,jewelry
+goldsmith,field of this occupation,goldsmithing
+medalist,instance of,profession
+medalist,subclass of,engraver
+medalist,subclass of,sculptor
+medalist,field of this occupation,medallic art
+medalist,has list,list of medalists
+medalist,product or material produced or service provided,medallion
+engraver,instance of,profession
+engraver,subclass of,goldsmith
+engraver,patron saint,John the Evangelist
+engraver,field of this occupation,goldsmithing
+engraver,field of this occupation,artistic creation
+jewelry designer,instance of,profession
+jewelry designer,subclass of,artist
+jewelry designer,subclass of,designer
+jewelry designer,field of this occupation,jewelry design
+jewelry designer,field of this occupation,jewelry
+jewelry designer,has list,list of jewellery designers
+Graveur du Roi,instance of,profession
+Graveur du Roi,instance of,position
+Graveur du Roi,subclass of,engraver
+Graveur du Roi,subclass of,court artist
+Graveur du Roi,instance of,historical profession
+Graveur du Roi,field of this occupation,engraving
+metal engraver,field of this occupation,metal engraving
+metal engraver,subclass of,engraver
+metal engraver,instance of,profession
+journeyman goldsmith,instance of,profession
+journeyman goldsmith,subclass of,goldsmith
+journeyman goldsmith,subclass of,journeyman
+Chief Engraver of the Paris Mint,country,France
+Chief Engraver of the Paris Mint,instance of,position
+Chief Engraver of the Paris Mint,subclass of,civil servant
+Chief Engraver of the Paris Mint,subclass of,engraver
+Chief Engraver of the Paris Mint,part of,Monnaie de Paris
+nacre engraver,instance of,profession
+nacre engraver,subclass of,engraver
+map engraver,instance of,profession
+map engraver,instance of,position
+map engraver,subclass of,engraver
+map engraver,subclass of,cartographer
+medal engraver,field of this occupation,medal-engraving
+medal engraver,instance of,profession
+medal engraver,subclass of,engraver
+liturgical artist,instance of,profession
+liturgical artist,field of work,religious art
+liturgical artist,subclass of,goldsmith
+liturgical artist,subclass of,artist
+liturgical artist,subclass of,painter
+liturgical artist,subclass of,sculptor
+liturgical artist,subclass of,imager
+liturgical artist,subclass of,wood carver
+liturgical artist,subclass of,ceramicist
+liturgical artist,product or material produced or service provided,art
+mezzotinter,instance of,profession
+mezzotinter,instance of,historical profession
+mezzotinter,subclass of,engraver
+mezzotinter,subclass of,printmaker
+mezzotinter,field of this occupation,mezzotint technique
+mezzotinter,uses,rocker
+mezzotinter,product or material produced or service provided,mezzotint print
+gem engraver,instance of,profession
+gem engraver,subclass of,gemcutter
+gem engraver,subclass of,goldsmith
+gem engraver,subclass of,engraver
+gem engraver,field of this occupation,hardstone carving
+goldsmith banker,subclass of,goldsmith
+goldsmith banker,subclass of,banker
+seal cutter,instance of,profession
+seal cutter,field of this occupation,seal cutting
+seal cutter,field of this occupation,gem cutting
+seal cutter,subclass of,engraver
+seal cutter,subclass of,artisan
+steel engraver,instance of,profession
+steel engraver,subclass of,engraver
+steel engraver,subclass of,artist
+steel engraver,field of this occupation,steel engraving
+seal cutter,instance of,artistic profession
+seal cutter,subclass of,seal cutter
+seal cutter,field of this occupation,seal cutting
+seal cutter,product or material produced or service provided,seal
+seal cutter,subclass of,artist
+medal cutter,instance of,profession
+medal cutter,subclass of,medalist
+medal cutter,field of this occupation,coin
+photoengraver,instance of,profession
+photoengraver,field of this occupation,photoengraving
+photoengraver,subclass of,engraver
+manufacturer of gold wire,product or material produced or service provided,gold thread
+manufacturer of gold wire,instance of,occupation
+manufacturer of gold wire,subclass of,goldsmith
+manufacturer of gold wire,subclass of,spinner
+Chief Engraver of the Royal Mint,instance of,position
+Chief Engraver of the Royal Mint,subclass of,civil servant
+Chief Engraver of the Royal Mint,subclass of,engraver
+stampcutter,instance of,profession
+stampcutter,subclass of,medalist
+spherical body,instance of,type of physical object by shape
+spherical body,has use,rolling
+spherical body,subclass of,physical object
+spherical body,shape,sphere
+red,instance of,primary color
+red,instance of,web color
+red,instance of,spectral color
+red,instance of,HTML4 named color
+red,followed by,orange
+red,part of,seven prismatic colors
+red,subclass of,color
+red,subclass of,light
+red,symbolizes,happiness
+red,symbolizes,love
+red,symbolizes,revolution
+red,symbolizes,martyrdom
+white,instance of,color
+white,instance of,HTML4 named color
+white,subclass of,achromatic color
+white,subclass of,light
+white,has part(s),yellow
+white,opposite of,black
+white,has part(s),blue
+white,has part(s),green
+white,has part(s),red
+white,has part(s),orange
+white,has part(s),sky blue
+white,has part(s),violet
+material,subclass of,substance
+material,subclass of,product
+material,has characteristic,mass density
+material,has characteristic,ultimate tensile strength
+material,has characteristic,compressive strength
+material,has characteristic,elastic limit
+material,has characteristic,hardness
+material,properties for this type,emissivity
+material,properties for this type,has characteristic
+material,studied in,materials science
+material,union of,list of values as qualifiers
+animal product,instance of,product category
+animal product,subclass of,product
+animal product,subclass of,biological material
+animal product,produced by,animal
+carbon,instance of,atmophile element
+carbon,instance of,chemical element
+carbon,discoverer or inventor,Antoine Lavoisier
+carbon,named after,coal
+carbon,subclass of,polyatomic nonmetal
+carbon,part of,group 14
+carbon,part of,period 2
+carbon,subclass of,nonmetal
+carbon,crystal system,hexagonal crystal system
+nacre,made from material,aragonite
+nacre,made from material,conchiolin
+nacre,subclass of,biological material
+nacre,subclass of,composite material
+nacre,subclass of,art material
+ruby,instance of,color
+ruby,named after,ruby
+ruby,subclass of,red
+ruby,model item,rubine red
+ruby,model item,ruber
+ruby,model item,medium ruby
+ruby,model item,ruby red
+ruby,model item,big dip o'ruby
+ruby,model item,antique ruby
+ruby,model item,deep ruby
+corundum,instance of,mineral species
+corundum,named after,ruby
+corundum,subclass of,hematite mineral group
+corundum,IMA status and/or rank,grandfathered mineral (G)
+corundum,space group,space group R-3c
+corundum,has part(s),aluminium oxide
+corundum,crystal system,trigonal crystal system
+corundum,streak color,white
+mineral variety,instance of,rank of mineral taxonomy
+mineral variety,subclass of,group or class of minerals
+mineral variety,metasubclass of,mineral species
+costume accessory,subclass of,clothing
+costume accessory,subclass of,accessory
+traditional costume,instance of,fashion style
+traditional costume,instance of,type of costume
+traditional costume,part of,material folklore
+traditional costume,subclass of,costume
+traditional costume,studied in,clothing research
+hexagonal crystal system,subclass of,crystal structure
+hexagonal crystal system,instance of,crystal system
+hexagonal crystal system,has part(s),hexagonal close packing
+rainbow colours,instance of,color
+rainbow colours,facet of,rainbow
+quartz,instance of,mineral species
+quartz,named after,cross vein
+quartz,subclass of,tectosilicates
+quartz,subclass of,dioxosilicate minerals (silica family)
+quartz,has characteristic,piezoelectricity
+quartz,part of,sand
+quartz,point group,trigonal-trapezoidal
+quartz,IMA status and/or rank,approved mineral and/or valid name (A)
+quartz,crystal system,trigonal crystal system
+quartz,mineral fracture,conchoidal fracture
+quartz,space group,space group P3₁21
+quartz,space group,space group P3₂21
+quartz,streak color,black
+quartz,has part(s),silicon dioxide
+beryl,instance of,mineral species
+beryl,named after,Beryllos 3 (Pauly-Wissowa)
+beryl,subclass of,beryl group of minerals
+beryl,subclass of,cyclosilicates
+beryl,IMA status and/or rank,grandfathered mineral (G)
+beryl,space group,space group P6/mcc
+beryl,crystal system,hexagonal crystal system
+beryl,streak color,white
+beryl,type locality (geology),Mons Smaragdus
+beryl,type locality (geology),Indian subcontinent
+metamorphic rock,instance of,rock type
+metamorphic rock,subclass of,rock
+metamorphic rock,has cause,metamorphism
+metamorphic rock,studied in,metamorphic petrology
+pink,instance of,web color
+pink,named after,Rosa
+pink,named after,rose
+pink,subclass of,color
+pink,part of,shade of purple
+pink,part of,shade of red
+pink,said to be the same as,Pink
+monoclinic crystal system,instance of,crystal system
+monoclinic crystal system,subclass of,crystal structure
+mineral,location,subsurface
+mineral,model item,diamond
+mineral,model item,halite
+mineral,model item,quartz
+mineral,model item,native gold
+mineral,model item,calcite
+mineral,subclass of,solid
+mineral,subclass of,chemical substance
+mineral,subclass of,natural resource
+mineral,subclass of,substance
+mineral,subclass of,mineral substance
+mineral,subclass of,inorganic matter
+mineral,subclass of,natural matter
+mineral,opposite of,nonmineral
+mineral,part of,rock
+mineral,facet of,mineralogy
+mineral,has characteristic,occurrence
+mineral,has characteristic,chemical composition
+mineral,has characteristic,crystallinity
+mineral,has characteristic,crystal structure
+mineral,has characteristic,homogeneity
+mineral,has list,list of minerals
+mineral,has list,list of minerals (complete)
+mineral,studied in,mineralogy
+mineral,properties for this type,streak color
+mineral,properties for this type,Mohs' hardness
+mineral,disjoint union of,list of values as qualifiers
+carbon-silicon family,subclass of,native element mineral
+cubic crystal system,instance of,crystal system
+cubic crystal system,subclass of,crystal structure
+Afghanistan,official language,Turkmen
+Afghanistan,official language,Uzbek
+Afghanistan,official language,Arabic
+Afghanistan,country,Afghanistan
+Afghanistan,head of government,Mohammad Hasan Akhund
+Afghanistan,official language,Balochi
+Afghanistan,official language,Pashayi
+Afghanistan,head of state,Hibatullah Akhundzada
+Afghanistan,continent,Asia
+Afghanistan,official language,Pashto
+Afghanistan,highest point,Noshaq
+Afghanistan,instance of,country
+Afghanistan,official language,Nuristani
+Afghanistan,capital,Kabul
+Afghanistan,official language,Dari
+Afghanistan,part of,Asia
+Afghanistan,instance of,landlocked country
+Afghanistan,official language,Pamir
+Afghanistan,shares border with,People's Republic of China
+Afghanistan,shares border with,Uzbekistan
+Afghanistan,shares border with,Turkmenistan
+Afghanistan,instance of,sovereign state
+Afghanistan,shares border with,Iran
+Afghanistan,located in time zone,UTC+04:30
+Afghanistan,located in time zone,Asia/Kabul
+Afghanistan,member of,United Nations
+Afghanistan,member of,Multilateral Investment Guarantee Agency
+Afghanistan,member of,Organization for Cooperation of Railways
+Afghanistan,member of,International Renewable Energy Agency
+Afghanistan,member of,International Telecommunication Union
+Afghanistan,member of,World Customs Organization
+Afghanistan,member of,International Finance Corporation
+Afghanistan,member of,UNESCO
+Afghanistan,shares border with,Pakistan
+Afghanistan,anthem,This Is the Home of the Brave
+Afghanistan,member of,International Development Association
+Afghanistan,member of,Organisation for the Prohibition of Chemical Weapons
+Afghanistan,member of,World Health Organization
+Afghanistan,member of,International Centre for Settlement of Investment Disputes
+Afghanistan,basic form of government,theocracy
+Afghanistan,shares border with,Tajikistan
+Afghanistan,basic form of government,unitary state
+Afghanistan,basic form of government,Emirate
+Afghanistan,lowest point,Amu Darya
+Afghanistan,significant event,Anglo-Afghan Treaty of 1919
+Afghanistan,member of,Interpol
+Afghanistan,office held by head of government,Prime Minister of Afghanistan
+Afghanistan,driving side,right
+Afghanistan,member of,Universal Postal Union
+Afghanistan,member of,Organisation of Islamic Cooperation
+Afghanistan,category of associated people,Category:Afghan people
+Afghanistan,member of,World Meteorological Organization
+Afghanistan,official religion,Islam
+Afghanistan,member of,Asian Development Bank
+Afghanistan,member of,International Bank for Reconstruction and Development
+Afghanistan,central bank,Da Afghanistan Bank
+Afghanistan,has characteristic,not-free country
+Afghanistan,category for films shot at this location,Category:Films shot in Afghanistan
+Afghanistan,category for people buried here,Category:Burials in Afghanistan
+Afghanistan,history of topic,history of Afghanistan
+Afghanistan,has list,list of honorary citizens of Afghanistan
+Afghanistan,office held by head of state,Amir al-Mu'minin
+Afghanistan,geography of topic,geography of Afghanistan
+Afghanistan,culture,culture of Afghanistan
+Afghanistan,category for people born here,Category:Births in Afghanistan
+Afghanistan,ethnic group,Arabs
+Afghanistan,ethnic group,Hazaras
+Afghanistan,ethnic group,Baloch
+Afghanistan,ethnic group,Qizilbash
+Afghanistan,ethnic group,Aimaq people
+Afghanistan,ethnic group,Uzbeks
+Afghanistan,ethnic group,Tajiks
+Afghanistan,ethnic group,Turkmens
+Afghanistan,ethnic group,Brahui tribe
+Afghanistan,ethnic group,Gurjar
+Afghanistan,ethnic group,Kyrgyz people
+Afghanistan,ethnic group,Nuristani people
+Afghanistan,category for maps,Category:Maps of Afghanistan
+Afghanistan,category for people who died here,Category:Deaths in Afghanistan
+Afghanistan,open data portal,Afghanistan Open Data project
+Afghanistan,electrical plug type,Schuko
+Afghanistan,electrical plug type,Europlug
+Afghanistan,electrical plug type,AC power plugs and sockets: British and related types
+Afghanistan,ethnic group,Pashtuns
+Afghanistan,ethnic group,Pamiri people
+Afghanistan,ethnic group,Pashayi people
+Afghanistan,economy of topic,economy of Afghanistan
+Afghanistan,legislative body,National Assembly of Afghanistan
+Afghanistan,bibliography,bibliography of Afghanistan
+Afghanistan,demographics of topic,demographics of Afghanistan
+Afghanistan,madhhab,Malikism
+Afghanistan,executive body,Government of Afghanistan
+Afghanistan,coat of arms,emblem of Afghanistan
+trigonal crystal system,instance of,crystal system
+trigonal crystal system,subclass of,crystal structure
+blue,instance of,HTML4 named color
+blue,instance of,primary color
+blue,instance of,spectral color
+blue,part of,RGB color space
+blue,part of,seven prismatic colors
+blue,follows,cyan
+blue,subclass of,green-blue
+blue,subclass of,light
+blue,followed by,violet
+octahedron,follows,heptahedron
+octahedron,followed by,enneahedron
+octahedron,subclass of,polyhedron
+octahedron,subclass of,octatope
+octahedron,has facet polytope,polygon
+octahedron,has part(s) of the class,face
+grandfathered mineral (G),instance of,IMA status
+cubic-hexoctahedral,subclass of,cubic crystal system
+cubic-hexoctahedral,subclass of,point group
+space group Fd-3m,subclass of,space group
+space group Fd-3m,crystal system,cubic crystal system
+space group Fd-3m,point group,cubic-hexoctahedral
+Invincible,instance of,Wikimedia disambiguation page
+Invincible,said to be the same as,USS Invincible
+Invincible,said to be the same as,Invencible
+Invincible,said to be the same as,Invencível
+Invincible,said to be the same as,Invincible (ship)
+Invincible,said to be the same as,HMS Invincible
+Invincible,said to be the same as,Invincible class
+Invincible,said to be the same as,Les Invincibles
+Invincible,said to be the same as,French ship Invincible
+{111},instance of,cleavage
+symbolism,instance of,genre
+symbolism,subclass of,process
+symbolism,has effect,symbol
+symbolism,uses,concrete object
+conchoidal fracture,subclass of,fracture
+diamond industry,instance of,industry
+diamond industry,subclass of,extractive industry
+Taiwan,head of government,Cho Jung-tai
+Taiwan,country,Taiwan
+Taiwan,official language,Truku
+Taiwan,official language,Matsu dialect
+Taiwan,official language,Kinmen dialect
+Taiwan,official language,O-ku-uā
+Taiwan,official language,Kavalan
+Taiwan,official language,Tsou
+Taiwan,official language,Seediq
+Taiwan,official language,Puyuma
+Taiwan,official language,Saisiyat
+Taiwan,official language,Sakizaya
+Taiwan,official language,Taiwanese Hakka
+Taiwan,part of,East Asia
+Taiwan,continent,Asia
+Taiwan,located in time zone,Taiwan time
+Taiwan,located in time zone,Asia/Taipei
+Taiwan,located in time zone,UTC+08:00
+Taiwan,said to be the same as,Taiwan
+Taiwan,instance of,country
+Taiwan,said to be the same as,Republic of Taiwan
+Taiwan,said to be the same as,"Taiwan, China"
+Taiwan,said to be the same as,Republic of China
+Taiwan,said to be the same as,Taiwan area of the Republic of China
+Taiwan,instance of,island country
+Taiwan,said to be the same as,Chinese Taipei
+Taiwan,instance of,sovereign state
+Taiwan,member of,United Nations
+Taiwan,capital,Taipei
+Taiwan,instance of,state with limited recognition
+Taiwan,shares border with,Japan
+Taiwan,instance of,Democratic Republic
+Taiwan,shares border with,Philippines
+Taiwan,member of,Asia-Pacific Economic Cooperation
+Taiwan,member of,United Nations Security Council
+Taiwan,head of state,Lai Ching-te
+Taiwan,official language,Kanakanavu
+Taiwan,official language,Standard Taiwanese Mandarin
+Taiwan,official language,Paiwan
+Taiwan,member of,Central American Bank for Economic Integration
+Taiwan,member of,Western and Central Pacific Fisheries Commission
+Taiwan,member of,Inter-American Tropical Tuna Commission
+Taiwan,member of,Commission for the Conservation of Southern Bluefin Tuna
+Taiwan,shares border with,People's Republic of China
+Taiwan,anthem,National Anthem of the Republic of China
+Taiwan,official language,Yami
+Taiwan,official language,Atayal
+Taiwan,official language,Taiwanese Sign Language
+Taiwan,official language,Amis
+Taiwan,official language,Taiwanese Hokkien
+Taiwan,member of,Visa Waiver Program
+Taiwan,member of,World Trade Organization
+Taiwan,official language,Rukai
+Taiwan,official language,Bunun
+Taiwan,religion or worldview,Taoism
+Taiwan,basic form of government,constitutional republic
+Taiwan,official language,Saaroa
+Taiwan,basic form of government,democracy
+Taiwan,religion or worldview,Buddhism
+Taiwan,member of,Asian Development Bank
+Taiwan,located in or next to body of water,Pacific Ocean
+Taiwan,basic form of government,semi-presidential system
+Taiwan,located in/on physical feature,East Asia
+Taiwan,located in or next to body of water,Taiwan Strait
+Taiwan,highest point,Yushan Main Peak
+Taiwan,located in or next to body of water,Bashi Channel
+Taiwan,religion or worldview,Chinese folk religion
+Taiwan,located in or next to body of water,East China Sea
+Taiwan,significant event,Chinese Civil War
+Taiwan,significant event,228 Incident
+Taiwan,significant event,White Terror
+Taiwan,significant event,World War II
+Taiwan,significant event,Xinhai Revolution
+Taiwan,located in/on physical feature,Taiwan Island
+Taiwan,archives at,Hong Kong Baptist University Library Special Collections & Archives
+Taiwan,executive body,Executive Yuan
+Taiwan,central bank,Central Bank of the Republic of China
+Taiwan,office held by head of government,Premier of the Republic of China
+Taiwan,category for people who died here,Category:Deaths in Taiwan
+Taiwan,coat of arms,Blue Sky with a White Sun
+Taiwan,territory claimed by,People's Republic of China
+Taiwan,replaces,Taiwan under Japanese rule
+Taiwan,replaces,Republic of China
+Taiwan,category for people born here,Category:Births in Taiwan
+Taiwan,category for people buried here,Category:Burials in Taiwan
+Taiwan,category of associated people,Category:People from the Republic of China
+Taiwan,driving side,right
+Taiwan,has characteristic,free country
+Taiwan,category for films shot at this location,Category:Films shot in Taiwan
+Taiwan,category of associated people,Category:Taiwanese people
+Taiwan,office held by head of state,President of the Republic of China
+Taiwan,studied in,Taiwan studies
+Taiwan,history of topic,history of Taiwan
+Taiwan,geography of topic,geography of Taiwan
+Taiwan,culture,culture of Taiwan
+Taiwan,permanent duplicated item,Republic of China
+Taiwan,electrical plug type,NEMA 1-15
+Taiwan,electrical plug type,NEMA 5-15
+Taiwan,topographic map,Atlas of Taiwan
+Taiwan,railway traffic side,left
+Taiwan,category for maps,Category:Maps of Taiwan
+Taiwan,open data portal,data.gov.tw
+Taiwan,economy of topic,Economy of Taiwan
+Taiwan,demographics of topic,Demographics of Taiwan
+Taiwan,legislative body,Legislative Yuan
+allotrope of carbon,instance of,structural class of chemical entities
+allotrope of carbon,subclass of,allotrope
+allotrope of carbon,has part(s),carbon
+covalent network solid,follows,two-dimensional polymer
+covalent network solid,subclass of,chemical substance
+covalent network solid,subclass of,macromolecule
+covalent network solid,opposite of,molecular solid
+covalent network solid,opposite of,ionic compound
+covalent network solid,has characteristic,refractory material
+covalent network solid,has characteristic,hardness
+covalent network solid,does not have characteristic,solubility
+native element mineral,instance of,mineral class
+native element mineral,followed by,sulfide class of minerals
+native element mineral,part of the series,Nickel–Strunz classification
+native element mineral,subclass of,simple substance
+native element mineral,subclass of,mineral
+zeolite frameworks,subclass of,tectosilicates
+complex-sequence cancrinites,subclass of,cancrinite-sodalite mineral group
+chrysoberyl,instance of,mineral species
+chrysoberyl,subclass of,olivine structural group
+chrysoberyl,named after,beryl
+chrysoberyl,named after,gold
+chrysoberyl,space group,space group Pbnm
+chrysoberyl,crystal system,orthorhombic crystal system
+chrysoberyl,IMA status and/or rank,grandfathered mineral (G)
+chrysoberyl,streak color,white
+chrysoberyl,type locality (geology),Brazil
+chrysoberyl,solid solution series with,mariinskite
+aluminium oxide,instance of,type of chemical entity
+aluminium oxide,subclass of,covalent network solid
+aluminium oxide,subclass of,aluminum oxide
+aluminium oxide,has part(s),oxygen
+aluminium oxide,has part(s),aluminium
+aluminium oxide,has effect,aluminium oxide exposure
+aluminium oxide,associated hazard,aluminium oxide exposure
+aluminium oxide,safety classification and labelling,NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response
+space group P31c,subclass of,space group
+space group P31c,point group,ditrigonal pyramidal
+space group P31c,crystal system,trigonal crystal system
+Ladjuar Medam,country,Afghanistan
+Ladjuar Medam,instance of,mine
+Ladjuar Medam,named after,lapis lazuli
+Ladjuar Medam,named after,mine
+kidney,instance of,organ type
+kidney,instance of,class of anatomical entity
+kidney,subclass of,urinary organ
+kidney,subclass of,animal organ
+kidney,subclass of,particular anatomical entity
+kidney,part of,endocrine system
+kidney,part of,urinary system
+kidney,has part(s),nephron
+kidney,has part(s) of the class,renal segment
+kidney,development of anatomical structure,kidney development
+mineral species,instance of,second-order class
+mineral species,instance of,rank of mineral taxonomy
+mineral species,subclass of,group or class of chemical substances
+mineral species,subclass of,group or class of minerals
+mineral species,facet of,mineral
+mineral species,properties for this type,color
+mineral species,properties for this type,streak color
+mineral species,properties for this type,twinning
+mineral species,properties for this type,mineral fracture
+mineral species,properties for this type,crystal system
+mineral species,properties for this type,crystal habit
+mineral species,properties for this type,IMA status and/or rank
+mineral species,properties for this type,point group
+mineral species,properties for this type,space group
+mineral species,properties for this type,cleavage
+mineral species,properties for this type,Mohs' hardness
+mineral species,properties for this type,Hermann-Mauguin notation
+mineral species,properties for this type,density
+mineral species,properties for this type,solubility
+mineral species,metasubclass of,mineral class
+mineral species,is metaclass for,mineral
+custom,subclass of,convention
+custom,said to be the same as,tradition
+colorless,instance of,physical state
+colorless,instance of,optical phenomenon
+colorless,said to be the same as,colorless
+colorless,said to be the same as,colorlessness
+colorless,subclass of,color
+colorless,has characteristic,non-existence
+colorless,has characteristic,colorlessness
+diamond cut,subclass of,facetting
+diamond cut,part of,Four Cs
+diamond cut,said to be the same as,brilliant
+approved mineral and/or valid name (A),instance of,IMA status
+approved mineral and/or valid name (A),IMA status and/or rank,approved mineral and/or valid name (A)
+national symbol,subclass of,symbol
+national symbol,represents,nation
+national symbol,used by,nation
+semiconductor,studied in,semiconductors chemistry
+semiconductor,subclass of,material
+semiconductor,subclass of,electrical conductor
+semiconductor,practiced by,semiconductor industry
+semiconductor,practiced by,semiconductors chemistry
+semiconductor,part of,semiconductor device
+semiconductor,part of,semiconductor memory
+semiconductor,part of,semiconductor diode
+semiconductor,has part(s),p-type semiconductor
+semiconductor,has part(s),n-type semiconductor
+Antipatharia,instance of,taxon
+Antipatharia,taxon rank,order
+Antipatharia,parent taxon,Hexacorallia
+Antipatharia,this taxon is source of,black coral
+Antipatharia,CITES Appendix,Appendix II of CITES
+stone,subclass of,material
+stone,has use,stoning
+stone,has use,Japanese rock garden
+stone,has use,masonry
+stone,has use,stone tool
+stone,has use,gastrolith
+stone,has use,stone throwing
+Mocha,instance of,city
+Mocha,country,Yemen
+Mocha,instance of,human settlement
+Mocha,located in time zone,UTC+03:00
+Mocha,capital of,Yemen Eyalet
+chartreuse,named after,Chartreuse
+chartreuse,instance of,web color
+chartreuse,subclass of,yellow
+chartreuse,subclass of,yellow-green
+chartreuse,subclass of,green
+chartreuse,part of,myrtle green
+chartreuse,part of,shade of yellow
+chartreuse,part of,shade of green
+chartreuse,said to be the same as,lime
+chartreuse,said to be the same as,acid green
+chartreuse,opposite of,magenta
+gold,instance of,chemical element
+gold,subclass of,noble metal
+gold,color,gold
+gold,part of,group 11
+gold,part of,period 6
+gold,instance of,allergen
+gold,instance of,precious metal
+gold,instance of,metallic material
+gold,crystal system,cubic crystal system
+gold,medical condition treated,rheumatoid arthritis
+aluminium,instance of,chemical element
+aluminium,instance of,metal
+aluminium,instance of,lithophile
+aluminium,history of topic,history of aluminium
+aluminium,associated hazard,aluminium exposure
+aluminium,discoverer or inventor,Hans Christian Ørsted
+aluminium,discoverer or inventor,Humphry Davy
+aluminium,named after,alum
+aluminium,safety classification and labelling,Regulation (EC) No. 1272/2008
+aluminium,made from material,bauxite
+aluminium,model item,aluminium
+aluminium,subclass of,medication
+aluminium,subclass of,post-transition metal
+aluminium,subclass of,combustible powder
+aluminium,subclass of,building material
+aluminium,subclass of,simple substance
+aluminium,part of,group 13
+aluminium,part of,period 3
+aluminium,has use,dye
+aluminium,found in taxon,Isaria cicadae
+aluminium,has effect,aluminium exposure
+Derbyshire,category for people who died here,Category:Deaths in Derbyshire
+Derbyshire,country,United Kingdom
+Derbyshire,category for people born here,Category:Births in Derbyshire
+Derbyshire,instance of,ceremonial county of England
+Derbyshire,capital,Matlock
+Derbyshire,category for films shot at this location,Category:Films shot in Derbyshire
+Derbyshire,shares border with,Cheshire
+Derbyshire,shares border with,West Yorkshire
+Derbyshire,category for people buried here,Category:Burials in Derbyshire
+Derbyshire,shares border with,Nottinghamshire
+Derbyshire,shares border with,South Yorkshire
+Derbyshire,shares border with,Greater Manchester
+Derbyshire,shares border with,Staffordshire
+Derbyshire,category for maps,Category:Maps of Derbyshire
+Derbyshire,category of associated people,Category:People from Derbyshire
+Derbyshire,shares border with,Leicestershire
+Derbyshire,historic county,Derbyshire
+Derbyshire,economy of topic,economy of Derbyshire
+Derbyshire,category for the view of the item,Category:Views of Derbyshire
+Derbyshire,twinned administrative body,Province of Ascoli Piceno
+Derbyshire,said to be the same as,Derbyshire
+France,country,France
+France,head of government,Michel Barnier
+France,member of,International Energy Agency
+France,member of,International Development Association
+France,part of,Europe
+France,instance of,country
+France,member of,Organisation for the Prohibition of Chemical Weapons
+France,instance of,republic
+France,member of,Open Government Partnership
+France,member of,European Payments Union
+France,member of,Nuclear Suppliers Group
+France,member of,G7
+France,instance of,sovereign state
+France,part of,European Economic Area
+France,part of,Western Europe
+France,continent,Europe
+France,member of,Treaty on Open Skies
+France,part of,European Union
+France,member of,International Centre for Settlement of Investment Disputes
+France,member of,Multilateral Investment Guarantee Agency
+France,member of,Missile Technology Control Regime
+France,shares border with,Luxembourg
+France,head of state,Emmanuel Macron
+France,capital,Paris
+France,member of,Schengen Area
+France,shares border with,Italy
+France,shares border with,Belgium
+France,shares border with,Switzerland
+France,official language,French
+France,shares border with,Spain
+France,part of,Pyrenees–Mediterranean Euroregion
+France,member of,Movement Coordination Centre Europe
+France,member of,Group on Earth Observations
+France,shares border with,Germany
+France,highest point,Mont Blanc
+France,shares border with,Brazil
+France,shares border with,Andorra
+France,basic form of government,semi-presidential system
+France,anthem,La Marseillaise
+France,named after,Franks
+France,shares border with,Kingdom of the Netherlands
+France,shares border with,Suriname
+France,shares border with,Monaco
+France,"has seal, badge, or sigil",Great Seal of France
+France,has part(s),Loire Valley
+France,member of,European Union
+France,member of,United Nations
+France,located in time zone,UTC+01:00
+France,foundational text,Constitution of France
+France,member of,UNESCO
+France,has facility,roundabout
+France,has facility,crematorium
+France,member of,World Health Organization
+France,member of,World Trade Organization
+France,member of,NATO
+France,member of,Universal Postal Union
+France,member of,G20
+France,member of,Council of Europe
+France,member of,Interpol
+France,member of,G8
+France,member of,United Nations Security Council
+France,member of,Organization for Security and Co-operation in Europe
+France,office held by head of government,Prime Minister of France
+France,member of,League of Nations
+France,member of,European Air Transport Command
+France,member of,European Southern Observatory
+France,member of,Antarctic Treaty System
+France,central bank,Bank of France
+France,award received,Lagun Onari
+France,award received,The Economist country of the year
+France,member of,Visa Waiver Program
+France,member of,European Economic Community
+France,member of,International Civil Defence Organisation
+France,member of,World Meteorological Organization
+France,member of,International Hydrographic Organization
+France,member of,Southeast Asia Treaty Organization
+France,member of,European Space Agency
+France,member of,Organisation internationale de la Francophonie
+France,member of,International Bank for Reconstruction and Development
+France,replaces,Kingdom of France
+France,member of,Organization for Economic Cooperation and Development
+France,member of,International Telecommunication Union
+France,member of,Organisation for Joint Armament Cooperation
+France,member of,European Coal and Steel Community
+France,replaces,Rauracian Republic
+France,replaces,Republic of Bouillon
+France,replaces,Kingdom of Bora Bora
+France,replaces,Free Cities of Menton and Roquebrune
+France,member of,CERN
+France,legislative body,French Parliament
+France,member of,Eurocontrol
+France,member of,Australia Group
+France,member of,Asian Development Bank
+France,executive body,Government of France
+France,category for films shot at this location,Category:Films shot in France
+France,office held by head of state,President of the French Republic
+France,member of,states with nuclear weapons
+France,category for people buried here,Category:Burials in France
+France,located in or next to body of water,North Sea
+France,geography of topic,geography of France
+France,member of,African Development Bank
+France,motto,"Liberté, égalité, fraternité"
+France,driving side,right
+France,member of,International Holocaust Remembrance Alliance
+France,category for people born here,Category:Births in France
+France,located in or next to body of water,Mediterranean Sea
+France,culture,culture of France
+France,located in or next to body of water,English Channel
+France,has characteristic,free country
+France,production statistics,cider
+France,member of,World Customs Organization
+France,member of,International Finance Corporation
+France,history of topic,history of France
+France,coextensive with,France
+France,category of associated people,Category:French people
+France,studied in,francology
+France,located in or next to body of water,Atlantic Ocean
+France,electrical plug type,Europlug
+France,electrical plug type,Type E
+France,open data portal,data.gouv.fr
+France,coat of arms,coat of arms of France
+France,production statistics,champagne
+France,lowest point,Étang de Lavalduc
+France,permanent duplicated item,Francia
+France,economy of topic,economy of France
+France,category for people who died here,Category:Deaths in France
+France,demographics of topic,demographics of France
+France,railway traffic side,right
+France,has works in the collection,National Gallery of Victoria
+France,railway traffic side,left
+France,category for maps,Category:Maps of France
+United Kingdom,country,United Kingdom
+United Kingdom,member of,World Health Organization
+United Kingdom,head of government,Keir Starmer
+United Kingdom,participant in,Battle of the Monongahela
+United Kingdom,participant in,Battle of Wandiwash
+United Kingdom,participant in,Battle of Carillon
+United Kingdom,participant in,Battle of Long Island
+United Kingdom,participant in,Battle of the Lys
+United Kingdom,participant in,Battle of Omdurman
+United Kingdom,participant in,Battle of Vlotho
+United Kingdom,participant in,Operation Grapple
+United Kingdom,participant in,Battle of Cecina
+United Kingdom,member of,Council of Europe
+United Kingdom,"has seal, badge, or sigil",Great Seal of the Realm
+United Kingdom,continent,Europe
+United Kingdom,member of,Interpol
+United Kingdom,instance of,country
+United Kingdom,instance of,island country
+United Kingdom,member of,Universal Postal Union
+United Kingdom,member of,G20
+United Kingdom,instance of,sovereign state
+United Kingdom,member of,European Southern Observatory
+United Kingdom,member of,World Trade Organization
+United Kingdom,member of,Organization for Economic Cooperation and Development
+United Kingdom,replaces,United Kingdom of Great Britain and Ireland
+United Kingdom,member of,G8
+United Kingdom,member of,European Free Trade Association
+United Kingdom,member of,European Union
+United Kingdom,member of,European Space Agency
+United Kingdom,member of,International Bank for Reconstruction and Development
+United Kingdom,member of,World Meteorological Organization
+United Kingdom,member of,Asian Development Bank
+United Kingdom,member of,United Nations
+United Kingdom,member of,Organisation for Joint Armament Cooperation
+United Kingdom,member of,World Customs Organization
+United Kingdom,member of,International Finance Corporation
+United Kingdom,capital,London
+United Kingdom,member of,International Telecommunication Union
+United Kingdom,instance of,colonial power
+United Kingdom,category for people who died here,Category:Deaths in the United Kingdom
+United Kingdom,member of,International Hydrographic Organization
+United Kingdom,located in time zone,UTC±00:00
+United Kingdom,part of,Common Travel Area
+United Kingdom,member of,Visa Waiver Program
+United Kingdom,member of,Organization for Security and Co-operation in Europe
+United Kingdom,head of state,Charles III of the United Kingdom
+United Kingdom,official language,English
+United Kingdom,member of,states with nuclear weapons
+United Kingdom,category for people buried here,Category:Burials in the United Kingdom
+United Kingdom,category for films shot at this location,Category:Films shot in the United Kingdom
+United Kingdom,member of,Australia Group
+United Kingdom,member of,International Holocaust Remembrance Alliance
+United Kingdom,member of,International Energy Agency
+United Kingdom,anthem,God Save the King
+United Kingdom,member of,G7
+United Kingdom,religion or worldview,Christianity
+United Kingdom,member of,Eurocontrol
+United Kingdom,shares border with,Ireland
+United Kingdom,member of,International Development Association
+United Kingdom,member of,Organisation for the Prohibition of Chemical Weapons
+United Kingdom,category of associated people,Category:British people
+United Kingdom,located in/on physical feature,Ireland
+United Kingdom,basic form of government,constitutional monarchy
+United Kingdom,member of,Treaty on Open Skies
+United Kingdom,member of,ANZUK
+United Kingdom,member of,ABCANZ Armies
+United Kingdom,member of,Caribbean Development Bank
+United Kingdom,member of,Movement Coordination Centre Europe
+United Kingdom,member of,International Centre for Settlement of Investment Disputes
+United Kingdom,highest point,Ben Nevis
+United Kingdom,member of,AUSCANNZUKUS
+United Kingdom,member of,Air Force Interoperability Council
+United Kingdom,member of,Combined Communications-Electronics Board
+United Kingdom,member of,Group on Earth Observations
+United Kingdom,member of,The Technical Cooperation Program
+United Kingdom,member of,Five Eyes
+United Kingdom,follows,United Kingdom of Great Britain and Ireland
+United Kingdom,member of,AUKUS
+United Kingdom,named after,union
+United Kingdom,located in/on physical feature,Great Britain
+United Kingdom,member of,Multilateral Investment Guarantee Agency
+United Kingdom,member of,Missile Technology Control Regime
+United Kingdom,member of,Nuclear Suppliers Group
+United Kingdom,significant event,7 July 2005 London bombings
+United Kingdom,significant event,"death of Diana, Princess of Wales"
+United Kingdom,member of,Southeast Asia Treaty Organization
+United Kingdom,member of,African Development Bank
+United Kingdom,category for people born here,Category:Births in the United Kingdom
+United Kingdom,legislative body,Parliament of the United Kingdom
+United Kingdom,located in/on physical feature,British Isles
+United Kingdom,office held by head of state,monarch of the United Kingdom
+United Kingdom,history of topic,history of the United Kingdom
+United Kingdom,executive body,Government of the United Kingdom
+United Kingdom,ethnic group,مسح
+United Kingdom,ethnic group,Black Britons
+United Kingdom,ethnic group,British Indian
+United Kingdom,ethnic group,White British
+United Kingdom,electrical plug type,BS 1363
+United Kingdom,coat of arms,royal coat of arms of the United Kingdom
+United Kingdom,geography of topic,geography of the United Kingdom
+United Kingdom,culture,culture of the United Kingdom
+United Kingdom,office held by head of government,Prime Minister of the United Kingdom
+United Kingdom,participant in,Pacific War
+United Kingdom,participant in,Battle of Brandywine
+United Kingdom,participant in,Battle of Bunker Hill
+United Kingdom,driving side,left
+United Kingdom,central bank,Bank of England
+United Kingdom,lowest point,The Fens
+United Kingdom,has characteristic,free country
+United Kingdom,economy of topic,economy of the United Kingdom
+United Kingdom,railway traffic side,left
+United Kingdom,category for maps,Category:Maps of the United Kingdom
+United Kingdom,has works in the collection,Australian National Maritime Museum
+United Kingdom,demographics of topic,demographics of the United Kingdom
+United Kingdom,has cabinet,Privy Council of the United Kingdom
+United Kingdom,open data portal,data.gov.uk
+artificiality,part of,artificial–natural dichotomy
+artificiality,instance of,type of property
+artificiality,opposite of,of the natural world separate from humans
+artificiality,subclass of,property
+artificiality,has cause,intentional human activity
+abrasive,subclass of,material
+synthetic material,subclass of,material
+synthetic material,opposite of,natural material
+lignite,subclass of,coal
+lignite,partially coincident with,xyloid lignite
+fluorite,instance of,mineral species
+fluorite,named after,fluid flow
+fluorite,subclass of,halide class of minerals
+fluorite,subclass of,fluorite mineral group
+fluorite,type locality (geology),Jáchymov
+fluorite,color,blue
+fluorite,color,green
+fluorite,color,brown
+fluorite,color,gold
+fluorite,color,pink
+fluorite,color,colorless
+fluorite,color,purple
+fluorite,color,champagne
+fluorite,color,lilac
+fluorite,streak color,white
+fluorite,crystal system,cubic crystal system
+fluorite,IMA status and/or rank,grandfathered mineral (G)
+fluorite,has part(s),calcium fluoride
+fluorite,twinning,penetration twin
+Tahiti,country,France
+Tahiti,instance of,island
+Tahiti,capital,Papeete
+Tahiti,located in or next to body of water,Pacific Ocean
+Tahiti,part of,Windward Islands
+Tahiti,located in time zone,UTC−10:00
+Tahiti,highest point,Mont Orohena
+Tahiti,located in/on physical feature,Windward Islands
+Tahiti,category for people born here,Category:Births in Tahiti
+Tahiti,category for people who died here,Category:Deaths in the Kingdom of Tahiti
+Tahiti,category for films shot at this location,Category:Films shot in Tahiti
+Tahiti,category of associated people,Category:People from Tahiti
+Tahiti,category for maps,Category:Maps of Tahiti
+Tahiti,category for the view of the item,Category:Views of Tahiti
+skeleton,instance of,class of anatomical entity
+skeleton,subclass of,anatomical collection
+skeleton,subclass of,particular anatomical entity
+skeleton,part of,animal
+skeleton,has part(s),bone
+skeleton,studied in,skeletology
+skeleton,disjoint union of,list of values as qualifiers
+skeleton,development of anatomical structure,skeletal system development
+green,instance of,HTML4 named color
+green,instance of,primary color
+green,instance of,spectral color
+green,follows,yellow
+green,represents,Gaelic culture
+green,followed by,cyan
+green,part of,seven prismatic colors
+green,subclass of,color
+green,subclass of,light
+green,symbolizes,Islam
+green,symbolizes,spring
+green,symbolizes,Ireland
+green,symbolizes,hope
+Colombia,country,Colombia
+Colombia,instance of,sovereign state
+Colombia,head of state,Gustavo Petro
+Colombia,head of government,Gustavo Petro
+Colombia,part of,South America
+Colombia,continent,South America
+Colombia,instance of,country
+Colombia,official language,Spanish
+Colombia,part of,Ibero-America
+Colombia,part of,Hispanic America
+Colombia,instance of,republic
+Colombia,part of,Latin America
+Colombia,capital,Bogotá
+Colombia,instance of,secular state
+Colombia,shares border with,Brazil
+Colombia,shares border with,Peru
+Colombia,shares border with,Ecuador
+Colombia,highest point,Pico Simón Bolívar
+Colombia,highest point,Pico Cristóbal Colón
+Colombia,shares border with,Venezuela
+Colombia,shares border with,Nicaragua
+Colombia,located in time zone,UTC−05:00
+Colombia,located in time zone,America/Bogota
+Colombia,shares border with,Panama
+Colombia,anthem,National Anthem of Colombia
+Colombia,basic form of government,republic
+Colombia,has characteristic,partly free country
+Colombia,member of,United Nations
+Colombia,member of,World Health Organization
+Colombia,member of,Union of South American Nations
+Colombia,member of,UNESCO
+Colombia,named after,Christopher Columbus
+Colombia,member of,Interpol
+Colombia,member of,World Trade Organization
+Colombia,member of,Central American Bank for Economic Integration
+Colombia,member of,International Bank for Reconstruction and Development
+Colombia,member of,Organization for Economic Cooperation and Development
+Colombia,member of,Universal Postal Union
+Colombia,member of,International Development Association
+Colombia,member of,International Hydrographic Organization
+Colombia,category for films shot at this location,Category:Films shot in Colombia
+Colombia,member of,International Centre for Settlement of Investment Disputes
+Colombia,member of,Multilateral Investment Guarantee Agency
+Colombia,driving side,right
+Colombia,member of,Organisation for the Prohibition of Chemical Weapons
+Colombia,member of,Community of Latin American and Caribbean States
+Colombia,member of,Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean
+Colombia,member of,Caribbean Development Bank
+Colombia,member of,Group on Earth Observations
+Colombia,lowest point,Pacific Ocean
+Colombia,member of,Organization of American States
+Colombia,member of,Andean Community
+Colombia,member of,World Customs Organization
+Colombia,member of,International Finance Corporation
+Colombia,category of associated people,Category:Colombian people
+Colombia,member of,World Meteorological Organization
+Colombia,member of,International Telecommunication Union
+Colombia,history of topic,history of Colombia
+Colombia,category for people buried here,Category:Burials in Colombia
+Colombia,office held by head of state,President of Colombia
+Colombia,culture,Colombian culture
+Colombia,central bank,Banco de la República
+Colombia,geography of topic,geography of Colombia
+Colombia,office held by head of government,President of Colombia
+Colombia,electrical plug type,NEMA 1-15
+Colombia,electrical plug type,NEMA 5-15
+Colombia,award received,The Economist country of the year
+Colombia,replaces,United States of Colombia
+Colombia,replaces,Mosquitia
+Colombia,ethnic group,Afro-Colombians
+Colombia,ethnic group,indigenous peoples in Colombia
+Colombia,ethnic group,White Colombian
+Colombia,ethnic group,Mestizo Colombian
+Colombia,legislative body,Congress of Colombia
+Colombia,executive body,Government of Colombia
+Colombia,category for people who died here,Category:Deaths in Colombia
+Colombia,coat of arms,coat of arms of Colombia
+Colombia,category for people born here,Category:Births in Colombia
+Colombia,category for maps,Category:Maps of Colombia
+Colombia,open data portal,Open Data Colombia
+Colombia,economy of topic,economy of Colombia
+Colombia,demographics of topic,demographics of Colombia
+magic item,subclass of,mythological concrete object
+chatoyancy,subclass of,optical phenomenon
+Japanese mythology,subclass of,Asian mythology
+Japanese mythology,country,Japan
+Japanese mythology,instance of,mythology
+Japanese mythology,studied in,Japanese mythography
+Japanese mythology,facet of,Shinto
+Japanese mythology,culture,culture of Japan
+mineraloid,subclass of,chemical substance
+Hinduism,influenced by,Historical Vedic religion
+Hinduism,influenced by,Dravidian folk religion
+Hinduism,instance of,religion
+Hinduism,location of formation,Sindh
+Hinduism,named after,Indus River
+Hinduism,follows,Historical Vedic religion
+Hinduism,instance of,culture
+Hinduism,followed by,Buddhism
+Hinduism,followed by,Jainism
+Hinduism,instance of,lifestyle
+Hinduism,instance of,exonym
+Hinduism,instance of,major religion
+Hinduism,subclass of,state religion
+Hinduism,followed by,Sikhism
+Hinduism,foundational text,Vedas
+Hinduism,location,worldwide
+Hinduism,subclass of,folk religion
+Hinduism,subclass of,Indian religions
+Hinduism,has part(s),Hindu denomination
+Hinduism,partially coincident with,culture of India
+Hinduism,has characteristic,reincarnation
+Hinduism,has characteristic,polytheism
+Hinduism,has characteristic,karma
+Hinduism,has characteristic,Pantheism
+Hinduism,history of topic,history of Hinduism
+Hinduism,studied in,Hindu studies
+yellow,subclass of,color
+yellow,instance of,primary color
+yellow,instance of,web color
+yellow,subclass of,light
+yellow,instance of,spectral color
+yellow,instance of,HTML4 named color
+yellow,part of,seven prismatic colors
+yellow,follows,orange
+yellow,followed by,green
+protective agent,subclass of,physiological effect of drugs
+protective agent,instance of,class of chemical substances by use
+protective agent,has use,protection
+nanoparticle,subclass of,nanomaterial
+nanoparticle,subclass of,particle
+Japan,country,Japan
+Japan,head of government,Fumio Kishida
+Japan,member of,World Trade Organization
+Japan,member of,Interpol
+Japan,member of,Universal Postal Union
+Japan,member of,G20
+Japan,member of,G8
+Japan,continent,Asia
+Japan,instance of,country
+Japan,member of,League of Nations
+Japan,instance of,island country
+Japan,member of,Organization for Economic Cooperation and Development
+Japan,member of,Visa Waiver Program
+Japan,part of,East Asia
+Japan,member of,Asia-Pacific Economic Cooperation
+Japan,member of,World Meteorological Organization
+Japan,member of,International Hydrographic Organization
+Japan,member of,Asian Development Bank
+Japan,member of,International Bank for Reconstruction and Development
+Japan,member of,International Telecommunication Union
+Japan,located in time zone,UTC+09:00
+Japan,located in time zone,Japan Standard Time
+Japan,located in time zone,Asia/Tokyo
+Japan,highest point,Mount Fuji
+Japan,head of state,Naruhito
+Japan,member of,International Development Association
+Japan,member of,Organisation for the Prohibition of Chemical Weapons
+Japan,member of,World Customs Organization
+Japan,member of,International Finance Corporation
+Japan,instance of,sovereign state
+Japan,significant event,World War II
+Japan,official language,Japanese
+Japan,member of,International Centre for Settlement of Investment Disputes
+Japan,member of,Antarctic Treaty System
+Japan,located in/on physical feature,Japanese archipelago
+Japan,capital,Tokyo
+Japan,member of,Multilateral Investment Guarantee Agency
+Japan,member of,Missile Technology Control Regime
+Japan,member of,Nuclear Suppliers Group
+Japan,member of,African Development Bank
+Japan,shares border with,United States of America
+Japan,significant event,1972 Winter Olympics
+Japan,main regulatory text,The Constitution of Japan
+Japan,member of,Australia Group
+Japan,member of,International Energy Agency
+Japan,significant event,Fukushima Daiichi nuclear disaster
+Japan,significant event,1964 Summer Olympics
+Japan,"has seal, badge, or sigil",Imperial Seal of Japan
+Japan,"has seal, badge, or sigil",national seal
+Japan,shares border with,Russia
+Japan,significant event,1998 Winter Olympics
+Japan,significant event,2002 FIFA World Cup
+Japan,member of,G7
+Japan,member of,Group on Earth Observations
+Japan,shares border with,People's Republic of China
+Japan,significant event,Great Hanshin Earthquake
+Japan,significant event,Treaty of San Francisco
+Japan,significant event,Treaty of Mutual Cooperation and Security Between the United States and Japan
+Japan,significant event,Korean War
+Japan,member of,UNESCO
+Japan,significant event,Russo-Japanese War
+Japan,participant in,G4 nations
+Japan,participant in,Treaty of Saint Petersburg
+Japan,replaces,Empire of Japan
+Japan,shares border with,Taiwan
+Japan,member of,United Nations
+Japan,significant event,Expo '70
+Japan,significant event,Aftermath of the 2011 Tōhoku earthquake and tsunami
+Japan,significant event,Tōkaimura criticality accident
+Japan,significant event,transfer of sovereignty over Okinawa
+Japan,significant event,Security Treaty Between the United States and Japan
+Japan,significant event,1991 Japanese Recession
+Japan,member of,World Health Organization
+Japan,significant event,2020 Summer Olympics
+Japan,member of,ASEAN Regional Forum
+Japan,shares border with,Philippines
+Japan,executive body,Government of Japan
+Japan,religion or worldview,Buddhism
+Japan,located in or next to body of water,Pacific Ocean
+Japan,replaces,Second Shō Dynasty
+Japan,anthem,Kimigayo
+Japan,basic form of government,constitutional monarchy
+Japan,religion or worldview,Christianity
+Japan,category for people who died here,Category:Deaths in Japan
+Japan,has part(s),Central Japan
+Japan,has part(s),Northern Japan
+Japan,has part(s),Southern Japan
+Japan,has part(s),Eastern Japan
+Japan,has part(s),Western Japan
+Japan,located in or next to body of water,Sea of Okhotsk
+Japan,shares border with,Soviet Union
+Japan,religion or worldview,Shinto
+Japan,shares border with,South Korea
+Japan,follows,Empire of Japan
+Japan,legislative body,National Diet
+Japan,located in or next to body of water,Sea of Japan
+Japan,archives at,National Archives of Japan
+Japan,ethnic group,Japanese people
+Japan,located in or next to body of water,Philippine Sea
+Japan,located in or next to body of water,East China Sea
+Japan,named after,sunrise
+Japan,ethnic group,Koreans
+Japan,ethnic group,Ainu people
+Japan,central bank,Bank of Japan
+Japan,coat of arms,Imperial Seal of Japan
+Japan,ethnic group,Chinese people
+Japan,category for people born here,Category:Births in Japan
+Japan,office held by head of government,Prime Minister of Japan
+Japan,has characteristic,free country
+Japan,driving side,left
+Japan,category of associated people,Category:Japanese people
+Japan,category of associated people,Category:People:Japan (people who live or lived in Japan)
+Japan,lowest point,Hachirōgata
+Japan,history of topic,history of Japan
+Japan,office held by head of state,Emperor of Japan
+Japan,official symbol,Green Pheasant
+Japan,official symbol,Sasakia charonda
+Japan,geography of topic,geography of Japan
+Japan,category for films shot at this location,Category:Films shot in Japan
+Japan,official symbol,sumo
+Japan,official symbol,cherry blossom
+Japan,official symbol,Chrysanthemum morifolium
+Japan,has part(s) of the class,region of Japan
+Japan,has part(s) of the class,island of Japan
+Japan,right to vote,universal suffrage
+Japan,right to vote,age limit
+Japan,culture,culture of Japan
+Japan,category for people buried here,Category:Burials in Japan
+Japan,studied in,Japanese studies
+Japan,electrical plug type,NEMA 1-15
+Japan,electrical plug type,NEMA 5-15
+Japan,category for the view of the item,Category:Views of Japan from above
+Japan,open data portal,data.go.jp
+Japan,economy of topic,economy of Japan
+Japan,demographics of topic,demographics of Japan
+Japan,has boundary,borders of Japan
+Japan,has cabinet,Cabinet of Japan
+Japan,topographic map,Atlas of Japan
+Japan,railway traffic side,left
+Japan,category for maps,Category:Maps of Japan
+conflict resource,subclass of,natural resource
+seal,subclass of,mark
+seal,subclass of,emblem
+seal,subclass of,insignia
+seal,said to be the same as,seal
+seal,said to be the same as,seal impression
+seal,partially coincident with,seal impression
+Aegean glyptic,subclass of,archaeology
+Aegean glyptic,is the study of,hardstone carving
+Aegean glyptic,is the study of,Minoan sealstone
+Aegean glyptic,is the study of,Mycenaean sealstone
+Aegean glyptic,subclass of,sigillography
+Aegean glyptic,subclass of,academic discipline
+art material,subclass of,arts and craft item
+art material,subclass of,material
+art material,properties for this type,subclass of
+art material,properties for this type,made from material
+art material,has list,list of art media
+art material,has use,art
+art material,properties for this type,has part(s)
+art material,properties for this type,brand
+amulet,part of,magic
+amulet,subclass of,costume accessory
+amulet,subclass of,lucky symbol
+amulet,has part(s),Islamic amulet
+amulet,has contributing factor,superstition
+polishing,uses,polish
+polishing,follows,sanding
+polishing,subclass of,surface finishing
+polishing,uses,sealant
+polishing,uses,solvent
+polishing,uses,abrasive
+polishing,has effect,smoothness
+Gyofū Sōma,place of birth,Itoigawa
+Gyofū Sōma,country of citizenship,Japan
+Gyofū Sōma,sex or gender,male
+Gyofū Sōma,instance of,human
+Gyofū Sōma,country of citizenship,Empire of Japan
+Gyofū Sōma,educated at,Waseda University
+Gyofū Sōma,child,Akira Sōma
+Gyofū Sōma,occupation,lyricist
+Gyofū Sōma,occupation,waka poet
+Gyofū Sōma,occupation,poet
+Gyofū Sōma,employer,Waseda University
+Gyofū Sōma,occupation,critic
+Gyofū Sōma,family name,Sōma
+Gyofū Sōma,notable work,Katyusha's song
+Gyofū Sōma,"languages spoken, written or signed",Japanese
+gray,subclass of,achromatic color
+gray,subclass of,light
+gray,instance of,web color
+gray,instance of,HTML4 named color
+by-product,instance of,product category
+by-product,subclass of,product
+forsterite,instance of,mineral species
+forsterite,named after,Adolarius Jacob Forster
+forsterite,subclass of,olivine
+forsterite,subclass of,olivine mineral group
+forsterite,space group,space group Pbnm
+forsterite,streak color,white
+forsterite,crystal system,orthorhombic crystal system
+forsterite,IMA status and/or rank,grandfathered mineral (G)
+forsterite,type locality (geology),Mount Somma
+forsterite,solid solution series with,fayalite
+forsterite,solid solution series with,tephroite
+Minoan civilization,instance of,archaeological culture
+Minoan civilization,instance of,style
+Minoan civilization,instance of,ancient civilization
+Minoan civilization,instance of,civilization
+Minoan civilization,instance of,historical period
+Minoan civilization,named after,Minos
+Minoan civilization,part of,history of Crete
+Minoan civilization,part of,Bronze Age
+Minoan civilization,location,Crete
+Minoan civilization,conflict,Mycenaean conquest of Crete
+Minoan civilization,replaced by,Mycenaean Greece
+Minoan civilization,partially coincident with,Mycenaean Greece
+Minoan civilization,partially coincident with,Cycladic civilization
+Minoan civilization,indigenous to,Crete
+Minoan civilization,category for maps,Category:Maps of Minoan civilization
+crystal,subclass of,solid
+crystal,subclass of,chemical substance
+crystal,subclass of,bound state
+crystal,manifestation of,crystallinity
+crystal,studied in,crystallography
+sphere,instance of,UCUM constant
+sphere,has characteristic,area
+sphere,has characteristic,volume
+sphere,has characteristic,sphericity
+sphere,has characteristic,genus
+sphere,followed by,torus
+sphere,followed by,3-sphere
+sphere,follows,circle
+sphere,contains,open ball
+sphere,said to be the same as,Riemann sphere
+sphere,said to be the same as,complex projective line
+sphere,subclass of,spheroid
+sphere,subclass of,locus
+sphere,subclass of,n-sphere
+sphere,subclass of,surface
+sphere,subclass of,analytic manifold
+sphere,subclass of,hypersphere
+sphere,subclass of,non-degenerate quadric surface
+sphere,subclass of,boundary
+sphere,subclass of,geometric primitive
+gemology,partially coincident with,petrology
+gemology,subclass of,mineralogy
+gemology,practiced by,gemologist
+gemology,is the study of,gemstone
+Oltu,country,Turkey
+Oltu,instance of,town
+Oltu,instance of,district of Turkey
+Oltu,located in time zone,UTC+03:00
+Oltu,capital of,Kingdom of the Iberians
+Oltu,capital of,Diauehi
+component,instance of,type of object
+component,part of,system
+component,subclass of,part
+component,said to be the same as,member of a group
+component,partially coincident with,part
+component,manifestation of,modularity
+component,has characteristic,role
+azurite,instance of,mineral species
+azurite,named after,blue
+azurite,subclass of,carbonate and nitrate class of minerals
+azurite,IMA status and/or rank,grandfathered mineral (G)
+azurite,streak color,light blue
+azurite,type locality (geology),Chessy
+Buddhism,instance of,religion
+Buddhism,instance of,lifestyle
+Buddhism,subclass of,Indian religions
+Buddhism,subclass of,subject of depiction
+Buddhism,instance of,world view
+Buddhism,location,worldwide
+Buddhism,instance of,philosophical movement
+Buddhism,instance of,major religion
+Buddhism,foundational text,Tripitaka
+Buddhism,has part(s),school of Buddhism
+Buddhism,founded by,The Buddha
+Buddhism,location of formation,Bodh Gaya
+Buddhism,separated from,Historical Vedic religion
+Buddhism,named after,Buddha
+Buddhism,follows,Historical Vedic religion
+Buddhism,has characteristic,religious philosophy
+Buddhism,history of topic,timeline of Buddhism
+Buddhism,history of topic,history of Buddhism
+Buddhism,studied in,Buddhist studies
+Buddhism,official religion,Myanmar
+Buddhism,official religion,Sri Lanka
+Buddhism,official religion,Thailand
+Buddhism,practiced by,saṅgha
+Buddhism,practiced by,Buddhist
+Buddhism,official religion,Bhutan
+malachite,instance of,mineral species
+malachite,subclass of,rosasite mineral group
+malachite,named after,peafowl
+malachite,named after,Malva
+malachite,IMA status and/or rank,grandfathered mineral (G)
+malachite,crystal system,monoclinic crystal system
+malachite,streak color,green
+gravel,subclass of,dry bulk cargo
+gravel,subclass of,clastic sediment
+coral,named after,coral
+coral,instance of,color
+coral,subclass of,red
+coral,part of,shade of red
+orange-yellow,said to be the same as,yellow-orange
+orange-yellow,instance of,color
+orange-yellow,subclass of,yellow
+purple,instance of,color
+purple,instance of,HTML4 named color
+purple,follows,indigo
+purple,subclass of,blue
+purple,subclass of,red
+purple,part of,shade of blue
+purple,part of,shade of red
+Mycenaean Greece,instance of,civilization
+Mycenaean Greece,conflict,Mycenaean conquest of Crete
+Mycenaean Greece,instance of,culture
+Mycenaean Greece,instance of,style
+Mycenaean Greece,instance of,archaeological culture
+Mycenaean Greece,discoverer or inventor,Heinrich Schliemann
+Mycenaean Greece,followed by,Greek Dark Ages
+Mycenaean Greece,partially coincident with,Minoan civilization
+Mycenaean Greece,replaces,Minoan civilization
+Mycenaean Greece,studied in,mycenology
+Mycenaean Greece,time period,Bronze Age
+Corallium rubrum,instance of,taxon
+Corallium rubrum,parent taxon,Corallium
+Corallium rubrum,taxon rank,species
+Corallium rubrum,this taxon is source of,red coral
+chalcedony,instance of,mineral variety
+chalcedony,subclass of,quartz
+chalcedony,streak color,white
+chalcedony,crystal system,trigonal crystal system
+opal,instance of,mineral species
+opal,named after,gemstone
+opal,subclass of,tectosilicates
+opal,subclass of,dioxosilicate minerals (silica family)
+opal,IMA status and/or rank,grandfathered mineral (G)
+opal,streak color,white
+opal,crystal system,amorphous solid
+particle,subclass of,physical object
+particle,properties for this type,interaction
+particle,studied in,point mechanics
+particle,disjoint union of,list of values as qualifiers
+powder,subclass of,granular material
+powder,has characteristic,hazard
+powder,fabrication method,precipitation
+powder,fabrication method,crushing
+powder,fabrication method,grinding
+fossil,has part(s) of the class,fossil record
+fossil,subclass of,natural physical object
+fossil,has cause,fossilization
+fossil,fabrication method,fossilization
+fossil,studied in,palaeoxylology
+fossil,studied in,paleontology
+Itoigawa,country,Japan
+Itoigawa,shares border with,Asahi
+Itoigawa,shares border with,Otari
+Itoigawa,shares border with,Joetsu
+Itoigawa,shares border with,Hakuba
+Itoigawa,shares border with,Myoko
+Itoigawa,instance of,city of Japan
+Itoigawa,instance of,geopark
+Itoigawa,twinned administrative body,Shiojiri
+Itoigawa,located in or next to body of water,Sea of Japan
+Itoigawa,member of,Global Geoparks Network
+Itoigawa,located in time zone,UTC+09:00
+Itoigawa,replaces,Itoigawa
+Itoigawa,replaces,Nō
+Itoigawa,replaces,Ōmi
+Itoigawa,replaces,Kamihayakawa
+Itoigawa,replaces,Shimohayakawa
+Itoigawa,replaces,Imai
+Itoigawa,replaces,Yamatogawa
+Itoigawa,replaces,Ōno
+Itoigawa,replaces,Kotaki
+Itoigawa,replaces,Nechi
+Itoigawa,replaces,Uramoto
+Itoigawa,replaces,Nishiumi
+Itoigawa,legal form,ordinary local public entity
+Itoigawa,category for people born here,"Category:Births in Itoigawa, Niigata"
+Itoigawa,associated electoral district,Niigata 5th district
+Itoigawa,associated electoral district,Niigata 6th district
+additive,subclass of,substance
+waste,subclass of,bad
+waste,subclass of,material
+waste,said to be the same as,trinket
+waste,has use,recycling
+waste,has effect,marine debris
+waste,used by,sorter labourer
+waste,used by,recycling worker
+waste,has effect,air pollution
+waste,has list,list of waste types
+waste,studied in,garbology
+waste,union of,list of values as qualifiers
+waste,"handled, mitigated, or managed by",waste management
+organic matter,opposite of,inorganic matter
+organic matter,subclass of,substance
+organic matter,has part(s),organic compound
+almandine,named after,Alabanda
+almandine,instance of,mineral species
+almandine,IMA status and/or rank,grandfathered mineral (G)
+almandine,space group,space group
+almandine,streak color,white
+almandine,crystal system,cubic crystal system
+almandine,subclass of,garnet group
+cordierite,instance of,mineral species
+cordierite,subclass of,cyclosilicates
+cordierite,named after,Louis Cordier
+cordierite,space group,space group Cccm
+cordierite,IMA status and/or rank,grandfathered mineral (G)
+cordierite,streak color,white
+cordierite,crystal system,orthorhombic crystal system
+cordierite,solid solution series with,sekaninaite
+jewelry,partially coincident with,watch
+jewelry,made from material,diamond
+jewelry,made from material,gemstone
+jewelry,fabrication method,jewelry
+jewelry,made from material,noble metal
+jewelry,subclass of,costume accessory
+jewelry,subclass of,widget
+jewelry,part of,jewelry industry
+jewelry,has part(s),gemstone
+Dalarna,instance of,province of Sweden
+Dalarna,country,Sweden
+Dalarna,coat of arms,coat of arms of Dalarna
+Dalarna,part of,Sweden
+Dalarna,category for maps,Category:Maps of Dalarna
+Dalarna,official symbol,Campanula rotundifolia
+Dalarna,official symbol,Campanula patula
+Bonäs,country,Sweden
+Bonäs,instance of,urban area in Sweden
+Bonäs,located in time zone,UTC+01:00
+Bonäs,located in time zone,UTC+02:00
+Våmhus,country,Sweden
+Våmhus,instance of,urban area in Sweden
+visual arts,instance of,field of work
+visual arts,instance of,art genre
+visual arts,has characteristic,genre of painting
+visual arts,instance of,economic sector
+visual arts,instance of,type of arts
+visual arts,instance of,academic major
+visual arts,instance of,academic discipline
+visual arts,practiced by,visual artist
+visual arts,practiced by,fictional visual artist
+visual arts,part of,visual culture
+visual arts,subclass of,art
+visual arts,said to be the same as,art
+visual arts,has part(s),art of sculpture
+visual arts,product or material produced or service provided,visual artwork
+applied arts,instance of,academic discipline
+applied arts,instance of,type of arts
+applied arts,subclass of,visual arts
+applied arts,said to be the same as,decorative art
+applied arts,practiced by,artstrader
+hårkulla,instance of,older occupation
+hårkulla,location,Mora farmstead
+hårkulla,main subject,hair jewellery
+Living traditions – An inventory of intangible cultural heritage in Sweden,country,Sweden
+Living traditions – An inventory of intangible cultural heritage in Sweden,instance of,national inventory of intangible cultural heritage
+Living traditions – An inventory of intangible cultural heritage in Sweden,has part(s),list of UNESCO Intangible Cultural Heritage elements in Sweden
+Living traditions – An inventory of intangible cultural heritage in Sweden,maintained by,Swedish Institute for Language and Folklore
+Living traditions – An inventory of intangible cultural heritage in Sweden,operating area,Sweden
+industry,instance of,economic concept
+industry,subclass of,group
+industry,said to be the same as,type of business
+industry,part of,economic sector
+product,instance of,economic concept
+product,instance of,type of object
+product,subclass of,object
+product,said to be the same as,goods and services
+product,said to be the same as,goods
+product,has characteristic,product category
+product,partially coincident with,artificial object
+product,properties for this type,inception
+product,properties for this type,brand
+product,properties for this type,manufacturer
+product,union of,list of values as qualifiers
+product,properties for this type,price
+product,properties for this type,consumption rate
+product,properties for this type,consumption rate per capita
+product,properties for this type,carbon footprint
+accessory,subclass of,product
+accessory,subclass of,work
+accessory,subclass of,artificial physical object
+accessory,subclass of,add-on
+featherwork,subclass of,work of art
+featherwork,has use,costume accessory
+featherwork,has use,cult image
+featherwork,has use,clothing
+featherwork,has use,furnishings
+featherwork,fabrication method,featherwork
+widget,instance of,exemplar
+widget,instance of,unit
+widget,instance of,economic concept
+widget,subclass of,perceptible physical object
+widget,subclass of,product
+widget,subclass of,artificial physical object
+widget,studied in,accounting studies
+widget,has characteristic,placeholder name
+widget,facet of,economics
+widget,studied in,microeconomics
+red fox,Wildlife Protection Act 1972 (India) schedule,"Schedule II (Part I) of Wildlife Protection Act, 1972"
+red fox,subclass of,fox
+red fox,instance of,taxon
+red fox,diel cycle,nocturnality
+red fox,taxon range,Canada
+red fox,taxon range,Japan
+red fox,taxon range,Norway
+red fox,taxon range,Ireland
+red fox,IUCN conservation status,Least Concern
+red fox,parent taxon,Vulpes
+red fox,taxon rank,species
+red fox,taxon range,Hungary
+red fox,taxon range,Spain
+red fox,original combination,Canis vulpes
+red fox,main food source,fruit
+red fox,taxon range,Belgium
+red fox,taxon range,Luxembourg
+red fox,main food source,Oryctolagus
+red fox,taxon range,Finland
+red fox,taxon range,United States of America
+red fox,taxon range,Sweden
+red fox,taxon range,Denmark
+red fox,taxon range,Poland
+red fox,habitat,forest
+red fox,taxon range,Lithuania
+red fox,taxon range,Switzerland
+red fox,taxon range,Austria
+red fox,taxon range,Greece
+red fox,invasive to,Australia
+red fox,taxon range,Turkey
+red fox,taxon range,Portugal
+red fox,invasive to,Australian continent
+red fox,taxon range,Netherlands
+red fox,taxon range,Egypt
+red fox,taxon range,France
+red fox,taxon range,United Kingdom
+red fox,taxon range,People's Republic of China
+red fox,taxon range,Russia
+red fox,taxon range,Germany
+red fox,taxon range,Belarus
+red fox,taxon range,Estonia
+red fox,taxon range,Latvia
+red fox,taxon range,Ukraine
+red fox,taxon range,Czech Republic
+red fox,taxon range,Slovakia
+red fox,taxon range,Slovenia
+red fox,taxon range,Romania
+red fox,taxon range,Bulgaria
+red fox,taxon range,Croatia
+red fox,taxon range,Azerbaijan
+red fox,taxon range,Andorra
+red fox,taxon range,Georgia
+red fox,taxon range,Kazakhstan
+red fox,taxon range,Vatican City
+red fox,taxon range,San Marino
+red fox,taxon range,Algeria
+red fox,taxon range,Liechtenstein
+red fox,taxon range,Cambodia
+red fox,taxon range,India
+red fox,taxon range,Mongolia
+red fox,taxon range,Iran
+red fox,taxon range,Kyrgyzstan
+red fox,taxon range,Laos
+red fox,taxon range,Myanmar
+red fox,taxon range,Tajikistan
+red fox,taxon range,Nepal
+red fox,taxon range,Thailand
+red fox,taxon range,Turkmenistan
+red fox,taxon range,Vietnam
+red fox,taxon range,Afghanistan
+red fox,taxon range,Bangladesh
+red fox,taxon range,Bhutan
+red fox,taxon range,Tunisia
+red fox,taxon range,Libya
+red fox,taxon range,Morocco
+red fox,taxon range,Korea
+red fox,taxon range,Holarctic realm
+red fox,taxon range,Nanling Mountains
+headdress,subclass of,headgear
+featherwork,instance of,craft
+featherwork,instance of,technique
+featherwork,product or material produced or service provided,featherwork
+featherwork,subclass of,process
+Mallorca,official language,Spanish
+Mallorca,country,Spain
+Mallorca,occupant,People from Mallorca
+Mallorca,located in/on physical feature,Gymnesian Islands
+Mallorca,highest point,Puig Major
+Mallorca,part of,Gymnesian Islands
+Mallorca,official language,Catalan
+Mallorca,diocese,Roman Catholic Diocese of Majorca
+Mallorca,located in or next to body of water,Mediterranean Sea
+Mallorca,continent,Europe
+Mallorca,anthem,La Balanguera
+Mallorca,instance of,island
+Mallorca,category for people born here,Category:Born in Mallorca
+Mallorca,patron saint,Immaculate Conception of Mary
+Mallorca,patron saint,Alphonsus Rodriguez
+Mallorca,category for maps,Category:Maps of Mallorca
+Mallorca,category of associated people,Category:People from Mallorca
+Mallorca,executive body,Mallorca Insular Council
+Mallorca,history of topic,history of Majorca
+Mallorca,category for people who died here,Category:Deaths in Majorca
+Etruscans,indigenous to,Italy
+Etruscans,uses,human sacrifice
+Etruscans,said to be the same as,Rasenna
+Etruscans,time period,classical antiquity
+Etruscans,instance of,civilization
+Etruscans,religion or worldview,Etruscan mythology
+Etruscans,instance of,historical ethnic group
+Etruscans,instance of,culture
+Etruscans,studied in,etruscology
+Etruscans,culture,Etruscan culture
+Etruscans,has part(s),Etruscan archaic period
+Etruscans,has part(s),Etruscan Hellenistic period
+Etruscans,has part(s),Etruscan Orientalizing period
+Etruscans,has part(s),Etruscan classical period
+Etruscans,has part(s),Etruscan society
+Etruscans,has part(s),Etruscan culture
+Etruscans,native language,Etruscan
+Majorica,country,Spain
+Majorica,instance of,trademark
+Majorica,instance of,enterprise
+Majorica,headquarters location,Manacor
+Majorica,legal form,joint-stock company
+Majorica,product or material produced or service provided,Majorica pearl
+decoration,subclass of,decoration
+decoration,subclass of,work of art
+decoration,has part(s),adornment in Islam
+decoration,subclass of,costume accessory
+Russia,country,Russia
+Russia,member of,Group on Earth Observations
+Russia,member of,ASEAN Regional Forum
+Russia,member of,Multilateral Investment Guarantee Agency
+Russia,member of,Missile Technology Control Regime
+Russia,member of,Nuclear Suppliers Group
+Russia,head of government,Mikhail Mishustin
+Russia,member of,Commonwealth of Independent States Free Trade Area
+Russia,member of,Treaty on Open Skies
+Russia,member of,Central Asian Cooperation Organization
+Russia,member of,Barents Euro-Arctic Council
+Russia,part of,Europe
+Russia,continent,Europe
+Russia,instance of,country
+Russia,part of,Post-Soviet states
+Russia,part of,European Union tax haven blacklist
+Russia,instance of,federation
+Russia,instance of,secular state
+Russia,instance of,successor state
+Russia,instance of,sovereign state
+Russia,instance of,transcontinental country
+Russia,head of state,Vladimir Putin
+Russia,located in time zone,UTC+02:00
+Russia,patron saint,Andrew the Apostle
+Russia,shares border with,Japan
+Russia,shares border with,Norway
+Russia,shares border with,Finland
+Russia,shares border with,United States of America
+Russia,member of,Commonwealth of Independent States
+Russia,official language,Russian
+Russia,member of,United Nations
+Russia,capital,Moscow
+Russia,member of,World Trade Organization
+Russia,shares border with,Poland
+Russia,shares border with,Sweden
+Russia,member of,UNESCO
+Russia,shares border with,Lithuania
+Russia,member of,World Health Organization
+Russia,member of,United Nations Security Council
+Russia,member of,Universal Postal Union
+Russia,member of,G20
+Russia,member of,Organization for Security and Co-operation in Europe
+Russia,member of,World Meteorological Organization
+Russia,shares border with,People's Republic of China
+Russia,member of,Interpol
+Russia,member of,states with nuclear weapons
+Russia,member of,International Bank for Reconstruction and Development
+Russia,member of,International Hydrographic Organization
+Russia,member of,International Civil Defence Organisation
+Russia,member of,Union State
+Russia,shares border with,Latvia
+Russia,member of,Arctic Council
+Russia,member of,BRICS
+Russia,member of,Collective Security Treaty Organization
+Russia,member of,Organization of the Black Sea Economic Cooperation
+Russia,member of,Shanghai Cooperation Organisation
+Russia,member of,Asia-Pacific Economic Cooperation
+Russia,member of,International Telecommunication Union
+Russia,member of,Council of the Baltic Sea States
+Russia,member of,International Development Association
+Russia,shares border with,Belarus
+Russia,shares border with,Estonia
+Russia,basic form of government,super-presidential republic
+Russia,shares border with,Georgia
+Russia,member of,BRIC
+Russia,member of,Organisation for the Prohibition of Chemical Weapons
+Russia,shares border with,Azerbaijan
+Russia,member of,International Finance Corporation
+Russia,shares border with,Ukraine
+Russia,highest point,Mount Elbrus
+Russia,shares border with,North Korea
+Russia,shares border with,Kazakhstan
+Russia,main regulatory text,Constitution of Russia
+Russia,anthem,State Anthem of the Russian Federation
+Russia,shares border with,Mongolia
+Russia,ethnic group,Ukrainians
+Russia,shares border with,European Union
+Russia,located in/on physical feature,Eurasia
+Russia,ethnic group,Tatars
+Russia,ethnic group,Chechens
+Russia,ethnic group,Russians
+Russia,follows,Russian Soviet Federative Socialist Republic
+Russia,shares border with,Kherson State
+Russia,office held by head of government,Prime Minister of Russia
+Russia,located in or next to body of water,Black Sea
+Russia,central bank,Central Bank of Russia
+Russia,located in or next to body of water,Pacific Ocean
+Russia,located in or next to body of water,Arctic Ocean
+Russia,participant in,Intermediate-Range Nuclear Forces Treaty
+Russia,participant in,Russo-Georgian War
+Russia,ethnic group,Chuvash people
+Russia,participant in,War in Abkhazia
+Russia,participant in,annexation of Crimea by the Russian Federation
+Russia,located in or next to body of water,Sea of Japan
+Russia,located in or next to body of water,Kara Sea
+Russia,located in or next to body of water,Caspian Sea
+Russia,replaces,Russian Soviet Federative Socialist Republic
+Russia,located in or next to body of water,Bering Sea
+Russia,located in or next to body of water,Baltic Sea
+Russia,coat of arms,coat of arms of Russia
+Russia,replaces,Soviet Union
+Russia,located in or next to body of water,Laptev Sea
+Russia,located in or next to body of water,Sea of Azov
+Russia,located in or next to body of water,Sea of Okhotsk
+Russia,located in or next to body of water,White Sea
+Russia,located in or next to body of water,Chukchi Sea
+Russia,participant in,Russian invasion of Ukraine
+Russia,participant in,"Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts"
+Russia,executive body,Government of Russia
+Russia,category for people born here,Category:Births in Russia
+Russia,list of monuments,Russian cultural heritage register
+Russia,located in or next to body of water,Barents Sea
+Russia,significant event,economic sanctions against the Russian Federation
+Russia,significant event,Russian invasion of Ukraine
+Russia,located in or next to body of water,Pechora Sea
+Russia,located in or next to body of water,Shantar Sea
+Russia,located in or next to body of water,Queen Victoria Sea
+Russia,located in or next to body of water,East Siberian Sea
+Russia,significant event,First Chechen War
+Russia,significant event,default
+Russia,category for people who died here,Category:Deaths in Russia
+Russia,legislative body,Federal Assembly of the Russian Federation
+Russia,separated from,Soviet Union
+Russia,significant event,1998 Russian financial crisis
+Russia,significant event,"Monetary reform in Russia, 1993"
+Russia,significant event,"Monetary reform in Russia, 1998"
+Russia,significant event,annexation of Crimea by the Russian Federation
+Russia,driving side,right
+Russia,category of associated people,Category:People of Russia
+Russia,category for people buried here,Category:Burials in Russia
+Russia,category for films shot at this location,Category:Films shot in Russia
+Russia,lowest point,Caspian Sea
+Russia,culture,culture of Russia
+Russia,studied in,Russian studies
+Russia,geography of topic,geography of Russia
+Russia,electrical plug type,Schuko
+Russia,electrical plug type,Europlug
+Russia,office held by head of state,President of Russia
+Russia,has characteristic,not-free country
+Russia,history of topic,history of Russia
+Russia,official observer status in organisation,CERN
+Russia,official observer status in organisation,Organisation of Islamic Cooperation
+Russia,category for maps,Category:Maps of Russia
+Russia,open data portal,Open Data Portal Russia
+Russia,category for honorary citizens of entity,Category:Honorary citizens from Russia
+Russia,economy of topic,economy of Russia
+Russia,demographics of topic,demographics of Russia
+Russia,permanent duplicated item,Ruslun
+Russia,official religion,non-denominational
+Russia,designated as terrorist by,Poland
+Russia,designated as terrorist by,Lithuania
+Russia,designated as terrorist by,Netherlands
+Russia,designated as terrorist by,Estonia
+Russia,designated as terrorist by,Latvia
+Russia,designated as terrorist by,Ukraine
+Russia,railway traffic side,right
+Russia,designated as terrorist by,Czech Republic
+Russia,designated as terrorist by,Slovakia
+Russia,designated as terrorist by,NATO
+Russia,designated as terrorist by,European Parliament
+Russia,designated as terrorist by,Parliamentary Assembly of the Council of Europe
+Netherlands,located in time zone,UTC+01:00
+Netherlands,part of,European Union
+Netherlands,located in time zone,UTC+02:00
+Netherlands,highest point,Mount Scenery
+Netherlands,head of government,Dick Schoof
+Netherlands,part of,Benelux
+Netherlands,country,Kingdom of the Netherlands
+Netherlands,part of,Kingdom of the Netherlands
+Netherlands,member of,NATO
+Netherlands,said to be the same as,European Netherlands
+Netherlands,member of,UNESCO
+Netherlands,member of,International Monetary Fund
+Netherlands,member of,World Health Organization
+Netherlands,member of,World Trade Organization
+Netherlands,economy of topic,economy of the Netherlands
+Netherlands,continent,Europe
+Netherlands,member of,Interpol
+Netherlands,member of,Council of Europe
+Netherlands,instance of,country
+Netherlands,member of,European Economic Area
+Netherlands,member of,Benelux
+Netherlands,capital,Amsterdam
+Netherlands,instance of,country of the Kingdom of the Netherlands
+Netherlands,category for honorary citizens of entity,Category:Honorary citizens from the Netherlands
+Netherlands,member of,International Organization for Standardization
+Netherlands,member of,Universal Postal Union
+Netherlands,demographics of topic,demographics of the Netherlands
+Netherlands,head of state,Willem-Alexander of the Netherlands
+Netherlands,member of,International Olympic Committee
+Netherlands,member of,World Customs Organization
+Netherlands,member of,Eurocontrol
+Netherlands,member of,Organization for Economic Cooperation and Development
+Netherlands,member of,International Atomic Energy Agency
+Netherlands,member of,International Development Association
+Netherlands,member of,International Chamber of Commerce
+Netherlands,member of,International Fund for Agricultural Development
+Netherlands,member of,United Nations Peacekeeping Force in Cyprus
+Netherlands,member of,Australia Group
+Netherlands,member of,International Holocaust Remembrance Alliance
+Netherlands,member of,International Energy Agency
+Netherlands,member of,European Space Agency
+Netherlands,member of,CERN
+Netherlands,shares border with,Belgium
+Netherlands,member of,Inter-American Development Bank
+Netherlands,member of,European Payments Union
+Netherlands,member of,Group of Ten
+Netherlands,member of,International Federation of Red Cross and Red Crescent Societies
+Netherlands,member of,International Trade Union Confederation
+Netherlands,member of,International Criminal Court
+Netherlands,shares border with,Germany
+Netherlands,member of,Multilateral Investment Guarantee Agency
+Netherlands,member of,Permanent Court of Arbitration
+Netherlands,has cabinet,Cabinet of the Netherlands
+Netherlands,basic form of government,constitutional monarchy
+Netherlands,member of,Nuclear Suppliers Group
+Netherlands,member of,Treaty on Open Skies
+Netherlands,member of,Schengen Area
+Netherlands,member of,Visa Waiver Program
+Netherlands,member of,National Education Association
+Netherlands,member of,Group on Earth Observations
+Netherlands,member of,Organization for Security and Co-operation in Europe
+Netherlands,member of,International Labour Organization
+Netherlands,office held by head of government,Prime Minister of the Netherlands
+Netherlands,member of,United Nations Institute for Training and Research
+Netherlands,member of,Office of the United Nations High Commissioner for Refugees
+Netherlands,member of,European Air Transport Command
+Netherlands,member of,Zangger Committee
+Netherlands,member of,European Southern Observatory
+Netherlands,anthem,Wilhelmus
+Netherlands,official language,Dutch
+Netherlands,has characteristic,free country
+Netherlands,basic form of government,parliamentary monarchy
+Netherlands,member of,International Civil Aviation Organization
+Netherlands,member of,European Coal and Steel Community
+Netherlands,member of,World Meteorological Organization
+Netherlands,lowest point,Zuidplaspolder
+Netherlands,member of,Asian Development Bank
+Netherlands,member of,United Nations Conference on Trade and Development
+Netherlands,member of,Food and Agriculture Organization
+Netherlands,central bank,De Nederlandsche Bank
+Netherlands,member of,International Hydrographic Organization
+Netherlands,member of,Bank for International Settlements
+Netherlands,category of associated people,Category:Dutch people
+Netherlands,member of,Dutch Language Union
+Netherlands,owner of,The Milkmaid
+Netherlands,owner of,Girl with a Pearl Earring
+Netherlands,member of,European Investment Bank
+Netherlands,member of,International Maritime Organization
+Netherlands,member of,African Development Bank
+Netherlands,member of,International Telecommunication Union
+Netherlands,member of,Antarctic Treaty System
+Netherlands,driving side,right
+Netherlands,member of,United Nations Industrial Development Organization
+Netherlands,member of,Accreditation Organisation of the Netherlands and Flanders
+Netherlands,member of,Paris Club
+Netherlands,owner of,Het Loo Palace
+Netherlands,owner of,Novagraaf
+Netherlands,category for films shot at this location,Category:Films shot in the Netherlands
+Netherlands,electrical plug type,Schuko
+Netherlands,electrical plug type,Europlug
+Netherlands,replaces,United Kingdom of the Netherlands
+Netherlands,list of monuments,list of war memorials in Nederland
+Netherlands,permanent duplicated item,Netherlands
+Netherlands,member of,International Organization for Migration
+Netherlands,member of,Economic and Monetary Union of the European Union
+Netherlands,category for people buried here,Category:Burials in the Netherlands
+Netherlands,located in or next to body of water,Caribbean Sea
+Netherlands,member of,European Bank for Reconstruction and Development
+Netherlands,legislative body,States General
+Netherlands,executive body,Government of the Netherlands
+Netherlands,geography of topic,geography of the Netherlands
+Netherlands,participant in,Pacific War
+Netherlands,culture,culture of the Netherlands
+Netherlands,motto,Je maintiendrai
+Netherlands,history of topic,history of the Netherlands
+Netherlands,office held by head of state,King of the Netherlands
+Netherlands,located in or next to body of water,North Sea
+Netherlands,located in or next to body of water,Wadden Sea
+Netherlands,category for people born here,Category:Births in the Netherlands
+Netherlands,category for people who died here,Category:Deaths in the Netherlands
+Netherlands,located in or next to body of water,IJsselmeer
+Netherlands,located in or next to body of water,Gooimeer
+Netherlands,located in or next to body of water,Markermeer
+Netherlands,open data portal,Open Data Portal Netherlands
+Netherlands,coat of arms,coat of arms of the Netherlands
+feather,made from material,feather
+feather,subclass of,material
+feather,subclass of,animal product
+feather,subclass of,art material
+feather,natural product of taxon,bird
+fashion product,subclass of,product
+fashion product,facet of,fashion
+sword,instance of,weapon functional class
+sword,subclass of,piercing-cutting weapon
+sword,subclass of,edged and bladed weapon
+sword,has part(s),hilt
+sword,has part(s),crossguard
+sword,has part(s),handle
+sword,has part(s),blade
+sword,used by,swordfighter
+sword,permanent duplicated item,Double-edged sword
+culture,instance of,concept
+culture,manifestation of,social norm
+culture,manifestation of,mores
+culture,history of topic,cultural history
+culture,named after,Ur
+culture,named after,cult
+culture,studied in,anthropology
+culture,subclass of,pattern of behavior
+culture,studied in,cultural history
+culture,studied in,ethnography
+culture,practiced by,culture personality
+culture,geography of topic,cultural geography
+culture,studied in,cultural studies
+culture,studied in,sociology of culture
+culture,studied in,philosophy of culture
+culture,has part(s),art
+culture,has part(s),artificial physical object
+culture,has part(s),human behavior
+culture,has part(s),cultural rights
+culture,has part(s),belief system
+culture,has characteristic,cultural universal
+Great Moravia,capital,Veligrad
+Great Moravia,continent,Europe
+Great Moravia,instance of,historical country
+Great Moravia,official language,Old Church Slavonic
+Great Moravia,shares border with,East Francia
+Great Moravia,shares border with,First Bulgarian Empire
+Great Moravia,basic form of government,patrimonialism
+Great Moravia,follows,Samo's Empire
+Great Moravia,follows,Principality of Nitra
+Great Moravia,follows,Moravian Principality
+Great Moravia,office held by head of state,Duke of Moravia
+Great Moravia,category for maps,Category:Maps of Great Moravia
+court jeweler,instance of,occupation
+court jeweler,instance of,historical profession
+court jeweler,subclass of,jeweler
+court jeweler,subclass of,position
+court jeweler,subclass of,court artist
+court jeweler,field of this occupation,jewelry
+Slavic art,instance of,art by ethnic group
+Slavic art,part of,Slavic culture
+Slavic art,ethnic group,Slavs
+Slavic art,has part(s),Slavic jewellery
+Slavic art,has part(s),icon
+Slavic art,has part(s),Slavic frescos
+Ukraine,country,Ukraine
+Ukraine,head of government,Denys Shmyhal
+Ukraine,foundational text,Declaration of Independence of Ukraine
+Ukraine,foundational text,Declaration of State Sovereignty of Ukraine
+Ukraine,instance of,sovereign state
+Ukraine,part of,Europe
+Ukraine,part of,Eastern Europe
+Ukraine,member of,Commonwealth of Independent States
+Ukraine,continent,Europe
+Ukraine,history of topic,history of Ukraine
+Ukraine,head of state,Volodymyr Zelenskyy
+Ukraine,part of,Post-Soviet states
+Ukraine,member of,United Nations
+Ukraine,member of,UNESCO
+Ukraine,member of,World Health Organization
+Ukraine,member of,Organization for Security and Co-operation in Europe
+Ukraine,located in time zone,UTC+02:00
+Ukraine,member of,Council of Europe
+Ukraine,shares border with,Poland
+Ukraine,member of,Interpol
+Ukraine,located in time zone,UTC+03:00
+Ukraine,member of,International Civil Defence Organisation
+Ukraine,member of,World Meteorological Organization
+Ukraine,member of,World Trade Organization
+Ukraine,member of,Organization of the Black Sea Economic Cooperation
+Ukraine,capital,Kyiv
+Ukraine,member of,International Bank for Reconstruction and Development
+Ukraine,member of,Universal Postal Union
+Ukraine,electrical plug type,Schuko
+Ukraine,electrical plug type,Europlug
+Ukraine,located in time zone,Eastern European Time
+Ukraine,member of,International Centre for Settlement of Investment Disputes
+Ukraine,member of,World Customs Organization
+Ukraine,member of,International Finance Corporation
+Ukraine,member of,International Development Association
+Ukraine,member of,Organisation for the Prohibition of Chemical Weapons
+Ukraine,official language,Ukrainian
+Ukraine,located in time zone,Europe/Kyiv
+Ukraine,member of,International Hydrographic Organization
+Ukraine,member of,GUAM Organization for Democracy and Economic Development
+Ukraine,shares border with,Belarus
+Ukraine,member of,Eurocontrol
+Ukraine,member of,Australia Group
+Ukraine,member of,International Telecommunication Union
+Ukraine,studied in,Ukrainian studies
+Ukraine,shares border with,Hungary
+Ukraine,geography of topic,geography of Ukraine
+Ukraine,member of,Commonwealth of Independent States Free Trade Area
+Ukraine,member of,Treaty on Open Skies
+Ukraine,member of,Group on Earth Observations
+Ukraine,member of,Montenegro–Ukraine Free Trade Area
+Ukraine,member of,Lublin Triangle
+Ukraine,shares border with,Moldova
+Ukraine,shares border with,Slovakia
+Ukraine,highest point,Hoverla
+Ukraine,ethnic group,Jewish people
+Ukraine,member of,Multilateral Investment Guarantee Agency
+Ukraine,member of,Missile Technology Control Regime
+Ukraine,member of,Nuclear Suppliers Group
+Ukraine,anthem,"Shche ne vmerla Ukrainy i slava, i volia"
+Ukraine,native language,Russian
+Ukraine,ethnic group,Ukrainians
+Ukraine,permanent duplicated item,Ukraine
+Ukraine,main regulatory text,Constitution of Ukraine
+Ukraine,shares border with,Russia
+Ukraine,native language,Armenian
+Ukraine,culture,culture of Ukraine
+Ukraine,shares border with,Romania
+Ukraine,ethnic group,Belarusians
+Ukraine,ethnic group,Poles in Ukraine
+Ukraine,ethnic group,Romanians in Ukraine
+Ukraine,ethnic group,Bulgarians in Ukraine
+Ukraine,significant event,Declaration of Independence of Ukraine
+Ukraine,significant event,Orange Revolution
+Ukraine,ethnic group,Crimean Tatars
+Ukraine,ethnic group,Russians in Ukraine
+Ukraine,member of,Association Trio
+Ukraine,award received,The Economist country of the year
+Ukraine,follows,Ukrainian Soviet Socialist Republic
+Ukraine,native language,Belarusian
+Ukraine,native language,Ukrainian
+Ukraine,named after,name of Ukraine
+Ukraine,has part(s),Autonomous Republic of Crimea
+Ukraine,follows,Ukrainian People's Republic
+Ukraine,significant event,Russo-Ukrainian War
+Ukraine,ethnic group,Moldovans
+Ukraine,ethnic group,Hungarians in Ukraine
+Ukraine,shares border with,European Union
+Ukraine,significant event,Russian invasion of Ukraine
+Ukraine,legislative body,Verkhovna Rada
+Ukraine,significant event,Declaration of State Sovereignty of Ukraine
+Ukraine,significant event,Euromaidan
+Ukraine,has part(s),oblast of Ukraine
+Ukraine,native language,Bulgarian
+Ukraine,basic form of government,semi-presidential system
+Ukraine,executive body,Cabinet of Ministers of Ukraine
+Ukraine,participant in,Russian invasion of Ukraine
+Ukraine,central bank,National Bank of Ukraine
+Ukraine,coat of arms,coat of arms of Ukraine
+Ukraine,office held by head of government,Prime Minister of Ukraine
+Ukraine,category for people who died here,Category:Deaths in Ukraine
+Ukraine,lowest point,Kuyalnik Estuary
+Ukraine,replaces,Soviet Union
+Ukraine,category for films shot at this location,Category:Films shot in Ukraine
+Ukraine,has characteristic,partly free country
+Ukraine,category for people born here,Category:Births in Ukraine
+Ukraine,replaces,Ukrainian Soviet Socialist Republic
+Ukraine,category for people buried here,Category:Burials in Ukraine
+Ukraine,category of associated people,Category:Ukrainian people
+Ukraine,replaces,Ukrainian People's Republic
+Ukraine,office held by head of state,President of Ukraine
+Ukraine,railway traffic side,right
+Ukraine,driving side,right
+Ukraine,category for maps,Category:Maps of Ukraine
+Ukraine,funder,European Union
+Ukraine,open data portal,data.gov.ua
+Ukraine,economy of topic,economy of Ukraine
+Ukraine,demographics of topic,demographics of Ukraine
+Ukraine,category for honorary citizens of entity,Category:Honorary citizens from Ukraine
+filigree,subclass of,jewelry
+filigree,said to be the same as,skan
+filigree,country of origin,Serbia
+filigree,intangible cultural heritage status,Inventory of Intangible cultural heritage of Serbia
+umbrella term,said to be the same as,hypernym
+umbrella term,said to be the same as,generic term
+umbrella term,said to be the same as,broader term
+umbrella term,partially coincident with,blanket term
+umbrella term,named after,umbrella
+umbrella term,instance of,term
+umbrella term,subclass of,name
+umbrella term,subclass of,word or phrase
+tail,has characteristic,prehensility
+tail,subclass of,appendage
+tail,subclass of,animal structure
+tail,has use,movement
+Slavic culture,instance of,group of cultures by ethnic group
+Slavic culture,location,Eurasia
+Slavic culture,location,North Asia
+Slavic culture,location,Southern Europe
+Slavic culture,location,Eastern Europe
+Slavic culture,location,Northern Europe
+Slavic culture,subclass of,culture of Europe
+Slavic culture,location,Central Europe
+Slavic culture,part of,culture of Asia
+Slavic culture,part of,culture of Europe
+Slavic culture,has list,list of Slavic cultures
+Slavic culture,has part(s),Slavonic ornament
+Slavic culture,has part(s),Slavic art
+Slavic culture,has part(s),Slavic cuisine
+Slavic culture,has part(s),Slavic folk culture
+Slavic culture,has part(s),Slavic tradition
+Slavic culture,has part(s),Slavic dance
+Slavic culture,has part(s),Slavic mythology
+Slavic culture,has part(s),Slavic calendar
+Slavic culture,has part(s),Slavic folklore
+Slavic culture,indigenous to,Slavs
+United States of America,country,United States of America
+United States of America,head of government,Joe Biden
+United States of America,ethnic group,White Americans
+United States of America,ethnic group,African Americans
+United States of America,ethnic group,Native Americans in the United States
+United States of America,ethnic group,Asian Americans
+United States of America,legislative body,United States Congress
+United States of America,part of,North America
+United States of America,located in or next to body of water,Atlantic Ocean
+United States of America,instance of,country
+United States of America,located in or next to body of water,Pacific Ocean
+United States of America,"has seal, badge, or sigil",Great Seal of the United States of America
+United States of America,continent,North America
+United States of America,instance of,sovereign state
+United States of America,instance of,federal republic
+United States of America,instance of,constitutional republic
+United States of America,capital,"Washington, D.C."
+United States of America,located in or next to body of water,Arctic Ocean
+United States of America,instance of,Democratic Republic
+United States of America,instance of,superpower
+United States of America,coat of arms,Great Seal of the United States of America
+United States of America,official language,English
+United States of America,executive body,Federal Government of the United States
+United States of America,located in time zone,UTC−08:00
+United States of America,head of state,Joe Biden
+United States of America,located in time zone,UTC−12:00
+United States of America,located in time zone,UTC−11:00
+United States of America,located in time zone,Atlantic Time Zone
+United States of America,located in time zone,UTC−09:00
+United States of America,located in time zone,UTC−06:00
+United States of America,located in time zone,UTC−04:00
+United States of America,located in time zone,UTC+10:00
+United States of America,located in time zone,UTC−07:00
+United States of America,located in time zone,UTC+12:00
+United States of America,shares border with,Canada
+United States of America,located in time zone,UTC−05:00
+United States of America,shares border with,Mexico
+United States of America,anthem,The Star-Spangled Banner
+United States of America,significant event,Black Monday
+United States of America,significant event,2007–2008 financial crisis
+United States of America,located in time zone,Alaska Time Zone
+United States of America,located in time zone,Chamorro Time Zone
+United States of America,located in time zone,Samoa Time Zone
+United States of America,significant event,assassination of Abraham Lincoln
+United States of America,significant event,Utah War
+United States of America,located in time zone,Central Time Zone
+United States of America,located in time zone,Mountain Time Zone
+United States of America,main regulatory text,United States Constitution
+United States of America,basic form of government,republic
+United States of America,significant event,Mormon Trail
+United States of America,significant event,Iraq War
+United States of America,significant event,Klondike Gold Rush
+United States of America,significant event,1992 Los Angeles riots
+United States of America,significant event,COVID-19 pandemic in the United States
+United States of America,foundational text,United States Declaration of Independence
+United States of America,basic form of government,presidential system
+United States of America,named after,Americas
+United States of America,significant event,Great Depression in the United States
+United States of America,significant event,Missouri Compromise
+United States of America,significant event,United States subprime mortgage crisis
+United States of America,significant event,United Nations Operation in Somalia II
+United States of America,significant event,1838 Mormon War
+United States of America,significant event,Battle of Nauvoo
+United States of America,significant event,signing of the United States Declaration of Independence
+United States of America,significant event,US intervention in the Syrian civil war
+United States of America,member of,United Nations
+United States of America,said to be the same as,Union
+United States of America,basic form of government,federal republic
+United States of America,member of,UNESCO
+United States of America,member of,World Health Organization
+United States of America,member of,World Trade Organization
+United States of America,member of,NATO
+United States of America,member of,Universal Postal Union
+United States of America,highest point,Denali
+United States of America,member of,Interpol
+United States of America,member of,G20
+United States of America,office held by head of government,President of the United States
+United States of America,member of,United Nations Security Council
+United States of America,member of,Asia-Pacific Economic Cooperation
+United States of America,member of,Arctic Council
+United States of America,member of,International Energy Agency
+United States of America,member of,Organization of American States
+United States of America,member of,Organization for Economic Cooperation and Development
+United States of America,central bank,Federal Reserve System
+United States of America,significant event,World War I
+United States of America,member of,North American Free Trade Agreement
+United States of America,member of,United Nations Human Rights Council
+United States of America,member of,World Meteorological Organization
+United States of America,significant event,World War II
+United States of America,member of,Organisation for the Prohibition of Chemical Weapons
+United States of America,significant event,Korean War
+United States of America,member of,ABCANZ Armies
+United States of America,member of,Movement Coordination Centre Europe
+United States of America,member of,AUSCANNZUKUS
+United States of America,member of,Air Force Interoperability Council
+United States of America,member of,Combined Communications-Electronics Board
+United States of America,member of,International Hydrographic Organization
+United States of America,member of,Group of Ten
+United States of America,member of,Strategic Airlift Capability
+United States of America,member of,G7
+United States of America,significant event,Vietnam War
+United States of America,member of,International Telecommunication Union
+United States of America,member of,Group on Earth Observations
+United States of America,member of,The Technical Cooperation Program
+United States of America,significant event,September 11 attacks
+United States of America,significant event,Hurricane Katrina
+United States of America,significant event,atomic bombings of Hiroshima and Nagasaki
+United States of America,significant event,Mexican-American War
+United States of America,significant event,War of 1812
+United States of America,significant event,Spanish–American War
+United States of America,significant event,American Civil War
+United States of America,significant event,Cuban Missile Crisis
+United States of America,significant event,assassination of John F. Kennedy
+United States of America,significant event,2011 military intervention in Libya
+United States of America,significant event,War in Afghanistan
+United States of America,significant event,Gulf War
+United States of America,significant event,Watergate scandal
+United States of America,significant event,Attack on Pearl Harbor
+United States of America,significant event,Alaska Purchase
+United States of America,significant event,Bleeding Kansas
+United States of America,significant event,Apollo 11
+United States of America,participant in,Battle of Kwajalein
+United States of America,participant in,Battle of Eniwetok
+United States of America,participant in,Ukraine–United States relations
+United States of America,participant in,Battle of Cecina
+United States of America,replaces,Confederate States
+United States of America,significant event,Great Recession
+United States of America,significant event,NATO bombing of Yugoslavia
+United States of America,replaces,Thirteen Colonies
+United States of America,significant event,Louisiana Purchase
+United States of America,motto,In God We Trust
+United States of America,present in work,The City on the Edge of Forever
+United States of America,category for people born here,Category:Births in the United States
+United States of America,category for people who died here,Category:Deaths in the United States
+United States of America,participant in,atomic bombings of Hiroshima and Nagasaki
+United States of America,participant in,American Revolutionary War
+United States of America,participant in,Korean War
+United States of America,has characteristic,free country
+United States of America,participant in,Pacific War
+United States of America,participant in,Battle of Ap Bac
+United States of America,driving side,right
+United States of America,participant in,Vietnam War
+United States of America,owner of,White House
+United States of America,participant in,NATO bombing of Yugoslavia
+United States of America,lowest point,Badwater Basin
+United States of America,participant in,Intermediate-Range Nuclear Forces Treaty
+United States of America,category of associated people,Category:American people
+United States of America,owner of,Number One Observatory Circle
+United States of America,owner of,Monument commémoratif de Monsec
+United States of America,owner of,Aliiolani Hale
+United States of America,owner of,Rolandstraße 67
+United States of America,owner of,D.C. Armory
+United States of America,owner of,"Fort Madison, Nuku Hiva"
+United States of America,owner of,Global Memory Net
+United States of America,owner of,John Joseph Moakley United States Courthouse
+United States of America,owner of,Revolutionary War Door
+United States of America,owner of,Trowbridge House
+United States of America,owner of,World Heritage Memory Net
+United States of America,owner of,Petschek Villa
+United States of America,owner of,Deichmanns Aue 31–37
+United States of America,owner of,John Paul Hammerschmidt Federal Building
+United States of America,participant in,Red Scare
+United States of America,participant in,Battle of Long Island
+United States of America,participant in,Battle of the Lys
+United States of America,office held by head of state,President of the United States
+United States of America,owner of,"American Legation, Tangier"
+United States of America,owner of,The Plum
+United States of America,owner of,Blair House
+United States of America,owner of,Palais Blücher
+United States of America,participant in,Second Opium War
+United States of America,participant in,Syrian civil war
+United States of America,category for films shot at this location,Category:Films shot in the United States
+United States of America,category for people buried here,Category:Burials in the United States
+United States of America,participant in,Battle of Brandywine
+United States of America,participant in,Battle of Aachen
+United States of America,participant in,Battle of Bunker Hill
+United States of America,participant in,Battle of Bennington
+United States of America,culture,culture of the United States
+United States of America,history of topic,history of the United States
+United States of America,electrical plug type,NEMA 1-15
+United States of America,electrical plug type,NEMA 5-15
+United States of America,official symbol,Bald Eagle
+United States of America,studied in,American studies
+United States of America,geography of topic,geography of the United States
+United States of America,has part(s) of the class,territory of the United States
+United States of America,has part(s) of the class,U.S. state
+United States of America,permanent duplicated item,USA (United States of America)
+United States of America,permanent duplicated item,Istadus Unidus the America
+United States of America,category for maps,Category:Maps of the United States
+United States of America,railway traffic side,right
+United States of America,economy of topic,economy of the United States
+United States of America,contains the statistical territorial entity,United States Minor Outlying Islands
+United States of America,category for honorary citizens of entity,Category:Honorary citizens of the United States
+United States of America,open data portal,data.gov
+United States of America,has cabinet,United States Cabinet
+United States of America,demographics of topic,demographics of the United States
+Chain,instance of,widget
+Chain,instance of,decoration
+Chain,instance of,type of machine element
+Chain,subclass of,mechanism
+Chain,subclass of,assembly
+Chain,subclass of,machine element
+Chain,subclass of,sequence
+Chain,has use,fence
+Chain,has use,physical restraint
+Chain,has use,mechanical tension
+Chain,has use,traction
+Chain,has use,security
+Chain,has use,energy transformation
+Chain,has use,decoration
+Aztec,instance of,civilization
+Aztec,instance of,culture
+Aztec,instance of,historical ethnic group
+Aztec,item operated,Chinampa
+Aztec,history of topic,history of the Aztecs
+Aztec,uses,human sacrifice
+Aztec,indigenous to,Mesoamerica
+Zeeland traditional costume,country,Netherlands
+Zeeland traditional costume,subclass of,traditional costume
+Zeeland traditional costume,indigenous to,Zeeland
+Benin,country,Benin
+Benin,head of government,Patrice Talon
+Benin,instance of,country
+Benin,electrical plug type,Europlug
+Benin,electrical plug type,Type E
+Benin,continent,Africa
+Benin,instance of,sovereign state
+Benin,culture,culture of Benin
+Benin,head of state,Patrice Talon
+Benin,part of,West Africa
+Benin,geography of topic,geography of Benin
+Benin,office held by head of government,President of the Republic of Benin
+Benin,official language,French
+Benin,central bank,Central Bank of West African States
+Benin,category for maps,Category:Maps of Benin
+Benin,capital,Porto-Novo
+Benin,anthem,L'Aube Nouvelle
+Benin,shares border with,Togo
+Benin,member of,United Nations
+Benin,member of,African Union
+Benin,named after,Bight of Benin
+Benin,member of,World Health Organization
+Benin,member of,UNESCO
+Benin,member of,World Trade Organization
+Benin,located in time zone,UTC+01:00
+Benin,member of,Interpol
+Benin,replaces,French West Africa
+Benin,shares border with,Niger
+Benin,economy of topic,economy of Benin
+Benin,shares border with,Burkina Faso
+Benin,member of,Universal Postal Union
+Benin,demographics of topic,demographics of Benin
+Benin,shares border with,Nigeria
+Benin,basic form of government,representative democracy
+Benin,member of,International Civil Defence Organisation
+Benin,member of,World Meteorological Organization
+Benin,located in time zone,Africa/Porto-Novo
+Benin,category for people born here,Category:Births in Benin
+Benin,member of,Organisation of Islamic Cooperation
+Benin,member of,International Telecommunication Union
+Benin,legislative body,National Assembly
+Benin,executive body,Government of Benin
+Benin,coat of arms,coat of arms of Benin
+Benin,member of,International Bank for Reconstruction and Development
+Benin,member of,World Customs Organization
+Benin,member of,International Finance Corporation
+Benin,member of,Economic Community of West African States
+Benin,member of,Organisation internationale de la Francophonie
+Benin,member of,International Development Association
+Benin,member of,"Organisation of African, Caribbean and Pacific States"
+Benin,member of,African Development Bank
+Benin,highest point,Mont Sokbaro
+Benin,member of,Organisation for the Prohibition of Chemical Weapons
+Benin,member of,International Centre for Settlement of Investment Disputes
+Benin,member of,Conseil de l'Entente
+Benin,member of,Multilateral Investment Guarantee Agency
+Benin,member of,OHADA
+Benin,located in or next to body of water,Atlantic Ocean
+Benin,member of,AFRISTAT
+Benin,category for people who died here,Category:Deaths in Benin
+Benin,located in/on physical feature,West Africa
+Benin,has characteristic,free country
+Benin,lowest point,Bight of Benin
+Benin,category for films shot at this location,Category:Films shot in Benin
+Benin,driving side,right
+Benin,office held by head of state,President of the Republic of Benin
+Benin,category of associated people,Category:Beninese people
+Benin,history of topic,history of Benin
+pocket watch,subclass of,watch
+Swedish royal family,country,Sweden
+Swedish royal family,instance of,royal family
+Swedish royal family,has part(s),Carl XVI Gustaf of Sweden
+Swedish royal family,has part(s),Queen Silvia of Sweden
+Swedish royal family,has part(s),"Victoria, Crown Princess of Sweden"
+Swedish royal family,has part(s),"Prince Daniel, Duke of Västergötland"
+Swedish royal family,has part(s),"Prince Carl Philip, Duke of Värmland"
+Swedish royal family,has part(s),"Princess Sofia, Duchess of Värmland"
+Swedish royal family,has part(s),"Princess Madeleine, Duchess of Hälsingland and Gästrikland"
+Swedish royal family,has part(s),"Princess Estelle, Duchess of Östergötland"
+Swedish royal family,has part(s),"Princess Adrienne, Duchess of Blekinge"
+Swedish royal family,has part(s),"Princess Leonore, Duchess of Gotland"
+Swedish royal family,has part(s),"Prince Nicolas, Duke of Ångermanland"
+Swedish royal family,owner of,Swedish Royal House jewellery
+Swedish royal family,has part(s),"Prince Oscar, Duke of Skåne"
+Swedish royal family,has part(s),"Prince Alexander, Duke of Södermanland"
+Swedish royal family,has part(s),"Prince Gabriel, Duke of Dalarna"
+Bernadotte Family Foundation,legal form,stiftelse
+Bernadotte Family Foundation,country,Sweden
+Bernadotte Family Foundation,instance of,nonprofit organization
+ring,named after,digit
+ring,subclass of,bijou
+button,subclass of,costume accessory
+button,subclass of,fastener
+button,part of,clothing
+Algeria,head of government,Nadir Larbaoui
+Algeria,instance of,country
+Algeria,continent,Africa
+Algeria,instance of,people's republic
+Algeria,instance of,sovereign state
+Algeria,part of,France
+Algeria,instance of,Mediterranean country
+Algeria,official language,Arabic
+Algeria,part of,Arab world
+Algeria,head of state,Abdelmadjid Tebboune
+Algeria,part of,Muslim world
+Algeria,part of,North Africa
+Algeria,official language,Standard Algerian Berber
+Algeria,located in or next to body of water,Mediterranean Sea
+Algeria,highest point,Mount Tahat
+Algeria,shares border with,Spain
+Algeria,capital,Algiers
+Algeria,legislative body,Parliament of Algeria
+Algeria,executive body,Government of Algeria
+Algeria,shares border with,Mauritania
+Algeria,shares border with,Libya
+Algeria,located in time zone,UTC+01:00
+Algeria,shares border with,Italy
+Algeria,basic form of government,semi-presidential system
+Algeria,member of,UNESCO
+Algeria,anthem,Kassaman
+Algeria,shares border with,Tunisia
+Algeria,member of,World Health Organization
+Algeria,significant event,Algerian Civil War
+Algeria,significant event,Algerian War
+Algeria,member of,Arab League
+Algeria,coat of arms,Emblem of Algeria
+Algeria,shares border with,Morocco
+Algeria,shares border with,Mali
+Algeria,main regulatory text,Constitution of Algeria
+Algeria,member of,Organization of the Petroleum Exporting Countries
+Algeria,member of,United Nations
+Algeria,significant event,Evian Accords
+Algeria,significant event,Sand War
+Algeria,member of,African Union
+Algeria,member of,Interpol
+Algeria,member of,World Trade Organization
+Algeria,member of,International Bank for Reconstruction and Development
+Algeria,member of,Organisation of Islamic Cooperation
+Algeria,member of,International Hydrographic Organization
+Algeria,member of,African Development Bank
+Algeria,member of,International Civil Defence Organisation
+Algeria,member of,World Meteorological Organization
+Algeria,madhhab,Malikism
+Algeria,economy of topic,economy of Algeria
+Algeria,office held by head of state,President of Algeria
+Algeria,owner of,El Mouradia Palace
+Algeria,member of,Organisation for the Prohibition of Chemical Weapons
+Algeria,shares border with,Niger
+Algeria,member of,Universal Postal Union
+Algeria,shares border with,Western Sahara
+Algeria,demographics of topic,demographics of Algeria
+Algeria,member of,World Customs Organization
+Algeria,member of,Arab Monetary Fund
+Algeria,member of,International Finance Corporation
+Algeria,member of,International Development Association
+Algeria,category of associated people,Category:Algerian people
+Algeria,has characteristic,not-free country
+Algeria,member of,International Telecommunication Union
+Algeria,driving side,right
+Algeria,history of topic,history of Algeria
+Algeria,member of,Arab Maghreb Union
+Algeria,central bank,Bank of Algeria
+Algeria,member of,Arab Bank for Economic Development in Africa
+Algeria,member of,Group on Earth Observations
+Algeria,member of,International Centre for Settlement of Investment Disputes
+Algeria,member of,Multilateral Investment Guarantee Agency
+Algeria,member of,Arab Fund for Economic and Social Development
+Algeria,office held by head of government,Prime Minister of Algeria
+Algeria,category for films shot at this location,Category:Films shot in Algeria
+Algeria,category for people buried here,Category:Burials in Algeria
+Algeria,lowest point,Chott Melrhir
+Algeria,geography of topic,geography of Algeria
+Algeria,official religion,Islam
+Algeria,electrical plug type,Schuko
+Algeria,electrical plug type,Europlug
+Algeria,electrical plug type,Type E
+Algeria,category for people born here,Category:Births in Algeria
+Algeria,motto,By the people and for the people
+Algeria,category for people who died here,Category:Deaths in Algeria
+Algeria,culture,culture of Algeria
+Algeria,studied in,Algerian studies
+Algeria,participant in,Sand War
+Algeria,category for maps,Category:Maps of Algeria
+Algeria,railway traffic side,left
+Berber,subclass of,Afroasiatic peoples
+Berber,part of,Afroasiatic peoples
+Berber,subclass of,tribe
+Berber,country,Egypt
+Berber,country,Algeria
+Berber,country,Mali
+Berber,country,Tunisia
+Berber,has part(s),Tachelhit people
+Berber,has part(s),Riffian people
+Berber,country,Burkina Faso
+Berber,has part(s),Ghomara
+Berber,has part(s),Chaoui people
+Berber,has part(s),Kabyle people
+Berber,country,Libya
+Berber,instance of,ethnic group
+Berber,native language,Berber
+Berber,country,Mauritania
+Berber,religion or worldview,Christianity
+Berber,religion or worldview,Judaism
+Berber,country,Morocco
+Berber,country,Niger
+Berber,religion or worldview,Sunni Islam
+Ipswich,category of associated people,Category:People from Ipswich
+Ipswich,owner of,Portman Road
+Ipswich,country,United Kingdom
+Ipswich,instance of,civil parish
+Ipswich,instance of,county town
+Ipswich,located in or next to body of water,River Orwell
+Ipswich,located in or next to body of water,River Gipping
+Ipswich,historic county,Suffolk
+Ipswich,category for maps,Category:Maps of Ipswich
+Ipswich,twinned administrative body,Arras
+Ipswich,located in time zone,UTC±00:00
+Ipswich,located in time zone,UTC+01:00
+Ipswich,capital of,Ipswich
+Ipswich,capital of,Suffolk
+Ipswich,category for people who died here,Category:Deaths in Ipswich
+Etruscan art,instance of,style
+Etruscan art,instance of,art by ethnic group
+Etruscan art,part of,Etruscan culture
+Etruscan art,subclass of,ancient art
+Etruscan art,has part(s),Etruscan sculpture
+Etruscan art,has part(s),Etruscan jewelry
+Etruscan art,has part(s),etruscan painting
+Etruscan art,has part(s),Etruscan architecture
+hanfu,subclass of,Chinese clothing
+hanfu,country of origin,People's Republic of China
+hairstyle accessory,subclass of,costume accessory
+hairstyle accessory,has use,hairstyle
+Tunisia,country,Tunisia
+Tunisia,follows,Beylik of Tunis
+Tunisia,head of government,Ahmed Hachani
+Tunisia,ethnic group,Arabs
+Tunisia,legislative body,Assembly of the Representatives of the People
+Tunisia,history of topic,history of Tunisia
+Tunisia,part of,North Africa
+Tunisia,culture,culture of Tunisia
+Tunisia,part of,European Union tax haven blacklist
+Tunisia,instance of,country
+Tunisia,located in or next to body of water,Mediterranean Sea
+Tunisia,instance of,republic
+Tunisia,instance of,sovereign state
+Tunisia,instance of,Mediterranean country
+Tunisia,continent,Africa
+Tunisia,executive body,Government of Tunisia
+Tunisia,geography of topic,geography of Tunisia
+Tunisia,award received,The Economist country of the year
+Tunisia,twinned administrative body,Seto
+Tunisia,located in time zone,UTC+01:00
+Tunisia,central bank,Central Bank of Tunisia
+Tunisia,located in time zone,UTC+02:00
+Tunisia,located in time zone,Central European Time
+Tunisia,located in time zone,Africa/Tunis
+Tunisia,coat of arms,coat of arms of Tunisia
+Tunisia,member of,United Nations
+Tunisia,head of state,Kais Saied
+Tunisia,visitor center,Tunisian National Tourist Office
+Tunisia,member of,Organisation for the Prohibition of Chemical Weapons
+Tunisia,member of,World Customs Organization
+Tunisia,member of,Community of Sahel-Saharan States
+Tunisia,member of,Arab Monetary Fund
+Tunisia,member of,International Finance Corporation
+Tunisia,member of,African Union
+Tunisia,member of,International Development Association
+Tunisia,member of,International Monetary Fund
+Tunisia,capital,Tunis
+Tunisia,member of,Arab League
+Tunisia,member of,World Health Organization
+Tunisia,office held by head of government,Prime Minister of Tunisia
+Tunisia,member of,Universal Postal Union
+Tunisia,member of,International Centre for Settlement of Investment Disputes
+Tunisia,member of,Multilateral Investment Guarantee Agency
+Tunisia,member of,UNESCO
+Tunisia,replaces,French protectorate of Tunisia
+Tunisia,official language,Arabic
+Tunisia,member of,World Trade Organization
+Tunisia,member of,Arab Fund for Economic and Social Development
+Tunisia,member of,Arab Bank for Economic Development in Africa
+Tunisia,member of,Group on Earth Observations
+Tunisia,member of,International Atomic Energy Agency
+Tunisia,electrical plug type,Europlug
+Tunisia,electrical plug type,Type E
+Tunisia,member of,Interpol
+Tunisia,member of,International Civil Defence Organisation
+Tunisia,member of,World Meteorological Organization
+Tunisia,shares border with,Libya
+Tunisia,member of,Organisation of Islamic Cooperation
+Tunisia,member of,UN Tourism
+Tunisia,member of,International Civil Aviation Organization
+Tunisia,member of,African Development Bank
+Tunisia,member of,Arab Maghreb Union
+Tunisia,basic form of government,semi-presidential system
+Tunisia,category for maps,Category:Maps of Tunisia
+Tunisia,member of,World Intellectual Property Organization
+Tunisia,member of,Organisation internationale de la Francophonie
+Tunisia,named after,Tunis
+Tunisia,member of,International Bank for Reconstruction and Development
+Tunisia,member of,International Telecommunication Union
+Tunisia,shares border with,Algeria
+Tunisia,member of,United Nations–African Union Hybrid Operation in Darfur
+Tunisia,economy of topic,economy of Tunisia
+Tunisia,anthem,Humat Al Hima
+Tunisia,basic form of government,parliamentary republic
+Tunisia,madhhab,Malikism
+Tunisia,member of,Union for the Mediterranean
+Tunisia,member of,International Maritime Organization
+Tunisia,member of,International Hydrographic Organization
+Tunisia,demographics of topic,demographics of Tunisia
+Tunisia,category for people who died here,Category:Deaths in Tunisia
+Tunisia,category for people born here,Category:Births in Tunisia
+Tunisia,railway traffic side,left
+Tunisia,archives at,National Archives of Tunisia
+Tunisia,has characteristic,free country
+Tunisia,lowest point,Shatt al Gharsah
+Tunisia,highest point,Jebel ech Chambi
+Tunisia,driving side,right
+Tunisia,category of associated people,Category:Tunisian people
+Tunisia,category for people buried here,Category:Burials in Tunisia
+Tunisia,category for films shot at this location,Category:Films shot in Tunisia
+Tunisia,office held by head of state,President of Tunisia
+goldwork,subclass of,metal artwork
+goldwork,made from material,gold
+National Inventory of Living Heritage in Finland,instance of,national inventory of intangible cultural heritage
+National Inventory of Living Heritage in Finland,country,Finland
+National Inventory of Living Heritage in Finland,has part(s),list of UNESCO Intangible Cultural Heritage elements in Finland
+National Inventory of Living Heritage in Finland,maintained by,Finnish Heritage Agency
+National Inventory of Living Heritage in Finland,has list,Intangible Cultural Heritage in Finland
+National Inventory of Living Heritage in Finland,operating area,Finland
+steel,instance of,alloy
+steel,subclass of,iron alloy
+steel,color,gray
+steel,has part(s),carbon
+steel,has part(s),iron
+steel,fabrication method,steelmaking
+torc,part of,Slavic art
+torc,part of,Slavic jewellery
+torc,location,Europe
+torc,subclass of,necklace
+torc,subclass of,jewelry
+torc,culture,Slavic culture
+torc,indigenous to,Slavs
+torc,time period,Bronze Age
+torc,time period,Iron Age
+Black Hills,country,United States of America
+Black Hills,made from material,slate
+Black Hills,made from material,quartzite
+Black Hills,made from material,shale
+Black Hills,part of,Badlands and Black Hills
+Black Hills,instance of,mountain range
+Black Hills,instance of,holy place
+Black Hills,highest point,Black Elk Peak
+Black Hills,made from material,sandstone
+Black Hills,made from material,limestone
+Black Hills,made from material,granite
+Black Hills,made from material,sedimentary rock
+Black Hills,time period,Paleozoic
+Black Hills,time period,Mesozoic
+Black Hills,time period,Cenozoic
+Black Hills,time period,Tertiary
+Black Hills,time period,Precambrian
+Black Hills,mountain range,Rocky Mountains
+Bronze Age,instance of,archaeological age
+Bronze Age,follows,Stone Age
+Bronze Age,named after,bronze
+Bronze Age,follows,Chalcolithic
+Bronze Age,followed by,Iron Age
+Bronze Age,subclass of,prehistory
+Bronze Age,part of,Holocene
+Bronze Age,has part(s),Middle Bronze Age
+Bronze Age,has part(s),Tumulus culture
+Bronze Age,has part(s),Early Bronze Age
+Bronze Age,has part(s),Late Bronze Age
+Bronze Age,has part(s),Gandhara grave culture
+clasp,subclass of,fastener
+clasp,subclass of,jewelry
+metalworking,subclass of,field of work
+metalworking,subclass of,material process
+metalworking,part of,manufacturing engineering
+metalworking,product or material produced or service provided,metal object
+metalworking,uses,metal
+metalworking,uses,machine tool
+metalworking,practiced by,metalworker
+metalworking,object class of occurrence,metal
+Kolt,instance of,decoration
+Kolt,instance of,Slavic art
+Kolt,part of,Slavic jewellery
+Kolt,culture,Slavic culture
+Temple ring,part of,Slavic jewellery
+Temple ring,subclass of,costume accessory
+Temple ring,subclass of,Slavic art
+Temple ring,culture,Slavic culture
+Temple ring,indigenous to,Slavs
+Kaptorga,part of,Slavic jewellery
+Kaptorga,culture,Slavic culture
+Kaptorga,instance of,jewelry
+Kaptorga,instance of,Category:Byzantine art
+hook,instance of,type of physical object by use
+hook,subclass of,fastener
+hook,subclass of,connector
+Morocco,country,Morocco
+Morocco,head of government,Aziz Akhannouch
+Morocco,demographics of topic,demographics of Morocco
+Morocco,madhhab,Malikism
+Morocco,part of,North Africa
+Morocco,continent,Africa
+Morocco,instance of,constitutional monarchy
+Morocco,located in time zone,UTC±00:00
+Morocco,instance of,sovereign state
+Morocco,instance of,country
+Morocco,instance of,Mediterranean country
+Morocco,located in time zone,UTC+01:00
+Morocco,located in time zone,Africa/Casablanca
+Morocco,capital,Rabat
+Morocco,head of state,Mohammed VI of Morocco
+Morocco,member of,United Nations
+Morocco,railway traffic side,left
+Morocco,member of,African Union
+Morocco,official language,Standard Moroccan Amazigh
+Morocco,official language,Arabic
+Morocco,member of,Arab League
+Morocco,lowest point,Sebkha Tah
+Morocco,has characteristic,partly free country
+Morocco,member of,UNESCO
+Morocco,anthem,Cherifian Anthem
+Morocco,shares border with,Algeria
+Morocco,member of,World Trade Organization
+Morocco,member of,Interpol
+Morocco,member of,Maghreb
+Morocco,member of,International Atomic Energy Agency
+Morocco,shares border with,Spain
+Morocco,member of,Universal Postal Union
+Morocco,member of,World Health Organization
+Morocco,member of,International Bank for Reconstruction and Development
+Morocco,basic form of government,constitutional monarchy
+Morocco,member of,Arab Maghreb Union
+Morocco,member of,International Telecommunication Union
+Morocco,member of,International Hydrographic Organization
+Morocco,member of,African Development Bank
+Morocco,member of,Organisation of Islamic Cooperation
+Morocco,member of,World Customs Organization
+Morocco,shares border with,European Union
+Morocco,member of,Organisation internationale de la Francophonie
+Morocco,member of,International Civil Defence Organisation
+Morocco,open data portal,Morocco Data Portal
+Morocco,named after,west
+Morocco,member of,Arab Monetary Fund
+Morocco,member of,International Finance Corporation
+Morocco,driving side,right
+Morocco,named after,Mauri people
+Morocco,named after,Marrakesh
+Morocco,category for films shot at this location,Category:Films shot in Morocco
+Morocco,member of,Eurocontrol
+Morocco,member of,International Development Association
+Morocco,member of,Organisation for the Prohibition of Chemical Weapons
+Morocco,category of associated people,Category:Moroccan people
+Morocco,member of,International Centre for Settlement of Investment Disputes
+Morocco,member of,Multilateral Investment Guarantee Agency
+Morocco,member of,Arab Fund for Economic and Social Development
+Morocco,member of,Arab Bank for Economic Development in Africa
+Morocco,member of,Group on Earth Observations
+Morocco,member of,World Meteorological Organization
+Morocco,category for people buried here,Category:Burials in Morocco
+Morocco,category for maps,Category:Maps of Morocco
+Morocco,history of topic,history of Morocco
+Morocco,office held by head of government,Prime Minister of Morocco
+Morocco,central bank,Bank Al-Maghrib
+Morocco,office held by head of state,King of Morocco
+Morocco,culture,culture of Morocco
+Morocco,economy of topic,economy of Morocco
+Morocco,electrical plug type,Europlug
+Morocco,electrical plug type,Type E
+Morocco,ethnic group,Arab-Berber
+Morocco,geography of topic,geography of Morocco
+Morocco,legislative body,Parliament of Morocco
+Morocco,executive body,Cabinet of Morocco
+Morocco,located in or next to body of water,Atlantic Ocean
+Morocco,located in or next to body of water,Mediterranean Sea
+Morocco,located in or next to body of water,Strait of Gibraltar
+Morocco,visitor center,Moroccan National Tourism Office
+Morocco,coat of arms,coat of arms of Morocco
+Morocco,official religion,Islam
+Morocco,category for people who died here,Category:Deaths in Morocco
+Morocco,category for people born here,Category:Births in Morocco
+Morocco,highest point,Jbel Toubkal
+bead,subclass of,material
+bead,subclass of,art material
+bead,subclass of,work of art
+bead,fabrication method,beadmaking
+Slavonic ornament,instance of,script style
+Slavonic ornament,subclass of,ornament
+Slavonic ornament,ethnic group,Slavs
+Slavonic ornament,writing system,Glagolitic
+Slavonic ornament,writing system,Church Slavonic alphabet
+Slavonic ornament,has use,architecture
+Slavonic ornament,has part(s),Glagolitic ornaments
+Slavonic ornament,has use,Slavic embroidery
+Slavonic ornament,has use,Embroidery of the Slavs
+Slavonic ornament,has use,Church Slavonic manuscript
+Slavonic ornament,has use,jewelry
+Slavonic ornament,studied in,Slavic studies
+Glagolitic ornaments,instance of,script style
+Glagolitic ornaments,subclass of,ornament
+Glagolitic ornaments,subclass of,Slavonic ornament
+Glagolitic ornaments,part of,Slavonic ornament
+Glagolitic ornaments,ethnic group,Slavs
+Glagolitic ornaments,writing system,Glagolitic
+Glagolitic ornaments,writing system,Glagolitic numerals
+Glagolitic ornaments,has use,Church Slavonic manuscript
+Glagolitic ornaments,has use,Slavic jewellery
+Glagolitic ornaments,has use,architecture
+Glagolitic ornaments,grammatical aspect,Slavonic grammar
+Glagolitic ornaments,culture,Slavic culture
+Glagolitic ornaments,language of work or name,Church Slavonic
+art style,instance of,metaclass
+art style,subclass of,style
+art style,subclass of,art genre
+art style,has list,list of art styles by period
+art style,is metaclass for,art
+Slavs,instance of,panethnicity
+Slavs,Christian liturgical rite,Slavic liturgy
+Slavs,native language,Slavic
+Slavs,category for maps,Category:Maps of the Slavs
+Slavs,native language,Old Church Slavonic
+Slavs,religion or worldview,Islam
+Slavs,religion or worldview,Catholicism
+Slavs,religion or worldview,Christianity
+Slavs,religion or worldview,atheism
+Slavs,religion or worldview,Protestantism
+Slavs,religion or worldview,paganism
+Slavs,religion or worldview,Sunni Islam
+Slavs,religion or worldview,Slavic religion
+Slavs,religion or worldview,Rodnovery
+Slavs,subclass of,Indo-European people
+Slavs,writing system,Cyrillic numerals
+Slavs,religion or worldview,Eastern Orthodoxy
+Slavs,writing system,Cyrillic script
+Slavs,writing system,Church Slavonic alphabet
+Slavs,writing system,Slavonic runes
+Slavs,writing system,Slavonic musical notation
+Slavs,writing system,Glagolitic
+Slavs,has part(s),North Slavs
+Slavs,has part(s),Ancient Slavs
+Slavs,has part(s),East Slavs
+Slavs,has part(s),South Slavs
+Slavs,has part(s),Bavaria Slavica
+Slavs,has part(s),West Slavs
+Slavs,foods traditionally associated,Slavic cuisine
+Slavs,indigenous to,Eurasia
+Slavs,indigenous to,Eastern Europe
+Slavs,studied in,Slavic studies
+Slavs,culture,Slavic culture
+golden hat,made from material,gold leaf
+golden hat,subclass of,archaeological artifact
+golden hat,part of,Bronze Age golden hat goldsmithing style
+golden hat,subclass of,work of art
+golden hat,part of,Bronze Age
+golden hat,has part(s),Berlin Gold Hat
+golden hat,has part(s),Golden Hat of Schifferstadt
+golden hat,has part(s),Golden Cone of Ezelsdorf-Buch
+golden hat,has part(s),Avanton Gold Cone
+memorial,properties for this type,elevation above sea level
+memorial,said to be the same as,monument
+memorial,has part(s),commemorative plaque
+memorial,subclass of,memory space
+memorial,subclass of,monument
+memorial,properties for this type,coordinate location
+memorial,properties for this type,country
+memorial,properties for this type,image
+memorial,properties for this type,located in the administrative territorial entity
+memorial,properties for this type,manifestation of
+memorial,properties for this type,CWGC burial ground ID
+memorial,properties for this type,unveiled by
+memorial,properties for this type,inscription
+memorial,properties for this type,name in kana
+memorial,properties for this type,operator
+memorial,properties for this type,creator
+memorial,properties for this type,made from material
+memorial,properties for this type,Commons category
+memorial,properties for this type,commemorates
+memorial,properties for this type,inception
+China,said to be the same as,Greater China
+China,instance of,country
+China,located in time zone,UTC+08:00
+China,continent,Asia
+China,has part(s),People's Republic of China
+China,instance of,cultural region
+China,instance of,divided region
+China,instance of,ancient civilization
+China,named after,Han dynasty
+China,named after,Chengdu
+China,has part(s),Taiwan
+China,named after,Jin
+China,named after,Tuoba
+China,named after,Qin
+China,named after,Khitan people
+China,named after,Chu
+China,has part(s),Huaxia
+China,has part(s),Chinese Empire
+China,has contributing factor,pan-nationalism
+China,category for people buried here,Category:Burials in China
+China,has part(s),Republic of China
+China,partially coincident with,Chinese civilization
+China,permanent duplicated item,China region
+China,named after,Qi
+China,named after,Rinan
+China,named after,Northern Wei
+China,history of topic,history of China
+China,category for maps,Category:Maps of China
+China,named after,Yelang
+China,named after,Dahe
+Ipswich Museum,country,United Kingdom
+Ipswich Museum,instance of,local authority museum
+Ipswich Museum,instance of,art museum
+Ipswich Museum,instance of,local museum
+Ipswich Museum,instance of,natural history museum
+Ipswich Museum,part of,Colchester and Ipswich Museums Service
+Ipswich Museum,has facility,accessible toilet
+Ipswich Museum,associated electoral district,Ipswich
+Ipswich Museum,historic county,Suffolk
+mourning dress,subclass of,clothing
+mourning dress,subclass of,dress
+mourning dress,facet of,mourning
+artistic technique,subclass of,technique
+product category,instance of,second-order class
+product category,instance of,metaclass
+product category,partially coincident with,product type
+product category,has characteristic,economic statistics
+product category,subclass of,group
+product category,subclass of,type of object
+product category,properties for this type,has use
+product category,is metaclass for,product
+fastener,instance of,type of machine element
+fastener,instance of,type of physical object by use
+fastener,has use,fastening
+fastener,subclass of,connector
+fastener,subclass of,physical tool
+fastener,subclass of,machine element
+profession,instance of,second-order class
+profession,instance of,metaclass
+profession,subclass of,occupation
+profession,opposite of,hobby
+profession,has characteristic,professionalism
+profession,has characteristic,specialty
+profession,properties for this type,image
+profession,properties for this type,Commons category
+profession,studied in,sociology of professions
+profession,properties for this type,field of this occupation
+profession,properties for this type,ISCO-88 occupation class
+profession,properties for this type,male form of label
+profession,properties for this type,female form of label
+profession,practiced by,professional
+jeweler,instance of,profession
+jeweler,named after,jewelry
+jeweler,subclass of,jewellery and precious metal worker
+jeweler,subclass of,merchant
+jeweler,subclass of,salesperson
+jeweler,subclass of,tradesperson
+jeweler,facet of,goldsmithing
+jeweler,typically sells,jewelry
+list of medalists,instance of,Wikimedia list article
+list of medalists,main subject,medalist
+list of medalists,is a list of,human
+sculptor,instance of,artistic profession
+sculptor,has list,list of sculptors
+sculptor,subclass of,artisan
+sculptor,subclass of,visual artist
+sculptor,subclass of,plastic artist
+sculptor,field of this occupation,ceramic sculpture
+sculptor,field of this occupation,art of sculpture
+sculptor,product or material produced or service provided,sculpture
+sculptor,category for eponymous categories,Category:Wikipedia categories named after sculptors
+artistic creation,said to be the same as,composing
+artistic creation,said to be the same as,creativity
+artistic creation,subclass of,animal behaviour
+artistic creation,subclass of,creation
+artistic creation,subclass of,artistic activity
+artistic creation,uses,creativity
+artistic creation,product or material produced or service provided,work of art
+artistic creation,immediate cause of,work of art
+artistic creation,practiced by,screenwriter
+artistic creation,practiced by,engraver
+artistic creation,practiced by,painter
+artistic creation,practiced by,writer
+artistic creation,practiced by,journalist
+artistic creation,practiced by,sculptor
+artistic creation,practiced by,restorer
+artistic creation,practiced by,etcher
+artistic creation,practiced by,drawer
+tableware,subclass of,kitchenware
+tableware,part of,everyday culture
+tableware,part of,eating
+tableware,has part(s),plate
+tableware,has part(s),teacup
+tableware,has part(s),cup
+tableware,has part(s),cutlery
+medallion,instance of,type of award
+medallion,subclass of,award
+medallion,subclass of,work with multiple executions
+medallion,subclass of,monetiform object
+medallion,subclass of,work of art
+medallion,said to be the same as,decoration
+medallion,studied in,numismatics
+jewelry design,subclass of,hobby
+jewelry design,collection,Victoria and Albert Museum
+jewelry design,subclass of,design
+jewelry design,subclass of,industry
+jewelry design,practiced by,jewelry designer
+civil servant,instance of,profession
+civil servant,instance of,position
+civil servant,part of,officialdom
+civil servant,subclass of,bureaucrat
+civil servant,subclass of,official
+civil servant,subclass of,government employee
+civil servant,field of this occupation,civil service
+civil servant,opposite of,military personnel
+civil servant,properties for this type,position held
+civil servant,properties for this type,employer
+metalsmith,subclass of,metalworker
+metalsmith,instance of,profession
+metalsmith,instance of,occupation
+metalsmith,field of this occupation,forging
+metalsmith,field of this occupation,metal arts
+metalsmith,field of this occupation,metalsmithing
+metalsmith,field of this occupation,metal chisellery
+hardstone carving,instance of,handicraft
+hardstone carving,subclass of,artistic technique
+hardstone carving,studied in,glyptology
+hardstone carving,practiced by,gem engraver
+John the Evangelist,place of birth,Judaea
+John the Evangelist,place of birth,Galilee
+John the Evangelist,father,Zebedee
+John the Evangelist,sex or gender,male
+John the Evangelist,mother,Salome
+John the Evangelist,instance of,human
+John the Evangelist,place of death,Ephesus
+John the Evangelist,occupation,evangelist
+John the Evangelist,instance of,human biblical figure
+John the Evangelist,religion or worldview,Christianity
+John the Evangelist,part of,Four Evangelists
+John the Evangelist,said to be the same as,John the Apostle
+John the Evangelist,said to be the same as,disciple whom Jesus loved
+John the Evangelist,said to be the same as,John the Presbyter
+John the Evangelist,said to be the same as,John of Patmos
+John the Evangelist,canonization status,saint
+John the Evangelist,given name,Yohanan
+John the Evangelist,feast day,December 27
+John the Evangelist,partner in business or sport,"St. James the Elder, Apostle"
+John the Evangelist,iconographic symbol,eagle
+artist,category for eponymous categories,Category:Wikipedia categories named after artists
+artist,instance of,artistic profession
+artist,instance of,occupation
+artist,subclass of,creator
+artist,said to be the same as,Artist
+artist,field of this occupation,art
+artist,field of this occupation,art competitions at the Olympic Games
+art,has characteristic,art genre
+art,has characteristic,art style
+art,instance of,essentially contested concept
+art,instance of,field of work
+art,instance of,economic sector
+art,instance of,academic major
+art,has characteristic,Classificatory disputes about art
+art,has characteristic,type of arts
+art,instance of,academic discipline
+art,instance of,matter
+art,properties for this type,country
+art,properties for this type,Commons category
+art,history of topic,history of art
+art,subclass of,recreation
+art,studied in,art
+art,properties for this type,topic's main category
+art,part of,culture
+art,studied in,art history
+art,part of,arts
+art,studied in,sociology of art
+art,studied in,art practice
+art,practiced by,artist
+art,practiced by,art writer
+art,practiced by,fictional artist
+art,product or material produced or service provided,work of art
+Monnaie de Paris,country,France
+Monnaie de Paris,has works in the collection,STAM Ghent City Museum
+Monnaie de Paris,has works in the collection,Smithsonian American Art Museum
+Monnaie de Paris,has works in the collection,Collection Sports Heritage NOC*NSF
+Monnaie de Paris,has works in the collection,National Museum Paleis het Loo
+Monnaie de Paris,instance of,organization
+Monnaie de Paris,founded by,Charles the Bald
+Monnaie de Paris,owned by,Agence des participations de l'État
+Monnaie de Paris,headquarters location,Paris
+Monnaie de Paris,located on street,quai de Conti
+Monnaie de Paris,location of formation,Paris
+Monnaie de Paris,work location,Paris
+Monnaie de Paris,significant event,Edict of Pîtres
+Monnaie de Paris,director / manager,Marc Schwartz
+Monnaie de Paris,legal form,national public industrial or commercial establishment without a public accountant
+banker,instance of,profession
+banker,instance of,occupation
+banker,subclass of,bank employee
+banker,field of this occupation,bank
+banker,subclass of,businessperson
+banker,patron saint,Matthew the Apostle
+steel engraving,instance of,artistic technique
+steel engraving,subclass of,intaglio printing
+steel engraving,product or material produced or service provided,steel engraving print
+steel engraving,practiced by,steel engraver
+list of jewellery designers,instance of,Wikimedia list of persons by occupation
+list of jewellery designers,category related to list,Category:Jewellery designers
+list of jewellery designers,is a list of,human
+gem cutting,subclass of,cutting
+gem cutting,said to be the same as,facetting
+gem cutting,practiced by,seal cutter
+gem cutting,has contributing factor,gemstone
+gemcutter,instance of,profession
+gemcutter,field of this occupation,diamond cutting
+gemcutter,subclass of,artisan
+gemcutter,subclass of,lapidarian
+position,subclass of,role
+position,has characteristic,job duty
+position,part of,job activity
+position,said to be the same as,title of authority
+position,said to be the same as,corporate title
+position,properties for this type,organization directed by the office or position
+position,properties for this type,country
+position,properties for this type,inception
+position,properties for this type,officeholder
+position,properties for this type,substitute/deputy/replacement of office/officeholder
+rocker,subclass of,hand tool
+rocker,operator,mezzotinter
+rocker,has use,mezzotint technique
+artisan,instance of,profession
+artisan,subclass of,tradesperson
+artisan,subclass of,creator
+artisan,field of this occupation,craft
+artisan,said to be the same as,skilled trade
+artisan,said to be the same as,artstrader
+wood carver,instance of,wood working profession
+wood carver,instance of,occupation
+wood carver,subclass of,artisan
+wood carver,subclass of,woodworker
+wood carver,uses,wood
+wood carver,said to be the same as,carver
+wood carver,field of this occupation,wood carving
+mezzotint technique,subclass of,copper engraving technique
+mezzotint technique,subclass of,intaglio printing
+mezzotint technique,product or material produced or service provided,mezzotint print
+mezzotint technique,practiced by,mezzotinter
+seal cutting,country,China
+seal cutting,instance of,activity
+seal cutting,instance of,type of arts
+seal cutting,subclass of,engraving process
+seal cutting,subclass of,Chinese art
+seal cutting,subclass of,carving
+seal cutting,country of origin,People's Republic of China
+seal cutting,country of origin,China
+seal cutting,practiced by,seal cutter
+seal cutting,product or material produced or service provided,seal
+seal cutting,uses,seal material
+seal cutting,intangible cultural heritage status,Representative List of the Intangible Cultural Heritage of Humanity
+cartographer,instance of,profession
+cartographer,instance of,position
+cartographer,subclass of,geographer
+cartographer,subclass of,drawer
+cartographer,field of this occupation,map library
+cartographer,field of this occupation,cartographic education
+cartographer,field of this occupation,cartography
+cartographer,partially coincident with,Cartographer (vocational)
+cartographer,partially coincident with,cartographer (university)
+cartographer,has list,list of cartographers
+medallic art,instance of,economic activity
+medallic art,instance of,type of arts
+medallic art,subclass of,art of sculpture
+medallic art,practiced by,medalist
+coin,instance of,coin type
+coin,named after,Moneta
+coin,subclass of,cash
+coin,subclass of,sculpture
+coin,subclass of,monetiform object
+coin,subclass of,collectible
+coin,subclass of,item of collection or exhibition
+coin,has characteristic,coin grading
+coin,has characteristic,face value
+coin,has characteristic,fineness
+coin,has characteristic,design of a banknote or a coin
+coin,manifestation of,money
+coin,part of,coin object
+coin,fabrication method,coining
+coin,studied in,numismatics
+coin,opposite of,banknote
+coin,model item,kreuzer
+coin,model item,twenty-five øre
+coin,has part(s),legend (numismatics)
+coin,has part(s),Rim
+coin,has part(s),obverse
+coin,has part(s),coin edge
+coin,has part(s),reverse
+mezzotint print,subclass of,drypoint print
+mezzotint print,fabrication method,mezzotint technique
+painter,uses,easel
+painter,uses,painting material
+painter,instance of,artistic profession
+painter,instance of,occupation
+painter,subclass of,visual artist
+painter,patron saint,Luke the Evangelist
+painter,field of this occupation,art of painting
+painter,field of this occupation,oil painting
+painter,field of this occupation,graphics
+painter,field of this occupation,artistic creation
+painter,properties for this type,Dictionnaire des peintres belges ID
+painter,uses,paint
+painter,uses,paintbrush
+painter,uses,palette
+painter,uses,painting support
+painter,category for eponymous categories,Category:Wikipedia categories named after painters
+photoengraving,instance of,artistic technique
+photoengraving,subclass of,photomechanical process
+photoengraving,practiced by,photoengraver
+religious art,instance of,art genre
+religious art,subclass of,art
+religious art,has effect,religious work of art
+religious art,practiced by,religious artist
+printmaker,instance of,profession
+printmaker,subclass of,graphic artist
+printmaker,field of this occupation,printmaking
+spinner,instance of,profession
+spinner,subclass of,textile worker
+spinner,field of this occupation,spinning
+designer,instance of,profession
+designer,subclass of,artist
+designer,subclass of,creator
+designer,field of this occupation,design
+designer,field of this occupation,industrial design
+designer,field of this occupation,computational design
+metal engraving,country,Egypt
+metal engraving,country,Algeria
+metal engraving,country,Iraq
+metal engraving,country,Yemen
+metal engraving,country,Saudi Arabia
+metal engraving,subclass of,engraving process
+metal engraving,country,Tunisia
+metal engraving,practiced by,metal engraver
+metal engraving,country,Mauritania
+metal engraving,intangible cultural heritage status,Representative List of the Intangible Cultural Heritage of Humanity
+metal engraving,intangible cultural heritage status,National List of the Intangible Cultural Heritage of the Republic of Iraq
+metal engraving,country,Morocco
+metal engraving,country,Sudan
+metal engraving,country,State of Palestine
+occupation,instance of,concept
+occupation,instance of,second-order class
+occupation,subclass of,social position
+occupation,facet of,division of labour
+occupation,has characteristic,work
+occupation,properties for this type,field of this occupation
+occupation,properties for this type,practiced by
+occupation,studied in,sociology of occupation
+occupation,studied in,economics
+ceramicist,instance of,profession
+ceramicist,field of this occupation,ceramic art
+ceramicist,field of this occupation,ceramic sculpture
+ceramicist,subclass of,artisan
+ceramicist,subclass of,visual artist
+engraving,subclass of,illustration
+engraving,subclass of,print
+engraving,fabrication method,engraving process
+historical profession,properties for this type,male form of label
+historical profession,subclass of,profession
+historical profession,subclass of,former entity
+historical profession,properties for this type,female form of label
+historical profession,properties for this type,field of this occupation
+gold thread,practiced by,manufacturer of gold wire
+gold thread,subclass of,metallic thread
+journeyman,instance of,profession
+journeyman,instance of,position
+journeyman,subclass of,skilled worker
+court artist,instance of,profession
+court artist,instance of,court appointment
+court artist,instance of,position
+court artist,instance of,historical profession
+court artist,subclass of,visual artist
+imager,field of this occupation,imagery
+imager,instance of,profession
+imager,subclass of,sculptor
+imager,subclass of,wood carver
+artistic profession,instance of,metaclass
+artistic profession,subclass of,profession
+artistic profession,product or material produced or service provided,work of art
+medal-engraving,practiced by,medal engraver
+seal,made from material,seal material
+seal,subclass of,seal
+seal,subclass of,artificial physical object
+seal,country of origin,China
+seal,fabrication method,seal cutting
