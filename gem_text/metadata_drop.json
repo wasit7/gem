@@ -7,6 +7,14 @@
     "url": "https://en.wikipedia.org/wiki/spherical_body",
     "wiki_id": "Q112511193"
   },
+  "diamond": {
+    "url": "https://en.wikipedia.org/wiki/diamond",
+    "wiki_id": "Q5283"
+  },
+  "carbon": {
+    "url": "https://en.wikipedia.org/wiki/carbon",
+    "wiki_id": "Q623"
+  },
   "ruby": {
     "url": "https://en.wikipedia.org/wiki/ruby",
     "wiki_id": "Q43088"
@@ -15,209 +23,161 @@
     "url": "https://en.wikipedia.org/wiki/red",
     "wiki_id": "Q3142"
   },
-  "emerald": {
-    "url": "https://en.wikipedia.org/wiki/emerald",
-    "wiki_id": "Q43513"
+  "nacre": {
+    "url": "https://en.wikipedia.org/wiki/nacre",
+    "wiki_id": "Q215865"
   },
   "white": {
     "url": "https://en.wikipedia.org/wiki/white",
     "wiki_id": "Q23444"
   },
-  "diamond": {
-    "url": "https://en.wikipedia.org/wiki/diamond",
-    "wiki_id": "Q5283"
-  },
-  "material": {
-    "url": "https://en.wikipedia.org/wiki/material",
-    "wiki_id": "Q214609"
-  },
-  "animal product": {
-    "url": "https://en.wikipedia.org/wiki/animal_product",
-    "wiki_id": "Q629103"
-  },
-  "carbon": {
-    "url": "https://en.wikipedia.org/wiki/carbon",
-    "wiki_id": "Q623"
-  },
-  "nacre": {
-    "url": "https://en.wikipedia.org/wiki/nacre",
-    "wiki_id": "Q215865"
-  },
-  "corundum": {
-    "url": "https://en.wikipedia.org/wiki/corundum",
-    "wiki_id": "Q131777"
+  "emerald": {
+    "url": "https://en.wikipedia.org/wiki/emerald",
+    "wiki_id": "Q43513"
   },
   "gemstone": {
     "url": "https://en.wikipedia.org/wiki/gemstone",
     "wiki_id": "Q83437"
   },
-  "mineral variety": {
-    "url": "https://en.wikipedia.org/wiki/mineral_variety",
-    "wiki_id": "Q429795"
-  },
-  "costume accessory": {
-    "url": "https://en.wikipedia.org/wiki/costume_accessory",
-    "wiki_id": "Q1065579"
+  "animal product": {
+    "url": "https://en.wikipedia.org/wiki/animal_product",
+    "wiki_id": "Q629103"
   },
   "jewelry": {
     "url": "https://en.wikipedia.org/wiki/jewelry",
     "wiki_id": "Q161439"
   },
-  "traditional costume": {
-    "url": "https://en.wikipedia.org/wiki/traditional_costume",
-    "wiki_id": "Q3172759"
-  },
-  "hexagonal crystal system": {
-    "url": "https://en.wikipedia.org/wiki/hexagonal_crystal_system",
-    "wiki_id": "Q663314"
-  },
   "sapphire": {
     "url": "https://en.wikipedia.org/wiki/sapphire",
     "wiki_id": "Q127583"
-  },
-  "rainbow colours": {
-    "url": "https://en.wikipedia.org/wiki/rainbow_colours",
-    "wiki_id": "Q120833460"
-  },
-  "organic gem": {
-    "url": "https://en.wikipedia.org/wiki/organic_gem",
-    "wiki_id": "Q110688445"
-  },
-  "Akik": {
-    "url": "https://en.wikipedia.org/wiki/Akik",
-    "wiki_id": "Q4700957"
-  },
-  "quartz": {
-    "url": "https://en.wikipedia.org/wiki/quartz",
-    "wiki_id": "Q43010"
-  },
-  "beryl": {
-    "url": "https://en.wikipedia.org/wiki/beryl",
-    "wiki_id": "Q103480"
-  },
-  "jade": {
-    "url": "https://en.wikipedia.org/wiki/jade",
-    "wiki_id": "Q175089"
-  },
-  "metamorphic rock": {
-    "url": "https://en.wikipedia.org/wiki/metamorphic_rock",
-    "wiki_id": "Q47069"
-  },
-  "pink": {
-    "url": "https://en.wikipedia.org/wiki/pink",
-    "wiki_id": "Q429220"
-  },
-  "precious stone": {
-    "url": "https://en.wikipedia.org/wiki/precious_stone",
-    "wiki_id": "Q4990682"
-  },
-  "Cardinal gem": {
-    "url": "https://en.wikipedia.org/wiki/Cardinal_gem",
-    "wiki_id": "Q5038632"
-  },
-  "yttrium aluminium garnet": {
-    "url": "https://en.wikipedia.org/wiki/yttrium_aluminium_garnet",
-    "wiki_id": "Q421189"
   },
   "nephrite": {
     "url": "https://en.wikipedia.org/wiki/nephrite",
     "wiki_id": "Q138979"
   },
-  "monoclinic crystal system": {
-    "url": "https://en.wikipedia.org/wiki/monoclinic_crystal_system",
-    "wiki_id": "Q624543"
+  "jade": {
+    "url": "https://en.wikipedia.org/wiki/jade",
+    "wiki_id": "Q175089"
   },
-  "afghanite": {
-    "url": "https://en.wikipedia.org/wiki/afghanite",
-    "wiki_id": "Q978346"
+  "kidney": {
+    "url": "https://en.wikipedia.org/wiki/kidney",
+    "wiki_id": "Q9377"
   },
-  "mineral": {
-    "url": "https://en.wikipedia.org/wiki/mineral",
-    "wiki_id": "Q7946"
+  "mineral variety": {
+    "url": "https://en.wikipedia.org/wiki/mineral_variety",
+    "wiki_id": "Q429795"
   },
-  "amethyst": {
-    "url": "https://en.wikipedia.org/wiki/amethyst",
-    "wiki_id": "Q79058"
+  "beryl": {
+    "url": "https://en.wikipedia.org/wiki/beryl",
+    "wiki_id": "Q103480"
   },
-  "carbon-silicon family": {
-    "url": "https://en.wikipedia.org/wiki/carbon-silicon_family",
-    "wiki_id": "Q13292702"
+  "corundum": {
+    "url": "https://en.wikipedia.org/wiki/corundum",
+    "wiki_id": "Q131777"
   },
-  "cubic crystal system": {
-    "url": "https://en.wikipedia.org/wiki/cubic_crystal_system",
-    "wiki_id": "Q473227"
+  "hexagonal crystal system": {
+    "url": "https://en.wikipedia.org/wiki/hexagonal_crystal_system",
+    "wiki_id": "Q663314"
   },
-  "Afghanistan": {
-    "url": "https://en.wikipedia.org/wiki/Afghanistan",
-    "wiki_id": "Q889"
+  "Cintamani (Gem)": {
+    "url": "https://en.wikipedia.org/wiki/Cintamani_(Gem)",
+    "wiki_id": "Q2963837"
   },
-  "baroque pearl": {
-    "url": "https://en.wikipedia.org/wiki/baroque_pearl",
-    "wiki_id": "Q4863054"
+  "Buddhism": {
+    "url": "https://en.wikipedia.org/wiki/Buddhism",
+    "wiki_id": "Q748"
+  },
+  "material": {
+    "url": "https://en.wikipedia.org/wiki/material",
+    "wiki_id": "Q214609"
+  },
+  "pink": {
+    "url": "https://en.wikipedia.org/wiki/pink",
+    "wiki_id": "Q429220"
+  },
+  "traditional costume": {
+    "url": "https://en.wikipedia.org/wiki/traditional_costume",
+    "wiki_id": "Q3172759"
   },
   "trigonal crystal system": {
     "url": "https://en.wikipedia.org/wiki/trigonal_crystal_system",
     "wiki_id": "Q588274"
   },
-  "blue": {
-    "url": "https://en.wikipedia.org/wiki/blue",
-    "wiki_id": "Q1088"
+  "costume accessory": {
+    "url": "https://en.wikipedia.org/wiki/costume_accessory",
+    "wiki_id": "Q1065579"
   },
   "octahedron": {
     "url": "https://en.wikipedia.org/wiki/octahedron",
     "wiki_id": "Q188884"
   },
-  "grandfathered mineral (G)": {
-    "url": "https://en.wikipedia.org/wiki/grandfathered_mineral_(G)",
-    "wiki_id": "Q13406846"
+  "diamond industry": {
+    "url": "https://en.wikipedia.org/wiki/diamond_industry",
+    "wiki_id": "Q56604589"
   },
-  "cubic-hexoctahedral": {
-    "url": "https://en.wikipedia.org/wiki/cubic-hexoctahedral",
-    "wiki_id": "Q13359931"
-  },
-  "space group Fd-3m": {
-    "url": "https://en.wikipedia.org/wiki/space_group_Fd-3m",
-    "wiki_id": "Q15041895"
+  "Hinduism": {
+    "url": "https://en.wikipedia.org/wiki/Hinduism",
+    "wiki_id": "Q9089"
   },
   "Invincible": {
     "url": "https://en.wikipedia.org/wiki/Invincible",
     "wiki_id": "Q226841"
   },
-  "{111}": {
-    "url": "https://en.wikipedia.org/wiki/{111}",
-    "wiki_id": "Q14754934"
+  "Aggregated diamond nanorod": {
+    "url": "https://en.wikipedia.org/wiki/Aggregated_diamond_nanorod",
+    "wiki_id": "Q393356"
   },
-  "birthstone": {
-    "url": "https://en.wikipedia.org/wiki/birthstone",
-    "wiki_id": "Q1144700"
+  "brilliant": {
+    "url": "https://en.wikipedia.org/wiki/brilliant",
+    "wiki_id": "Q429571"
   },
-  "symbolism": {
-    "url": "https://en.wikipedia.org/wiki/symbolism",
-    "wiki_id": "Q4419563"
+  "organic gem": {
+    "url": "https://en.wikipedia.org/wiki/organic_gem",
+    "wiki_id": "Q110688445"
   },
-  "ammolite": {
-    "url": "https://en.wikipedia.org/wiki/ammolite",
-    "wiki_id": "Q473346"
+  "agate": {
+    "url": "https://en.wikipedia.org/wiki/agate",
+    "wiki_id": "Q123314"
+  },
+  "rainbow colours": {
+    "url": "https://en.wikipedia.org/wiki/rainbow_colours",
+    "wiki_id": "Q120833460"
   },
   "conchoidal fracture": {
     "url": "https://en.wikipedia.org/wiki/conchoidal_fracture",
     "wiki_id": "Q2747476"
   },
-  "diamond industry": {
-    "url": "https://en.wikipedia.org/wiki/diamond_industry",
-    "wiki_id": "Q56604589"
+  "cubic crystal system": {
+    "url": "https://en.wikipedia.org/wiki/cubic_crystal_system",
+    "wiki_id": "Q473227"
   },
-  "Taiwan Black Jade": {
-    "url": "https://en.wikipedia.org/wiki/Taiwan_Black_Jade",
-    "wiki_id": "Q119133376"
+  "monoclinic crystal system": {
+    "url": "https://en.wikipedia.org/wiki/monoclinic_crystal_system",
+    "wiki_id": "Q624543"
   },
-  "Taiwan": {
-    "url": "https://en.wikipedia.org/wiki/Taiwan",
-    "wiki_id": "Q865"
+  "quartz": {
+    "url": "https://en.wikipedia.org/wiki/quartz",
+    "wiki_id": "Q43010"
+  },
+  "afghanite": {
+    "url": "https://en.wikipedia.org/wiki/afghanite",
+    "wiki_id": "Q978346"
+  },
+  "Afghanistan": {
+    "url": "https://en.wikipedia.org/wiki/Afghanistan",
+    "wiki_id": "Q889"
   },
   "allotrope of carbon": {
     "url": "https://en.wikipedia.org/wiki/allotrope_of_carbon",
     "wiki_id": "Q622460"
+  },
+  "precious stone": {
+    "url": "https://en.wikipedia.org/wiki/precious_stone",
+    "wiki_id": "Q4990682"
+  },
+  "mineral": {
+    "url": "https://en.wikipedia.org/wiki/mineral",
+    "wiki_id": "Q7946"
   },
   "covalent network solid": {
     "url": "https://en.wikipedia.org/wiki/covalent_network_solid",
@@ -227,9 +187,121 @@
     "url": "https://en.wikipedia.org/wiki/native_element_mineral",
     "wiki_id": "Q723127"
   },
-  "brilliant": {
-    "url": "https://en.wikipedia.org/wiki/brilliant",
-    "wiki_id": "Q429571"
+  "cat's eye quartz": {
+    "url": "https://en.wikipedia.org/wiki/cat's_eye_quartz",
+    "wiki_id": "Q1736875"
+  },
+  "Patuxent River stone": {
+    "url": "https://en.wikipedia.org/wiki/Patuxent_River_stone",
+    "wiki_id": "Q7148783"
+  },
+  "cat's eye": {
+    "url": "https://en.wikipedia.org/wiki/cat's_eye",
+    "wiki_id": "Q25510612"
+  },
+  "diamond cut": {
+    "url": "https://en.wikipedia.org/wiki/diamond_cut",
+    "wiki_id": "Q12103146"
+  },
+  "mineral species": {
+    "url": "https://en.wikipedia.org/wiki/mineral_species",
+    "wiki_id": "Q12089225"
+  },
+  "yttrium aluminium garnet": {
+    "url": "https://en.wikipedia.org/wiki/yttrium_aluminium_garnet",
+    "wiki_id": "Q421189"
+  },
+  "blue": {
+    "url": "https://en.wikipedia.org/wiki/blue",
+    "wiki_id": "Q1088"
+  },
+  "birthstone": {
+    "url": "https://en.wikipedia.org/wiki/birthstone",
+    "wiki_id": "Q1144700"
+  },
+  "symbolism": {
+    "url": "https://en.wikipedia.org/wiki/symbolism",
+    "wiki_id": "Q4419563"
+  },
+  "nanodiamonds": {
+    "url": "https://en.wikipedia.org/wiki/nanodiamonds",
+    "wiki_id": "Q16870989"
+  },
+  "Cardinal gem": {
+    "url": "https://en.wikipedia.org/wiki/Cardinal_gem",
+    "wiki_id": "Q5038632"
+  },
+  "colorless": {
+    "url": "https://en.wikipedia.org/wiki/colorless",
+    "wiki_id": "Q1396399"
+  },
+  "toadstone": {
+    "url": "https://en.wikipedia.org/wiki/toadstone",
+    "wiki_id": "Q3002139"
+  },
+  "fossil": {
+    "url": "https://en.wikipedia.org/wiki/fossil",
+    "wiki_id": "Q40614"
+  },
+  "diamond simulant": {
+    "url": "https://en.wikipedia.org/wiki/diamond_simulant",
+    "wiki_id": "Q1853946"
+  },
+  "Minoan sealstone": {
+    "url": "https://en.wikipedia.org/wiki/Minoan_sealstone",
+    "wiki_id": "Q6868926"
+  },
+  "seal": {
+    "url": "https://en.wikipedia.org/wiki/seal",
+    "wiki_id": "Q162919"
+  },
+  "custom": {
+    "url": "https://en.wikipedia.org/wiki/custom",
+    "wiki_id": "Q251777"
+  },
+  "Maw sit sit": {
+    "url": "https://en.wikipedia.org/wiki/Maw_sit_sit",
+    "wiki_id": "Q6794322"
+  },
+  "brown diamond": {
+    "url": "https://en.wikipedia.org/wiki/brown_diamond",
+    "wiki_id": "Q3149936"
+  },
+  "Minoan civilization": {
+    "url": "https://en.wikipedia.org/wiki/Minoan_civilization",
+    "wiki_id": "Q134178"
+  },
+  "Pig dragon": {
+    "url": "https://en.wikipedia.org/wiki/Pig_dragon",
+    "wiki_id": "Q7193237"
+  },
+  "amulet": {
+    "url": "https://en.wikipedia.org/wiki/amulet",
+    "wiki_id": "Q131557"
+  },
+  "magic item": {
+    "url": "https://en.wikipedia.org/wiki/magic_item",
+    "wiki_id": "Q27506396"
+  },
+  "sardine": {
+    "url": "https://en.wikipedia.org/wiki/sardine",
+    "wiki_id": "Q3473589"
+  },
+  "synthetic diamond": {
+    "url": "https://en.wikipedia.org/wiki/synthetic_diamond",
+    "wiki_id": "Q751479"
+  },
+  "synthetic gemstone": {
+    "url": "https://en.wikipedia.org/wiki/synthetic_gemstone",
+    "wiki_id": "Q25510973"
+  },
+  "cultured pearl": {
+    "url": "https://en.wikipedia.org/wiki/cultured_pearl",
+    "wiki_id": "Q3029022"
+  },
+  "abrasive": {
+    "url": "https://en.wikipedia.org/wiki/abrasive",
+    "wiki_id": "Q372301"
   },
   "zeolite frameworks": {
     "url": "https://en.wikipedia.org/wiki/zeolite_frameworks",
@@ -239,45 +311,33 @@
     "url": "https://en.wikipedia.org/wiki/complex-sequence_cancrinites",
     "wiki_id": "Q18013979"
   },
-  "cultured freshwater pearl": {
-    "url": "https://en.wikipedia.org/wiki/cultured_freshwater_pearl",
-    "wiki_id": "Q5193690"
+  "heliodor": {
+    "url": "https://en.wikipedia.org/wiki/heliodor",
+    "wiki_id": "Q429730"
   },
-  "cultured pearl": {
-    "url": "https://en.wikipedia.org/wiki/cultured_pearl",
-    "wiki_id": "Q3029022"
+  "aluminium": {
+    "url": "https://en.wikipedia.org/wiki/aluminium",
+    "wiki_id": "Q663"
   },
-  "freshwater pearl": {
-    "url": "https://en.wikipedia.org/wiki/freshwater_pearl",
-    "wiki_id": "Q31384432"
+  "Akik": {
+    "url": "https://en.wikipedia.org/wiki/Akik",
+    "wiki_id": "Q4700957"
   },
-  "national stone": {
-    "url": "https://en.wikipedia.org/wiki/national_stone",
-    "wiki_id": "Q10855580"
+  "carbon-silicon family": {
+    "url": "https://en.wikipedia.org/wiki/carbon-silicon_family",
+    "wiki_id": "Q13292702"
   },
-  "carbuncle": {
-    "url": "https://en.wikipedia.org/wiki/carbuncle",
-    "wiki_id": "Q12108659"
+  "approved mineral and/or valid name (A)": {
+    "url": "https://en.wikipedia.org/wiki/approved_mineral_and/or_valid_name_(A)",
+    "wiki_id": "Q13406835"
   },
-  "cymophane": {
-    "url": "https://en.wikipedia.org/wiki/cymophane",
-    "wiki_id": "Q612430"
+  "grandfathered mineral (G)": {
+    "url": "https://en.wikipedia.org/wiki/grandfathered_mineral_(G)",
+    "wiki_id": "Q13406846"
   },
-  "chrysoberyl": {
-    "url": "https://en.wikipedia.org/wiki/chrysoberyl",
-    "wiki_id": "Q422179"
-  },
-  "bi": {
-    "url": "https://en.wikipedia.org/wiki/bi",
-    "wiki_id": "Q573870"
-  },
-  "Chinese jade": {
-    "url": "https://en.wikipedia.org/wiki/Chinese_jade",
-    "wiki_id": "Q4211668"
-  },
-  "aluminium oxide": {
-    "url": "https://en.wikipedia.org/wiki/aluminium_oxide",
-    "wiki_id": "Q177342"
+  "chartreuse": {
+    "url": "https://en.wikipedia.org/wiki/chartreuse",
+    "wiki_id": "Q1153119"
   },
   "space group P31c": {
     "url": "https://en.wikipedia.org/wiki/space_group_P31c",
@@ -287,101 +347,21 @@
     "url": "https://en.wikipedia.org/wiki/Ladjuar_Medam",
     "wiki_id": "Q26452287"
   },
-  "Dur": {
-    "url": "https://en.wikipedia.org/wiki/Dur",
-    "wiki_id": "Q12541258"
+  "cubic-hexoctahedral": {
+    "url": "https://en.wikipedia.org/wiki/cubic-hexoctahedral",
+    "wiki_id": "Q13359931"
   },
-  "sardine": {
-    "url": "https://en.wikipedia.org/wiki/sardine",
-    "wiki_id": "Q3473589"
+  "space group Fd-3m": {
+    "url": "https://en.wikipedia.org/wiki/space_group_Fd-3m",
+    "wiki_id": "Q15041895"
   },
-  "heliodor": {
-    "url": "https://en.wikipedia.org/wiki/heliodor",
-    "wiki_id": "Q429730"
+  "{111}": {
+    "url": "https://en.wikipedia.org/wiki/{111}",
+    "wiki_id": "Q14754934"
   },
-  "Aggregated diamond nanorod": {
-    "url": "https://en.wikipedia.org/wiki/Aggregated_diamond_nanorod",
-    "wiki_id": "Q393356"
-  },
-  "kidney": {
-    "url": "https://en.wikipedia.org/wiki/kidney",
-    "wiki_id": "Q9377"
-  },
-  "mineral species": {
-    "url": "https://en.wikipedia.org/wiki/mineral_species",
-    "wiki_id": "Q12089225"
-  },
-  "custom": {
-    "url": "https://en.wikipedia.org/wiki/custom",
-    "wiki_id": "Q251777"
-  },
-  "colorless": {
-    "url": "https://en.wikipedia.org/wiki/colorless",
-    "wiki_id": "Q1396399"
-  },
-  "aetites": {
-    "url": "https://en.wikipedia.org/wiki/aetites",
-    "wiki_id": "Q2854580"
-  },
-  "diamond cut": {
-    "url": "https://en.wikipedia.org/wiki/diamond_cut",
-    "wiki_id": "Q12103146"
-  },
-  "approved mineral and/or valid name (A)": {
-    "url": "https://en.wikipedia.org/wiki/approved_mineral_and/or_valid_name_(A)",
-    "wiki_id": "Q13406835"
-  },
-  "boron-doped diamond": {
-    "url": "https://en.wikipedia.org/wiki/boron-doped_diamond",
-    "wiki_id": "Q115631937"
-  },
-  "national symbol": {
-    "url": "https://en.wikipedia.org/wiki/national_symbol",
-    "wiki_id": "Q1128637"
-  },
-  "gem": {
-    "url": "https://en.wikipedia.org/wiki/gem",
-    "wiki_id": "Q12822126"
-  },
-  "diamond simulant": {
-    "url": "https://en.wikipedia.org/wiki/diamond_simulant",
-    "wiki_id": "Q1853946"
-  },
-  "pink diamond": {
-    "url": "https://en.wikipedia.org/wiki/pink_diamond",
-    "wiki_id": "Q16191831"
-  },
-  "semiconductor": {
-    "url": "https://en.wikipedia.org/wiki/semiconductor",
-    "wiki_id": "Q11456"
-  },
-  "cat's eye quartz": {
-    "url": "https://en.wikipedia.org/wiki/cat's_eye_quartz",
-    "wiki_id": "Q1736875"
-  },
-  "nanodiamonds": {
-    "url": "https://en.wikipedia.org/wiki/nanodiamonds",
-    "wiki_id": "Q16870989"
-  },
-  "carbonado": {
-    "url": "https://en.wikipedia.org/wiki/carbonado",
-    "wiki_id": "Q429950"
-  },
-  "memorial diamond": {
-    "url": "https://en.wikipedia.org/wiki/memorial_diamond",
-    "wiki_id": "Q447923"
-  },
-  "black coral": {
-    "url": "https://en.wikipedia.org/wiki/black_coral",
-    "wiki_id": "Q110693126"
-  },
-  "Antipatharia": {
-    "url": "https://en.wikipedia.org/wiki/Antipatharia",
-    "wiki_id": "Q1479472"
-  },
-  "stone": {
-    "url": "https://en.wikipedia.org/wiki/stone",
-    "wiki_id": "Q22731"
+  "iolite": {
+    "url": "https://en.wikipedia.org/wiki/iolite",
+    "wiki_id": "Q122998805"
   },
   "moss agate": {
     "url": "https://en.wikipedia.org/wiki/moss_agate",
@@ -391,13 +371,117 @@
     "url": "https://en.wikipedia.org/wiki/Mocha",
     "wiki_id": "Q339258"
   },
-  "agate-jasper": {
-    "url": "https://en.wikipedia.org/wiki/agate-jasper",
-    "wiki_id": "Q111244412"
+  "Chinese jade": {
+    "url": "https://en.wikipedia.org/wiki/Chinese_jade",
+    "wiki_id": "Q4211668"
   },
-  "agate": {
-    "url": "https://en.wikipedia.org/wiki/agate",
-    "wiki_id": "Q123314"
+  "amethyst": {
+    "url": "https://en.wikipedia.org/wiki/amethyst",
+    "wiki_id": "Q79058"
+  },
+  "sardonyx": {
+    "url": "https://en.wikipedia.org/wiki/sardonyx",
+    "wiki_id": "Q3428905"
+  },
+  "baroque pearl": {
+    "url": "https://en.wikipedia.org/wiki/baroque_pearl",
+    "wiki_id": "Q4863054"
+  },
+  "cordierite": {
+    "url": "https://en.wikipedia.org/wiki/cordierite",
+    "wiki_id": "Q410336"
+  },
+  "cymophane": {
+    "url": "https://en.wikipedia.org/wiki/cymophane",
+    "wiki_id": "Q612430"
+  },
+  "chrysoberyl": {
+    "url": "https://en.wikipedia.org/wiki/chrysoberyl",
+    "wiki_id": "Q422179"
+  },
+  "cultured freshwater pearl": {
+    "url": "https://en.wikipedia.org/wiki/cultured_freshwater_pearl",
+    "wiki_id": "Q5193690"
+  },
+  "freshwater pearl": {
+    "url": "https://en.wikipedia.org/wiki/freshwater_pearl",
+    "wiki_id": "Q31384432"
+  },
+  "Derbyshire Blue John": {
+    "url": "https://en.wikipedia.org/wiki/Derbyshire_Blue_John",
+    "wiki_id": "Q5261556"
+  },
+  "United Kingdom": {
+    "url": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "wiki_id": "Q145"
+  },
+  "engraved gem": {
+    "url": "https://en.wikipedia.org/wiki/engraved_gem",
+    "wiki_id": "Q1501187"
+  },
+  "gem": {
+    "url": "https://en.wikipedia.org/wiki/gem",
+    "wiki_id": "Q12822126"
+  },
+  "detonation nanodiamond": {
+    "url": "https://en.wikipedia.org/wiki/detonation_nanodiamond",
+    "wiki_id": "Q1439836"
+  },
+  "metamorphic rock": {
+    "url": "https://en.wikipedia.org/wiki/metamorphic_rock",
+    "wiki_id": "Q47069"
+  },
+  "bi": {
+    "url": "https://en.wikipedia.org/wiki/bi",
+    "wiki_id": "Q573870"
+  },
+  "Derbyshire": {
+    "url": "https://en.wikipedia.org/wiki/Derbyshire",
+    "wiki_id": "Q23098"
+  },
+  "chalcedony": {
+    "url": "https://en.wikipedia.org/wiki/chalcedony",
+    "wiki_id": "Q170448"
+  },
+  "ballas": {
+    "url": "https://en.wikipedia.org/wiki/ballas",
+    "wiki_id": "Q9164686"
+  },
+  "rough diamond": {
+    "url": "https://en.wikipedia.org/wiki/rough_diamond",
+    "wiki_id": "Q10371097"
+  },
+  "purple": {
+    "url": "https://en.wikipedia.org/wiki/purple",
+    "wiki_id": "Q3257809"
+  },
+  "carnelian": {
+    "url": "https://en.wikipedia.org/wiki/carnelian",
+    "wiki_id": "Q324369"
+  },
+  "sphere": {
+    "url": "https://en.wikipedia.org/wiki/sphere",
+    "wiki_id": "Q12507"
+  },
+  "gray": {
+    "url": "https://en.wikipedia.org/wiki/gray",
+    "wiki_id": "Q42519"
+  },
+  "plasma agate": {
+    "url": "https://en.wikipedia.org/wiki/plasma_agate",
+    "wiki_id": "Q10350376"
+  },
+  "particle": {
+    "url": "https://en.wikipedia.org/wiki/particle",
+    "wiki_id": "Q1621273"
+  },
+  "Enhydro agate": {
+    "url": "https://en.wikipedia.org/wiki/Enhydro_agate",
+    "wiki_id": "Q5378829"
+  },
+  "fluorite": {
+    "url": "https://en.wikipedia.org/wiki/fluorite",
+    "wiki_id": "Q102151"
   },
   "Botswana agate": {
     "url": "https://en.wikipedia.org/wiki/Botswana_agate",
@@ -411,253 +495,41 @@
     "url": "https://en.wikipedia.org/wiki/scolecite_agate",
     "wiki_id": "Q2292812"
   },
-  "synthetic emerald": {
-    "url": "https://en.wikipedia.org/wiki/synthetic_emerald",
-    "wiki_id": "Q110849112"
-  },
-  "synthetic gemstone": {
-    "url": "https://en.wikipedia.org/wiki/synthetic_gemstone",
-    "wiki_id": "Q25510973"
-  },
-  "coral": {
-    "url": "https://en.wikipedia.org/wiki/coral",
-    "wiki_id": "Q29386288"
-  },
-  "branch coral": {
-    "url": "https://en.wikipedia.org/wiki/branch_coral",
-    "wiki_id": "Q110693154"
-  },
-  "sapphire glass": {
-    "url": "https://en.wikipedia.org/wiki/sapphire_glass",
-    "wiki_id": "Q2713410"
-  },
-  "chartreuse": {
-    "url": "https://en.wikipedia.org/wiki/chartreuse",
-    "wiki_id": "Q1153119"
-  },
-  "black opal": {
-    "url": "https://en.wikipedia.org/wiki/black_opal",
-    "wiki_id": "Q11334572"
-  },
-  "precious opal": {
-    "url": "https://en.wikipedia.org/wiki/precious_opal",
-    "wiki_id": "Q110686457"
-  },
-  "Umba sapphire": {
-    "url": "https://en.wikipedia.org/wiki/Umba_sapphire",
-    "wiki_id": "Q7881230"
-  },
-  "synthetic diamond": {
-    "url": "https://en.wikipedia.org/wiki/synthetic_diamond",
-    "wiki_id": "Q751479"
-  },
-  "cat's eye": {
-    "url": "https://en.wikipedia.org/wiki/cat's_eye",
-    "wiki_id": "Q25510612"
-  },
-  "boomagate": {
-    "url": "https://en.wikipedia.org/wiki/boomagate",
-    "wiki_id": "Q2679891"
-  },
-  "tide jewels": {
-    "url": "https://en.wikipedia.org/wiki/tide_jewels",
-    "wiki_id": "Q7800836"
-  },
-  "peridot": {
-    "url": "https://en.wikipedia.org/wiki/peridot",
-    "wiki_id": "Q288732"
-  },
-  "gold": {
-    "url": "https://en.wikipedia.org/wiki/gold",
-    "wiki_id": "Q897"
-  },
-  "aluminium": {
-    "url": "https://en.wikipedia.org/wiki/aluminium",
-    "wiki_id": "Q663"
-  },
-  "jet": {
-    "url": "https://en.wikipedia.org/wiki/jet",
-    "wiki_id": "Q543694"
-  },
-  "Enhydro agate": {
-    "url": "https://en.wikipedia.org/wiki/Enhydro_agate",
-    "wiki_id": "Q5378829"
+  "ammolite": {
+    "url": "https://en.wikipedia.org/wiki/ammolite",
+    "wiki_id": "Q473346"
   },
   "Lake Superior agate": {
     "url": "https://en.wikipedia.org/wiki/Lake_Superior_agate",
     "wiki_id": "Q6477906"
   },
-  "Derbyshire Blue John": {
-    "url": "https://en.wikipedia.org/wiki/Derbyshire_Blue_John",
-    "wiki_id": "Q5261556"
-  },
-  "Derbyshire": {
-    "url": "https://en.wikipedia.org/wiki/Derbyshire",
-    "wiki_id": "Q23098"
-  },
-  "Tahitian pearl": {
-    "url": "https://en.wikipedia.org/wiki/Tahitian_pearl",
-    "wiki_id": "Q7675555"
-  },
-  "France": {
-    "url": "https://en.wikipedia.org/wiki/France",
-    "wiki_id": "Q142"
-  },
-  "United Kingdom": {
-    "url": "https://en.wikipedia.org/wiki/United_Kingdom",
-    "wiki_id": "Q145"
-  },
-  "artificiality": {
-    "url": "https://en.wikipedia.org/wiki/artificiality",
-    "wiki_id": "Q14623823"
-  },
-  "abrasive": {
-    "url": "https://en.wikipedia.org/wiki/abrasive",
-    "wiki_id": "Q372301"
-  },
-  "Keshi pearls": {
-    "url": "https://en.wikipedia.org/wiki/Keshi_pearls",
-    "wiki_id": "Q6395034"
-  },
-  "synthetic material": {
-    "url": "https://en.wikipedia.org/wiki/synthetic_material",
-    "wiki_id": "Q3300022"
-  },
-  "lignite": {
-    "url": "https://en.wikipedia.org/wiki/lignite",
-    "wiki_id": "Q156267"
-  },
-  "blue diamond": {
-    "url": "https://en.wikipedia.org/wiki/blue_diamond",
-    "wiki_id": "Q28449765"
-  },
-  "red diamond": {
-    "url": "https://en.wikipedia.org/wiki/red_diamond",
-    "wiki_id": "Q30680562"
-  },
-  "fluorite": {
-    "url": "https://en.wikipedia.org/wiki/fluorite",
-    "wiki_id": "Q102151"
-  },
-  "plasma agate": {
-    "url": "https://en.wikipedia.org/wiki/plasma_agate",
-    "wiki_id": "Q10350376"
-  },
-  "Tahiti": {
-    "url": "https://en.wikipedia.org/wiki/Tahiti",
-    "wiki_id": "Q42000"
-  },
-  "ballas": {
-    "url": "https://en.wikipedia.org/wiki/ballas",
-    "wiki_id": "Q9164686"
-  },
-  "rough diamond": {
-    "url": "https://en.wikipedia.org/wiki/rough_diamond",
-    "wiki_id": "Q10371097"
-  },
-  "industrial diamond": {
-    "url": "https://en.wikipedia.org/wiki/industrial_diamond",
-    "wiki_id": "Q25510571"
-  },
-  "skeleton": {
-    "url": "https://en.wikipedia.org/wiki/skeleton",
-    "wiki_id": "Q7881"
+  "peridot": {
+    "url": "https://en.wikipedia.org/wiki/peridot",
+    "wiki_id": "Q288732"
   },
   "green": {
     "url": "https://en.wikipedia.org/wiki/green",
     "wiki_id": "Q3133"
   },
-  "Colombian emeralds": {
-    "url": "https://en.wikipedia.org/wiki/Colombian_emeralds",
-    "wiki_id": "Q17007270"
+  "memorial diamond": {
+    "url": "https://en.wikipedia.org/wiki/memorial_diamond",
+    "wiki_id": "Q447923"
   },
-  "Colombia": {
-    "url": "https://en.wikipedia.org/wiki/Colombia",
-    "wiki_id": "Q739"
+  "Aegean glyptic": {
+    "url": "https://en.wikipedia.org/wiki/Aegean_glyptic",
+    "wiki_id": "Q58681669"
   },
-  "trapiche emerald": {
-    "url": "https://en.wikipedia.org/wiki/trapiche_emerald",
-    "wiki_id": "Q26033683"
+  "aluminium oxide": {
+    "url": "https://en.wikipedia.org/wiki/aluminium_oxide",
+    "wiki_id": "Q177342"
   },
-  "magic item": {
-    "url": "https://en.wikipedia.org/wiki/magic_item",
-    "wiki_id": "Q27506396"
+  "carbonado": {
+    "url": "https://en.wikipedia.org/wiki/carbonado",
+    "wiki_id": "Q429950"
   },
-  "Cintamani (Gem)": {
-    "url": "https://en.wikipedia.org/wiki/Cintamani_(Gem)",
-    "wiki_id": "Q2963837"
-  },
-  "toadstone": {
-    "url": "https://en.wikipedia.org/wiki/toadstone",
-    "wiki_id": "Q3002139"
-  },
-  "chatoyancy": {
-    "url": "https://en.wikipedia.org/wiki/chatoyancy",
-    "wiki_id": "Q1068275"
-  },
-  "Mabe pearl": {
-    "url": "https://en.wikipedia.org/wiki/Mabe_pearl",
-    "wiki_id": "Q20827212"
-  },
-  "Japanese mythology": {
-    "url": "https://en.wikipedia.org/wiki/Japanese_mythology",
-    "wiki_id": "Q814158"
-  },
-  "mineraloid": {
-    "url": "https://en.wikipedia.org/wiki/mineraloid",
-    "wiki_id": "Q2091637"
-  },
-  "engraved gem": {
-    "url": "https://en.wikipedia.org/wiki/engraved_gem",
-    "wiki_id": "Q1501187"
-  },
-  "detonation nanodiamond": {
-    "url": "https://en.wikipedia.org/wiki/detonation_nanodiamond",
-    "wiki_id": "Q1439836"
-  },
-  "Maw sit sit": {
-    "url": "https://en.wikipedia.org/wiki/Maw_sit_sit",
-    "wiki_id": "Q6794322"
-  },
-  "Minoan sealstone": {
-    "url": "https://en.wikipedia.org/wiki/Minoan_sealstone",
-    "wiki_id": "Q6868926"
-  },
-  "Hinduism": {
-    "url": "https://en.wikipedia.org/wiki/Hinduism",
-    "wiki_id": "Q9089"
-  },
-  "Taiwan Jade": {
-    "url": "https://en.wikipedia.org/wiki/Taiwan_Jade",
-    "wiki_id": "Q119352992"
-  },
-  "azurite-malachite": {
-    "url": "https://en.wikipedia.org/wiki/azurite-malachite",
-    "wiki_id": "Q121890693"
-  },
-  "star garnet": {
-    "url": "https://en.wikipedia.org/wiki/star_garnet",
-    "wiki_id": "Q122418066"
-  },
-  "golden beryl": {
-    "url": "https://en.wikipedia.org/wiki/golden_beryl",
-    "wiki_id": "Q122998741"
-  },
-  "table cut": {
-    "url": "https://en.wikipedia.org/wiki/table_cut",
-    "wiki_id": "Q25510986"
-  },
-  "iolite": {
-    "url": "https://en.wikipedia.org/wiki/iolite",
-    "wiki_id": "Q122998805"
-  },
-  "assembled gem": {
-    "url": "https://en.wikipedia.org/wiki/assembled_gem",
-    "wiki_id": "Q48791607"
-  },
-  "Mycenaean sealstone": {
-    "url": "https://en.wikipedia.org/wiki/Mycenaean_sealstone",
-    "wiki_id": "Q58968828"
+  "Keshi pearls": {
+    "url": "https://en.wikipedia.org/wiki/Keshi_pearls",
+    "wiki_id": "Q6395034"
   },
   "rose": {
     "url": "https://en.wikipedia.org/wiki/rose",
@@ -667,209 +539,349 @@
     "url": "https://en.wikipedia.org/wiki/Jade_of_Itoigawa",
     "wiki_id": "Q97097388"
   },
-  "padparadscha": {
-    "url": "https://en.wikipedia.org/wiki/padparadscha",
-    "wiki_id": "Q16585773"
+  "precious opal": {
+    "url": "https://en.wikipedia.org/wiki/precious_opal",
+    "wiki_id": "Q110686457"
   },
-  "Oltu stone": {
-    "url": "https://en.wikipedia.org/wiki/Oltu_stone",
-    "wiki_id": "Q16960138"
+  "tide jewels": {
+    "url": "https://en.wikipedia.org/wiki/tide_jewels",
+    "wiki_id": "Q7800836"
   },
-  "yellow": {
-    "url": "https://en.wikipedia.org/wiki/yellow",
-    "wiki_id": "Q943"
+  "boomagate": {
+    "url": "https://en.wikipedia.org/wiki/boomagate",
+    "wiki_id": "Q2679891"
   },
-  "bort": {
-    "url": "https://en.wikipedia.org/wiki/bort",
-    "wiki_id": "Q2465738"
+  "Tahitian pearl": {
+    "url": "https://en.wikipedia.org/wiki/Tahitian_pearl",
+    "wiki_id": "Q7675555"
   },
-  "protective agent": {
-    "url": "https://en.wikipedia.org/wiki/protective_agent",
-    "wiki_id": "Q50380088"
-  },
-  "lyngurium": {
-    "url": "https://en.wikipedia.org/wiki/lyngurium",
-    "wiki_id": "Q17102824"
-  },
-  "sardonyx": {
-    "url": "https://en.wikipedia.org/wiki/sardonyx",
-    "wiki_id": "Q3428905"
-  },
-  "brown diamond": {
-    "url": "https://en.wikipedia.org/wiki/brown_diamond",
-    "wiki_id": "Q3149936"
-  },
-  "nanoparticle": {
-    "url": "https://en.wikipedia.org/wiki/nanoparticle",
-    "wiki_id": "Q61231"
+  "Umba sapphire": {
+    "url": "https://en.wikipedia.org/wiki/Umba_sapphire",
+    "wiki_id": "Q7881230"
   },
   "Japan": {
     "url": "https://en.wikipedia.org/wiki/Japan",
     "wiki_id": "Q17"
   },
-  "blood diamond": {
-    "url": "https://en.wikipedia.org/wiki/blood_diamond",
-    "wiki_id": "Q464026"
+  "France": {
+    "url": "https://en.wikipedia.org/wiki/France",
+    "wiki_id": "Q142"
   },
-  "conflict resource": {
-    "url": "https://en.wikipedia.org/wiki/conflict_resource",
-    "wiki_id": "Q5160207"
-  },
-  "seal": {
-    "url": "https://en.wikipedia.org/wiki/seal",
-    "wiki_id": "Q162919"
-  },
-  "Aegean glyptic": {
-    "url": "https://en.wikipedia.org/wiki/Aegean_glyptic",
-    "wiki_id": "Q58681669"
-  },
-  "art material": {
-    "url": "https://en.wikipedia.org/wiki/art_material",
-    "wiki_id": "Q15303351"
-  },
-  "Pig dragon": {
-    "url": "https://en.wikipedia.org/wiki/Pig_dragon",
-    "wiki_id": "Q7193237"
-  },
-  "amulet": {
-    "url": "https://en.wikipedia.org/wiki/amulet",
-    "wiki_id": "Q131557"
-  },
-  "polishing": {
-    "url": "https://en.wikipedia.org/wiki/polishing",
-    "wiki_id": "Q1054722"
-  },
-  "Gyof\u016b S\u014dma": {
-    "url": "https://en.wikipedia.org/wiki/Gyof\u016b_S\u014dma",
-    "wiki_id": "Q11582499"
-  },
-  "red coral": {
-    "url": "https://en.wikipedia.org/wiki/red_coral",
-    "wiki_id": "Q68429932"
-  },
-  "gray": {
-    "url": "https://en.wikipedia.org/wiki/gray",
-    "wiki_id": "Q42519"
-  },
-  "by-product": {
-    "url": "https://en.wikipedia.org/wiki/by-product",
-    "wiki_id": "Q1128255"
-  },
-  "forsterite": {
-    "url": "https://en.wikipedia.org/wiki/forsterite",
-    "wiki_id": "Q415037"
-  },
-  "Minoan civilization": {
-    "url": "https://en.wikipedia.org/wiki/Minoan_civilization",
-    "wiki_id": "Q134178"
-  },
-  "crystal": {
-    "url": "https://en.wikipedia.org/wiki/crystal",
-    "wiki_id": "Q43533"
-  },
-  "sphere": {
-    "url": "https://en.wikipedia.org/wiki/sphere",
-    "wiki_id": "Q12507"
+  "gold": {
+    "url": "https://en.wikipedia.org/wiki/gold",
+    "wiki_id": "Q897"
   },
   "gemology": {
     "url": "https://en.wikipedia.org/wiki/gemology",
     "wiki_id": "Q243330"
   },
-  "Oltu": {
-    "url": "https://en.wikipedia.org/wiki/Oltu",
-    "wiki_id": "Q915429"
+  "agate-jasper": {
+    "url": "https://en.wikipedia.org/wiki/agate-jasper",
+    "wiki_id": "Q111244412"
   },
-  "component": {
-    "url": "https://en.wikipedia.org/wiki/component",
-    "wiki_id": "Q1310239"
+  "national stone": {
+    "url": "https://en.wikipedia.org/wiki/national_stone",
+    "wiki_id": "Q10855580"
   },
-  "azurite": {
-    "url": "https://en.wikipedia.org/wiki/azurite",
-    "wiki_id": "Q108212"
+  "carbuncle": {
+    "url": "https://en.wikipedia.org/wiki/carbuncle",
+    "wiki_id": "Q12108659"
   },
-  "Buddhism": {
-    "url": "https://en.wikipedia.org/wiki/Buddhism",
-    "wiki_id": "Q748"
+  "national symbol": {
+    "url": "https://en.wikipedia.org/wiki/national_symbol",
+    "wiki_id": "Q1128637"
   },
-  "malachite": {
-    "url": "https://en.wikipedia.org/wiki/malachite",
-    "wiki_id": "Q164411"
+  "Taiwan Black Jade": {
+    "url": "https://en.wikipedia.org/wiki/Taiwan_Black_Jade",
+    "wiki_id": "Q119133376"
   },
-  "gravel": {
-    "url": "https://en.wikipedia.org/wiki/gravel",
-    "wiki_id": "Q133833"
+  "forsterite": {
+    "url": "https://en.wikipedia.org/wiki/forsterite",
+    "wiki_id": "Q415037"
   },
-  "carnelian": {
-    "url": "https://en.wikipedia.org/wiki/carnelian",
-    "wiki_id": "Q324369"
+  "red coral": {
+    "url": "https://en.wikipedia.org/wiki/red_coral",
+    "wiki_id": "Q68429932"
   },
-  "orange-yellow": {
-    "url": "https://en.wikipedia.org/wiki/orange-yellow",
-    "wiki_id": "Q122998749"
-  },
-  "purple": {
-    "url": "https://en.wikipedia.org/wiki/purple",
-    "wiki_id": "Q3257809"
-  },
-  "Mycenaean Greece": {
-    "url": "https://en.wikipedia.org/wiki/Mycenaean_Greece",
-    "wiki_id": "Q181264"
-  },
-  "Patuxent River stone": {
-    "url": "https://en.wikipedia.org/wiki/Patuxent_River_stone",
-    "wiki_id": "Q7148783"
-  },
-  "Corallium rubrum": {
-    "url": "https://en.wikipedia.org/wiki/Corallium_rubrum",
-    "wiki_id": "Q531601"
-  },
-  "chalcedony": {
-    "url": "https://en.wikipedia.org/wiki/chalcedony",
-    "wiki_id": "Q170448"
+  "coral": {
+    "url": "https://en.wikipedia.org/wiki/coral",
+    "wiki_id": "Q29386288"
   },
   "opal": {
     "url": "https://en.wikipedia.org/wiki/opal",
     "wiki_id": "Q171058"
   },
-  "particle": {
-    "url": "https://en.wikipedia.org/wiki/particle",
-    "wiki_id": "Q1621273"
-  },
-  "powder": {
-    "url": "https://en.wikipedia.org/wiki/powder",
-    "wiki_id": "Q2908004"
-  },
-  "fossil": {
-    "url": "https://en.wikipedia.org/wiki/fossil",
-    "wiki_id": "Q40614"
-  },
-  "Itoigawa": {
-    "url": "https://en.wikipedia.org/wiki/Itoigawa",
-    "wiki_id": "Q857208"
-  },
-  "additive": {
-    "url": "https://en.wikipedia.org/wiki/additive",
-    "wiki_id": "Q350176"
-  },
-  "waste": {
-    "url": "https://en.wikipedia.org/wiki/waste",
-    "wiki_id": "Q45701"
+  "sapphire glass": {
+    "url": "https://en.wikipedia.org/wiki/sapphire_glass",
+    "wiki_id": "Q2713410"
   },
   "organic matter": {
     "url": "https://en.wikipedia.org/wiki/organic_matter",
     "wiki_id": "Q1783121"
   },
+  "jet": {
+    "url": "https://en.wikipedia.org/wiki/jet",
+    "wiki_id": "Q543694"
+  },
+  "lignite": {
+    "url": "https://en.wikipedia.org/wiki/lignite",
+    "wiki_id": "Q156267"
+  },
+  "Japanese mythology": {
+    "url": "https://en.wikipedia.org/wiki/Japanese_mythology",
+    "wiki_id": "Q814158"
+  },
+  "stone": {
+    "url": "https://en.wikipedia.org/wiki/stone",
+    "wiki_id": "Q22731"
+  },
+  "Corallium rubrum": {
+    "url": "https://en.wikipedia.org/wiki/Corallium_rubrum",
+    "wiki_id": "Q531601"
+  },
+  "Itoigawa": {
+    "url": "https://en.wikipedia.org/wiki/Itoigawa",
+    "wiki_id": "Q857208"
+  },
+  "boron-doped diamond": {
+    "url": "https://en.wikipedia.org/wiki/boron-doped_diamond",
+    "wiki_id": "Q115631937"
+  },
+  "Tahiti": {
+    "url": "https://en.wikipedia.org/wiki/Tahiti",
+    "wiki_id": "Q42000"
+  },
+  "Gyof\u016b S\u014dma": {
+    "url": "https://en.wikipedia.org/wiki/Gyof\u016b_S\u014dma",
+    "wiki_id": "Q11582499"
+  },
+  "industrial diamond": {
+    "url": "https://en.wikipedia.org/wiki/industrial_diamond",
+    "wiki_id": "Q25510571"
+  },
+  "synthetic emerald": {
+    "url": "https://en.wikipedia.org/wiki/synthetic_emerald",
+    "wiki_id": "Q110849112"
+  },
+  "black opal": {
+    "url": "https://en.wikipedia.org/wiki/black_opal",
+    "wiki_id": "Q11334572"
+  },
+  "blood diamond": {
+    "url": "https://en.wikipedia.org/wiki/blood_diamond",
+    "wiki_id": "Q464026"
+  },
+  "semiconductor": {
+    "url": "https://en.wikipedia.org/wiki/semiconductor",
+    "wiki_id": "Q11456"
+  },
+  "Taiwan": {
+    "url": "https://en.wikipedia.org/wiki/Taiwan",
+    "wiki_id": "Q865"
+  },
+  "Oltu stone": {
+    "url": "https://en.wikipedia.org/wiki/Oltu_stone",
+    "wiki_id": "Q16960138"
+  },
+  "chatoyancy": {
+    "url": "https://en.wikipedia.org/wiki/chatoyancy",
+    "wiki_id": "Q1068275"
+  },
+  "aetites": {
+    "url": "https://en.wikipedia.org/wiki/aetites",
+    "wiki_id": "Q2854580"
+  },
+  "black coral": {
+    "url": "https://en.wikipedia.org/wiki/black_coral",
+    "wiki_id": "Q110693126"
+  },
+  "branch coral": {
+    "url": "https://en.wikipedia.org/wiki/branch_coral",
+    "wiki_id": "Q110693154"
+  },
+  "artificiality": {
+    "url": "https://en.wikipedia.org/wiki/artificiality",
+    "wiki_id": "Q14623823"
+  },
+  "lyngurium": {
+    "url": "https://en.wikipedia.org/wiki/lyngurium",
+    "wiki_id": "Q17102824"
+  },
+  "bort": {
+    "url": "https://en.wikipedia.org/wiki/bort",
+    "wiki_id": "Q2465738"
+  },
+  "nanoparticle": {
+    "url": "https://en.wikipedia.org/wiki/nanoparticle",
+    "wiki_id": "Q61231"
+  },
+  "gravel": {
+    "url": "https://en.wikipedia.org/wiki/gravel",
+    "wiki_id": "Q133833"
+  },
+  "mineraloid": {
+    "url": "https://en.wikipedia.org/wiki/mineraloid",
+    "wiki_id": "Q2091637"
+  },
+  "Antipatharia": {
+    "url": "https://en.wikipedia.org/wiki/Antipatharia",
+    "wiki_id": "Q1479472"
+  },
+  "conflict resource": {
+    "url": "https://en.wikipedia.org/wiki/conflict_resource",
+    "wiki_id": "Q5160207"
+  },
+  "powder": {
+    "url": "https://en.wikipedia.org/wiki/powder",
+    "wiki_id": "Q2908004"
+  },
+  "by-product": {
+    "url": "https://en.wikipedia.org/wiki/by-product",
+    "wiki_id": "Q1128255"
+  },
+  "pink diamond": {
+    "url": "https://en.wikipedia.org/wiki/pink_diamond",
+    "wiki_id": "Q16191831"
+  },
+  "protective agent": {
+    "url": "https://en.wikipedia.org/wiki/protective_agent",
+    "wiki_id": "Q50380088"
+  },
+  "component": {
+    "url": "https://en.wikipedia.org/wiki/component",
+    "wiki_id": "Q1310239"
+  },
+  "additive": {
+    "url": "https://en.wikipedia.org/wiki/additive",
+    "wiki_id": "Q350176"
+  },
+  "golden beryl": {
+    "url": "https://en.wikipedia.org/wiki/golden_beryl",
+    "wiki_id": "Q122998741"
+  },
+  "yellow": {
+    "url": "https://en.wikipedia.org/wiki/yellow",
+    "wiki_id": "Q943"
+  },
+  "skeleton": {
+    "url": "https://en.wikipedia.org/wiki/skeleton",
+    "wiki_id": "Q7881"
+  },
+  "art material": {
+    "url": "https://en.wikipedia.org/wiki/art_material",
+    "wiki_id": "Q15303351"
+  },
+  "Taiwan Jade": {
+    "url": "https://en.wikipedia.org/wiki/Taiwan_Jade",
+    "wiki_id": "Q119352992"
+  },
+  "crystal": {
+    "url": "https://en.wikipedia.org/wiki/crystal",
+    "wiki_id": "Q43533"
+  },
+  "blue diamond": {
+    "url": "https://en.wikipedia.org/wiki/blue_diamond",
+    "wiki_id": "Q28449765"
+  },
+  "trapiche emerald": {
+    "url": "https://en.wikipedia.org/wiki/trapiche_emerald",
+    "wiki_id": "Q26033683"
+  },
+  "Oltu": {
+    "url": "https://en.wikipedia.org/wiki/Oltu",
+    "wiki_id": "Q915429"
+  },
+  "Mabe pearl": {
+    "url": "https://en.wikipedia.org/wiki/Mabe_pearl",
+    "wiki_id": "Q20827212"
+  },
+  "synthetic material": {
+    "url": "https://en.wikipedia.org/wiki/synthetic_material",
+    "wiki_id": "Q3300022"
+  },
+  "Colombian emeralds": {
+    "url": "https://en.wikipedia.org/wiki/Colombian_emeralds",
+    "wiki_id": "Q17007270"
+  },
+  "Colombia": {
+    "url": "https://en.wikipedia.org/wiki/Colombia",
+    "wiki_id": "Q739"
+  },
+  "padparadscha": {
+    "url": "https://en.wikipedia.org/wiki/padparadscha",
+    "wiki_id": "Q16585773"
+  },
+  "Dur": {
+    "url": "https://en.wikipedia.org/wiki/Dur",
+    "wiki_id": "Q12541258"
+  },
+  "red diamond": {
+    "url": "https://en.wikipedia.org/wiki/red_diamond",
+    "wiki_id": "Q30680562"
+  },
+  "table cut": {
+    "url": "https://en.wikipedia.org/wiki/table_cut",
+    "wiki_id": "Q25510986"
+  },
+  "azurite-malachite": {
+    "url": "https://en.wikipedia.org/wiki/azurite-malachite",
+    "wiki_id": "Q121890693"
+  },
+  "star garnet": {
+    "url": "https://en.wikipedia.org/wiki/star_garnet",
+    "wiki_id": "Q122418066"
+  },
+  "waste": {
+    "url": "https://en.wikipedia.org/wiki/waste",
+    "wiki_id": "Q45701"
+  },
+  "polishing": {
+    "url": "https://en.wikipedia.org/wiki/polishing",
+    "wiki_id": "Q1054722"
+  },
+  "Mycenaean sealstone": {
+    "url": "https://en.wikipedia.org/wiki/Mycenaean_sealstone",
+    "wiki_id": "Q58968828"
+  },
+  "Mycenaean Greece": {
+    "url": "https://en.wikipedia.org/wiki/Mycenaean_Greece",
+    "wiki_id": "Q181264"
+  },
+  "azurite": {
+    "url": "https://en.wikipedia.org/wiki/azurite",
+    "wiki_id": "Q108212"
+  },
+  "assembled gem": {
+    "url": "https://en.wikipedia.org/wiki/assembled_gem",
+    "wiki_id": "Q48791607"
+  },
   "almandine": {
     "url": "https://en.wikipedia.org/wiki/almandine",
     "wiki_id": "Q273663"
   },
-  "cordierite": {
-    "url": "https://en.wikipedia.org/wiki/cordierite",
-    "wiki_id": "Q410336"
+  "malachite": {
+    "url": "https://en.wikipedia.org/wiki/malachite",
+    "wiki_id": "Q164411"
+  },
+  "orange-yellow": {
+    "url": "https://en.wikipedia.org/wiki/orange-yellow",
+    "wiki_id": "Q122998749"
+  },
+  "visual arts": {
+    "url": "https://en.wikipedia.org/wiki/visual_arts",
+    "wiki_id": "Q36649"
   },
   "hair jewellery": {
     "url": "https://en.wikipedia.org/wiki/hair_jewellery",
     "wiki_id": "Q145013"
+  },
+  "mourning jewellery": {
+    "url": "https://en.wikipedia.org/wiki/mourning_jewellery",
+    "wiki_id": "Q23564940"
+  },
+  "applied arts": {
+    "url": "https://en.wikipedia.org/wiki/applied_arts",
+    "wiki_id": "Q207241"
   },
   "Dalarna": {
     "url": "https://en.wikipedia.org/wiki/Dalarna",
@@ -883,25 +895,45 @@
     "url": "https://en.wikipedia.org/wiki/V\u00e5mhus",
     "wiki_id": "Q3352701"
   },
+  "Red fox tails": {
+    "url": "https://en.wikipedia.org/wiki/Red_fox_tails",
+    "wiki_id": "Q1472659"
+  },
+  "granulation": {
+    "url": "https://en.wikipedia.org/wiki/granulation",
+    "wiki_id": "Q1543258"
+  },
+  "red fox": {
+    "url": "https://en.wikipedia.org/wiki/red_fox",
+    "wiki_id": "Q8332"
+  },
   "plume": {
     "url": "https://en.wikipedia.org/wiki/plume",
     "wiki_id": "Q1400678"
   },
-  "mourning jewellery": {
-    "url": "https://en.wikipedia.org/wiki/mourning_jewellery",
-    "wiki_id": "Q23564940"
+  "oorijzer": {
+    "url": "https://en.wikipedia.org/wiki/oorijzer",
+    "wiki_id": "Q3446299"
   },
-  "visual arts": {
-    "url": "https://en.wikipedia.org/wiki/visual_arts",
-    "wiki_id": "Q36649"
+  "industry": {
+    "url": "https://en.wikipedia.org/wiki/industry",
+    "wiki_id": "Q268592"
   },
-  "belly chain": {
-    "url": "https://en.wikipedia.org/wiki/belly_chain",
-    "wiki_id": "Q811138"
+  "Nezem": {
+    "url": "https://en.wikipedia.org/wiki/Nezem",
+    "wiki_id": "Q3347260"
   },
-  "applied arts": {
-    "url": "https://en.wikipedia.org/wiki/applied_arts",
-    "wiki_id": "Q207241"
+  "goldsmith": {
+    "url": "https://en.wikipedia.org/wiki/goldsmith",
+    "wiki_id": "Q211423"
+  },
+  "tail": {
+    "url": "https://en.wikipedia.org/wiki/tail",
+    "wiki_id": "Q60960"
+  },
+  "culture": {
+    "url": "https://en.wikipedia.org/wiki/culture",
+    "wiki_id": "Q11042"
   },
   "h\u00e5rkulla": {
     "url": "https://en.wikipedia.org/wiki/h\u00e5rkulla",
@@ -911,25 +943,61 @@
     "url": "https://en.wikipedia.org/wiki/Living_traditions_\u2013_An_inventory_of_intangible_cultural_heritage_in_Sweden",
     "wiki_id": "Q115596878"
   },
-  "goldsmith": {
-    "url": "https://en.wikipedia.org/wiki/goldsmith",
-    "wiki_id": "Q211423"
+  "Majorica pearl": {
+    "url": "https://en.wikipedia.org/wiki/Majorica_pearl",
+    "wiki_id": "Q1370510"
   },
-  "industry": {
-    "url": "https://en.wikipedia.org/wiki/industry",
-    "wiki_id": "Q268592"
+  "Mallorca": {
+    "url": "https://en.wikipedia.org/wiki/Mallorca",
+    "wiki_id": "Q8828"
   },
-  "Red fox tails": {
-    "url": "https://en.wikipedia.org/wiki/Red_fox_tails",
-    "wiki_id": "Q1472659"
+  "belly chain": {
+    "url": "https://en.wikipedia.org/wiki/belly_chain",
+    "wiki_id": "Q811138"
   },
-  "granulation": {
-    "url": "https://en.wikipedia.org/wiki/granulation",
-    "wiki_id": "Q1543258"
+  "skan": {
+    "url": "https://en.wikipedia.org/wiki/skan",
+    "wiki_id": "Q4421576"
+  },
+  "Russia": {
+    "url": "https://en.wikipedia.org/wiki/Russia",
+    "wiki_id": "Q159"
+  },
+  "imitation pearl": {
+    "url": "https://en.wikipedia.org/wiki/imitation_pearl",
+    "wiki_id": "Q6004178"
+  },
+  "Majorica": {
+    "url": "https://en.wikipedia.org/wiki/Majorica",
+    "wiki_id": "Q1887590"
+  },
+  "Etruscan jewelry": {
+    "url": "https://en.wikipedia.org/wiki/Etruscan_jewelry",
+    "wiki_id": "Q3355917"
+  },
+  "Netherlands": {
+    "url": "https://en.wikipedia.org/wiki/Netherlands",
+    "wiki_id": "Q55"
   },
   "product": {
     "url": "https://en.wikipedia.org/wiki/product",
     "wiki_id": "Q2424752"
+  },
+  "hackle": {
+    "url": "https://en.wikipedia.org/wiki/hackle",
+    "wiki_id": "Q1755375"
+  },
+  "Slavic buttons": {
+    "url": "https://en.wikipedia.org/wiki/Slavic_buttons",
+    "wiki_id": "Q4142900"
+  },
+  "Berber jewellery": {
+    "url": "https://en.wikipedia.org/wiki/Berber_jewellery",
+    "wiki_id": "Q19835346"
+  },
+  "Algeria": {
+    "url": "https://en.wikipedia.org/wiki/Algeria",
+    "wiki_id": "Q262"
   },
   "Bokr\u00e9ta": {
     "url": "https://en.wikipedia.org/wiki/Bokr\u00e9ta",
@@ -939,9 +1007,13 @@
     "url": "https://en.wikipedia.org/wiki/Chab_chab",
     "wiki_id": "Q1058175"
   },
-  "oorijzer": {
-    "url": "https://en.wikipedia.org/wiki/oorijzer",
-    "wiki_id": "Q3446299"
+  "headdress": {
+    "url": "https://en.wikipedia.org/wiki/headdress",
+    "wiki_id": "Q28972621"
+  },
+  "Etruscans": {
+    "url": "https://en.wikipedia.org/wiki/Etruscans",
+    "wiki_id": "Q17161"
   },
   "accessory": {
     "url": "https://en.wikipedia.org/wiki/accessory",
@@ -951,85 +1023,341 @@
     "url": "https://en.wikipedia.org/wiki/featherwork",
     "wiki_id": "Q2864716"
   },
-  "Nezem": {
-    "url": "https://en.wikipedia.org/wiki/Nezem",
-    "wiki_id": "Q3347260"
+  "ferronni\u00e8re": {
+    "url": "https://en.wikipedia.org/wiki/ferronni\u00e8re",
+    "wiki_id": "Q4483059"
   },
-  "Etruscan jewelry": {
-    "url": "https://en.wikipedia.org/wiki/Etruscan_jewelry",
-    "wiki_id": "Q3355917"
+  "Black Hills gold jewelry": {
+    "url": "https://en.wikipedia.org/wiki/Black_Hills_gold_jewelry",
+    "wiki_id": "Q16980272"
   },
-  "widget": {
-    "url": "https://en.wikipedia.org/wiki/widget",
-    "wiki_id": "Q2467478"
+  "United States of America": {
+    "url": "https://en.wikipedia.org/wiki/United_States_of_America",
+    "wiki_id": "Q30"
+  },
+  "button": {
+    "url": "https://en.wikipedia.org/wiki/button",
+    "wiki_id": "Q160464"
+  },
+  "Etruscan art": {
+    "url": "https://en.wikipedia.org/wiki/Etruscan_art",
+    "wiki_id": "Q830331"
+  },
+  "Bronze Age golden hat goldsmithing style": {
+    "url": "https://en.wikipedia.org/wiki/Bronze_Age_golden_hat_goldsmithing_style",
+    "wiki_id": "Q115249475"
+  },
+  "Bronze Age": {
+    "url": "https://en.wikipedia.org/wiki/Bronze_Age",
+    "wiki_id": "Q11761"
+  },
+  "fashion product": {
+    "url": "https://en.wikipedia.org/wiki/fashion_product",
+    "wiki_id": "Q115797493"
+  },
+  "Khit er rouh": {
+    "url": "https://en.wikipedia.org/wiki/Khit_er_rouh",
+    "wiki_id": "Q116303419"
+  },
+  "brooches & lapel pin": {
+    "url": "https://en.wikipedia.org/wiki/brooches_&_lapel_pin",
+    "wiki_id": "Q116960292"
+  },
+  "charms & pendant": {
+    "url": "https://en.wikipedia.org/wiki/charms_&_pendant",
+    "wiki_id": "Q116960293"
+  },
+  "watch accessory": {
+    "url": "https://en.wikipedia.org/wiki/watch_accessory",
+    "wiki_id": "Q116960295"
+  },
+  "court jeweler": {
+    "url": "https://en.wikipedia.org/wiki/court_jeweler",
+    "wiki_id": "Q109828300"
+  },
+  "live insect jewelry": {
+    "url": "https://en.wikipedia.org/wiki/live_insect_jewelry",
+    "wiki_id": "Q6658015"
+  },
+  "Dewizka": {
+    "url": "https://en.wikipedia.org/wiki/Dewizka",
+    "wiki_id": "Q9206678"
+  },
+  "Ryfki": {
+    "url": "https://en.wikipedia.org/wiki/Ryfki",
+    "wiki_id": "Q9324384"
   },
   "jewelry designer": {
     "url": "https://en.wikipedia.org/wiki/jewelry_designer",
     "wiki_id": "Q2519376"
   },
-  "red fox": {
-    "url": "https://en.wikipedia.org/wiki/red_fox",
-    "wiki_id": "Q8332"
+  "widget": {
+    "url": "https://en.wikipedia.org/wiki/widget",
+    "wiki_id": "Q2467478"
   },
-  "headdress": {
-    "url": "https://en.wikipedia.org/wiki/headdress",
-    "wiki_id": "Q28972621"
+  "Morocco": {
+    "url": "https://en.wikipedia.org/wiki/Morocco",
+    "wiki_id": "Q1028"
   },
-  "Majorica pearl": {
-    "url": "https://en.wikipedia.org/wiki/Majorica_pearl",
-    "wiki_id": "Q1370510"
+  "Great Moravia": {
+    "url": "https://en.wikipedia.org/wiki/Great_Moravia",
+    "wiki_id": "Q193152"
   },
-  "Mallorca": {
-    "url": "https://en.wikipedia.org/wiki/Mallorca",
-    "wiki_id": "Q8828"
-  },
-  "Etruscans": {
-    "url": "https://en.wikipedia.org/wiki/Etruscans",
-    "wiki_id": "Q17161"
-  },
-  "Slavic buttons": {
-    "url": "https://en.wikipedia.org/wiki/Slavic_buttons",
-    "wiki_id": "Q4142900"
-  },
-  "Majorica": {
-    "url": "https://en.wikipedia.org/wiki/Majorica",
-    "wiki_id": "Q1887590"
+  "Tunisia": {
+    "url": "https://en.wikipedia.org/wiki/Tunisia",
+    "wiki_id": "Q948"
   },
   "decoration": {
     "url": "https://en.wikipedia.org/wiki/decoration",
     "wiki_id": "Q4470686"
   },
-  "skan": {
-    "url": "https://en.wikipedia.org/wiki/skan",
-    "wiki_id": "Q4421576"
+  "ivie, necklace": {
+    "url": "https://en.wikipedia.org/wiki/ivie,_necklace",
+    "wiki_id": "Q124663614"
   },
-  "ferronni\u00e8re": {
-    "url": "https://en.wikipedia.org/wiki/ferronni\u00e8re",
-    "wiki_id": "Q4483059"
+  "Benin": {
+    "url": "https://en.wikipedia.org/wiki/Benin",
+    "wiki_id": "Q962"
   },
-  "imitation pearl": {
-    "url": "https://en.wikipedia.org/wiki/imitation_pearl",
-    "wiki_id": "Q6004178"
+  "art style": {
+    "url": "https://en.wikipedia.org/wiki/art_style",
+    "wiki_id": "Q1792644"
   },
-  "Russia": {
-    "url": "https://en.wikipedia.org/wiki/Russia",
-    "wiki_id": "Q159"
+  "feather": {
+    "url": "https://en.wikipedia.org/wiki/feather",
+    "wiki_id": "Q50998618"
   },
-  "Netherlands": {
-    "url": "https://en.wikipedia.org/wiki/Netherlands",
-    "wiki_id": "Q55"
+  "\u00d6\u00f1ir": {
+    "url": "https://en.wikipedia.org/wiki/\u00d6\u00f1ir",
+    "wiki_id": "Q12579882"
+  },
+  "Warshavi": {
+    "url": "https://en.wikipedia.org/wiki/Warshavi",
+    "wiki_id": "Q12341428"
+  },
+  "malespenne": {
+    "url": "https://en.wikipedia.org/wiki/malespenne",
+    "wiki_id": "Q19380920"
+  },
+  "cut steel jewellery": {
+    "url": "https://en.wikipedia.org/wiki/cut_steel_jewellery",
+    "wiki_id": "Q20010713"
+  },
+  "Swedish Royal House jewellery": {
+    "url": "https://en.wikipedia.org/wiki/Swedish_Royal_House_jewellery",
+    "wiki_id": "Q10685429"
+  },
+  "Swedish royal family": {
+    "url": "https://en.wikipedia.org/wiki/Swedish_royal_family",
+    "wiki_id": "Q289564"
+  },
+  "product category": {
+    "url": "https://en.wikipedia.org/wiki/product_category",
+    "wiki_id": "Q63981612"
+  },
+  "gerdan": {
+    "url": "https://en.wikipedia.org/wiki/gerdan",
+    "wiki_id": "Q123414608"
+  },
+  "garnet jewelry": {
+    "url": "https://en.wikipedia.org/wiki/garnet_jewelry",
+    "wiki_id": "Q120647814"
   },
   "goldsmithing": {
     "url": "https://en.wikipedia.org/wiki/goldsmithing",
     "wiki_id": "Q11202319"
   },
-  "hackle": {
-    "url": "https://en.wikipedia.org/wiki/hackle",
-    "wiki_id": "Q1755375"
+  "Slavic art": {
+    "url": "https://en.wikipedia.org/wiki/Slavic_art",
+    "wiki_id": "Q107400200"
   },
-  "feather": {
-    "url": "https://en.wikipedia.org/wiki/feather",
-    "wiki_id": "Q50998618"
+  "pocket watch": {
+    "url": "https://en.wikipedia.org/wiki/pocket_watch",
+    "wiki_id": "Q849813"
+  },
+  "golden hat": {
+    "url": "https://en.wikipedia.org/wiki/golden_hat",
+    "wiki_id": "Q737406"
+  },
+  "fastener": {
+    "url": "https://en.wikipedia.org/wiki/fastener",
+    "wiki_id": "Q2002016"
+  },
+  "filigree": {
+    "url": "https://en.wikipedia.org/wiki/filigree",
+    "wiki_id": "Q1001313"
+  },
+  "Ukraine": {
+    "url": "https://en.wikipedia.org/wiki/Ukraine",
+    "wiki_id": "Q212"
+  },
+  "Chain": {
+    "url": "https://en.wikipedia.org/wiki/Chain",
+    "wiki_id": "Q2397485"
+  },
+  "mourning ring": {
+    "url": "https://en.wikipedia.org/wiki/mourning_ring",
+    "wiki_id": "Q12004873"
+  },
+  "Slavic culture": {
+    "url": "https://en.wikipedia.org/wiki/Slavic_culture",
+    "wiki_id": "Q66049360"
+  },
+  "Slavic jewellery": {
+    "url": "https://en.wikipedia.org/wiki/Slavic_jewellery",
+    "wiki_id": "Q107400475"
+  },
+  "sword": {
+    "url": "https://en.wikipedia.org/wiki/sword",
+    "wiki_id": "Q12791"
+  },
+  "clasp": {
+    "url": "https://en.wikipedia.org/wiki/clasp",
+    "wiki_id": "Q2239762"
+  },
+  "artistic technique": {
+    "url": "https://en.wikipedia.org/wiki/artistic_technique",
+    "wiki_id": "Q11177771"
+  },
+  "Ipswich": {
+    "url": "https://en.wikipedia.org/wiki/Ipswich",
+    "wiki_id": "Q184775"
+  },
+  "Bibishak": {
+    "url": "https://en.wikipedia.org/wiki/Bibishak",
+    "wiki_id": "Q12819817"
+  },
+  "rampai": {
+    "url": "https://en.wikipedia.org/wiki/rampai",
+    "wiki_id": "Q20448346"
+  },
+  "bead": {
+    "url": "https://en.wikipedia.org/wiki/bead",
+    "wiki_id": "Q1053956"
+  },
+  "dress hook": {
+    "url": "https://en.wikipedia.org/wiki/dress_hook",
+    "wiki_id": "Q28599903"
+  },
+  "hook": {
+    "url": "https://en.wikipedia.org/wiki/hook",
+    "wiki_id": "Q4243098"
+  },
+  "cap hook": {
+    "url": "https://en.wikipedia.org/wiki/cap_hook",
+    "wiki_id": "Q28605779"
+  },
+  "Zeeuwse knoop": {
+    "url": "https://en.wikipedia.org/wiki/Zeeuwse_knoop",
+    "wiki_id": "Q16619927"
+  },
+  "Zeeland traditional costume": {
+    "url": "https://en.wikipedia.org/wiki/Zeeland_traditional_costume",
+    "wiki_id": "Q124637539"
+  },
+  "Berber": {
+    "url": "https://en.wikipedia.org/wiki/Berber",
+    "wiki_id": "Q45315"
+  },
+  "garter hook": {
+    "url": "https://en.wikipedia.org/wiki/garter_hook",
+    "wiki_id": "Q111226003"
+  },
+  "mourning dress": {
+    "url": "https://en.wikipedia.org/wiki/mourning_dress",
+    "wiki_id": "Q2450206"
+  },
+  "Kabyle jewelery": {
+    "url": "https://en.wikipedia.org/wiki/Kabyle_jewelery",
+    "wiki_id": "Q110478225"
+  },
+  "Halsl\u00e5s": {
+    "url": "https://en.wikipedia.org/wiki/Halsl\u00e5s",
+    "wiki_id": "Q80642015"
+  },
+  "filigree headdress (dianzi)": {
+    "url": "https://en.wikipedia.org/wiki/filigree_headdress_(dianzi)",
+    "wiki_id": "Q97619592"
+  },
+  "watch stickers & decal": {
+    "url": "https://en.wikipedia.org/wiki/watch_stickers_&_decal",
+    "wiki_id": "Q116960296"
+  },
+  "steel": {
+    "url": "https://en.wikipedia.org/wiki/steel",
+    "wiki_id": "Q11427"
+  },
+  "China": {
+    "url": "https://en.wikipedia.org/wiki/China",
+    "wiki_id": "Q29520"
+  },
+  "memorial": {
+    "url": "https://en.wikipedia.org/wiki/memorial",
+    "wiki_id": "Q5003624"
+  },
+  "Ipswich Museum": {
+    "url": "https://en.wikipedia.org/wiki/Ipswich_Museum",
+    "wiki_id": "Q3329546"
+  },
+  "metalworking": {
+    "url": "https://en.wikipedia.org/wiki/metalworking",
+    "wiki_id": "Q953045"
+  },
+  "Naycha": {
+    "url": "https://en.wikipedia.org/wiki/Naycha",
+    "wiki_id": "Q12828367"
+  },
+  "umbrella term": {
+    "url": "https://en.wikipedia.org/wiki/umbrella_term",
+    "wiki_id": "Q210588"
+  },
+  "Slavonic ornament": {
+    "url": "https://en.wikipedia.org/wiki/Slavonic_ornament",
+    "wiki_id": "Q106878323"
+  },
+  "Glagolitic ornaments": {
+    "url": "https://en.wikipedia.org/wiki/Glagolitic_ornaments",
+    "wiki_id": "Q107123620"
+  },
+  "ring": {
+    "url": "https://en.wikipedia.org/wiki/ring",
+    "wiki_id": "Q46847"
+  },
+  "Yacameztli": {
+    "url": "https://en.wikipedia.org/wiki/Yacameztli",
+    "wiki_id": "Q72287150"
+  },
+  "Aztec": {
+    "url": "https://en.wikipedia.org/wiki/Aztec",
+    "wiki_id": "Q12542"
+  },
+  "Bernadotte Family Foundation": {
+    "url": "https://en.wikipedia.org/wiki/Bernadotte_Family_Foundation",
+    "wiki_id": "Q10428697"
+  },
+  "Slavs": {
+    "url": "https://en.wikipedia.org/wiki/Slavs",
+    "wiki_id": "Q40477"
+  },
+  "Black Hills": {
+    "url": "https://en.wikipedia.org/wiki/Black_Hills",
+    "wiki_id": "Q250937"
+  },
+  "goldwork": {
+    "url": "https://en.wikipedia.org/wiki/goldwork",
+    "wiki_id": "Q63538237"
+  },
+  "National Inventory of Living Heritage in Finland": {
+    "url": "https://en.wikipedia.org/wiki/National_Inventory_of_Living_Heritage_in_Finland",
+    "wiki_id": "Q113039042"
+  },
+  "art jewelry": {
+    "url": "https://en.wikipedia.org/wiki/art_jewelry",
+    "wiki_id": "Q15145597"
+  },
+  "torc": {
+    "url": "https://en.wikipedia.org/wiki/torc",
+    "wiki_id": "Q397447"
   },
   "suffragette jewellery": {
     "url": "https://en.wikipedia.org/wiki/suffragette_jewellery",
@@ -1038,22 +1366,6 @@
   "Jhumar": {
     "url": "https://en.wikipedia.org/wiki/Jhumar",
     "wiki_id": "Q32067768"
-  },
-  "fashion product": {
-    "url": "https://en.wikipedia.org/wiki/fashion_product",
-    "wiki_id": "Q115797493"
-  },
-  "Ryfki": {
-    "url": "https://en.wikipedia.org/wiki/Ryfki",
-    "wiki_id": "Q9324384"
-  },
-  "sword": {
-    "url": "https://en.wikipedia.org/wiki/sword",
-    "wiki_id": "Q12791"
-  },
-  "culture": {
-    "url": "https://en.wikipedia.org/wiki/culture",
-    "wiki_id": "Q11042"
   },
   "headdress frontlet": {
     "url": "https://en.wikipedia.org/wiki/headdress_frontlet",
@@ -1067,170 +1379,6 @@
     "url": "https://en.wikipedia.org/wiki/Alpabfahrtsherz",
     "wiki_id": "Q66486239"
   },
-  "Yacameztli": {
-    "url": "https://en.wikipedia.org/wiki/Yacameztli",
-    "wiki_id": "Q72287150"
-  },
-  "Great Moravia": {
-    "url": "https://en.wikipedia.org/wiki/Great_Moravia",
-    "wiki_id": "Q193152"
-  },
-  "Slavic jewellery": {
-    "url": "https://en.wikipedia.org/wiki/Slavic_jewellery",
-    "wiki_id": "Q107400475"
-  },
-  "court jeweler": {
-    "url": "https://en.wikipedia.org/wiki/court_jeweler",
-    "wiki_id": "Q109828300"
-  },
-  "Slavic art": {
-    "url": "https://en.wikipedia.org/wiki/Slavic_art",
-    "wiki_id": "Q107400200"
-  },
-  "gerdan": {
-    "url": "https://en.wikipedia.org/wiki/gerdan",
-    "wiki_id": "Q123414608"
-  },
-  "Ukraine": {
-    "url": "https://en.wikipedia.org/wiki/Ukraine",
-    "wiki_id": "Q212"
-  },
-  "filigree": {
-    "url": "https://en.wikipedia.org/wiki/filigree",
-    "wiki_id": "Q1001313"
-  },
-  "Naycha": {
-    "url": "https://en.wikipedia.org/wiki/Naycha",
-    "wiki_id": "Q12828367"
-  },
-  "umbrella term": {
-    "url": "https://en.wikipedia.org/wiki/umbrella_term",
-    "wiki_id": "Q210588"
-  },
-  "tail": {
-    "url": "https://en.wikipedia.org/wiki/tail",
-    "wiki_id": "Q60960"
-  },
-  "Swedish Royal House jewellery": {
-    "url": "https://en.wikipedia.org/wiki/Swedish_Royal_House_jewellery",
-    "wiki_id": "Q10685429"
-  },
-  "Warshavi": {
-    "url": "https://en.wikipedia.org/wiki/Warshavi",
-    "wiki_id": "Q12341428"
-  },
-  "\u00d6\u00f1ir": {
-    "url": "https://en.wikipedia.org/wiki/\u00d6\u00f1ir",
-    "wiki_id": "Q12579882"
-  },
-  "Bibishak": {
-    "url": "https://en.wikipedia.org/wiki/Bibishak",
-    "wiki_id": "Q12819817"
-  },
-  "art jewelry": {
-    "url": "https://en.wikipedia.org/wiki/art_jewelry",
-    "wiki_id": "Q15145597"
-  },
-  "Zeeuwse knoop": {
-    "url": "https://en.wikipedia.org/wiki/Zeeuwse_knoop",
-    "wiki_id": "Q16619927"
-  },
-  "Slavic culture": {
-    "url": "https://en.wikipedia.org/wiki/Slavic_culture",
-    "wiki_id": "Q66049360"
-  },
-  "Black Hills gold jewelry": {
-    "url": "https://en.wikipedia.org/wiki/Black_Hills_gold_jewelry",
-    "wiki_id": "Q16980272"
-  },
-  "United States of America": {
-    "url": "https://en.wikipedia.org/wiki/United_States_of_America",
-    "wiki_id": "Q30"
-  },
-  "live insect jewelry": {
-    "url": "https://en.wikipedia.org/wiki/live_insect_jewelry",
-    "wiki_id": "Q6658015"
-  },
-  "Dewizka": {
-    "url": "https://en.wikipedia.org/wiki/Dewizka",
-    "wiki_id": "Q9206678"
-  },
-  "mourning ring": {
-    "url": "https://en.wikipedia.org/wiki/mourning_ring",
-    "wiki_id": "Q12004873"
-  },
-  "Chain": {
-    "url": "https://en.wikipedia.org/wiki/Chain",
-    "wiki_id": "Q2397485"
-  },
-  "Aztec": {
-    "url": "https://en.wikipedia.org/wiki/Aztec",
-    "wiki_id": "Q12542"
-  },
-  "Zeeland traditional costume": {
-    "url": "https://en.wikipedia.org/wiki/Zeeland_traditional_costume",
-    "wiki_id": "Q124637539"
-  },
-  "ivie, necklace": {
-    "url": "https://en.wikipedia.org/wiki/ivie,_necklace",
-    "wiki_id": "Q124663614"
-  },
-  "Benin": {
-    "url": "https://en.wikipedia.org/wiki/Benin",
-    "wiki_id": "Q962"
-  },
-  "pocket watch": {
-    "url": "https://en.wikipedia.org/wiki/pocket_watch",
-    "wiki_id": "Q849813"
-  },
-  "Swedish royal family": {
-    "url": "https://en.wikipedia.org/wiki/Swedish_royal_family",
-    "wiki_id": "Q289564"
-  },
-  "Bernadotte Family Foundation": {
-    "url": "https://en.wikipedia.org/wiki/Bernadotte_Family_Foundation",
-    "wiki_id": "Q10428697"
-  },
-  "ring": {
-    "url": "https://en.wikipedia.org/wiki/ring",
-    "wiki_id": "Q46847"
-  },
-  "button": {
-    "url": "https://en.wikipedia.org/wiki/button",
-    "wiki_id": "Q160464"
-  },
-  "Kabyle jewelery": {
-    "url": "https://en.wikipedia.org/wiki/Kabyle_jewelery",
-    "wiki_id": "Q110478225"
-  },
-  "Algeria": {
-    "url": "https://en.wikipedia.org/wiki/Algeria",
-    "wiki_id": "Q262"
-  },
-  "Berber jewellery": {
-    "url": "https://en.wikipedia.org/wiki/Berber_jewellery",
-    "wiki_id": "Q19835346"
-  },
-  "Berber": {
-    "url": "https://en.wikipedia.org/wiki/Berber",
-    "wiki_id": "Q45315"
-  },
-  "Ipswich": {
-    "url": "https://en.wikipedia.org/wiki/Ipswich",
-    "wiki_id": "Q184775"
-  },
-  "Etruscan art": {
-    "url": "https://en.wikipedia.org/wiki/Etruscan_art",
-    "wiki_id": "Q830331"
-  },
-  "Khit er rouh": {
-    "url": "https://en.wikipedia.org/wiki/Khit_er_rouh",
-    "wiki_id": "Q116303419"
-  },
-  "filigree headdress (dianzi)": {
-    "url": "https://en.wikipedia.org/wiki/filigree_headdress_(dianzi)",
-    "wiki_id": "Q97619592"
-  },
   "hanfu": {
     "url": "https://en.wikipedia.org/wiki/hanfu",
     "wiki_id": "Q1327357"
@@ -1238,82 +1386,6 @@
   "hairstyle accessory": {
     "url": "https://en.wikipedia.org/wiki/hairstyle_accessory",
     "wiki_id": "Q21369154"
-  },
-  "Tunisia": {
-    "url": "https://en.wikipedia.org/wiki/Tunisia",
-    "wiki_id": "Q948"
-  },
-  "garnet jewelry": {
-    "url": "https://en.wikipedia.org/wiki/garnet_jewelry",
-    "wiki_id": "Q120647814"
-  },
-  "goldwork": {
-    "url": "https://en.wikipedia.org/wiki/goldwork",
-    "wiki_id": "Q63538237"
-  },
-  "National Inventory of Living Heritage in Finland": {
-    "url": "https://en.wikipedia.org/wiki/National_Inventory_of_Living_Heritage_in_Finland",
-    "wiki_id": "Q113039042"
-  },
-  "cut steel jewellery": {
-    "url": "https://en.wikipedia.org/wiki/cut_steel_jewellery",
-    "wiki_id": "Q20010713"
-  },
-  "steel": {
-    "url": "https://en.wikipedia.org/wiki/steel",
-    "wiki_id": "Q11427"
-  },
-  "torc": {
-    "url": "https://en.wikipedia.org/wiki/torc",
-    "wiki_id": "Q397447"
-  },
-  "Black Hills": {
-    "url": "https://en.wikipedia.org/wiki/Black_Hills",
-    "wiki_id": "Q250937"
-  },
-  "malespenne": {
-    "url": "https://en.wikipedia.org/wiki/malespenne",
-    "wiki_id": "Q19380920"
-  },
-  "rampai": {
-    "url": "https://en.wikipedia.org/wiki/rampai",
-    "wiki_id": "Q20448346"
-  },
-  "dress hook": {
-    "url": "https://en.wikipedia.org/wiki/dress_hook",
-    "wiki_id": "Q28599903"
-  },
-  "cap hook": {
-    "url": "https://en.wikipedia.org/wiki/cap_hook",
-    "wiki_id": "Q28605779"
-  },
-  "Bronze Age golden hat goldsmithing style": {
-    "url": "https://en.wikipedia.org/wiki/Bronze_Age_golden_hat_goldsmithing_style",
-    "wiki_id": "Q115249475"
-  },
-  "Bronze Age": {
-    "url": "https://en.wikipedia.org/wiki/Bronze_Age",
-    "wiki_id": "Q11761"
-  },
-  "watch stickers & decal": {
-    "url": "https://en.wikipedia.org/wiki/watch_stickers_&_decal",
-    "wiki_id": "Q116960296"
-  },
-  "watch accessory": {
-    "url": "https://en.wikipedia.org/wiki/watch_accessory",
-    "wiki_id": "Q116960295"
-  },
-  "clasp": {
-    "url": "https://en.wikipedia.org/wiki/clasp",
-    "wiki_id": "Q2239762"
-  },
-  "Halsl\u00e5s": {
-    "url": "https://en.wikipedia.org/wiki/Halsl\u00e5s",
-    "wiki_id": "Q80642015"
-  },
-  "metalworking": {
-    "url": "https://en.wikipedia.org/wiki/metalworking",
-    "wiki_id": "Q953045"
   },
   "Kolt": {
     "url": "https://en.wikipedia.org/wiki/Kolt",
@@ -1327,105 +1399,93 @@
     "url": "https://en.wikipedia.org/wiki/Kaptorga",
     "wiki_id": "Q11735356"
   },
-  "hook": {
-    "url": "https://en.wikipedia.org/wiki/hook",
-    "wiki_id": "Q4243098"
-  },
-  "Morocco": {
-    "url": "https://en.wikipedia.org/wiki/Morocco",
-    "wiki_id": "Q1028"
-  },
-  "bead": {
-    "url": "https://en.wikipedia.org/wiki/bead",
-    "wiki_id": "Q1053956"
-  },
-  "Slavonic ornament": {
-    "url": "https://en.wikipedia.org/wiki/Slavonic_ornament",
-    "wiki_id": "Q106878323"
-  },
-  "Glagolitic ornaments": {
-    "url": "https://en.wikipedia.org/wiki/Glagolitic_ornaments",
-    "wiki_id": "Q107123620"
-  },
-  "art style": {
-    "url": "https://en.wikipedia.org/wiki/art_style",
-    "wiki_id": "Q1792644"
-  },
-  "Slavs": {
-    "url": "https://en.wikipedia.org/wiki/Slavs",
-    "wiki_id": "Q40477"
-  },
-  "brooches & lapel pin": {
-    "url": "https://en.wikipedia.org/wiki/brooches_&_lapel_pin",
-    "wiki_id": "Q116960292"
-  },
-  "charms & pendant": {
-    "url": "https://en.wikipedia.org/wiki/charms_&_pendant",
-    "wiki_id": "Q116960293"
-  },
-  "golden hat": {
-    "url": "https://en.wikipedia.org/wiki/golden_hat",
-    "wiki_id": "Q737406"
-  },
-  "memorial": {
-    "url": "https://en.wikipedia.org/wiki/memorial",
-    "wiki_id": "Q5003624"
-  },
-  "China": {
-    "url": "https://en.wikipedia.org/wiki/China",
-    "wiki_id": "Q29520"
-  },
-  "Ipswich Museum": {
-    "url": "https://en.wikipedia.org/wiki/Ipswich_Museum",
-    "wiki_id": "Q3329546"
-  },
-  "mourning dress": {
-    "url": "https://en.wikipedia.org/wiki/mourning_dress",
-    "wiki_id": "Q2450206"
-  },
-  "artistic technique": {
-    "url": "https://en.wikipedia.org/wiki/artistic_technique",
-    "wiki_id": "Q11177771"
-  },
-  "garter hook": {
-    "url": "https://en.wikipedia.org/wiki/garter_hook",
-    "wiki_id": "Q111226003"
-  },
-  "product category": {
-    "url": "https://en.wikipedia.org/wiki/product_category",
-    "wiki_id": "Q63981612"
-  },
-  "fastener": {
-    "url": "https://en.wikipedia.org/wiki/fastener",
-    "wiki_id": "Q2002016"
-  },
   "profession": {
     "url": "https://en.wikipedia.org/wiki/profession",
     "wiki_id": "Q28640"
-  },
-  "medalist": {
-    "url": "https://en.wikipedia.org/wiki/medalist",
-    "wiki_id": "Q1708232"
   },
   "engraver": {
     "url": "https://en.wikipedia.org/wiki/engraver",
     "wiki_id": "Q329439"
   },
+  "medalist": {
+    "url": "https://en.wikipedia.org/wiki/medalist",
+    "wiki_id": "Q1708232"
+  },
+  "artistic creation": {
+    "url": "https://en.wikipedia.org/wiki/artistic_creation",
+    "wiki_id": "Q47407603"
+  },
   "jeweler": {
     "url": "https://en.wikipedia.org/wiki/jeweler",
     "wiki_id": "Q336221"
   },
-  "list of medalists": {
-    "url": "https://en.wikipedia.org/wiki/list_of_medalists",
-    "wiki_id": "Q1059485"
+  "John the Evangelist": {
+    "url": "https://en.wikipedia.org/wiki/John_the_Evangelist",
+    "wiki_id": "Q328804"
+  },
+  "Chief Engraver of the Paris Mint": {
+    "url": "https://en.wikipedia.org/wiki/Chief_Engraver_of_the_Paris_Mint",
+    "wiki_id": "Q3115767"
+  },
+  "gem engraver": {
+    "url": "https://en.wikipedia.org/wiki/gem_engraver",
+    "wiki_id": "Q3109381"
+  },
+  "metalsmith": {
+    "url": "https://en.wikipedia.org/wiki/metalsmith",
+    "wiki_id": "Q838566"
+  },
+  "jewelry design": {
+    "url": "https://en.wikipedia.org/wiki/jewelry_design",
+    "wiki_id": "Q6189617"
+  },
+  "artist": {
+    "url": "https://en.wikipedia.org/wiki/artist",
+    "wiki_id": "Q483501"
   },
   "sculptor": {
     "url": "https://en.wikipedia.org/wiki/sculptor",
     "wiki_id": "Q1281618"
   },
-  "artistic creation": {
-    "url": "https://en.wikipedia.org/wiki/artistic_creation",
-    "wiki_id": "Q47407603"
+  "tableware": {
+    "url": "https://en.wikipedia.org/wiki/tableware",
+    "wiki_id": "Q851782"
+  },
+  "medal cutter": {
+    "url": "https://en.wikipedia.org/wiki/medal_cutter",
+    "wiki_id": "Q24336659"
+  },
+  "stampcutter": {
+    "url": "https://en.wikipedia.org/wiki/stampcutter",
+    "wiki_id": "Q25616549"
+  },
+  "photoengraver": {
+    "url": "https://en.wikipedia.org/wiki/photoengraver",
+    "wiki_id": "Q29452088"
+  },
+  "list of medalists": {
+    "url": "https://en.wikipedia.org/wiki/list_of_medalists",
+    "wiki_id": "Q1059485"
+  },
+  "coin": {
+    "url": "https://en.wikipedia.org/wiki/coin",
+    "wiki_id": "Q41207"
+  },
+  "medallion": {
+    "url": "https://en.wikipedia.org/wiki/medallion",
+    "wiki_id": "Q131647"
+  },
+  "seal cutter": {
+    "url": "https://en.wikipedia.org/wiki/seal_cutter",
+    "wiki_id": "Q89675973"
+  },
+  "civil servant": {
+    "url": "https://en.wikipedia.org/wiki/civil_servant",
+    "wiki_id": "Q212238"
+  },
+  "designer": {
+    "url": "https://en.wikipedia.org/wiki/designer",
+    "wiki_id": "Q5322166"
   },
   "Graveur du Roi": {
     "url": "https://en.wikipedia.org/wiki/Graveur_du_Roi",
@@ -1439,17 +1499,45 @@
     "url": "https://en.wikipedia.org/wiki/journeyman_goldsmith",
     "wiki_id": "Q120647652"
   },
-  "tableware": {
-    "url": "https://en.wikipedia.org/wiki/tableware",
-    "wiki_id": "Q851782"
+  "liturgical artist": {
+    "url": "https://en.wikipedia.org/wiki/liturgical_artist",
+    "wiki_id": "Q44828747"
   },
-  "Chief Engraver of the Paris Mint": {
-    "url": "https://en.wikipedia.org/wiki/Chief_Engraver_of_the_Paris_Mint",
-    "wiki_id": "Q3115767"
+  "art": {
+    "url": "https://en.wikipedia.org/wiki/art",
+    "wiki_id": "Q735"
   },
-  "medallion": {
-    "url": "https://en.wikipedia.org/wiki/medallion",
-    "wiki_id": "Q131647"
+  "list of jewellery designers": {
+    "url": "https://en.wikipedia.org/wiki/list_of_jewellery_designers",
+    "wiki_id": "Q16155169"
+  },
+  "painter": {
+    "url": "https://en.wikipedia.org/wiki/painter",
+    "wiki_id": "Q1028181"
+  },
+  "position": {
+    "url": "https://en.wikipedia.org/wiki/position",
+    "wiki_id": "Q4164871"
+  },
+  "medal engraver": {
+    "url": "https://en.wikipedia.org/wiki/medal_engraver",
+    "wiki_id": "Q42296496"
+  },
+  "mezzotinter": {
+    "url": "https://en.wikipedia.org/wiki/mezzotinter",
+    "wiki_id": "Q61155183"
+  },
+  "photoengraving": {
+    "url": "https://en.wikipedia.org/wiki/photoengraving",
+    "wiki_id": "Q1439639"
+  },
+  "gemcutter": {
+    "url": "https://en.wikipedia.org/wiki/gemcutter",
+    "wiki_id": "Q1283397"
+  },
+  "Chief Engraver of the Royal Mint": {
+    "url": "https://en.wikipedia.org/wiki/Chief_Engraver_of_the_Royal_Mint",
+    "wiki_id": "Q30673636"
   },
   "nacre engraver": {
     "url": "https://en.wikipedia.org/wiki/nacre_engraver",
@@ -1459,212 +1547,3880 @@
     "url": "https://en.wikipedia.org/wiki/map_engraver",
     "wiki_id": "Q124711264"
   },
-  "medal engraver": {
-    "url": "https://en.wikipedia.org/wiki/medal_engraver",
-    "wiki_id": "Q42296496"
-  },
-  "liturgical artist": {
-    "url": "https://en.wikipedia.org/wiki/liturgical_artist",
-    "wiki_id": "Q44828747"
-  },
-  "mezzotinter": {
-    "url": "https://en.wikipedia.org/wiki/mezzotinter",
-    "wiki_id": "Q61155183"
-  },
-  "jewelry design": {
-    "url": "https://en.wikipedia.org/wiki/jewelry_design",
-    "wiki_id": "Q6189617"
-  },
-  "gem engraver": {
-    "url": "https://en.wikipedia.org/wiki/gem_engraver",
-    "wiki_id": "Q3109381"
-  },
-  "goldsmith banker": {
-    "url": "https://en.wikipedia.org/wiki/goldsmith_banker",
-    "wiki_id": "Q65048785"
-  },
-  "civil servant": {
-    "url": "https://en.wikipedia.org/wiki/civil_servant",
-    "wiki_id": "Q212238"
-  },
-  "metalsmith": {
-    "url": "https://en.wikipedia.org/wiki/metalsmith",
-    "wiki_id": "Q838566"
-  },
-  "seal cutter": {
-    "url": "https://en.wikipedia.org/wiki/seal_cutter",
-    "wiki_id": "Q61465891"
-  },
-  "steel engraver": {
-    "url": "https://en.wikipedia.org/wiki/steel_engraver",
-    "wiki_id": "Q80167875"
-  },
   "hardstone carving": {
     "url": "https://en.wikipedia.org/wiki/hardstone_carving",
     "wiki_id": "Q929254"
-  },
-  "John the Evangelist": {
-    "url": "https://en.wikipedia.org/wiki/John_the_Evangelist",
-    "wiki_id": "Q328804"
-  },
-  "artist": {
-    "url": "https://en.wikipedia.org/wiki/artist",
-    "wiki_id": "Q483501"
-  },
-  "art": {
-    "url": "https://en.wikipedia.org/wiki/art",
-    "wiki_id": "Q735"
   },
   "Monnaie de Paris": {
     "url": "https://en.wikipedia.org/wiki/Monnaie_de_Paris",
     "wiki_id": "Q1250541"
   },
-  "banker": {
-    "url": "https://en.wikipedia.org/wiki/banker",
-    "wiki_id": "Q806798"
-  },
-  "steel engraving": {
-    "url": "https://en.wikipedia.org/wiki/steel_engraving",
-    "wiki_id": "Q482097"
-  },
-  "list of jewellery designers": {
-    "url": "https://en.wikipedia.org/wiki/list_of_jewellery_designers",
-    "wiki_id": "Q16155169"
-  },
-  "gem cutting": {
-    "url": "https://en.wikipedia.org/wiki/gem_cutting",
-    "wiki_id": "Q2035314"
-  },
-  "gemcutter": {
-    "url": "https://en.wikipedia.org/wiki/gemcutter",
-    "wiki_id": "Q1283397"
-  },
-  "position": {
-    "url": "https://en.wikipedia.org/wiki/position",
-    "wiki_id": "Q4164871"
-  },
-  "rocker": {
-    "url": "https://en.wikipedia.org/wiki/rocker",
-    "wiki_id": "Q1543083"
-  },
-  "artisan": {
-    "url": "https://en.wikipedia.org/wiki/artisan",
-    "wiki_id": "Q1294787"
-  },
-  "wood carver": {
-    "url": "https://en.wikipedia.org/wiki/wood_carver",
-    "wiki_id": "Q6138343"
-  },
-  "mezzotint technique": {
-    "url": "https://en.wikipedia.org/wiki/mezzotint_technique",
-    "wiki_id": "Q731980"
-  },
-  "seal cutting": {
-    "url": "https://en.wikipedia.org/wiki/seal_cutting",
-    "wiki_id": "Q1051110"
-  },
-  "cartographer": {
-    "url": "https://en.wikipedia.org/wiki/cartographer",
-    "wiki_id": "Q1734662"
-  },
-  "medallic art": {
-    "url": "https://en.wikipedia.org/wiki/medallic_art",
-    "wiki_id": "Q25602843"
-  },
-  "medal cutter": {
-    "url": "https://en.wikipedia.org/wiki/medal_cutter",
-    "wiki_id": "Q24336659"
-  },
-  "coin": {
-    "url": "https://en.wikipedia.org/wiki/coin",
-    "wiki_id": "Q41207"
-  },
-  "mezzotint print": {
-    "url": "https://en.wikipedia.org/wiki/mezzotint_print",
-    "wiki_id": "Q21647744"
-  },
-  "painter": {
-    "url": "https://en.wikipedia.org/wiki/painter",
-    "wiki_id": "Q1028181"
-  },
-  "photoengraver": {
-    "url": "https://en.wikipedia.org/wiki/photoengraver",
-    "wiki_id": "Q29452088"
-  },
-  "photoengraving": {
-    "url": "https://en.wikipedia.org/wiki/photoengraving",
-    "wiki_id": "Q1439639"
-  },
-  "religious art": {
-    "url": "https://en.wikipedia.org/wiki/religious_art",
-    "wiki_id": "Q2864737"
-  },
-  "printmaker": {
-    "url": "https://en.wikipedia.org/wiki/printmaker",
-    "wiki_id": "Q11569986"
+  "steel engraver": {
+    "url": "https://en.wikipedia.org/wiki/steel_engraver",
+    "wiki_id": "Q80167875"
   },
   "manufacturer of gold wire": {
     "url": "https://en.wikipedia.org/wiki/manufacturer_of_gold_wire",
     "wiki_id": "Q104708160"
   },
-  "spinner": {
-    "url": "https://en.wikipedia.org/wiki/spinner",
-    "wiki_id": "Q19968805"
-  },
-  "designer": {
-    "url": "https://en.wikipedia.org/wiki/designer",
-    "wiki_id": "Q5322166"
-  },
-  "Chief Engraver of the Royal Mint": {
-    "url": "https://en.wikipedia.org/wiki/Chief_Engraver_of_the_Royal_Mint",
-    "wiki_id": "Q30673636"
-  },
-  "metal engraving": {
-    "url": "https://en.wikipedia.org/wiki/metal_engraving",
-    "wiki_id": "Q12769612"
-  },
-  "stampcutter": {
-    "url": "https://en.wikipedia.org/wiki/stampcutter",
-    "wiki_id": "Q25616549"
-  },
   "occupation": {
     "url": "https://en.wikipedia.org/wiki/occupation",
     "wiki_id": "Q12737077"
-  },
-  "ceramicist": {
-    "url": "https://en.wikipedia.org/wiki/ceramicist",
-    "wiki_id": "Q7541856"
-  },
-  "engraving": {
-    "url": "https://en.wikipedia.org/wiki/engraving",
-    "wiki_id": "Q11835431"
   },
   "historical profession": {
     "url": "https://en.wikipedia.org/wiki/historical_profession",
     "wiki_id": "Q16335296"
   },
-  "gold thread": {
-    "url": "https://en.wikipedia.org/wiki/gold_thread",
-    "wiki_id": "Q29586582"
+  "engraving": {
+    "url": "https://en.wikipedia.org/wiki/engraving",
+    "wiki_id": "Q11835431"
   },
-  "journeyman": {
-    "url": "https://en.wikipedia.org/wiki/journeyman",
-    "wiki_id": "Q582096"
+  "religious art": {
+    "url": "https://en.wikipedia.org/wiki/religious_art",
+    "wiki_id": "Q2864737"
   },
-  "court artist": {
-    "url": "https://en.wikipedia.org/wiki/court_artist",
-    "wiki_id": "Q59922524"
+  "medallic art": {
+    "url": "https://en.wikipedia.org/wiki/medallic_art",
+    "wiki_id": "Q25602843"
   },
   "imager": {
     "url": "https://en.wikipedia.org/wiki/imager",
     "wiki_id": "Q47458415"
   },
+  "medal-engraving": {
+    "url": "https://en.wikipedia.org/wiki/medal-engraving",
+    "wiki_id": "Q113921884"
+  },
+  "spinner": {
+    "url": "https://en.wikipedia.org/wiki/spinner",
+    "wiki_id": "Q19968805"
+  },
+  "steel engraving": {
+    "url": "https://en.wikipedia.org/wiki/steel_engraving",
+    "wiki_id": "Q482097"
+  },
+  "wood carver": {
+    "url": "https://en.wikipedia.org/wiki/wood_carver",
+    "wiki_id": "Q6138343"
+  },
+  "metal engraving": {
+    "url": "https://en.wikipedia.org/wiki/metal_engraving",
+    "wiki_id": "Q12769612"
+  },
+  "gold thread": {
+    "url": "https://en.wikipedia.org/wiki/gold_thread",
+    "wiki_id": "Q29586582"
+  },
+  "goldsmith banker": {
+    "url": "https://en.wikipedia.org/wiki/goldsmith_banker",
+    "wiki_id": "Q65048785"
+  },
+  "mezzotint technique": {
+    "url": "https://en.wikipedia.org/wiki/mezzotint_technique",
+    "wiki_id": "Q731980"
+  },
+  "cartographer": {
+    "url": "https://en.wikipedia.org/wiki/cartographer",
+    "wiki_id": "Q1734662"
+  },
+  "printmaker": {
+    "url": "https://en.wikipedia.org/wiki/printmaker",
+    "wiki_id": "Q11569986"
+  },
+  "ceramicist": {
+    "url": "https://en.wikipedia.org/wiki/ceramicist",
+    "wiki_id": "Q7541856"
+  },
+  "gem cutting": {
+    "url": "https://en.wikipedia.org/wiki/gem_cutting",
+    "wiki_id": "Q2035314"
+  },
   "artistic profession": {
     "url": "https://en.wikipedia.org/wiki/artistic_profession",
     "wiki_id": "Q88789639"
   },
-  "medal-engraving": {
-    "url": "https://en.wikipedia.org/wiki/medal-engraving",
-    "wiki_id": "Q113921884"
+  "banker": {
+    "url": "https://en.wikipedia.org/wiki/banker",
+    "wiki_id": "Q806798"
+  },
+  "seal cutting": {
+    "url": "https://en.wikipedia.org/wiki/seal_cutting",
+    "wiki_id": "Q1051110"
+  },
+  "rocker": {
+    "url": "https://en.wikipedia.org/wiki/rocker",
+    "wiki_id": "Q1543083"
+  },
+  "journeyman": {
+    "url": "https://en.wikipedia.org/wiki/journeyman",
+    "wiki_id": "Q582096"
+  },
+  "mezzotint print": {
+    "url": "https://en.wikipedia.org/wiki/mezzotint_print",
+    "wiki_id": "Q21647744"
+  },
+  "artisan": {
+    "url": "https://en.wikipedia.org/wiki/artisan",
+    "wiki_id": "Q1294787"
+  },
+  "court artist": {
+    "url": "https://en.wikipedia.org/wiki/court_artist",
+    "wiki_id": "Q59922524"
+  },
+  "rank of mineral taxonomy": {
+    "url": "https://en.wikipedia.org/wiki/rank_of_mineral_taxonomy",
+    "wiki_id": "Q55084935"
+  },
+  "group or class of minerals": {
+    "url": "https://en.wikipedia.org/wiki/group_or_class_of_minerals",
+    "wiki_id": "Q126178575"
+  },
+  "streak color": {
+    "url": "https://en.wikipedia.org/wiki/streak_color",
+    "wiki_id": "P534"
+  },
+  "twinning": {
+    "url": "https://en.wikipedia.org/wiki/twinning",
+    "wiki_id": "P537"
+  },
+  "color": {
+    "url": "https://en.wikipedia.org/wiki/color",
+    "wiki_id": "P462"
+  },
+  "type description": {
+    "url": "https://en.wikipedia.org/wiki/type_description",
+    "wiki_id": "Q56241591"
+  },
+  "earth science": {
+    "url": "https://en.wikipedia.org/wiki/earth_science",
+    "wiki_id": "Q8008"
+  },
+  "mineral fracture": {
+    "url": "https://en.wikipedia.org/wiki/mineral_fracture",
+    "wiki_id": "P538"
+  },
+  "crystal system": {
+    "url": "https://en.wikipedia.org/wiki/crystal_system",
+    "wiki_id": "P556"
+  },
+  "solubility": {
+    "url": "https://en.wikipedia.org/wiki/solubility",
+    "wiki_id": "P2177"
+  },
+  "taxonomy": {
+    "url": "https://en.wikipedia.org/wiki/taxonomy",
+    "wiki_id": "Q7211"
+  },
+  "space group": {
+    "url": "https://en.wikipedia.org/wiki/space_group",
+    "wiki_id": "P690"
+  },
+  "cleavage": {
+    "url": "https://en.wikipedia.org/wiki/cleavage",
+    "wiki_id": "P693"
+  },
+  "crystal habit": {
+    "url": "https://en.wikipedia.org/wiki/crystal_habit",
+    "wiki_id": "P565"
+  },
+  "IMA status and/or rank": {
+    "url": "https://en.wikipedia.org/wiki/IMA_status_and/or_rank",
+    "wiki_id": "P579"
+  },
+  "point group": {
+    "url": "https://en.wikipedia.org/wiki/point_group",
+    "wiki_id": "P589"
+  },
+  "Mohs' hardness": {
+    "url": "https://en.wikipedia.org/wiki/Mohs'_hardness",
+    "wiki_id": "P1088"
+  },
+  "Hermann-Mauguin notation": {
+    "url": "https://en.wikipedia.org/wiki/Hermann-Mauguin_notation",
+    "wiki_id": "P1632"
+  },
+  "density": {
+    "url": "https://en.wikipedia.org/wiki/density",
+    "wiki_id": "P2054"
+  },
+  "second-order class": {
+    "url": "https://en.wikipedia.org/wiki/second-order_class",
+    "wiki_id": "Q24017414"
+  },
+  "group or class of chemical substances": {
+    "url": "https://en.wikipedia.org/wiki/group_or_class_of_chemical_substances",
+    "wiki_id": "Q17339814"
+  },
+  "mineral class": {
+    "url": "https://en.wikipedia.org/wiki/mineral_class",
+    "wiki_id": "Q12110334"
+  },
+  "basanite": {
+    "url": "https://en.wikipedia.org/wiki/basanite",
+    "wiki_id": "Q32805"
+  },
+  "antique marble": {
+    "url": "https://en.wikipedia.org/wiki/antique_marble",
+    "wiki_id": "Q3251409"
+  },
+  "tephritoid": {
+    "url": "https://en.wikipedia.org/wiki/tephritoid",
+    "wiki_id": "Q115052138"
+  },
+  "crystalline schist": {
+    "url": "https://en.wikipedia.org/wiki/crystalline_schist",
+    "wiki_id": "Q15315"
+  },
+  "Carrara marble": {
+    "url": "https://en.wikipedia.org/wiki/Carrara_marble",
+    "wiki_id": "Q40088"
+  },
+  "Italy": {
+    "url": "https://en.wikipedia.org/wiki/Italy",
+    "wiki_id": "Q38"
+  },
+  "B\u00fcndner schist": {
+    "url": "https://en.wikipedia.org/wiki/B\u00fcndner_schist",
+    "wiki_id": "Q679951"
+  },
+  "Switzerland": {
+    "url": "https://en.wikipedia.org/wiki/Switzerland",
+    "wiki_id": "Q39"
+  },
+  "Alta quartzite": {
+    "url": "https://en.wikipedia.org/wiki/Alta_quartzite",
+    "wiki_id": "Q433437"
+  },
+  "Norway": {
+    "url": "https://en.wikipedia.org/wiki/Norway",
+    "wiki_id": "Q20"
+  },
+  "greenschist": {
+    "url": "https://en.wikipedia.org/wiki/greenschist",
+    "wiki_id": "Q917402"
+  },
+  "Cipollino marble": {
+    "url": "https://en.wikipedia.org/wiki/Cipollino_marble",
+    "wiki_id": "Q1092729"
+  },
+  "marble": {
+    "url": "https://en.wikipedia.org/wiki/marble",
+    "wiki_id": "Q40861"
+  },
+  "Tengri": {
+    "url": "https://en.wikipedia.org/wiki/Tengri",
+    "wiki_id": "Q2481517"
+  },
+  "Valais": {
+    "url": "https://en.wikipedia.org/wiki/Valais",
+    "wiki_id": "Q834"
+  },
+  "granulite": {
+    "url": "https://en.wikipedia.org/wiki/granulite",
+    "wiki_id": "Q216202"
+  },
+  "schistose rock": {
+    "url": "https://en.wikipedia.org/wiki/schistose_rock",
+    "wiki_id": "Q9394813"
+  },
+  "Auerbach marble": {
+    "url": "https://en.wikipedia.org/wiki/Auerbach_marble",
+    "wiki_id": "Q759237"
+  },
+  "Germany": {
+    "url": "https://en.wikipedia.org/wiki/Germany",
+    "wiki_id": "Q183"
+  },
+  "lapis lazuli": {
+    "url": "https://en.wikipedia.org/wiki/lapis_lazuli",
+    "wiki_id": "Q216798"
+  },
+  "Pentelic marble": {
+    "url": "https://en.wikipedia.org/wiki/Pentelic_marble",
+    "wiki_id": "Q673492"
+  },
+  "Parthenon": {
+    "url": "https://en.wikipedia.org/wiki/Parthenon",
+    "wiki_id": "Q10288"
+  },
+  "quartzite": {
+    "url": "https://en.wikipedia.org/wiki/quartzite",
+    "wiki_id": "Q237883"
+  },
+  "sculpture material": {
+    "url": "https://en.wikipedia.org/wiki/sculpture_material",
+    "wiki_id": "Q21685333"
+  },
+  "pyrite": {
+    "url": "https://en.wikipedia.org/wiki/pyrite",
+    "wiki_id": "Q50769"
+  },
+  "hematite": {
+    "url": "https://en.wikipedia.org/wiki/hematite",
+    "wiki_id": "Q103223"
+  },
+  "garnet-mica schist": {
+    "url": "https://en.wikipedia.org/wiki/garnet-mica_schist",
+    "wiki_id": "Q1028362"
+  },
+  "mica schist": {
+    "url": "https://en.wikipedia.org/wiki/mica_schist",
+    "wiki_id": "Q3856092"
+  },
+  "Greek marble": {
+    "url": "https://en.wikipedia.org/wiki/Greek_marble",
+    "wiki_id": "Q68101620"
+  },
+  "quartzite schist": {
+    "url": "https://en.wikipedia.org/wiki/quartzite_schist",
+    "wiki_id": "Q19378519"
+  },
+  "Grisons": {
+    "url": "https://en.wikipedia.org/wiki/Grisons",
+    "wiki_id": "Q11925"
+  },
+  "sky": {
+    "url": "https://en.wikipedia.org/wiki/sky",
+    "wiki_id": "Q527"
+  },
+  "siderite": {
+    "url": "https://en.wikipedia.org/wiki/siderite",
+    "wiki_id": "Q192669"
+  },
+  "Yule marble": {
+    "url": "https://en.wikipedia.org/wiki/Yule_marble",
+    "wiki_id": "Q3287571"
+  },
+  "pyrrhotite": {
+    "url": "https://en.wikipedia.org/wiki/pyrrhotite",
+    "wiki_id": "Q421944"
+  },
+  "Thassos marble": {
+    "url": "https://en.wikipedia.org/wiki/Thassos_marble",
+    "wiki_id": "Q1400682"
+  },
+  "Greece": {
+    "url": "https://en.wikipedia.org/wiki/Greece",
+    "wiki_id": "Q41"
+  },
+  "bardiglio": {
+    "url": "https://en.wikipedia.org/wiki/bardiglio",
+    "wiki_id": "Q2884368"
+  },
+  "Schaidberg marble": {
+    "url": "https://en.wikipedia.org/wiki/Schaidberg_marble",
+    "wiki_id": "Q1278263"
+  },
+  "Fangshan marble": {
+    "url": "https://en.wikipedia.org/wiki/Fangshan_marble",
+    "wiki_id": "Q1395634"
+  },
+  "marble exposure": {
+    "url": "https://en.wikipedia.org/wiki/marble_exposure",
+    "wiki_id": "Q21174830"
+  },
+  "Marble of Candoglia": {
+    "url": "https://en.wikipedia.org/wiki/Marble_of_Candoglia",
+    "wiki_id": "Q3287563"
+  },
+  "Ticino": {
+    "url": "https://en.wikipedia.org/wiki/Ticino",
+    "wiki_id": "Q12724"
+  },
+  "building material": {
+    "url": "https://en.wikipedia.org/wiki/building_material",
+    "wiki_id": "Q206615"
+  },
+  "Proconnesian marble": {
+    "url": "https://en.wikipedia.org/wiki/Proconnesian_marble",
+    "wiki_id": "Q2112576"
+  },
+  "Turkey": {
+    "url": "https://en.wikipedia.org/wiki/Turkey",
+    "wiki_id": "Q43"
+  },
+  "natural building material": {
+    "url": "https://en.wikipedia.org/wiki/natural_building_material",
+    "wiki_id": "Q3300024"
+  },
+  "People's Republic of China": {
+    "url": "https://en.wikipedia.org/wiki/People's_Republic_of_China",
+    "wiki_id": "Q148"
+  },
+  "hiesberg marble": {
+    "url": "https://en.wikipedia.org/wiki/hiesberg_marble",
+    "wiki_id": "Q1617636"
+  },
+  "Austria": {
+    "url": "https://en.wikipedia.org/wiki/Austria",
+    "wiki_id": "Q40"
+  },
+  "Thumeritz marble": {
+    "url": "https://en.wikipedia.org/wiki/Thumeritz_marble",
+    "wiki_id": "Q1635925"
+  },
+  "H\u00e4usling marble": {
+    "url": "https://en.wikipedia.org/wiki/H\u00e4usling_marble",
+    "wiki_id": "Q1642554"
+  },
+  "Crystal marble": {
+    "url": "https://en.wikipedia.org/wiki/Crystal_marble",
+    "wiki_id": "Q1647430"
+  },
+  "zoisite": {
+    "url": "https://en.wikipedia.org/wiki/zoisite",
+    "wiki_id": "Q213544"
+  },
+  "grossular": {
+    "url": "https://en.wikipedia.org/wiki/grossular",
+    "wiki_id": "Q220373"
+  },
+  "epidote": {
+    "url": "https://en.wikipedia.org/wiki/epidote",
+    "wiki_id": "Q272844"
+  },
+  "Thasos": {
+    "url": "https://en.wikipedia.org/wiki/Thasos",
+    "wiki_id": "Q204096"
+  },
+  "Auerbach": {
+    "url": "https://en.wikipedia.org/wiki/Auerbach",
+    "wiki_id": "Q759201"
+  },
+  "Skye marble": {
+    "url": "https://en.wikipedia.org/wiki/Skye_marble",
+    "wiki_id": "Q2400762"
+  },
+  "African marble": {
+    "url": "https://en.wikipedia.org/wiki/African_marble",
+    "wiki_id": "Q3287561"
+  },
+  "blueschist": {
+    "url": "https://en.wikipedia.org/wiki/blueschist",
+    "wiki_id": "Q1048428"
+  },
+  "metavolcanic rock": {
+    "url": "https://en.wikipedia.org/wiki/metavolcanic_rock",
+    "wiki_id": "Q6823306"
+  },
+  "cataclasite": {
+    "url": "https://en.wikipedia.org/wiki/cataclasite",
+    "wiki_id": "Q1153716"
+  },
+  "cataclastic rock": {
+    "url": "https://en.wikipedia.org/wiki/cataclastic_rock",
+    "wiki_id": "Q11736880"
+  },
+  "Greek insular marble": {
+    "url": "https://en.wikipedia.org/wiki/Greek_insular_marble",
+    "wiki_id": "Q68094531"
+  },
+  "moldavite": {
+    "url": "https://en.wikipedia.org/wiki/moldavite",
+    "wiki_id": "Q1503261"
+  },
+  "tektite": {
+    "url": "https://en.wikipedia.org/wiki/tektite",
+    "wiki_id": "Q468438"
+  },
+  "suevite": {
+    "url": "https://en.wikipedia.org/wiki/suevite",
+    "wiki_id": "Q447600"
+  },
+  "Rock of the Year": {
+    "url": "https://en.wikipedia.org/wiki/Rock_of_the_Year",
+    "wiki_id": "Q1519491"
+  },
+  "impactite": {
+    "url": "https://en.wikipedia.org/wiki/impactite",
+    "wiki_id": "Q976105"
+  },
+  "Rouge de Rance": {
+    "url": "https://en.wikipedia.org/wiki/Rouge_de_Rance",
+    "wiki_id": "Q3287567"
+  },
+  "Belgium": {
+    "url": "https://en.wikipedia.org/wiki/Belgium",
+    "wiki_id": "Q31"
+  },
+  "Marmo di Chiampo": {
+    "url": "https://en.wikipedia.org/wiki/Marmo_di_Chiampo",
+    "wiki_id": "Q3849723"
+  },
+  "Saint-Beat marble": {
+    "url": "https://en.wikipedia.org/wiki/Saint-Beat_marble",
+    "wiki_id": "Q3287564"
+  },
+  "adhesive slate": {
+    "url": "https://en.wikipedia.org/wiki/adhesive_slate",
+    "wiki_id": "Q1477441"
+  },
+  "silicate rock": {
+    "url": "https://en.wikipedia.org/wiki/silicate_rock",
+    "wiki_id": "Q2286072"
+  },
+  "cross-grained slate": {
+    "url": "https://en.wikipedia.org/wiki/cross-grained_slate",
+    "wiki_id": "Q1546584"
+  },
+  "slate": {
+    "url": "https://en.wikipedia.org/wiki/slate",
+    "wiki_id": "Q207079"
+  },
+  "knotenschiefer": {
+    "url": "https://en.wikipedia.org/wiki/knotenschiefer",
+    "wiki_id": "Q1777506"
+  },
+  "indochinite": {
+    "url": "https://en.wikipedia.org/wiki/indochinite",
+    "wiki_id": "Q1661687"
+  },
+  "rock": {
+    "url": "https://en.wikipedia.org/wiki/rock",
+    "wiki_id": "Q8063"
+  },
+  "Subduction zone metamorphism": {
+    "url": "https://en.wikipedia.org/wiki/Subduction_zone_metamorphism",
+    "wiki_id": "Q25345801"
+  },
+  "Anthraconite": {
+    "url": "https://en.wikipedia.org/wiki/Anthraconite",
+    "wiki_id": "Q2188729"
+  },
+  "Taihang Mountains": {
+    "url": "https://en.wikipedia.org/wiki/Taihang_Mountains",
+    "wiki_id": "Q284226"
+  },
+  "pavonazetto marble": {
+    "url": "https://en.wikipedia.org/wiki/pavonazetto_marble",
+    "wiki_id": "Q3849734"
+  },
+  "biotite schist": {
+    "url": "https://en.wikipedia.org/wiki/biotite_schist",
+    "wiki_id": "Q9394801"
+  },
+  "muscovite schist": {
+    "url": "https://en.wikipedia.org/wiki/muscovite_schist",
+    "wiki_id": "Q9394818"
+  },
+  "garnet-bearing veined gneiss": {
+    "url": "https://en.wikipedia.org/wiki/garnet-bearing_veined_gneiss",
+    "wiki_id": "Q10508007"
+  },
+  "veined gneiss": {
+    "url": "https://en.wikipedia.org/wiki/veined_gneiss",
+    "wiki_id": "Q19710173"
+  },
+  "prasinite": {
+    "url": "https://en.wikipedia.org/wiki/prasinite",
+    "wiki_id": "Q2107864"
+  },
+  "granatite": {
+    "url": "https://en.wikipedia.org/wiki/granatite",
+    "wiki_id": "Q3775011"
+  },
+  "amphibolite": {
+    "url": "https://en.wikipedia.org/wiki/amphibolite",
+    "wiki_id": "Q335239"
+  },
+  "leptynite": {
+    "url": "https://en.wikipedia.org/wiki/leptynite",
+    "wiki_id": "Q3230128"
+  },
+  "rock type": {
+    "url": "https://en.wikipedia.org/wiki/rock_type",
+    "wiki_id": "Q11871901"
+  },
+  "kyanite quartzite": {
+    "url": "https://en.wikipedia.org/wiki/kyanite_quartzite",
+    "wiki_id": "Q10551250"
+  },
+  "Rosso antico": {
+    "url": "https://en.wikipedia.org/wiki/Rosso_antico",
+    "wiki_id": "Q3849735"
+  },
+  "metamorphism": {
+    "url": "https://en.wikipedia.org/wiki/metamorphism",
+    "wiki_id": "Q380971"
+  },
+  "Waldviertel": {
+    "url": "https://en.wikipedia.org/wiki/Waldviertel",
+    "wiki_id": "Q225400"
+  },
+  "Ashford Black Marble": {
+    "url": "https://en.wikipedia.org/wiki/Ashford_Black_Marble",
+    "wiki_id": "Q1755493"
+  },
+  "serizzo": {
+    "url": "https://en.wikipedia.org/wiki/serizzo",
+    "wiki_id": "Q2273730"
+  },
+  "gneiss": {
+    "url": "https://en.wikipedia.org/wiki/gneiss",
+    "wiki_id": "Q166409"
+  },
+  "metagabbro": {
+    "url": "https://en.wikipedia.org/wiki/metagabbro",
+    "wiki_id": "Q3333428"
+  },
+  "protogine": {
+    "url": "https://en.wikipedia.org/wiki/protogine",
+    "wiki_id": "Q3408106"
+  },
+  "Erlane": {
+    "url": "https://en.wikipedia.org/wiki/Erlane",
+    "wiki_id": "Q3501851"
+  },
+  "metamorphic petrology": {
+    "url": "https://en.wikipedia.org/wiki/metamorphic_petrology",
+    "wiki_id": "Q111968621"
+  },
+  "\u00c4lvdal quartzite": {
+    "url": "https://en.wikipedia.org/wiki/\u00c4lvdal_quartzite",
+    "wiki_id": "Q27876640"
+  },
+  "Alberene stone": {
+    "url": "https://en.wikipedia.org/wiki/Alberene_stone",
+    "wiki_id": "Q26267184"
+  },
+  "soapstone": {
+    "url": "https://en.wikipedia.org/wiki/soapstone",
+    "wiki_id": "Q707896"
+  },
+  "French chalk": {
+    "url": "https://en.wikipedia.org/wiki/French_chalk",
+    "wiki_id": "Q122930343"
+  },
+  "Noir de Golzinne": {
+    "url": "https://en.wikipedia.org/wiki/Noir_de_Golzinne",
+    "wiki_id": "Q3342723"
+  },
+  "Nero Marquina marble": {
+    "url": "https://en.wikipedia.org/wiki/Nero_Marquina_marble",
+    "wiki_id": "Q22289953"
+  },
+  "black": {
+    "url": "https://en.wikipedia.org/wiki/black",
+    "wiki_id": "Q23445"
+  },
+  "Dokimeion": {
+    "url": "https://en.wikipedia.org/wiki/Dokimeion",
+    "wiki_id": "Q15806224"
+  },
+  "Waldviertler Marble": {
+    "url": "https://en.wikipedia.org/wiki/Waldviertler_Marble",
+    "wiki_id": "Q1650921"
+  },
+  "Golzinne": {
+    "url": "https://en.wikipedia.org/wiki/Golzinne",
+    "wiki_id": "Q3110337"
+  },
+  "Spain": {
+    "url": "https://en.wikipedia.org/wiki/Spain",
+    "wiki_id": "Q29"
+  },
+  "paragneiss": {
+    "url": "https://en.wikipedia.org/wiki/paragneiss",
+    "wiki_id": "Q2051487"
+  },
+  "V\u00e5nga granite": {
+    "url": "https://en.wikipedia.org/wiki/V\u00e5nga_granite",
+    "wiki_id": "Q2536062"
+  },
+  "ancient red porphyry": {
+    "url": "https://en.wikipedia.org/wiki/ancient_red_porphyry",
+    "wiki_id": "Q3908486"
+  },
+  "beresite": {
+    "url": "https://en.wikipedia.org/wiki/beresite",
+    "wiki_id": "Q4084445"
+  },
+  "metasomatic rock": {
+    "url": "https://en.wikipedia.org/wiki/metasomatic_rock",
+    "wiki_id": "Q12122900"
+  },
+  "silicate marble": {
+    "url": "https://en.wikipedia.org/wiki/silicate_marble",
+    "wiki_id": "Q1671306"
+  },
+  "khondalite": {
+    "url": "https://en.wikipedia.org/wiki/khondalite",
+    "wiki_id": "Q1468133"
+  },
+  "Pseudotachylite": {
+    "url": "https://en.wikipedia.org/wiki/Pseudotachylite",
+    "wiki_id": "Q1541604"
+  },
+  "Sioux Quartzite": {
+    "url": "https://en.wikipedia.org/wiki/Sioux_Quartzite",
+    "wiki_id": "Q7525510"
+  },
+  "ultramylonite": {
+    "url": "https://en.wikipedia.org/wiki/ultramylonite",
+    "wiki_id": "Q9366494"
+  },
+  "mylonite": {
+    "url": "https://en.wikipedia.org/wiki/mylonite",
+    "wiki_id": "Q904607"
+  },
+  "peafowl": {
+    "url": "https://en.wikipedia.org/wiki/peafowl",
+    "wiki_id": "Q201251"
+  },
+  "Hymettian marble": {
+    "url": "https://en.wikipedia.org/wiki/Hymettian_marble",
+    "wiki_id": "Q26990386"
+  },
+  "Marmor Chium": {
+    "url": "https://en.wikipedia.org/wiki/Marmor_Chium",
+    "wiki_id": "Q3849731"
+  },
+  "Chios": {
+    "url": "https://en.wikipedia.org/wiki/Chios",
+    "wiki_id": "Q160483"
+  },
+  "unakite": {
+    "url": "https://en.wikipedia.org/wiki/unakite",
+    "wiki_id": "Q656325"
+  },
+  "fulgurite": {
+    "url": "https://en.wikipedia.org/wiki/fulgurite",
+    "wiki_id": "Q924408"
+  },
+  "jacutinga": {
+    "url": "https://en.wikipedia.org/wiki/jacutinga",
+    "wiki_id": "Q29639299"
+  },
+  "variegated marble": {
+    "url": "https://en.wikipedia.org/wiki/variegated_marble",
+    "wiki_id": "Q106452869"
+  },
+  "agmatite": {
+    "url": "https://en.wikipedia.org/wiki/agmatite",
+    "wiki_id": "Q119621116"
+  },
+  "migmatite": {
+    "url": "https://en.wikipedia.org/wiki/migmatite",
+    "wiki_id": "Q744630"
+  },
+  "portor marble": {
+    "url": "https://en.wikipedia.org/wiki/portor_marble",
+    "wiki_id": "Q117084804"
+  },
+  "bigio morato": {
+    "url": "https://en.wikipedia.org/wiki/bigio_morato",
+    "wiki_id": "Q123819756"
+  },
+  "gray marble": {
+    "url": "https://en.wikipedia.org/wiki/gray_marble",
+    "wiki_id": "Q123819732"
+  },
+  "Lisbon yellow marble": {
+    "url": "https://en.wikipedia.org/wiki/Lisbon_yellow_marble",
+    "wiki_id": "Q123820832"
+  },
+  "Yellow marble": {
+    "url": "https://en.wikipedia.org/wiki/Yellow_marble",
+    "wiki_id": "Q123820699"
+  },
+  "greisen": {
+    "url": "https://en.wikipedia.org/wiki/greisen",
+    "wiki_id": "Q635128"
+  },
+  "Darwin glass": {
+    "url": "https://en.wikipedia.org/wiki/Darwin_glass",
+    "wiki_id": "Q2895280"
+  },
+  "Goshen stone": {
+    "url": "https://en.wikipedia.org/wiki/Goshen_stone",
+    "wiki_id": "Q5587305"
+  },
+  "emery": {
+    "url": "https://en.wikipedia.org/wiki/emery",
+    "wiki_id": "Q1136648"
+  },
+  "emery exposure": {
+    "url": "https://en.wikipedia.org/wiki/emery_exposure",
+    "wiki_id": "Q21174247"
+  },
+  "verd antique": {
+    "url": "https://en.wikipedia.org/wiki/verd_antique",
+    "wiki_id": "Q1223325"
+  },
+  "serpentinite": {
+    "url": "https://en.wikipedia.org/wiki/serpentinite",
+    "wiki_id": "Q737339"
+  },
+  "Numidian marble": {
+    "url": "https://en.wikipedia.org/wiki/Numidian_marble",
+    "wiki_id": "Q3287575"
+  },
+  "yellow Siena marble": {
+    "url": "https://en.wikipedia.org/wiki/yellow_Siena_marble",
+    "wiki_id": "Q3287568"
+  },
+  "Hunsr\u00fcck Slate": {
+    "url": "https://en.wikipedia.org/wiki/Hunsr\u00fcck_Slate",
+    "wiki_id": "Q3027010"
+  },
+  "Mani Peninsula": {
+    "url": "https://en.wikipedia.org/wiki/Mani_Peninsula",
+    "wiki_id": "Q745295"
+  },
+  "Cape Matapan": {
+    "url": "https://en.wikipedia.org/wiki/Cape_Matapan",
+    "wiki_id": "Q849911"
+  },
+  "limestone": {
+    "url": "https://en.wikipedia.org/wiki/limestone",
+    "wiki_id": "Q23757"
+  },
+  "quartz phyllite": {
+    "url": "https://en.wikipedia.org/wiki/quartz_phyllite",
+    "wiki_id": "Q3745383"
+  },
+  "phyllite": {
+    "url": "https://en.wikipedia.org/wiki/phyllite",
+    "wiki_id": "Q731880"
+  },
+  "Vals quartzite": {
+    "url": "https://en.wikipedia.org/wiki/Vals_quartzite",
+    "wiki_id": "Q115497848"
+  },
+  "kinzigite": {
+    "url": "https://en.wikipedia.org/wiki/kinzigite",
+    "wiki_id": "Q3197246"
+  },
+  "Murphy marble": {
+    "url": "https://en.wikipedia.org/wiki/Murphy_marble",
+    "wiki_id": "Q104626174"
+  },
+  "anyolite": {
+    "url": "https://en.wikipedia.org/wiki/anyolite",
+    "wiki_id": "Q174221"
+  },
+  "Synnada": {
+    "url": "https://en.wikipedia.org/wiki/Synnada",
+    "wiki_id": "Q616079"
+  },
+  "Perlato di Sicilia": {
+    "url": "https://en.wikipedia.org/wiki/Perlato_di_Sicilia",
+    "wiki_id": "Q3899987"
+  },
+  "Portoro Buono": {
+    "url": "https://en.wikipedia.org/wiki/Portoro_Buono",
+    "wiki_id": "Q3909330"
+  },
+  "Onsernone gneiss": {
+    "url": "https://en.wikipedia.org/wiki/Onsernone_gneiss",
+    "wiki_id": "Q115379229"
+  },
+  "Cresciano gneiss": {
+    "url": "https://en.wikipedia.org/wiki/Cresciano_gneiss",
+    "wiki_id": "Q115379381"
+  },
+  "Alexandre Brongniart": {
+    "url": "https://en.wikipedia.org/wiki/Alexandre_Brongniart",
+    "wiki_id": "Q442937"
+  },
+  "Itabira": {
+    "url": "https://en.wikipedia.org/wiki/Itabira",
+    "wiki_id": "Q1638413"
+  },
+  "Brazil": {
+    "url": "https://en.wikipedia.org/wiki/Brazil",
+    "wiki_id": "Q155"
+  },
+  "Lasa marble": {
+    "url": "https://en.wikipedia.org/wiki/Lasa_marble",
+    "wiki_id": "Q1793600"
+  },
+  "itabirite": {
+    "url": "https://en.wikipedia.org/wiki/itabirite",
+    "wiki_id": "Q4205225"
+  },
+  "secondary quartzite": {
+    "url": "https://en.wikipedia.org/wiki/secondary_quartzite",
+    "wiki_id": "Q56327418"
+  },
+  "gumbeite": {
+    "url": "https://en.wikipedia.org/wiki/gumbeite",
+    "wiki_id": "Q56327424"
+  },
+  "argillisite": {
+    "url": "https://en.wikipedia.org/wiki/argillisite",
+    "wiki_id": "Q56327448"
+  },
+  "alkaline metasomatite": {
+    "url": "https://en.wikipedia.org/wiki/alkaline_metasomatite",
+    "wiki_id": "Q56327480"
+  },
+  "rodingite": {
+    "url": "https://en.wikipedia.org/wiki/rodingite",
+    "wiki_id": "Q58371939"
+  },
+  "steatite exposure": {
+    "url": "https://en.wikipedia.org/wiki/steatite_exposure",
+    "wiki_id": "Q21175304"
+  },
+  "black marble": {
+    "url": "https://en.wikipedia.org/wiki/black_marble",
+    "wiki_id": "Q117052975"
+  },
+  "Marmo verde di Prato": {
+    "url": "https://en.wikipedia.org/wiki/Marmo_verde_di_Prato",
+    "wiki_id": "Q3479887"
+  },
+  "metaconglomerate": {
+    "url": "https://en.wikipedia.org/wiki/metaconglomerate",
+    "wiki_id": "Q6822438"
+  },
+  "metasedimentary rock": {
+    "url": "https://en.wikipedia.org/wiki/metasedimentary_rock",
+    "wiki_id": "Q99731758"
+  },
+  "Griotte marble": {
+    "url": "https://en.wikipedia.org/wiki/Griotte_marble",
+    "wiki_id": "Q5609552"
+  },
+  "red marble": {
+    "url": "https://en.wikipedia.org/wiki/red_marble",
+    "wiki_id": "Q123819452"
+  },
+  "Etowah marble": {
+    "url": "https://en.wikipedia.org/wiki/Etowah_marble",
+    "wiki_id": "Q16968794"
+  },
+  "tuckahoe marble": {
+    "url": "https://en.wikipedia.org/wiki/tuckahoe_marble",
+    "wiki_id": "Q20880852"
+  },
+  "Macael marble": {
+    "url": "https://en.wikipedia.org/wiki/Macael_marble",
+    "wiki_id": "Q16610193"
+  },
+  "Ekeberg marble": {
+    "url": "https://en.wikipedia.org/wiki/Ekeberg_marble",
+    "wiki_id": "Q10480500"
+  },
+  "dolomite marble": {
+    "url": "https://en.wikipedia.org/wiki/dolomite_marble",
+    "wiki_id": "Q15806255"
+  },
+  "Varata": {
+    "url": "https://en.wikipedia.org/wiki/Varata",
+    "wiki_id": "Q4008685"
+  },
+  "Westchester marble": {
+    "url": "https://en.wikipedia.org/wiki/Westchester_marble",
+    "wiki_id": "Q7987269"
+  },
+  "New York City": {
+    "url": "https://en.wikipedia.org/wiki/New_York_City",
+    "wiki_id": "Q60"
+  },
+  "Laas": {
+    "url": "https://en.wikipedia.org/wiki/Laas",
+    "wiki_id": "Q420306"
+  },
+  "Jarma skarn": {
+    "url": "https://en.wikipedia.org/wiki/Jarma_skarn",
+    "wiki_id": "Q116279956"
+  },
+  "Kopaonik": {
+    "url": "https://en.wikipedia.org/wiki/Kopaonik",
+    "wiki_id": "Q1266471"
+  },
+  "Hymettus": {
+    "url": "https://en.wikipedia.org/wiki/Hymettus",
+    "wiki_id": "Q1232266"
+  },
+  "Shuksan greenschists": {
+    "url": "https://en.wikipedia.org/wiki/Shuksan_greenschists",
+    "wiki_id": "Q113330912"
+  },
+  "eclogite": {
+    "url": "https://en.wikipedia.org/wiki/eclogite",
+    "wiki_id": "Q729546"
+  },
+  "omphacite": {
+    "url": "https://en.wikipedia.org/wiki/omphacite",
+    "wiki_id": "Q745864"
+  },
+  "paonazzo marble": {
+    "url": "https://en.wikipedia.org/wiki/paonazzo_marble",
+    "wiki_id": "Q25816391"
+  },
+  "orthogneiss": {
+    "url": "https://en.wikipedia.org/wiki/orthogneiss",
+    "wiki_id": "Q3356781"
+  },
+  "Naxian marble": {
+    "url": "https://en.wikipedia.org/wiki/Naxian_marble",
+    "wiki_id": "Q1972471"
+  },
+  "Naxos Island": {
+    "url": "https://en.wikipedia.org/wiki/Naxos_Island",
+    "wiki_id": "Q188527"
+  },
+  "Swedish green marble": {
+    "url": "https://en.wikipedia.org/wiki/Swedish_green_marble",
+    "wiki_id": "Q1779552"
+  },
+  "calcined schist": {
+    "url": "https://en.wikipedia.org/wiki/calcined_schist",
+    "wiki_id": "Q3952442"
+  },
+  "Onsernone": {
+    "url": "https://en.wikipedia.org/wiki/Onsernone",
+    "wiki_id": "Q67664"
+  },
+  "Cresciano": {
+    "url": "https://en.wikipedia.org/wiki/Cresciano",
+    "wiki_id": "Q67766"
+  },
+  "adinole": {
+    "url": "https://en.wikipedia.org/wiki/adinole",
+    "wiki_id": "Q4057592"
+  },
+  "listvenite": {
+    "url": "https://en.wikipedia.org/wiki/listvenite",
+    "wiki_id": "Q4263334"
+  },
+  "Halleflinta": {
+    "url": "https://en.wikipedia.org/wiki/Halleflinta",
+    "wiki_id": "Q5642847"
+  },
+  "jadeitite": {
+    "url": "https://en.wikipedia.org/wiki/jadeitite",
+    "wiki_id": "Q6121419"
+  },
+  "Vals": {
+    "url": "https://en.wikipedia.org/wiki/Vals",
+    "wiki_id": "Q64585"
+  },
+  "Wunsiedel Marble": {
+    "url": "https://en.wikipedia.org/wiki/Wunsiedel_Marble",
+    "wiki_id": "Q1462728"
+  },
+  "P\u00f6rtschach marble": {
+    "url": "https://en.wikipedia.org/wiki/P\u00f6rtschach_marble",
+    "wiki_id": "Q1494638"
+  },
+  "Gummern marble": {
+    "url": "https://en.wikipedia.org/wiki/Gummern_marble",
+    "wiki_id": "Q1554426"
+  },
+  "Rosso Levanto": {
+    "url": "https://en.wikipedia.org/wiki/Rosso_Levanto",
+    "wiki_id": "Q1560673"
+  },
+  "Sylacauga marble": {
+    "url": "https://en.wikipedia.org/wiki/Sylacauga_marble",
+    "wiki_id": "Q7660541"
+  },
+  "Alabama": {
+    "url": "https://en.wikipedia.org/wiki/Alabama",
+    "wiki_id": "Q173"
+  },
+  "Parian marble": {
+    "url": "https://en.wikipedia.org/wiki/Parian_marble",
+    "wiki_id": "Q2052367"
+  },
+  "Paros Municipality": {
+    "url": "https://en.wikipedia.org/wiki/Paros_Municipality",
+    "wiki_id": "Q18048733"
+  },
+  "New England": {
+    "url": "https://en.wikipedia.org/wiki/New_England",
+    "wiki_id": "Q18389"
+  },
+  "whiteschist": {
+    "url": "https://en.wikipedia.org/wiki/whiteschist",
+    "wiki_id": "Q7996240"
+  },
+  "amphibole schist": {
+    "url": "https://en.wikipedia.org/wiki/amphibole_schist",
+    "wiki_id": "Q9394798"
+  },
+  "chlorite schist": {
+    "url": "https://en.wikipedia.org/wiki/chlorite_schist",
+    "wiki_id": "Q9394802"
+  },
+  "tasmanite": {
+    "url": "https://en.wikipedia.org/wiki/tasmanite",
+    "wiki_id": "Q116521032"
+  },
+  "terrane": {
+    "url": "https://en.wikipedia.org/wiki/terrane",
+    "wiki_id": "Q509037"
+  },
+  "skarn": {
+    "url": "https://en.wikipedia.org/wiki/skarn",
+    "wiki_id": "Q744694"
+  },
+  "granitic gneiss": {
+    "url": "https://en.wikipedia.org/wiki/granitic_gneiss",
+    "wiki_id": "Q9275916"
+  },
+  "coastal gneiss": {
+    "url": "https://en.wikipedia.org/wiki/coastal_gneiss",
+    "wiki_id": "Q10550647"
+  },
+  "\u015anie\u017cnik gneiss": {
+    "url": "https://en.wikipedia.org/wiki/\u015anie\u017cnik_gneiss",
+    "wiki_id": "Q11700989"
+  },
+  "mica gneiss": {
+    "url": "https://en.wikipedia.org/wiki/mica_gneiss",
+    "wiki_id": "Q11871353"
+  },
+  "augen gneiss": {
+    "url": "https://en.wikipedia.org/wiki/augen_gneiss",
+    "wiki_id": "Q12375011"
+  },
+  "australite": {
+    "url": "https://en.wikipedia.org/wiki/australite",
+    "wiki_id": "Q2872214"
+  },
+  "Australia": {
+    "url": "https://en.wikipedia.org/wiki/Australia",
+    "wiki_id": "Q408"
+  },
+  "Weitersfeld stengel gneiss": {
+    "url": "https://en.wikipedia.org/wiki/Weitersfeld_stengel_gneiss",
+    "wiki_id": "Q53489851"
+  },
+  "Lapis Lacedaemonius": {
+    "url": "https://en.wikipedia.org/wiki/Lapis_Lacedaemonius",
+    "wiki_id": "Q1789729"
+  },
+  "volcanic rock": {
+    "url": "https://en.wikipedia.org/wiki/volcanic_rock",
+    "wiki_id": "Q108689"
+  },
+  "andesite": {
+    "url": "https://en.wikipedia.org/wiki/andesite",
+    "wiki_id": "Q181908"
+  },
+  "Ticino granite": {
+    "url": "https://en.wikipedia.org/wiki/Ticino_granite",
+    "wiki_id": "Q27320967"
+  },
+  "Creole marble": {
+    "url": "https://en.wikipedia.org/wiki/Creole_marble",
+    "wiki_id": "Q5184216"
+  },
+  "Sivec": {
+    "url": "https://en.wikipedia.org/wiki/Sivec",
+    "wiki_id": "Q7532449"
+  },
+  "St. Genevieve marble": {
+    "url": "https://en.wikipedia.org/wiki/St._Genevieve_marble",
+    "wiki_id": "Q7588082"
+  },
+  "Cristallina marble": {
+    "url": "https://en.wikipedia.org/wiki/Cristallina_marble",
+    "wiki_id": "Q27320916"
+  },
+  "conglomerate marble": {
+    "url": "https://en.wikipedia.org/wiki/conglomerate_marble",
+    "wiki_id": "Q27320920"
+  },
+  "albitite": {
+    "url": "https://en.wikipedia.org/wiki/albitite",
+    "wiki_id": "Q9144527"
+  },
+  "North Macedonia": {
+    "url": "https://en.wikipedia.org/wiki/North_Macedonia",
+    "wiki_id": "Q221"
+  },
+  "Missouri": {
+    "url": "https://en.wikipedia.org/wiki/Missouri",
+    "wiki_id": "Q1581"
+  },
+  "Maggia gneiss": {
+    "url": "https://en.wikipedia.org/wiki/Maggia_gneiss",
+    "wiki_id": "Q27321013"
+  },
+  "bediasite": {
+    "url": "https://en.wikipedia.org/wiki/bediasite",
+    "wiki_id": "Q4879267"
+  },
+  "georgiaite": {
+    "url": "https://en.wikipedia.org/wiki/georgiaite",
+    "wiki_id": "Q5547989"
+  },
+  "Hanbaiyu": {
+    "url": "https://en.wikipedia.org/wiki/Hanbaiyu",
+    "wiki_id": "Q22083365"
+  },
+  "Makrana marble": {
+    "url": "https://en.wikipedia.org/wiki/Makrana_marble",
+    "wiki_id": "Q24945383"
+  },
+  "palombino": {
+    "url": "https://en.wikipedia.org/wiki/palombino",
+    "wiki_id": "Q38000166"
+  },
+  "Gropptorp marble": {
+    "url": "https://en.wikipedia.org/wiki/Gropptorp_marble",
+    "wiki_id": "Q56664579"
+  },
+  "Italic marble": {
+    "url": "https://en.wikipedia.org/wiki/Italic_marble",
+    "wiki_id": "Q68309503"
+  },
+  "Verrucano": {
+    "url": "https://en.wikipedia.org/wiki/Verrucano",
+    "wiki_id": "Q1566692"
+  },
+  "Nuummite": {
+    "url": "https://en.wikipedia.org/wiki/Nuummite",
+    "wiki_id": "Q2005761"
+  },
+  "granulite facies": {
+    "url": "https://en.wikipedia.org/wiki/granulite_facies",
+    "wiki_id": "Q2058755"
+  },
+  "Giera\u0142t\u00f3w gneiss": {
+    "url": "https://en.wikipedia.org/wiki/Giera\u0142t\u00f3w_gneiss",
+    "wiki_id": "Q9273982"
+  },
+  "Westchester County": {
+    "url": "https://en.wikipedia.org/wiki/Westchester_County",
+    "wiki_id": "Q54066"
+  },
+  "Wommerson quartzite": {
+    "url": "https://en.wikipedia.org/wiki/Wommerson_quartzite",
+    "wiki_id": "Q1812017"
+  },
+  "Scyrian marble": {
+    "url": "https://en.wikipedia.org/wiki/Scyrian_marble",
+    "wiki_id": "Q12900949"
+  },
+  "Skyros": {
+    "url": "https://en.wikipedia.org/wiki/Skyros",
+    "wiki_id": "Q208566"
+  },
+  "Inwood": {
+    "url": "https://en.wikipedia.org/wiki/Inwood",
+    "wiki_id": "Q1189533"
+  },
+  "Kingsbridge": {
+    "url": "https://en.wikipedia.org/wiki/Kingsbridge",
+    "wiki_id": "Q6413127"
+  },
+  "Jakob Sederholm": {
+    "url": "https://en.wikipedia.org/wiki/Jakob_Sederholm",
+    "wiki_id": "Q1679148"
+  },
+  "Muong Nong Tektite": {
+    "url": "https://en.wikipedia.org/wiki/Muong_Nong_Tektite",
+    "wiki_id": "Q19698658"
+  },
+  "Nong District": {
+    "url": "https://en.wikipedia.org/wiki/Nong_District",
+    "wiki_id": "Q7049337"
+  },
+  "buchite": {
+    "url": "https://en.wikipedia.org/wiki/buchite",
+    "wiki_id": "Q31839272"
+  },
+  "granofels": {
+    "url": "https://en.wikipedia.org/wiki/granofels",
+    "wiki_id": "Q85764320"
+  },
+  "jasperoid": {
+    "url": "https://en.wikipedia.org/wiki/jasperoid",
+    "wiki_id": "Q2201550"
+  },
+  "Languedoc marble": {
+    "url": "https://en.wikipedia.org/wiki/Languedoc_marble",
+    "wiki_id": "Q2383473"
+  },
+  "Valdres slate": {
+    "url": "https://en.wikipedia.org/wiki/Valdres_slate",
+    "wiki_id": "Q15721247"
+  },
+  "helsinkite": {
+    "url": "https://en.wikipedia.org/wiki/helsinkite",
+    "wiki_id": "Q20917968"
+  },
+  "green marble": {
+    "url": "https://en.wikipedia.org/wiki/green_marble",
+    "wiki_id": "Q123819465"
+  },
+  "pink marble": {
+    "url": "https://en.wikipedia.org/wiki/pink_marble",
+    "wiki_id": "Q123819608"
+  },
+  "Otta schist": {
+    "url": "https://en.wikipedia.org/wiki/Otta_schist",
+    "wiki_id": "Q17485272"
+  },
+  "Kambui schists": {
+    "url": "https://en.wikipedia.org/wiki/Kambui_schists",
+    "wiki_id": "Q20552346"
+  },
+  "black schist": {
+    "url": "https://en.wikipedia.org/wiki/black_schist",
+    "wiki_id": "Q25451600"
+  },
+  "Oppdal schist": {
+    "url": "https://en.wikipedia.org/wiki/Oppdal_schist",
+    "wiki_id": "Q20553160"
+  },
+  "killas": {
+    "url": "https://en.wikipedia.org/wiki/killas",
+    "wiki_id": "Q16989064"
+  },
+  "Liane slate": {
+    "url": "https://en.wikipedia.org/wiki/Liane_slate",
+    "wiki_id": "Q18451552"
+  },
+  "building stone": {
+    "url": "https://en.wikipedia.org/wiki/building_stone",
+    "wiki_id": "Q2314751"
+  },
+  "hornblende schist": {
+    "url": "https://en.wikipedia.org/wiki/hornblende_schist",
+    "wiki_id": "Q110532620"
+  },
+  "venite": {
+    "url": "https://en.wikipedia.org/wiki/venite",
+    "wiki_id": "Q19711075"
+  },
+  "R\u00f8ros schist": {
+    "url": "https://en.wikipedia.org/wiki/R\u00f8ros_schist",
+    "wiki_id": "Q20553558"
+  },
+  "low-grade metamorphic rock": {
+    "url": "https://en.wikipedia.org/wiki/low-grade_metamorphic_rock",
+    "wiki_id": "Q25509641"
+  },
+  "saussurite gabbro": {
+    "url": "https://en.wikipedia.org/wiki/saussurite_gabbro",
+    "wiki_id": "Q25510932"
+  },
+  "Oppdal slate": {
+    "url": "https://en.wikipedia.org/wiki/Oppdal_slate",
+    "wiki_id": "Q112581731"
+  },
+  "Paros": {
+    "url": "https://en.wikipedia.org/wiki/Paros",
+    "wiki_id": "Q201272"
+  },
+  "Villach": {
+    "url": "https://en.wikipedia.org/wiki/Villach",
+    "wiki_id": "Q483522"
+  },
+  "Thessaly marble": {
+    "url": "https://en.wikipedia.org/wiki/Thessaly_marble",
+    "wiki_id": "Q98876273"
+  },
+  "Thessaly Region": {
+    "url": "https://en.wikipedia.org/wiki/Thessaly_Region",
+    "wiki_id": "Q22807284"
+  },
+  "Wunsiedel": {
+    "url": "https://en.wikipedia.org/wiki/Wunsiedel",
+    "wiki_id": "Q495778"
+  },
+  "albite": {
+    "url": "https://en.wikipedia.org/wiki/albite",
+    "wiki_id": "Q182264"
+  },
+  "Metasedimentary": {
+    "url": "https://en.wikipedia.org/wiki/Metasedimentary",
+    "wiki_id": "Q6823200"
+  },
+  "Tuckahoe": {
+    "url": "https://en.wikipedia.org/wiki/Tuckahoe",
+    "wiki_id": "Q3459934"
+  },
+  "coticule": {
+    "url": "https://en.wikipedia.org/wiki/coticule",
+    "wiki_id": "Q815529"
+  },
+  "Macael": {
+    "url": "https://en.wikipedia.org/wiki/Macael",
+    "wiki_id": "Q1161455"
+  },
+  "Naxian emery": {
+    "url": "https://en.wikipedia.org/wiki/Naxian_emery",
+    "wiki_id": "Q12884536"
+  },
+  "Nero Antico": {
+    "url": "https://en.wikipedia.org/wiki/Nero_Antico",
+    "wiki_id": "Q98878795"
+  },
+  "Diros marble": {
+    "url": "https://en.wikipedia.org/wiki/Diros_marble",
+    "wiki_id": "Q98879417"
+  },
+  "hornfels": {
+    "url": "https://en.wikipedia.org/wiki/hornfels",
+    "wiki_id": "Q847702"
+  },
+  "chert": {
+    "url": "https://en.wikipedia.org/wiki/chert",
+    "wiki_id": "Q1070438"
+  },
+  "Halland gneiss": {
+    "url": "https://en.wikipedia.org/wiki/Halland_gneiss",
+    "wiki_id": "Q19861577"
+  },
+  "banded gneiss": {
+    "url": "https://en.wikipedia.org/wiki/banded_gneiss",
+    "wiki_id": "Q25510108"
+  },
+  "ivorite": {
+    "url": "https://en.wikipedia.org/wiki/ivorite",
+    "wiki_id": "Q11714618"
+  },
+  "Ivory Coast": {
+    "url": "https://en.wikipedia.org/wiki/Ivory_Coast",
+    "wiki_id": "Q1008"
+  },
+  "meteorite": {
+    "url": "https://en.wikipedia.org/wiki/meteorite",
+    "wiki_id": "Q60186"
+  },
+  "salmon": {
+    "url": "https://en.wikipedia.org/wiki/salmon",
+    "wiki_id": "Q2015138"
+  },
+  "Nontron paragneiss": {
+    "url": "https://en.wikipedia.org/wiki/Nontron_paragneiss",
+    "wiki_id": "Q107636983"
+  },
+  "Nero di Ormea marble": {
+    "url": "https://en.wikipedia.org/wiki/Nero_di_Ormea_marble",
+    "wiki_id": "Q110140775"
+  },
+  "Ormea": {
+    "url": "https://en.wikipedia.org/wiki/Ormea",
+    "wiki_id": "Q20278"
+  },
+  "fine-grain marble": {
+    "url": "https://en.wikipedia.org/wiki/fine-grain_marble",
+    "wiki_id": "Q106819750"
+  },
+  "medium-grain marble": {
+    "url": "https://en.wikipedia.org/wiki/medium-grain_marble",
+    "wiki_id": "Q106819901"
+  },
+  "coarse-grain marble": {
+    "url": "https://en.wikipedia.org/wiki/coarse-grain_marble",
+    "wiki_id": "Q106819904"
+  },
+  "Halland": {
+    "url": "https://en.wikipedia.org/wiki/Halland",
+    "wiki_id": "Q626045"
+  },
+  "composite gneiss": {
+    "url": "https://en.wikipedia.org/wiki/composite_gneiss",
+    "wiki_id": "Q110724598"
+  },
+  "Maggia": {
+    "url": "https://en.wikipedia.org/wiki/Maggia",
+    "wiki_id": "Q67996"
+  },
+  "ptigmatite": {
+    "url": "https://en.wikipedia.org/wiki/ptigmatite",
+    "wiki_id": "Q12372846"
+  },
+  "phyllonite": {
+    "url": "https://en.wikipedia.org/wiki/phyllonite",
+    "wiki_id": "Q12568300"
+  },
+  "metamudstone": {
+    "url": "https://en.wikipedia.org/wiki/metamudstone",
+    "wiki_id": "Q11777657"
+  },
+  "meta-anthracite": {
+    "url": "https://en.wikipedia.org/wiki/meta-anthracite",
+    "wiki_id": "Q12122841"
+  },
+  "fine-grain material": {
+    "url": "https://en.wikipedia.org/wiki/fine-grain_material",
+    "wiki_id": "Q106819724"
+  },
+  "Peccia": {
+    "url": "https://en.wikipedia.org/wiki/Peccia",
+    "wiki_id": "Q3898519"
+  },
+  "Collombey": {
+    "url": "https://en.wikipedia.org/wiki/Collombey",
+    "wiki_id": "Q22701994"
+  },
+  "coarse-grain material": {
+    "url": "https://en.wikipedia.org/wiki/coarse-grain_material",
+    "wiki_id": "Q106819789"
+  },
+  "medium-grain material": {
+    "url": "https://en.wikipedia.org/wiki/medium-grain_material",
+    "wiki_id": "Q106819845"
+  },
+  "Oppdal": {
+    "url": "https://en.wikipedia.org/wiki/Oppdal",
+    "wiki_id": "Q113595"
+  },
+  "writing surface": {
+    "url": "https://en.wikipedia.org/wiki/writing_surface",
+    "wiki_id": "Q3327760"
+  },
+  "geographical indications in India": {
+    "url": "https://en.wikipedia.org/wiki/geographical_indications_in_India",
+    "wiki_id": "Q98399252"
+  },
+  "Sarrancolin marble": {
+    "url": "https://en.wikipedia.org/wiki/Sarrancolin_marble",
+    "wiki_id": "Q117084810"
+  },
+  "Ven\u010dac marble": {
+    "url": "https://en.wikipedia.org/wiki/Ven\u010dac_marble",
+    "wiki_id": "Q118459546"
+  },
+  "Ven\u010dac": {
+    "url": "https://en.wikipedia.org/wiki/Ven\u010dac",
+    "wiki_id": "Q49460399"
+  },
+  "magnesite": {
+    "url": "https://en.wikipedia.org/wiki/magnesite",
+    "wiki_id": "Q11766237"
+  },
+  "calciphyre": {
+    "url": "https://en.wikipedia.org/wiki/calciphyre",
+    "wiki_id": "Q12107903"
+  },
+  "predazzite": {
+    "url": "https://en.wikipedia.org/wiki/predazzite",
+    "wiki_id": "Q12143796"
+  },
+  "Giuseppe Marzari-Pencati": {
+    "url": "https://en.wikipedia.org/wiki/Giuseppe_Marzari-Pencati",
+    "wiki_id": "Q5880543"
+  },
+  "Predazzo": {
+    "url": "https://en.wikipedia.org/wiki/Predazzo",
+    "wiki_id": "Q300010"
+  },
+  "propylite": {
+    "url": "https://en.wikipedia.org/wiki/propylite",
+    "wiki_id": "Q12144953"
+  },
+  "metabasite": {
+    "url": "https://en.wikipedia.org/wiki/metabasite",
+    "wiki_id": "Q12370198"
+  },
+  "iron quartzite": {
+    "url": "https://en.wikipedia.org/wiki/iron_quartzite",
+    "wiki_id": "Q12373618"
+  },
+  "metasomatism": {
+    "url": "https://en.wikipedia.org/wiki/metasomatism",
+    "wiki_id": "Q222814"
+  },
+  "Perlato Giallo": {
+    "url": "https://en.wikipedia.org/wiki/Perlato_Giallo",
+    "wiki_id": "Q115497067"
+  },
+  "St. Triphon marbl\u0435": {
+    "url": "https://en.wikipedia.org/wiki/St._Triphon_marbl\u0435",
+    "wiki_id": "Q115379274"
+  },
+  "Castione marble": {
+    "url": "https://en.wikipedia.org/wiki/Castione_marble",
+    "wiki_id": "Q115434850"
+  },
+  "Berschis marble": {
+    "url": "https://en.wikipedia.org/wiki/Berschis_marble",
+    "wiki_id": "Q115475442"
+  },
+  "Collonges Rouge": {
+    "url": "https://en.wikipedia.org/wiki/Collonges_Rouge",
+    "wiki_id": "Q115497930"
+  },
+  "glaucophane schist": {
+    "url": "https://en.wikipedia.org/wiki/glaucophane_schist",
+    "wiki_id": "Q9394804"
+  },
+  "graphitic schist": {
+    "url": "https://en.wikipedia.org/wiki/graphitic_schist",
+    "wiki_id": "Q9394808"
+  },
+  "quartz-sericite schist": {
+    "url": "https://en.wikipedia.org/wiki/quartz-sericite_schist",
+    "wiki_id": "Q9394815"
+  },
+  "quartz schist": {
+    "url": "https://en.wikipedia.org/wiki/quartz_schist",
+    "wiki_id": "Q9394817"
+  },
+  "sericite schist": {
+    "url": "https://en.wikipedia.org/wiki/sericite_schist",
+    "wiki_id": "Q9394826"
+  },
+  "talc schist": {
+    "url": "https://en.wikipedia.org/wiki/talc_schist",
+    "wiki_id": "Q9394827"
+  },
+  "Offerdal schist": {
+    "url": "https://en.wikipedia.org/wiki/Offerdal_schist",
+    "wiki_id": "Q10607888"
+  },
+  "landscape marble": {
+    "url": "https://en.wikipedia.org/wiki/landscape_marble",
+    "wiki_id": "Q113000679"
+  },
+  "br\u00e8che d'Alep": {
+    "url": "https://en.wikipedia.org/wiki/br\u00e8che_d'Alep",
+    "wiki_id": "Q117030510"
+  },
+  "breche violette": {
+    "url": "https://en.wikipedia.org/wiki/breche_violette",
+    "wiki_id": "Q117030511"
+  },
+  "white marble": {
+    "url": "https://en.wikipedia.org/wiki/white_marble",
+    "wiki_id": "Q117052968"
+  },
+  "leptite": {
+    "url": "https://en.wikipedia.org/wiki/leptite",
+    "wiki_id": "Q10558060"
+  },
+  "leucophyllite": {
+    "url": "https://en.wikipedia.org/wiki/leucophyllite",
+    "wiki_id": "Q1129504"
+  },
+  "Collonges": {
+    "url": "https://en.wikipedia.org/wiki/Collonges",
+    "wiki_id": "Q68846"
+  },
+  "oceanic crust": {
+    "url": "https://en.wikipedia.org/wiki/oceanic_crust",
+    "wiki_id": "Q238851"
+  },
+  "Castione": {
+    "url": "https://en.wikipedia.org/wiki/Castione",
+    "wiki_id": "Q3663073"
+  },
+  "Berschis": {
+    "url": "https://en.wikipedia.org/wiki/Berschis",
+    "wiki_id": "Q47501184"
+  },
+  "St-Triphon": {
+    "url": "https://en.wikipedia.org/wiki/St-Triphon",
+    "wiki_id": "Q108092577"
+  },
+  "brocatello": {
+    "url": "https://en.wikipedia.org/wiki/brocatello",
+    "wiki_id": "Q98194857"
+  },
+  "Connemara marble": {
+    "url": "https://en.wikipedia.org/wiki/Connemara_marble",
+    "wiki_id": "Q96375410"
+  },
+  "T\u0101kaka marble": {
+    "url": "https://en.wikipedia.org/wiki/T\u0101kaka_marble",
+    "wiki_id": "Q124474298"
+  },
+  "New Zealand": {
+    "url": "https://en.wikipedia.org/wiki/New_Zealand",
+    "wiki_id": "Q664"
+  },
+  "Green Alps marble": {
+    "url": "https://en.wikipedia.org/wiki/Green_Alps_marble",
+    "wiki_id": "Q130240461"
+  },
+  "Aosta Valley": {
+    "url": "https://en.wikipedia.org/wiki/Aosta_Valley",
+    "wiki_id": "Q1222"
+  },
+  "garben schist": {
+    "url": "https://en.wikipedia.org/wiki/garben_schist",
+    "wiki_id": "Q110532826"
+  },
+  "chromian marble": {
+    "url": "https://en.wikipedia.org/wiki/chromian_marble",
+    "wiki_id": "Q125846986"
+  },
+  "Alps": {
+    "url": "https://en.wikipedia.org/wiki/Alps",
+    "wiki_id": "Q1286"
+  },
+  "Goodletite": {
+    "url": "https://en.wikipedia.org/wiki/Goodletite",
+    "wiki_id": "Q111247970"
+  },
+  "ectinite": {
+    "url": "https://en.wikipedia.org/wiki/ectinite",
+    "wiki_id": "Q117086619"
+  },
+  "Actetite": {
+    "url": "https://en.wikipedia.org/wiki/Actetite",
+    "wiki_id": "Q118130256"
+  },
+  "kornite": {
+    "url": "https://en.wikipedia.org/wiki/kornite",
+    "wiki_id": "Q121854866"
+  },
+  "calc-silicate rock": {
+    "url": "https://en.wikipedia.org/wiki/calc-silicate_rock",
+    "wiki_id": "Q12715989"
+  },
+  "k\u00e4rn\u00e4ite": {
+    "url": "https://en.wikipedia.org/wiki/k\u00e4rn\u00e4ite",
+    "wiki_id": "Q14329336"
+  },
+  "fenite": {
+    "url": "https://en.wikipedia.org/wiki/fenite",
+    "wiki_id": "Q15223241"
+  },
+  "epidosite": {
+    "url": "https://en.wikipedia.org/wiki/epidosite",
+    "wiki_id": "Q16977384"
+  },
+  "bright green": {
+    "url": "https://en.wikipedia.org/wiki/bright_green",
+    "wiki_id": "Q15141723"
+  },
+  "Tasman District": {
+    "url": "https://en.wikipedia.org/wiki/Tasman_District",
+    "wiki_id": "Q666142"
+  },
+  "sheaf": {
+    "url": "https://en.wikipedia.org/wiki/sheaf",
+    "wiki_id": "Q942040"
+  },
+  "Dictionary of Petrology": {
+    "url": "https://en.wikipedia.org/wiki/Dictionary_of_Petrology",
+    "wiki_id": "Q117805252"
+  },
+  "carbonate rock": {
+    "url": "https://en.wikipedia.org/wiki/carbonate_rock",
+    "wiki_id": "Q777913"
+  },
+  "sillimanite": {
+    "url": "https://en.wikipedia.org/wiki/sillimanite",
+    "wiki_id": "Q119632"
+  },
+  "Ribes uva-crispa": {
+    "url": "https://en.wikipedia.org/wiki/Ribes_uva-crispa",
+    "wiki_id": "Q41503"
+  },
+  "andalusite": {
+    "url": "https://en.wikipedia.org/wiki/andalusite",
+    "wiki_id": "Q192637"
+  },
+  "Andalusia": {
+    "url": "https://en.wikipedia.org/wiki/Andalusia",
+    "wiki_id": "Q5783"
+  },
+  "sonolite": {
+    "url": "https://en.wikipedia.org/wiki/sonolite",
+    "wiki_id": "Q13113"
+  },
+  "garnet group": {
+    "url": "https://en.wikipedia.org/wiki/garnet_group",
+    "wiki_id": "Q105368"
+  },
+  "leucophoenicite": {
+    "url": "https://en.wikipedia.org/wiki/leucophoenicite",
+    "wiki_id": "Q13101"
+  },
+  "orthorhombic crystal system": {
+    "url": "https://en.wikipedia.org/wiki/orthorhombic_crystal_system",
+    "wiki_id": "Q648961"
+  },
+  "Sono mine": {
+    "url": "https://en.wikipedia.org/wiki/Sono_mine",
+    "wiki_id": "Q14905749"
+  },
+  "red purple": {
+    "url": "https://en.wikipedia.org/wiki/red_purple",
+    "wiki_id": "Q52367965"
+  },
+  "Benjamin Silliman, Sr.": {
+    "url": "https://en.wikipedia.org/wiki/Benjamin_Silliman,_Sr.",
+    "wiki_id": "Q817692"
+  },
+  "hydrougrandite": {
+    "url": "https://en.wikipedia.org/wiki/hydrougrandite",
+    "wiki_id": "Q3787821"
+  },
+  "manganhumite mineral subgroup": {
+    "url": "https://en.wikipedia.org/wiki/manganhumite_mineral_subgroup",
+    "wiki_id": "Q18086521"
+  },
+  "leucophoenicite mineral subgroup": {
+    "url": "https://en.wikipedia.org/wiki/leucophoenicite_mineral_subgroup",
+    "wiki_id": "Q18086524"
+  },
+  "paleness": {
+    "url": "https://en.wikipedia.org/wiki/paleness",
+    "wiki_id": "Q7127114"
+  },
+  "willemite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/willemite_mineral_group",
+    "wiki_id": "Q3777860"
+  },
+  "nesosilicates": {
+    "url": "https://en.wikipedia.org/wiki/nesosilicates",
+    "wiki_id": "Q429635"
+  },
+  "haiweeite": {
+    "url": "https://en.wikipedia.org/wiki/haiweeite",
+    "wiki_id": "Q3782461"
+  },
+  "bultfonteinite": {
+    "url": "https://en.wikipedia.org/wiki/bultfonteinite",
+    "wiki_id": "Q13114"
+  },
+  "andalusite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/andalusite_mineral_group",
+    "wiki_id": "Q3777544"
+  },
+  "cyclosilicates": {
+    "url": "https://en.wikipedia.org/wiki/cyclosilicates",
+    "wiki_id": "Q11515780"
+  },
+  "Akhtaragda river mouth": {
+    "url": "https://en.wikipedia.org/wiki/Akhtaragda_river_mouth",
+    "wiki_id": "Q29020503"
+  },
+  "Buckwheat pit": {
+    "url": "https://en.wikipedia.org/wiki/Buckwheat_pit",
+    "wiki_id": "Q23894221"
+  },
+  "Franklin": {
+    "url": "https://en.wikipedia.org/wiki/Franklin",
+    "wiki_id": "Q1085963"
+  },
+  "humite": {
+    "url": "https://en.wikipedia.org/wiki/humite",
+    "wiki_id": "Q782498"
+  },
+  "Bultfontein": {
+    "url": "https://en.wikipedia.org/wiki/Bultfontein",
+    "wiki_id": "Q994009"
+  },
+  "space group P2\u2081/a": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P2\u2081/a",
+    "wiki_id": "Q102054162"
+  },
+  "aluminosilicate": {
+    "url": "https://en.wikipedia.org/wiki/aluminosilicate",
+    "wiki_id": "Q429979"
+  },
+  "magnesiostaurolite": {
+    "url": "https://en.wikipedia.org/wiki/magnesiostaurolite",
+    "wiki_id": "Q958786"
+  },
+  "magnesium": {
+    "url": "https://en.wikipedia.org/wiki/magnesium",
+    "wiki_id": "Q660"
+  },
+  "chloritoid": {
+    "url": "https://en.wikipedia.org/wiki/chloritoid",
+    "wiki_id": "Q531280"
+  },
+  "hatrurite": {
+    "url": "https://en.wikipedia.org/wiki/hatrurite",
+    "wiki_id": "Q935595"
+  },
+  "Hatrurim formation": {
+    "url": "https://en.wikipedia.org/wiki/Hatrurim_formation",
+    "wiki_id": "Q5681783"
+  },
+  "kanonaite": {
+    "url": "https://en.wikipedia.org/wiki/kanonaite",
+    "wiki_id": "Q3812799"
+  },
+  "Kanona": {
+    "url": "https://en.wikipedia.org/wiki/Kanona",
+    "wiki_id": "Q21821293"
+  },
+  "naming locality": {
+    "url": "https://en.wikipedia.org/wiki/naming_locality",
+    "wiki_id": "Q22815296"
+  },
+  "triclinic crystal system": {
+    "url": "https://en.wikipedia.org/wiki/triclinic_crystal_system",
+    "wiki_id": "Q376927"
+  },
+  "fayalite": {
+    "url": "https://en.wikipedia.org/wiki/fayalite",
+    "wiki_id": "Q411130"
+  },
+  "tephroite": {
+    "url": "https://en.wikipedia.org/wiki/tephroite",
+    "wiki_id": "Q424367"
+  },
+  "thorogummite": {
+    "url": "https://en.wikipedia.org/wiki/thorogummite",
+    "wiki_id": "Q924427"
+  },
+  "pyrope": {
+    "url": "https://en.wikipedia.org/wiki/pyrope",
+    "wiki_id": "Q421814"
+  },
+  "Czech Republic": {
+    "url": "https://en.wikipedia.org/wiki/Czech_Republic",
+    "wiki_id": "Q213"
+  },
+  "spurrite-afwillite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/spurrite-afwillite_mineral_group",
+    "wiki_id": "Q12902797"
+  },
+  "humite mineral subgroup": {
+    "url": "https://en.wikipedia.org/wiki/humite_mineral_subgroup",
+    "wiki_id": "Q18086523"
+  },
+  "topaz": {
+    "url": "https://en.wikipedia.org/wiki/topaz",
+    "wiki_id": "Q134985"
+  },
+  "triclinic-pedial": {
+    "url": "https://en.wikipedia.org/wiki/triclinic-pedial",
+    "wiki_id": "Q13364996"
+  },
+  "zircon": {
+    "url": "https://en.wikipedia.org/wiki/zircon",
+    "wiki_id": "Q178928"
+  },
+  "zincostaurolite": {
+    "url": "https://en.wikipedia.org/wiki/zincostaurolite",
+    "wiki_id": "Q204909"
+  },
+  "kyanite": {
+    "url": "https://en.wikipedia.org/wiki/kyanite",
+    "wiki_id": "Q193450"
+  },
+  "Bultfontein mine": {
+    "url": "https://en.wikipedia.org/wiki/Bultfontein_mine",
+    "wiki_id": "Q28710102"
+  },
+  "space group I4\u2081/amd": {
+    "url": "https://en.wikipedia.org/wiki/space_group_I4\u2081/amd",
+    "wiki_id": "Q15027440"
+  },
+  "zinc": {
+    "url": "https://en.wikipedia.org/wiki/zinc",
+    "wiki_id": "Q758"
+  },
+  "Abraham Hume, 2nd Baronet": {
+    "url": "https://en.wikipedia.org/wiki/Abraham_Hume,_2nd_Baronet",
+    "wiki_id": "Q4668916"
+  },
+  "katoptrite": {
+    "url": "https://en.wikipedia.org/wiki/katoptrite",
+    "wiki_id": "Q3813981"
+  },
+  "Brattfors mine, Nordmark Odal field": {
+    "url": "https://en.wikipedia.org/wiki/Brattfors_mine,_Nordmark_Odal_field",
+    "wiki_id": "Q26985036"
+  },
+  "ottrelite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/ottrelite_mineral_group",
+    "wiki_id": "Q3777609"
+  },
+  "eucryptite": {
+    "url": "https://en.wikipedia.org/wiki/eucryptite",
+    "wiki_id": "Q1077131"
+  },
+  "jasmundite": {
+    "url": "https://en.wikipedia.org/wiki/jasmundite",
+    "wiki_id": "Q3807385"
+  },
+  "tetragonal crystal system": {
+    "url": "https://en.wikipedia.org/wiki/tetragonal_crystal_system",
+    "wiki_id": "Q503601"
+  },
+  "staurolite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/staurolite_mineral_group",
+    "wiki_id": "Q3777822"
+  },
+  "iimoriite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/iimoriite-(Y)",
+    "wiki_id": "Q3792478"
+  },
+  "mineral group": {
+    "url": "https://en.wikipedia.org/wiki/mineral_group",
+    "wiki_id": "Q1936581"
+  },
+  "chiastolite": {
+    "url": "https://en.wikipedia.org/wiki/chiastolite",
+    "wiki_id": "Q1283119"
+  },
+  "garnet supergroup": {
+    "url": "https://en.wikipedia.org/wiki/garnet_supergroup",
+    "wiki_id": "Q11985097"
+  },
+  "majorite": {
+    "url": "https://en.wikipedia.org/wiki/majorite",
+    "wiki_id": "Q1070946"
+  },
+  "Kosoi Brod": {
+    "url": "https://en.wikipedia.org/wiki/Kosoi_Brod",
+    "wiki_id": "Q4235154"
+  },
+  "Punica granatum": {
+    "url": "https://en.wikipedia.org/wiki/Punica_granatum",
+    "wiki_id": "Q13188"
+  },
+  "discredited mineral (D)": {
+    "url": "https://en.wikipedia.org/wiki/discredited_mineral_(D)",
+    "wiki_id": "Q13406849"
+  },
+  "Hatrurim Basin": {
+    "url": "https://en.wikipedia.org/wiki/Hatrurim_Basin",
+    "wiki_id": "Q24555774"
+  },
+  "Alan Major": {
+    "url": "https://en.wikipedia.org/wiki/Alan_Major",
+    "wiki_id": "Q21095049"
+  },
+  "goldmanite": {
+    "url": "https://en.wikipedia.org/wiki/goldmanite",
+    "wiki_id": "Q1072893"
+  },
+  "dark blue": {
+    "url": "https://en.wikipedia.org/wiki/dark_blue",
+    "wiki_id": "Q3641131"
+  },
+  "Alabanda": {
+    "url": "https://en.wikipedia.org/wiki/Alabanda",
+    "wiki_id": "Q778224"
+  },
+  "zircon mineral group": {
+    "url": "https://en.wikipedia.org/wiki/zircon_mineral_group",
+    "wiki_id": "Q3777884"
+  },
+  "silicate": {
+    "url": "https://en.wikipedia.org/wiki/silicate",
+    "wiki_id": "Q7130787"
+  },
+  "euclase": {
+    "url": "https://en.wikipedia.org/wiki/euclase",
+    "wiki_id": "Q424245"
+  },
+  "St. John's Island, Egypt": {
+    "url": "https://en.wikipedia.org/wiki/St._John's_Island,_Egypt",
+    "wiki_id": "Q389131"
+  },
+  "Karl Jasmund": {
+    "url": "https://en.wikipedia.org/wiki/Karl_Jasmund",
+    "wiki_id": "Q1731788"
+  },
+  "eu-": {
+    "url": "https://en.wikipedia.org/wiki/eu-",
+    "wiki_id": "Q7061077"
+  },
+  "duo": {
+    "url": "https://en.wikipedia.org/wiki/duo",
+    "wiki_id": "Q10648343"
+  },
+  "larsenite": {
+    "url": "https://en.wikipedia.org/wiki/larsenite",
+    "wiki_id": "Q3827220"
+  },
+  "l\u00e5ngbanite": {
+    "url": "https://en.wikipedia.org/wiki/l\u00e5ngbanite",
+    "wiki_id": "Q3841078"
+  },
+  "chondrodite": {
+    "url": "https://en.wikipedia.org/wiki/chondrodite",
+    "wiki_id": "Q2705431"
+  },
+  "space group C2/m": {
+    "url": "https://en.wikipedia.org/wiki/space_group_C2/m",
+    "wiki_id": "Q104021301"
+  },
+  "L\u00e5ngban": {
+    "url": "https://en.wikipedia.org/wiki/L\u00e5ngban",
+    "wiki_id": "Q1002624"
+  },
+  "Esper S. Larsen, Jr.": {
+    "url": "https://en.wikipedia.org/wiki/Esper_S._Larsen,_Jr.",
+    "wiki_id": "Q1262111"
+  },
+  "Haiwee 6-024 Dam": {
+    "url": "https://en.wikipedia.org/wiki/Haiwee_6-024_Dam",
+    "wiki_id": "Q35703216"
+  },
+  "mirror": {
+    "url": "https://en.wikipedia.org/wiki/mirror",
+    "wiki_id": "Q35197"
+  },
+  "space group Pbnm": {
+    "url": "https://en.wikipedia.org/wiki/space_group_Pbnm",
+    "wiki_id": "Q103889409"
+  },
+  "Brunegg pass": {
+    "url": "https://en.wikipedia.org/wiki/Brunegg_pass",
+    "wiki_id": "Q26813711"
+  },
+  "Faial Island": {
+    "url": "https://en.wikipedia.org/wiki/Faial_Island",
+    "wiki_id": "Q657187"
+  },
+  "staurolite": {
+    "url": "https://en.wikipedia.org/wiki/staurolite",
+    "wiki_id": "Q413380"
+  },
+  "Mount Somma": {
+    "url": "https://en.wikipedia.org/wiki/Mount_Somma",
+    "wiki_id": "Q729873"
+  },
+  "secrecy": {
+    "url": "https://en.wikipedia.org/wiki/secrecy",
+    "wiki_id": "Q1503443"
+  },
+  "rhodolite": {
+    "url": "https://en.wikipedia.org/wiki/rhodolite",
+    "wiki_id": "Q2031845"
+  },
+  "Marcus I. Goldman": {
+    "url": "https://en.wikipedia.org/wiki/Marcus_I._Goldman",
+    "wiki_id": "Q21095026"
+  },
+  "Gilba valley": {
+    "url": "https://en.wikipedia.org/wiki/Gilba_valley",
+    "wiki_id": "Q27510955"
+  },
+  "Ouro Preto": {
+    "url": "https://en.wikipedia.org/wiki/Ouro_Preto",
+    "wiki_id": "Q188905"
+  },
+  "olivine": {
+    "url": "https://en.wikipedia.org/wiki/olivine",
+    "wiki_id": "Q22693"
+  },
+  "uvarovite": {
+    "url": "https://en.wikipedia.org/wiki/uvarovite",
+    "wiki_id": "Q409733"
+  },
+  "jadarite": {
+    "url": "https://en.wikipedia.org/wiki/jadarite",
+    "wiki_id": "Q182344"
+  },
+  "lithium": {
+    "url": "https://en.wikipedia.org/wiki/lithium",
+    "wiki_id": "Q568"
+  },
+  "Kawamata": {
+    "url": "https://en.wikipedia.org/wiki/Kawamata",
+    "wiki_id": "Q1347240"
+  },
+  "Sergey Uvarov": {
+    "url": "https://en.wikipedia.org/wiki/Sergey_Uvarov",
+    "wiki_id": "Q704501"
+  },
+  "mullite": {
+    "url": "https://en.wikipedia.org/wiki/mullite",
+    "wiki_id": "Q418875"
+  },
+  "demantoid": {
+    "url": "https://en.wikipedia.org/wiki/demantoid",
+    "wiki_id": "Q2414437"
+  },
+  "t\u00f6rnebohmite-(La)": {
+    "url": "https://en.wikipedia.org/wiki/t\u00f6rnebohmite-(La)",
+    "wiki_id": "Q4001310"
+  },
+  "lanthanum": {
+    "url": "https://en.wikipedia.org/wiki/lanthanum",
+    "wiki_id": "Q1801"
+  },
+  "silicate mineral": {
+    "url": "https://en.wikipedia.org/wiki/silicate_mineral",
+    "wiki_id": "Q178977"
+  },
+  "liberite": {
+    "url": "https://en.wikipedia.org/wiki/liberite",
+    "wiki_id": "Q672359"
+  },
+  "abswurmbachite": {
+    "url": "https://en.wikipedia.org/wiki/abswurmbachite",
+    "wiki_id": "Q333593"
+  },
+  "Andros": {
+    "url": "https://en.wikipedia.org/wiki/Andros",
+    "wiki_id": "Q175741"
+  },
+  "tundrite-(Nd)": {
+    "url": "https://en.wikipedia.org/wiki/tundrite-(Nd)",
+    "wiki_id": "Q4000427"
+  },
+  "Lovozero massif": {
+    "url": "https://en.wikipedia.org/wiki/Lovozero_massif",
+    "wiki_id": "Q1577258"
+  },
+  "tundrite-(Ce)": {
+    "url": "https://en.wikipedia.org/wiki/tundrite-(Ce)",
+    "wiki_id": "Q4000428"
+  },
+  "Arendal": {
+    "url": "https://en.wikipedia.org/wiki/Arendal",
+    "wiki_id": "Q57919"
+  },
+  "andradite": {
+    "url": "https://en.wikipedia.org/wiki/andradite",
+    "wiki_id": "Q280913"
+  },
+  "hessonite": {
+    "url": "https://en.wikipedia.org/wiki/hessonite",
+    "wiki_id": "Q3501357"
+  },
+  "grain": {
+    "url": "https://en.wikipedia.org/wiki/grain",
+    "wiki_id": "Q2995529"
+  },
+  "alleghanyite": {
+    "url": "https://en.wikipedia.org/wiki/alleghanyite",
+    "wiki_id": "Q3612408"
+  },
+  "Alleghany County": {
+    "url": "https://en.wikipedia.org/wiki/Alleghany_County",
+    "wiki_id": "Q497899"
+  },
+  "bredigite": {
+    "url": "https://en.wikipedia.org/wiki/bredigite",
+    "wiki_id": "Q3644168"
+  },
+  "boron": {
+    "url": "https://en.wikipedia.org/wiki/boron",
+    "wiki_id": "Q618"
+  },
+  "trimounsite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/trimounsite-(Y)",
+    "wiki_id": "Q3998852"
+  },
+  "chernobylite": {
+    "url": "https://en.wikipedia.org/wiki/chernobylite",
+    "wiki_id": "Q3503794"
+  },
+  "hydrogrossular": {
+    "url": "https://en.wikipedia.org/wiki/hydrogrossular",
+    "wiki_id": "Q2416087"
+  },
+  "Scawt Hill": {
+    "url": "https://en.wikipedia.org/wiki/Scawt_Hill",
+    "wiki_id": "Q7430650"
+  },
+  "larnite": {
+    "url": "https://en.wikipedia.org/wiki/larnite",
+    "wiki_id": "Q1427157"
+  },
+  "t\u00f6rnebohmite-(Ce)": {
+    "url": "https://en.wikipedia.org/wiki/t\u00f6rnebohmite-(Ce)",
+    "wiki_id": "Q4001309"
+  },
+  "Isle of Mull": {
+    "url": "https://en.wikipedia.org/wiki/Isle_of_Mull",
+    "wiki_id": "Q111444"
+  },
+  "beryllium": {
+    "url": "https://en.wikipedia.org/wiki/beryllium",
+    "wiki_id": "Q569"
+  },
+  "Satoyasu Iimori": {
+    "url": "https://en.wikipedia.org/wiki/Satoyasu_Iimori",
+    "wiki_id": "Q17192761"
+  },
+  "Takeo Iimori": {
+    "url": "https://en.wikipedia.org/wiki/Takeo_Iimori",
+    "wiki_id": "Q28835028"
+  },
+  "Bald Knob deposit": {
+    "url": "https://en.wikipedia.org/wiki/Bald_Knob_deposit",
+    "wiki_id": "Q30046148"
+  },
+  "Larne": {
+    "url": "https://en.wikipedia.org/wiki/Larne",
+    "wiki_id": "Q935686"
+  },
+  "renamed mineral (Rn)": {
+    "url": "https://en.wikipedia.org/wiki/renamed_mineral_(Rn)",
+    "wiki_id": "Q13406860"
+  },
+  "uranophane": {
+    "url": "https://en.wikipedia.org/wiki/uranophane",
+    "wiki_id": "Q423494"
+  },
+  "Adolarius Jacob Forster": {
+    "url": "https://en.wikipedia.org/wiki/Adolarius_Jacob_Forster",
+    "wiki_id": "Q26813167"
+  },
+  "Bellerberg volcano": {
+    "url": "https://en.wikipedia.org/wiki/Bellerberg_volcano",
+    "wiki_id": "Q19274917"
+  },
+  "Fillow quarry": {
+    "url": "https://en.wikipedia.org/wiki/Fillow_quarry",
+    "wiki_id": "Q26812670"
+  },
+  "Bastn\u00e4s": {
+    "url": "https://en.wikipedia.org/wiki/Bastn\u00e4s",
+    "wiki_id": "Q4868361"
+  },
+  "yeatmanite": {
+    "url": "https://en.wikipedia.org/wiki/yeatmanite",
+    "wiki_id": "Q616884"
+  },
+  "olivine mineral group": {
+    "url": "https://en.wikipedia.org/wiki/olivine_mineral_group",
+    "wiki_id": "Q3777605"
+  },
+  "terbium gallium garnet": {
+    "url": "https://en.wikipedia.org/wiki/terbium_gallium_garnet",
+    "wiki_id": "Q2404326"
+  },
+  "Saranovskii Mine": {
+    "url": "https://en.wikipedia.org/wiki/Saranovskii_Mine",
+    "wiki_id": "Q98592852"
+  },
+  "sodium": {
+    "url": "https://en.wikipedia.org/wiki/sodium",
+    "wiki_id": "Q658"
+  },
+  "Chernobyl": {
+    "url": "https://en.wikipedia.org/wiki/Chernobyl",
+    "wiki_id": "Q129677"
+  },
+  "kasolite": {
+    "url": "https://en.wikipedia.org/wiki/kasolite",
+    "wiki_id": "Q670572"
+  },
+  "Euboea": {
+    "url": "https://en.wikipedia.org/wiki/Euboea",
+    "wiki_id": "Q173096"
+  },
+  "jacinth": {
+    "url": "https://en.wikipedia.org/wiki/jacinth",
+    "wiki_id": "Q2659217"
+  },
+  "ash": {
+    "url": "https://en.wikipedia.org/wiki/ash",
+    "wiki_id": "Q152079"
+  },
+  "krotite": {
+    "url": "https://en.wikipedia.org/wiki/krotite",
+    "wiki_id": "Q430121"
+  },
+  "beryllonite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/beryllonite_mineral_group",
+    "wiki_id": "Q12902819"
+  },
+  "silicon": {
+    "url": "https://en.wikipedia.org/wiki/silicon",
+    "wiki_id": "Q670"
+  },
+  "willemite": {
+    "url": "https://en.wikipedia.org/wiki/willemite",
+    "wiki_id": "Q409139"
+  },
+  "knorringite": {
+    "url": "https://en.wikipedia.org/wiki/knorringite",
+    "wiki_id": "Q3261595"
+  },
+  "Jadar": {
+    "url": "https://en.wikipedia.org/wiki/Jadar",
+    "wiki_id": "Q2562056"
+  },
+  "space group P2\u2081/n": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P2\u2081/n",
+    "wiki_id": "Q13365573"
+  },
+  "esperite": {
+    "url": "https://en.wikipedia.org/wiki/esperite",
+    "wiki_id": "Q1815768"
+  },
+  "Max A. Bredig": {
+    "url": "https://en.wikipedia.org/wiki/Max_A._Bredig",
+    "wiki_id": "Q51133267"
+  },
+  "neodymium": {
+    "url": "https://en.wikipedia.org/wiki/neodymium",
+    "wiki_id": "Q1388"
+  },
+  "Drammen Municipality": {
+    "url": "https://en.wikipedia.org/wiki/Drammen_Municipality",
+    "wiki_id": "Q26525"
+  },
+  "chlorite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/chlorite_mineral_group",
+    "wiki_id": "Q427254"
+  },
+  "epidote-t\u00f6rnebohmite series": {
+    "url": "https://en.wikipedia.org/wiki/epidote-t\u00f6rnebohmite_series",
+    "wiki_id": "Q24811973"
+  },
+  "olive": {
+    "url": "https://en.wikipedia.org/wiki/olive",
+    "wiki_id": "Q864152"
+  },
+  "liebenbergite": {
+    "url": "https://en.wikipedia.org/wiki/liebenbergite",
+    "wiki_id": "Q1823777"
+  },
+  "melanite": {
+    "url": "https://en.wikipedia.org/wiki/melanite",
+    "wiki_id": "Q2032013"
+  },
+  "carboirite": {
+    "url": "https://en.wikipedia.org/wiki/carboirite",
+    "wiki_id": "Q3658275"
+  },
+  "boromullite": {
+    "url": "https://en.wikipedia.org/wiki/boromullite",
+    "wiki_id": "Q19810685"
+  },
+  "hodgkinsonite": {
+    "url": "https://en.wikipedia.org/wiki/hodgkinsonite",
+    "wiki_id": "Q1075668"
+  },
+  "mineral subclass": {
+    "url": "https://en.wikipedia.org/wiki/mineral_subclass",
+    "wiki_id": "Q3965272"
+  },
+  "cerium": {
+    "url": "https://en.wikipedia.org/wiki/cerium",
+    "wiki_id": "Q1385"
+  },
+  "sklodowskite": {
+    "url": "https://en.wikipedia.org/wiki/sklodowskite",
+    "wiki_id": "Q1075665"
+  },
+  "Jos\u00e9 Bonif\u00e1cio de Andrada e Silva": {
+    "url": "https://en.wikipedia.org/wiki/Jos\u00e9_Bonif\u00e1cio_de_Andrada_e_Silva",
+    "wiki_id": "Q379631"
+  },
+  "uranium": {
+    "url": "https://en.wikipedia.org/wiki/uranium",
+    "wiki_id": "Q1098"
+  },
+  "Lepkhe-Nel'm mountain": {
+    "url": "https://en.wikipedia.org/wiki/Lepkhe-Nel'm_mountain",
+    "wiki_id": "Q24035878"
+  },
+  "braunite II": {
+    "url": "https://en.wikipedia.org/wiki/braunite_II",
+    "wiki_id": "Q3643919"
+  },
+  "Alexander N. Krot": {
+    "url": "https://en.wikipedia.org/wiki/Alexander_N._Krot",
+    "wiki_id": "Q15133971"
+  },
+  "similar": {
+    "url": "https://en.wikipedia.org/wiki/similar",
+    "wiki_id": "Q26256352"
+  },
+  "William I of the Netherlands": {
+    "url": "https://en.wikipedia.org/wiki/William_I_of_the_Netherlands",
+    "wiki_id": "Q2079957"
+  },
+  "Shinkolobwe mine": {
+    "url": "https://en.wikipedia.org/wiki/Shinkolobwe_mine",
+    "wiki_id": "Q2096071"
+  },
+  "auriacusite": {
+    "url": "https://en.wikipedia.org/wiki/auriacusite",
+    "wiki_id": "Q19799770"
+  },
+  "sewing needle": {
+    "url": "https://en.wikipedia.org/wiki/sewing_needle",
+    "wiki_id": "Q142690"
+  },
+  "parauranophane": {
+    "url": "https://en.wikipedia.org/wiki/parauranophane",
+    "wiki_id": "Q4006324"
+  },
+  "compound": {
+    "url": "https://en.wikipedia.org/wiki/compound",
+    "wiki_id": "Q245423"
+  },
+  "afwillite": {
+    "url": "https://en.wikipedia.org/wiki/afwillite",
+    "wiki_id": "Q2518702"
+  },
+  "Harold H. Hodgkinson": {
+    "url": "https://en.wikipedia.org/wiki/Harold_H._Hodgkinson",
+    "wiki_id": "Q52367259"
+  },
+  "braunite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/braunite_mineral_group",
+    "wiki_id": "Q3777638"
+  },
+  "germanate mineral": {
+    "url": "https://en.wikipedia.org/wiki/germanate_mineral",
+    "wiki_id": "Q13033669"
+  },
+  "published without approval (N)": {
+    "url": "https://en.wikipedia.org/wiki/published_without_approval_(N)",
+    "wiki_id": "Q16219310"
+  },
+  "visual appearance": {
+    "url": "https://en.wikipedia.org/wiki/visual_appearance",
+    "wiki_id": "Q7936581"
+  },
+  "space group P2\u2081": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P2\u2081",
+    "wiki_id": "Q13365444"
+  },
+  "clinohumite": {
+    "url": "https://en.wikipedia.org/wiki/clinohumite",
+    "wiki_id": "Q2419574"
+  },
+  "beryllonite": {
+    "url": "https://en.wikipedia.org/wiki/beryllonite",
+    "wiki_id": "Q2040729"
+  },
+  "Marie Curie": {
+    "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+    "wiki_id": "Q7186"
+  },
+  "Parker shaft": {
+    "url": "https://en.wikipedia.org/wiki/Parker_shaft",
+    "wiki_id": "Q23894236"
+  },
+  "oxygen": {
+    "url": "https://en.wikipedia.org/wiki/oxygen",
+    "wiki_id": "Q629"
+  },
+  "appearance": {
+    "url": "https://en.wikipedia.org/wiki/appearance",
+    "wiki_id": "Q3620816"
+  },
+  "Miedzianka, Lower Silesian Voivodeship": {
+    "url": "https://en.wikipedia.org/wiki/Miedzianka,_Lower_Silesian_Voivodeship",
+    "wiki_id": "Q6843688"
+  },
+  "Oleg von Knorring": {
+    "url": "https://en.wikipedia.org/wiki/Oleg_von_Knorring",
+    "wiki_id": "Q17549040"
+  },
+  "Pope Yeatman": {
+    "url": "https://en.wikipedia.org/wiki/Pope_Yeatman",
+    "wiki_id": "Q18713910"
+  },
+  "Mochalin Log REE deposit": {
+    "url": "https://en.wikipedia.org/wiki/Mochalin_Log_REE_deposit",
+    "wiki_id": "Q76771415"
+  },
+  "space group R-3": {
+    "url": "https://en.wikipedia.org/wiki/space_group_R-3",
+    "wiki_id": "Q15040797"
+  },
+  "cerite series": {
+    "url": "https://en.wikipedia.org/wiki/cerite_series",
+    "wiki_id": "Q415904"
+  },
+  "1 Ceres": {
+    "url": "https://en.wikipedia.org/wiki/1_Ceres",
+    "wiki_id": "Q596"
+  },
+  "tranquillityite": {
+    "url": "https://en.wikipedia.org/wiki/tranquillityite",
+    "wiki_id": "Q257703"
+  },
+  "Mare Tranquillitatis": {
+    "url": "https://en.wikipedia.org/wiki/Mare_Tranquillitatis",
+    "wiki_id": "Q320936"
+  },
+  "calderite": {
+    "url": "https://en.wikipedia.org/wiki/calderite",
+    "wiki_id": "Q429522"
+  },
+  "laptevite-(Ce)": {
+    "url": "https://en.wikipedia.org/wiki/laptevite-(Ce)",
+    "wiki_id": "Q19860934"
+  },
+  "laihunite": {
+    "url": "https://en.wikipedia.org/wiki/laihunite",
+    "wiki_id": "Q1445390"
+  },
+  "Sterling Hill": {
+    "url": "https://en.wikipedia.org/wiki/Sterling_Hill",
+    "wiki_id": "Q17088970"
+  },
+  "glaucochroite": {
+    "url": "https://en.wikipedia.org/wiki/glaucochroite",
+    "wiki_id": "Q417518"
+  },
+  "Kelmis": {
+    "url": "https://en.wikipedia.org/wiki/Kelmis",
+    "wiki_id": "Q16216319"
+  },
+  "Northwest Africa 1934": {
+    "url": "https://en.wikipedia.org/wiki/Northwest_Africa_1934",
+    "wiki_id": "Q11236256"
+  },
+  "Irmgard Abs-Wurmbach": {
+    "url": "https://en.wikipedia.org/wiki/Irmgard_Abs-Wurmbach",
+    "wiki_id": "Q15030243"
+  },
+  "stillwellite-(Ce)": {
+    "url": "https://en.wikipedia.org/wiki/stillwellite-(Ce)",
+    "wiki_id": "Q3973574"
+  },
+  "penetration twin": {
+    "url": "https://en.wikipedia.org/wiki/penetration_twin",
+    "wiki_id": "Q13366330"
+  },
+  "stringhamite": {
+    "url": "https://en.wikipedia.org/wiki/stringhamite",
+    "wiki_id": "Q3976069"
+  },
+  "cuprosklodowskite": {
+    "url": "https://en.wikipedia.org/wiki/cuprosklodowskite",
+    "wiki_id": "Q2479128"
+  },
+  "copper": {
+    "url": "https://en.wikipedia.org/wiki/copper",
+    "wiki_id": "Q753"
+  },
+  "fire": {
+    "url": "https://en.wikipedia.org/wiki/fire",
+    "wiki_id": "Q3196"
+  },
+  "calcioursilite": {
+    "url": "https://en.wikipedia.org/wiki/calcioursilite",
+    "wiki_id": "Q19833367"
+  },
+  "uranyl(2+)": {
+    "url": "https://en.wikipedia.org/wiki/uranyl(2+)",
+    "wiki_id": "Q421141"
+  },
+  "Black Pine mine": {
+    "url": "https://en.wikipedia.org/wiki/Black_Pine_mine",
+    "wiki_id": "Q28975661"
+  },
+  "sitinakite": {
+    "url": "https://en.wikipedia.org/wiki/sitinakite",
+    "wiki_id": "Q3962367"
+  },
+  "mineral series": {
+    "url": "https://en.wikipedia.org/wiki/mineral_series",
+    "wiki_id": "Q3965281"
+  },
+  "umbalite": {
+    "url": "https://en.wikipedia.org/wiki/umbalite",
+    "wiki_id": "Q110856258"
+  },
+  "cerite-(CeCa)": {
+    "url": "https://en.wikipedia.org/wiki/cerite-(CeCa)",
+    "wiki_id": "Q3665119"
+  },
+  "J\u00e1chymov": {
+    "url": "https://en.wikipedia.org/wiki/J\u00e1chymov",
+    "wiki_id": "Q830418"
+  },
+  "scorticoite": {
+    "url": "https://en.wikipedia.org/wiki/scorticoite",
+    "wiki_id": "Q66480526"
+  },
+  "arrheniusite-(Ce)": {
+    "url": "https://en.wikipedia.org/wiki/arrheniusite-(Ce)",
+    "wiki_id": "Q87161773"
+  },
+  "soddyite": {
+    "url": "https://en.wikipedia.org/wiki/soddyite",
+    "wiki_id": "Q3963910"
+  },
+  "sphaerobertrandite": {
+    "url": "https://en.wikipedia.org/wiki/sphaerobertrandite",
+    "wiki_id": "Q3966615"
+  },
+  "aradite": {
+    "url": "https://en.wikipedia.org/wiki/aradite",
+    "wiki_id": "Q19799640"
+  },
+  "sky blue": {
+    "url": "https://en.wikipedia.org/wiki/sky_blue",
+    "wiki_id": "Q373160"
+  },
+  "kittatinnyite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/kittatinnyite_mineral_group",
+    "wiki_id": "Q3777713"
+  },
+  "welinite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/welinite_mineral_group",
+    "wiki_id": "Q3777854"
+  },
+  "menzerite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/menzerite-(Y)",
+    "wiki_id": "Q19861027"
+  },
+  "kirschsteinite": {
+    "url": "https://en.wikipedia.org/wiki/kirschsteinite",
+    "wiki_id": "Q3815610"
+  },
+  "fluorchegemite": {
+    "url": "https://en.wikipedia.org/wiki/fluorchegemite",
+    "wiki_id": "Q19833667"
+  },
+  "hydroxyledgrewite": {
+    "url": "https://en.wikipedia.org/wiki/hydroxyledgrewite",
+    "wiki_id": "Q19841467"
+  },
+  "uranosilite": {
+    "url": "https://en.wikipedia.org/wiki/uranosilite",
+    "wiki_id": "Q4006328"
+  },
+  "ursilite": {
+    "url": "https://en.wikipedia.org/wiki/ursilite",
+    "wiki_id": "Q4006522"
+  },
+  "chegemite": {
+    "url": "https://en.wikipedia.org/wiki/chegemite",
+    "wiki_id": "Q19833318"
+  },
+  "calcio-olivine": {
+    "url": "https://en.wikipedia.org/wiki/calcio-olivine",
+    "wiki_id": "Q19833365"
+  },
+  "kumtyubeite": {
+    "url": "https://en.wikipedia.org/wiki/kumtyubeite",
+    "wiki_id": "Q19860919"
+  },
+  "iron": {
+    "url": "https://en.wikipedia.org/wiki/iron",
+    "wiki_id": "Q677"
+  },
+  "Georg Menzer": {
+    "url": "https://en.wikipedia.org/wiki/Georg_Menzer",
+    "wiki_id": "Q15434426"
+  },
+  "calcium": {
+    "url": "https://en.wikipedia.org/wiki/calcium",
+    "wiki_id": "Q706"
+  },
+  "kimzeyite": {
+    "url": "https://en.wikipedia.org/wiki/kimzeyite",
+    "wiki_id": "Q3815363"
+  },
+  "arsenate mineral": {
+    "url": "https://en.wikipedia.org/wiki/arsenate_mineral",
+    "wiki_id": "Q4796437"
+  },
+  "space group R3m": {
+    "url": "https://en.wikipedia.org/wiki/space_group_R3m",
+    "wiki_id": "Q15040828"
+  },
+  "beryllite": {
+    "url": "https://en.wikipedia.org/wiki/beryllite",
+    "wiki_id": "Q3638570"
+  },
+  "monticellite": {
+    "url": "https://en.wikipedia.org/wiki/monticellite",
+    "wiki_id": "Q1923318"
+  },
+  "sverigeite": {
+    "url": "https://en.wikipedia.org/wiki/sverigeite",
+    "wiki_id": "Q3978488"
+  },
+  "uranate": {
+    "url": "https://en.wikipedia.org/wiki/uranate",
+    "wiki_id": "Q3552125"
+  },
+  "humite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/humite_mineral_group",
+    "wiki_id": "Q5940876"
+  },
+  "vicanite-(Ce)": {
+    "url": "https://en.wikipedia.org/wiki/vicanite-(Ce)",
+    "wiki_id": "Q4011073"
+  },
+  "wallkilldellite-(Fe)": {
+    "url": "https://en.wikipedia.org/wiki/wallkilldellite-(Fe)",
+    "wiki_id": "Q4017836"
+  },
+  "Magnet Cove igneous complex": {
+    "url": "https://en.wikipedia.org/wiki/Magnet_Cove_igneous_complex",
+    "wiki_id": "Q6731423"
+  },
+  "hundholmenite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/hundholmenite-(Y)",
+    "wiki_id": "Q17448983"
+  },
+  "Hundholmen, Tysfjord": {
+    "url": "https://en.wikipedia.org/wiki/Hundholmen,_Tysfjord",
+    "wiki_id": "Q3143297"
+  },
+  "vicanite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/vicanite_mineral_group",
+    "wiki_id": "Q18216056"
+  },
+  "cross": {
+    "url": "https://en.wikipedia.org/wiki/cross",
+    "wiki_id": "Q40843"
+  },
+  "Frederick Soddy": {
+    "url": "https://en.wikipedia.org/wiki/Frederick_Soddy",
+    "wiki_id": "Q102830"
+  },
+  "Arad": {
+    "url": "https://en.wikipedia.org/wiki/Arad",
+    "wiki_id": "Q152473"
+  },
+  "lutetium aluminium garnet": {
+    "url": "https://en.wikipedia.org/wiki/lutetium_aluminium_garnet",
+    "wiki_id": "Q425710"
+  },
+  "Roua mines": {
+    "url": "https://en.wikipedia.org/wiki/Roua_mines",
+    "wiki_id": "Q24029433"
+  },
+  "\u00d6stanmossa mine": {
+    "url": "https://en.wikipedia.org/wiki/\u00d6stanmossa_mine",
+    "wiki_id": "Q10727786"
+  },
+  "nabimusaite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/nabimusaite_mineral_group",
+    "wiki_id": "Q29475900"
+  },
+  "merwinite": {
+    "url": "https://en.wikipedia.org/wiki/merwinite",
+    "wiki_id": "Q3855241"
+  },
+  "metahaiweeite": {
+    "url": "https://en.wikipedia.org/wiki/metahaiweeite",
+    "wiki_id": "Q3855431"
+  },
+  "redefined mineral (Rd)": {
+    "url": "https://en.wikipedia.org/wiki/redefined_mineral_(Rd)",
+    "wiki_id": "Q13406872"
+  },
+  "space group R-3m": {
+    "url": "https://en.wikipedia.org/wiki/space_group_R-3m",
+    "wiki_id": "Q15040834"
+  },
+  "Mount Yukspor": {
+    "url": "https://en.wikipedia.org/wiki/Mount_Yukspor",
+    "wiki_id": "Q22855698"
+  },
+  "Kirovskii apatite mine": {
+    "url": "https://en.wikipedia.org/wiki/Kirovskii_apatite_mine",
+    "wiki_id": "Q23835375"
+  },
+  "Mount Sengischorr": {
+    "url": "https://en.wikipedia.org/wiki/Mount_Sengischorr",
+    "wiki_id": "Q24035864"
+  },
+  "edgrewite": {
+    "url": "https://en.wikipedia.org/wiki/edgrewite",
+    "wiki_id": "Q17276566"
+  },
+  "Mount Lakargi": {
+    "url": "https://en.wikipedia.org/wiki/Mount_Lakargi",
+    "wiki_id": "Q24273487"
+  },
+  "zadovite": {
+    "url": "https://en.wikipedia.org/wiki/zadovite",
+    "wiki_id": "Q16861651"
+  },
+  "Gurim anticline": {
+    "url": "https://en.wikipedia.org/wiki/Gurim_anticline",
+    "wiki_id": "Q24500126"
+  },
+  "Tuften quarry": {
+    "url": "https://en.wikipedia.org/wiki/Tuften_quarry",
+    "wiki_id": "Q26813695"
+  },
+  "spessartine": {
+    "url": "https://en.wikipedia.org/wiki/spessartine",
+    "wiki_id": "Q20653385"
+  },
+  "stracherite": {
+    "url": "https://en.wikipedia.org/wiki/stracherite",
+    "wiki_id": "Q29475873"
+  },
+  "Glenn Stracher": {
+    "url": "https://en.wikipedia.org/wiki/Glenn_Stracher",
+    "wiki_id": "Q29475966"
+  },
+  "boltwoodite": {
+    "url": "https://en.wikipedia.org/wiki/boltwoodite",
+    "wiki_id": "Q3641922"
+  },
+  "schorlomite": {
+    "url": "https://en.wikipedia.org/wiki/schorlomite",
+    "wiki_id": "Q3952182"
+  },
+  "ariegilatite": {
+    "url": "https://en.wikipedia.org/wiki/ariegilatite",
+    "wiki_id": "Q29475930"
+  },
+  "barwoodite": {
+    "url": "https://en.wikipedia.org/wiki/barwoodite",
+    "wiki_id": "Q42303402"
+  },
+  "Great Bear Lake": {
+    "url": "https://en.wikipedia.org/wiki/Great_Bear_Lake",
+    "wiki_id": "Q5525"
+  },
+  "ribbeite": {
+    "url": "https://en.wikipedia.org/wiki/ribbeite",
+    "wiki_id": "Q3934235"
+  },
+  "eringaite": {
+    "url": "https://en.wikipedia.org/wiki/eringaite",
+    "wiki_id": "Q19833536"
+  },
+  "Eringa river mouth": {
+    "url": "https://en.wikipedia.org/wiki/Eringa_river_mouth",
+    "wiki_id": "Q29020504"
+  },
+  "gatedalite": {
+    "url": "https://en.wikipedia.org/wiki/gatedalite",
+    "wiki_id": "Q19841376"
+  },
+  "Kjell Gatedal": {
+    "url": "https://en.wikipedia.org/wiki/Kjell_Gatedal",
+    "wiki_id": "Q105564782"
+  },
+  "spurrite": {
+    "url": "https://en.wikipedia.org/wiki/spurrite",
+    "wiki_id": "Q1956872"
+  },
+  "Natrolite stock, Karnasurt mount": {
+    "url": "https://en.wikipedia.org/wiki/Natrolite_stock,_Karnasurt_mount",
+    "wiki_id": "Q23893375"
+  },
+  "garrelsite": {
+    "url": "https://en.wikipedia.org/wiki/garrelsite",
+    "wiki_id": "Q3758413"
+  },
+  "space group I4\u2081/acd": {
+    "url": "https://en.wikipedia.org/wiki/space_group_I4\u2081/acd",
+    "wiki_id": "Q15027442"
+  },
+  "flamite": {
+    "url": "https://en.wikipedia.org/wiki/flamite",
+    "wiki_id": "Q19833651"
+  },
+  "space group P6\u2083": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P6\u2083",
+    "wiki_id": "Q15040842"
+  },
+  "krieselite": {
+    "url": "https://en.wikipedia.org/wiki/krieselite",
+    "wiki_id": "Q6437009"
+  },
+  "Wet Weather quarry, Sky Blue Hill": {
+    "url": "https://en.wikipedia.org/wiki/Wet_Weather_quarry,_Sky_Blue_Hill",
+    "wiki_id": "Q26878849"
+  },
+  "chemical composition": {
+    "url": "https://en.wikipedia.org/wiki/chemical_composition",
+    "wiki_id": "Q1263816"
+  },
+  "Lake Vico": {
+    "url": "https://en.wikipedia.org/wiki/Lake_Vico",
+    "wiki_id": "Q1246006"
+  },
+  "wallkilldellite": {
+    "url": "https://en.wikipedia.org/wiki/wallkilldellite",
+    "wiki_id": "Q4017837"
+  },
+  "Xianghualing Sn-polymetallic ore field": {
+    "url": "https://en.wikipedia.org/wiki/Xianghualing_Sn-polymetallic_ore_field",
+    "wiki_id": "Q23901287"
+  },
+  "Scortico Mn ore deposit": {
+    "url": "https://en.wikipedia.org/wiki/Scortico_Mn_ore_deposit",
+    "wiki_id": "Q80184421"
+  },
+  "Kombat": {
+    "url": "https://en.wikipedia.org/wiki/Kombat",
+    "wiki_id": "Q119701"
+  },
+  "phenakite": {
+    "url": "https://en.wikipedia.org/wiki/phenakite",
+    "wiki_id": "Q423025"
+  },
+  "fraud": {
+    "url": "https://en.wikipedia.org/wiki/fraud",
+    "wiki_id": "Q28813"
+  },
+  "Tre Croci railway halt": {
+    "url": "https://en.wikipedia.org/wiki/Tre_Croci_railway_halt",
+    "wiki_id": "Q3971177"
+  },
+  "manganhumite": {
+    "url": "https://en.wikipedia.org/wiki/manganhumite",
+    "wiki_id": "Q3844521"
+  },
+  "manganese": {
+    "url": "https://en.wikipedia.org/wiki/manganese",
+    "wiki_id": "Q731"
+  },
+  "Henry L. Barwood": {
+    "url": "https://en.wikipedia.org/wiki/Henry_L._Barwood",
+    "wiki_id": "Q50330170"
+  },
+  "Arie Lev Gilat": {
+    "url": "https://en.wikipedia.org/wiki/Arie_Lev_Gilat",
+    "wiki_id": "Q56252767"
+  },
+  "James Calder": {
+    "url": "https://en.wikipedia.org/wiki/James_Calder",
+    "wiki_id": "Q29053896"
+  },
+  "Chegem": {
+    "url": "https://en.wikipedia.org/wiki/Chegem",
+    "wiki_id": "Q4508169"
+  },
+  "schorlomite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/schorlomite_mineral_group",
+    "wiki_id": "Q11985133"
+  },
+  "malacon": {
+    "url": "https://en.wikipedia.org/wiki/malacon",
+    "wiki_id": "Q12120747"
+  },
+  "oyamalite": {
+    "url": "https://en.wikipedia.org/wiki/oyamalite",
+    "wiki_id": "Q12137098"
+  },
+  "olmiite": {
+    "url": "https://en.wikipedia.org/wiki/olmiite",
+    "wiki_id": "Q19861102"
+  },
+  "toturite": {
+    "url": "https://en.wikipedia.org/wiki/toturite",
+    "wiki_id": "Q19862012"
+  },
+  "jargoon": {
+    "url": "https://en.wikipedia.org/wiki/jargoon",
+    "wiki_id": "Q6160184"
+  },
+  "malinkoite": {
+    "url": "https://en.wikipedia.org/wiki/malinkoite",
+    "wiki_id": "Q3843933"
+  },
+  "coutinhoite": {
+    "url": "https://en.wikipedia.org/wiki/coutinhoite",
+    "wiki_id": "Q3696283"
+  },
+  "eulytine": {
+    "url": "https://en.wikipedia.org/wiki/eulytine",
+    "wiki_id": "Q3734518"
+  },
+  "chesnokovite": {
+    "url": "https://en.wikipedia.org/wiki/chesnokovite",
+    "wiki_id": "Q11379798"
+  },
+  "gerstmannite": {
+    "url": "https://en.wikipedia.org/wiki/gerstmannite",
+    "wiki_id": "Q3761316"
+  },
+  "space group Pmma": {
+    "url": "https://en.wikipedia.org/wiki/space_group_Pmma",
+    "wiki_id": "Q13400725"
+  },
+  "space group Pbam": {
+    "url": "https://en.wikipedia.org/wiki/space_group_Pbam",
+    "wiki_id": "Q13400730"
+  },
+  "orange": {
+    "url": "https://en.wikipedia.org/wiki/orange",
+    "wiki_id": "Q39338"
+  },
+  "hibschite": {
+    "url": "https://en.wikipedia.org/wiki/hibschite",
+    "wiki_id": "Q3785456"
+  },
+  "Robert M. Garrels": {
+    "url": "https://en.wikipedia.org/wiki/Robert_M._Garrels",
+    "wiki_id": "Q903899"
+  },
+  "fusibility": {
+    "url": "https://en.wikipedia.org/wiki/fusibility",
+    "wiki_id": "Q3091126"
+  },
+  "Boris V. Chesnokov": {
+    "url": "https://en.wikipedia.org/wiki/Boris_V._Chesnokov",
+    "wiki_id": "Q4514867"
+  },
+  "Krunkelbach valley uranium deposit": {
+    "url": "https://en.wikipedia.org/wiki/Krunkelbach_valley_uranium_deposit",
+    "wiki_id": "Q1550037"
+  },
+  "Tatyana M. Lapteva": {
+    "url": "https://en.wikipedia.org/wiki/Tatyana_M._Lapteva",
+    "wiki_id": "Q56188170"
+  },
+  "byrudite": {
+    "url": "https://en.wikipedia.org/wiki/byrudite",
+    "wiki_id": "Q20828301"
+  },
+  "Byrud emerald mine": {
+    "url": "https://en.wikipedia.org/wiki/Byrud_emerald_mine",
+    "wiki_id": "Q26954985"
+  },
+  "Tothur stream": {
+    "url": "https://en.wikipedia.org/wiki/Tothur_stream",
+    "wiki_id": "Q29053991"
+  },
+  "Jos\u00e9 Moacyr Vianna Coutinho": {
+    "url": "https://en.wikipedia.org/wiki/Jos\u00e9_Moacyr_Vianna_Coutinho",
+    "wiki_id": "Q29464738"
+  },
+  "Tothur": {
+    "url": "https://en.wikipedia.org/wiki/Tothur",
+    "wiki_id": "Q55975751"
+  },
+  "space group Pmnb": {
+    "url": "https://en.wikipedia.org/wiki/space_group_Pmnb",
+    "wiki_id": "Q103898934"
+  },
+  "phosphate mineral": {
+    "url": "https://en.wikipedia.org/wiki/phosphate_mineral",
+    "wiki_id": "Q3092395"
+  },
+  "magnioursilite": {
+    "url": "https://en.wikipedia.org/wiki/magnioursilite",
+    "wiki_id": "Q19862102"
+  },
+  "momoiite": {
+    "url": "https://en.wikipedia.org/wiki/momoiite",
+    "wiki_id": "Q3860352"
+  },
+  "morimotoite": {
+    "url": "https://en.wikipedia.org/wiki/morimotoite",
+    "wiki_id": "Q3863005"
+  },
+  "Herbert E. Merwin": {
+    "url": "https://en.wikipedia.org/wiki/Herbert_E._Merwin",
+    "wiki_id": "Q1608201"
+  },
+  "schorl": {
+    "url": "https://en.wikipedia.org/wiki/schorl",
+    "wiki_id": "Q2411340"
+  },
+  "jerrygibbsite": {
+    "url": "https://en.wikipedia.org/wiki/jerrygibbsite",
+    "wiki_id": "Q3808050"
+  },
+  "Gerald V. Gibbs": {
+    "url": "https://en.wikipedia.org/wiki/Gerald_V._Gibbs",
+    "wiki_id": "Q15222067"
+  },
+  "Joe Kimzey": {
+    "url": "https://en.wikipedia.org/wiki/Joe_Kimzey",
+    "wiki_id": "Q48066137"
+  },
+  "hydroxylclinohumite": {
+    "url": "https://en.wikipedia.org/wiki/hydroxylclinohumite",
+    "wiki_id": "Q3792028"
+  },
+  "hydroxyl": {
+    "url": "https://en.wikipedia.org/wiki/hydroxyl",
+    "wiki_id": "Q104116"
+  },
+  "Bonnet Island": {
+    "url": "https://en.wikipedia.org/wiki/Bonnet_Island",
+    "wiki_id": "Q22580464"
+  },
+  "Darai-Pioz glacier": {
+    "url": "https://en.wikipedia.org/wiki/Darai-Pioz_glacier",
+    "wiki_id": "Q23803396"
+  },
+  "Mount Shaheru": {
+    "url": "https://en.wikipedia.org/wiki/Mount_Shaheru",
+    "wiki_id": "Q27473333"
+  },
+  "calcybeborosilite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/calcybeborosilite-(Y)",
+    "wiki_id": "Q3650529"
+  },
+  "poirierite": {
+    "url": "https://en.wikipedia.org/wiki/poirierite",
+    "wiki_id": "Q92189718"
+  },
+  "franciscanite": {
+    "url": "https://en.wikipedia.org/wiki/franciscanite",
+    "wiki_id": "Q3750958"
+  },
+  "jingwenite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/jingwenite-(Y)",
+    "wiki_id": "Q110297908"
+  },
+  "Karnasurt mine, Karnasurt mount": {
+    "url": "https://en.wikipedia.org/wiki/Karnasurt_mine,_Karnasurt_mount",
+    "wiki_id": "Q23829138"
+  },
+  "reinhardbraunsite": {
+    "url": "https://en.wikipedia.org/wiki/reinhardbraunsite",
+    "wiki_id": "Q3932245"
+  },
+  "Caspar quarry": {
+    "url": "https://en.wikipedia.org/wiki/Caspar_quarry",
+    "wiki_id": "Q24320189"
+  },
+  "Schneeberg ore district": {
+    "url": "https://en.wikipedia.org/wiki/Schneeberg_ore_district",
+    "wiki_id": "Q26710950"
+  },
+  "flame": {
+    "url": "https://en.wikipedia.org/wiki/flame",
+    "wiki_id": "Q235544"
+  },
+  "beryllium silicate": {
+    "url": "https://en.wikipedia.org/wiki/beryllium_silicate",
+    "wiki_id": "Q4337150"
+  },
+  "norbergite": {
+    "url": "https://en.wikipedia.org/wiki/norbergite",
+    "wiki_id": "Q3878313"
+  },
+  "ahrensite": {
+    "url": "https://en.wikipedia.org/wiki/ahrensite",
+    "wiki_id": "Q19744243"
+  },
+  "Saij\u014d": {
+    "url": "https://en.wikipedia.org/wiki/Saij\u014d",
+    "wiki_id": "Q633945"
+  },
+  "laihunite-3M": {
+    "url": "https://en.wikipedia.org/wiki/laihunite-3M",
+    "wiki_id": "Q52241728"
+  },
+  "ivanyukite-Cu": {
+    "url": "https://en.wikipedia.org/wiki/ivanyukite-Cu",
+    "wiki_id": "Q19860842"
+  },
+  "Malysheva": {
+    "url": "https://en.wikipedia.org/wiki/Malysheva",
+    "wiki_id": "Q406809"
+  },
+  "Nobuo Morimoto": {
+    "url": "https://en.wikipedia.org/wiki/Nobuo_Morimoto",
+    "wiki_id": "Q11539775"
+  },
+  "dargaite": {
+    "url": "https://en.wikipedia.org/wiki/dargaite",
+    "wiki_id": "Q23005381"
+  },
+  "atelisite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/atelisite-(Y)",
+    "wiki_id": "Q19799766"
+  },
+  "grandidierite": {
+    "url": "https://en.wikipedia.org/wiki/grandidierite",
+    "wiki_id": "Q3775686"
+  },
+  "polytype": {
+    "url": "https://en.wikipedia.org/wiki/polytype",
+    "wiki_id": "Q24205147"
+  },
+  "Teodoro Monticelli": {
+    "url": "https://en.wikipedia.org/wiki/Teodoro_Monticelli",
+    "wiki_id": "Q3983894"
+  },
+  "magnesiochloritoid": {
+    "url": "https://en.wikipedia.org/wiki/magnesiochloritoid",
+    "wiki_id": "Q3843285"
+  },
+  "yoderite": {
+    "url": "https://en.wikipedia.org/wiki/yoderite",
+    "wiki_id": "Q4022803"
+  },
+  "Hatten Yoder": {
+    "url": "https://en.wikipedia.org/wiki/Hatten_Yoder",
+    "wiki_id": "Q509935"
+  },
+  "Thomas J. Ahrens": {
+    "url": "https://en.wikipedia.org/wiki/Thomas_J._Ahrens",
+    "wiki_id": "Q7791008"
+  },
+  "ivanyukite": {
+    "url": "https://en.wikipedia.org/wiki/ivanyukite",
+    "wiki_id": "Q13405461"
+  },
+  "pharmacosiderite supergroup": {
+    "url": "https://en.wikipedia.org/wiki/pharmacosiderite_supergroup",
+    "wiki_id": "Q3977913"
+  },
+  "hutcheonite": {
+    "url": "https://en.wikipedia.org/wiki/hutcheonite",
+    "wiki_id": "Q19841452"
+  },
+  "zoltaiite": {
+    "url": "https://en.wikipedia.org/wiki/zoltaiite",
+    "wiki_id": "Q4024666"
+  },
+  "greenwoodite": {
+    "url": "https://en.wikipedia.org/wiki/greenwoodite",
+    "wiki_id": "Q19841397"
+  },
+  "hydroxylchondrodite": {
+    "url": "https://en.wikipedia.org/wiki/hydroxylchondrodite",
+    "wiki_id": "Q19841465"
+  },
+  "Spessart": {
+    "url": "https://en.wikipedia.org/wiki/Spessart",
+    "wiki_id": "Q182470"
+  },
+  "Norberg": {
+    "url": "https://en.wikipedia.org/wiki/Norberg",
+    "wiki_id": "Q2551945"
+  },
+  "ivanyukite-Na-T": {
+    "url": "https://en.wikipedia.org/wiki/ivanyukite-Na-T",
+    "wiki_id": "Q28221214"
+  },
+  "kihlmanite-(Ce)": {
+    "url": "https://en.wikipedia.org/wiki/kihlmanite-(Ce)",
+    "wiki_id": "Q19860890"
+  },
+  "space group P2\u2081/m": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P2\u2081/m",
+    "wiki_id": "Q13365570"
+  },
+  "ugrandite": {
+    "url": "https://en.wikipedia.org/wiki/ugrandite",
+    "wiki_id": "Q16720720"
+  },
+  "azorite": {
+    "url": "https://en.wikipedia.org/wiki/azorite",
+    "wiki_id": "Q18499443"
+  },
+  "bridgmanite": {
+    "url": "https://en.wikipedia.org/wiki/bridgmanite",
+    "wiki_id": "Q7514916"
+  },
+  "ivanyukite-Na": {
+    "url": "https://en.wikipedia.org/wiki/ivanyukite-Na",
+    "wiki_id": "Q19860844"
+  },
+  "Filippo Olmi": {
+    "url": "https://en.wikipedia.org/wiki/Filippo_Olmi",
+    "wiki_id": "Q28960184"
+  },
+  "Svetlana Vyacheslavovna Malinko": {
+    "url": "https://en.wikipedia.org/wiki/Svetlana_Vyacheslavovna_Malinko",
+    "wiki_id": "Q49089374"
+  },
+  "space group P2\u2081/b": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P2\u2081/b",
+    "wiki_id": "Q102055823"
+  },
+  "Ewald Gerstmann": {
+    "url": "https://en.wikipedia.org/wiki/Ewald_Gerstmann",
+    "wiki_id": "Q18343235"
+  },
+  "Josiah E. Spurr": {
+    "url": "https://en.wikipedia.org/wiki/Josiah_E._Spurr",
+    "wiki_id": "Q1343648"
+  },
+  "natisite": {
+    "url": "https://en.wikipedia.org/wiki/natisite",
+    "wiki_id": "Q3873211"
+  },
+  "titanium": {
+    "url": "https://en.wikipedia.org/wiki/titanium",
+    "wiki_id": "Q716"
+  },
+  "silicocarnotite": {
+    "url": "https://en.wikipedia.org/wiki/silicocarnotite",
+    "wiki_id": "Q19861283"
+  },
+  "neltnerite": {
+    "url": "https://en.wikipedia.org/wiki/neltnerite",
+    "wiki_id": "Q3874539"
+  },
+  "Bon Accord nickel deposit": {
+    "url": "https://en.wikipedia.org/wiki/Bon_Accord_nickel_deposit",
+    "wiki_id": "Q26701445"
+  },
+  "Khibiny Mountains": {
+    "url": "https://en.wikipedia.org/wiki/Khibiny_Mountains",
+    "wiki_id": "Q38131"
+  },
+  "Nchwaning mines": {
+    "url": "https://en.wikipedia.org/wiki/Nchwaning_mines",
+    "wiki_id": "Q16963799"
+  },
+  "Tsumeb mine": {
+    "url": "https://en.wikipedia.org/wiki/Tsumeb_mine",
+    "wiki_id": "Q23723997"
+  },
+  "Mount Karnasurt": {
+    "url": "https://en.wikipedia.org/wiki/Mount_Karnasurt",
+    "wiki_id": "Q23829145"
+  },
+  "kittatinnyite": {
+    "url": "https://en.wikipedia.org/wiki/kittatinnyite",
+    "wiki_id": "Q3815717"
+  },
+  "irinarassite": {
+    "url": "https://en.wikipedia.org/wiki/irinarassite",
+    "wiki_id": "Q19860837"
+  },
+  "ivanyukite-K": {
+    "url": "https://en.wikipedia.org/wiki/ivanyukite-K",
+    "wiki_id": "Q19860843"
+  },
+  "potassium": {
+    "url": "https://en.wikipedia.org/wiki/potassium",
+    "wiki_id": "Q703"
+  },
+  "Hitoshi Momoi": {
+    "url": "https://en.wikipedia.org/wiki/Hitoshi_Momoi",
+    "wiki_id": "Q17219638"
+  },
+  "Alfred Grandidier": {
+    "url": "https://en.wikipedia.org/wiki/Alfred_Grandidier",
+    "wiki_id": "Q727876"
+  },
+  "Fuka mine": {
+    "url": "https://en.wikipedia.org/wiki/Fuka_mine",
+    "wiki_id": "Q23935699"
+  },
+  "kerimasite": {
+    "url": "https://en.wikipedia.org/wiki/kerimasite",
+    "wiki_id": "Q19860886"
+  },
+  "Kerimasi volcano": {
+    "url": "https://en.wikipedia.org/wiki/Kerimasi_volcano",
+    "wiki_id": "Q28868801"
+  },
+  "clinohedrite": {
+    "url": "https://en.wikipedia.org/wiki/clinohedrite",
+    "wiki_id": "Q3680786"
+  },
+  "alvite": {
+    "url": "https://en.wikipedia.org/wiki/alvite",
+    "wiki_id": "Q9149293"
+  },
+  "space group P2\u20812\u20812": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P2\u20812\u20812",
+    "wiki_id": "Q13371294"
+  },
+  "nabimusaite": {
+    "url": "https://en.wikipedia.org/wiki/nabimusaite",
+    "wiki_id": "Q19861055"
+  },
+  "Jabel Harmun": {
+    "url": "https://en.wikipedia.org/wiki/Jabel_Harmun",
+    "wiki_id": "Q24571923"
+  },
+  "Oswald Kairamo": {
+    "url": "https://en.wikipedia.org/wiki/Oswald_Kairamo",
+    "wiki_id": "Q4348381"
+  },
+  "ternesite-silicocarnotite": {
+    "url": "https://en.wikipedia.org/wiki/ternesite-silicocarnotite",
+    "wiki_id": "Q47004223"
+  },
+  "Malaia garnet": {
+    "url": "https://en.wikipedia.org/wiki/Malaia_garnet",
+    "wiki_id": "Q6741084"
+  },
+  "topazolite": {
+    "url": "https://en.wikipedia.org/wiki/topazolite",
+    "wiki_id": "Q9360056"
+  },
+  "welinite": {
+    "url": "https://en.wikipedia.org/wiki/welinite",
+    "wiki_id": "Q4018849"
+  },
+  "natroboltwoodite": {
+    "url": "https://en.wikipedia.org/wiki/natroboltwoodite",
+    "wiki_id": "Q3873287"
+  },
+  "ominelite": {
+    "url": "https://en.wikipedia.org/wiki/ominelite",
+    "wiki_id": "Q3882232"
+  },
+  "\u00f6rebroite": {
+    "url": "https://en.wikipedia.org/wiki/\u00f6rebroite",
+    "wiki_id": "Q4025504"
+  },
+  "paranatisite": {
+    "url": "https://en.wikipedia.org/wiki/paranatisite",
+    "wiki_id": "Q3895239"
+  },
+  "poldervaartite": {
+    "url": "https://en.wikipedia.org/wiki/poldervaartite",
+    "wiki_id": "Q3907216"
+  },
+  "Gregory Yur\u2019evich Ivanyuk": {
+    "url": "https://en.wikipedia.org/wiki/Gregory_Yur\u2019evich_Ivanyuk",
+    "wiki_id": "Q19861819"
+  },
+  "olivine structural group": {
+    "url": "https://en.wikipedia.org/wiki/olivine_structural_group",
+    "wiki_id": "Q18058007"
+  },
+  "ringwoodite group": {
+    "url": "https://en.wikipedia.org/wiki/ringwoodite_group",
+    "wiki_id": "Q51883994"
+  },
+  "Allalin Glacier": {
+    "url": "https://en.wikipedia.org/wiki/Allalin_Glacier",
+    "wiki_id": "Q674665"
+  },
+  "paraspurrite": {
+    "url": "https://en.wikipedia.org/wiki/paraspurrite",
+    "wiki_id": "Q3895306"
+  },
+  "space group Pnma": {
+    "url": "https://en.wikipedia.org/wiki/space_group_Pnma",
+    "wiki_id": "Q103889730"
+  },
+  "swamboite-(Nd)": {
+    "url": "https://en.wikipedia.org/wiki/swamboite-(Nd)",
+    "wiki_id": "Q3978578"
+  },
+  "Swambo": {
+    "url": "https://en.wikipedia.org/wiki/Swambo",
+    "wiki_id": "Q29944060"
+  },
+  "Stetind pegmatite": {
+    "url": "https://en.wikipedia.org/wiki/Stetind_pegmatite",
+    "wiki_id": "Q24282690"
+  },
+  "northeastern Hatrurim formation, Jordan": {
+    "url": "https://en.wikipedia.org/wiki/northeastern_Hatrurim_formation,_Jordan",
+    "wiki_id": "Q24558585"
+  },
+  "Mount \u014cmine": {
+    "url": "https://en.wikipedia.org/wiki/Mount_\u014cmine",
+    "wiki_id": "Q3695989"
+  },
+  "Eric Welin": {
+    "url": "https://en.wikipedia.org/wiki/Eric_Welin",
+    "wiki_id": "Q6235132"
+  },
+  "Wallkill Dell": {
+    "url": "https://en.wikipedia.org/wiki/Wallkill_Dell",
+    "wiki_id": "Q29035798"
+  },
+  "Arie Poldervaart": {
+    "url": "https://en.wikipedia.org/wiki/Arie_Poldervaart",
+    "wiki_id": "Q48678825"
+  },
+  "\u00d6rebro": {
+    "url": "https://en.wikipedia.org/wiki/\u00d6rebro",
+    "wiki_id": "Q25732"
+  },
+  "proshchenkoite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/proshchenkoite-(Y)",
+    "wiki_id": "Q2113240"
+  },
+  "space group I-42d": {
+    "url": "https://en.wikipedia.org/wiki/space_group_I-42d",
+    "wiki_id": "Q15021078"
+  },
+  "cappelenite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/cappelenite-(Y)",
+    "wiki_id": "Q3657310"
+  },
+  "braunite": {
+    "url": "https://en.wikipedia.org/wiki/braunite",
+    "wiki_id": "Q413391"
+  },
+  "tombarthite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/tombarthite-(Y)",
+    "wiki_id": "Q3992625"
+  },
+  "Percy Williams Bridgman": {
+    "url": "https://en.wikipedia.org/wiki/Percy_Williams_Bridgman",
+    "wiki_id": "Q172118"
+  },
+  "kuliokite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/kuliokite-(Y)",
+    "wiki_id": "Q3200325"
+  },
+  "Mount Ploskaya": {
+    "url": "https://en.wikipedia.org/wiki/Mount_Ploskaya",
+    "wiki_id": "Q28003202"
+  },
+  "Louis Neltner": {
+    "url": "https://en.wikipedia.org/wiki/Louis_Neltner",
+    "wiki_id": "Q3262784"
+  },
+  "Tenham meteorite": {
+    "url": "https://en.wikipedia.org/wiki/Tenham_meteorite",
+    "wiki_id": "Q7699844"
+  },
+  "tsavorite": {
+    "url": "https://en.wikipedia.org/wiki/tsavorite",
+    "wiki_id": "Q2295514"
+  },
+  "reidite": {
+    "url": "https://en.wikipedia.org/wiki/reidite",
+    "wiki_id": "Q3932203"
+  },
+  "rondorfite": {
+    "url": "https://en.wikipedia.org/wiki/rondorfite",
+    "wiki_id": "Q3941110"
+  },
+  "Diderik Cappelen": {
+    "url": "https://en.wikipedia.org/wiki/Diderik_Cappelen",
+    "wiki_id": "Q17119585"
+  },
+  "Wadi Murabba'at": {
+    "url": "https://en.wikipedia.org/wiki/Wadi_Murabba'at",
+    "wiki_id": "Q2906907"
+  },
+  "non-existence": {
+    "url": "https://en.wikipedia.org/wiki/non-existence",
+    "wiki_id": "Q3877969"
+  },
+  "angle": {
+    "url": "https://en.wikipedia.org/wiki/angle",
+    "wiki_id": "Q11352"
+  },
+  "yamatoite": {
+    "url": "https://en.wikipedia.org/wiki/yamatoite",
+    "wiki_id": "Q4022464"
+  },
+  "hortonolite": {
+    "url": "https://en.wikipedia.org/wiki/hortonolite",
+    "wiki_id": "Q4145945"
+  },
+  "weeksite": {
+    "url": "https://en.wikipedia.org/wiki/weeksite",
+    "wiki_id": "Q7979545"
+  },
+  "chantalite": {
+    "url": "https://en.wikipedia.org/wiki/chantalite",
+    "wiki_id": "Q3666242"
+  },
+  "questionable (Q)": {
+    "url": "https://en.wikipedia.org/wiki/questionable_(Q)",
+    "wiki_id": "Q13406891"
+  },
+  "space group P-43m": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P-43m",
+    "wiki_id": "Q15041880"
+  },
+  "okanoganite-(Y)": {
+    "url": "https://en.wikipedia.org/wiki/okanoganite-(Y)",
+    "wiki_id": "Q3881331"
+  },
+  "chrysolite": {
+    "url": "https://en.wikipedia.org/wiki/chrysolite",
+    "wiki_id": "Q5114846"
+  },
+  "ferrohortonolite": {
+    "url": "https://en.wikipedia.org/wiki/ferrohortonolite",
+    "wiki_id": "Q5445431"
+  },
+  "stoichiometric perovskites": {
+    "url": "https://en.wikipedia.org/wiki/stoichiometric_perovskites",
+    "wiki_id": "Q47007268"
+  },
+  "ternesite": {
+    "url": "https://en.wikipedia.org/wiki/ternesite",
+    "wiki_id": "Q3984502"
+  },
+  "trimerite": {
+    "url": "https://en.wikipedia.org/wiki/trimerite",
+    "wiki_id": "Q3998844"
+  },
+  "cape ruby": {
+    "url": "https://en.wikipedia.org/wiki/cape_ruby",
+    "wiki_id": "Q25510601"
+  },
+  "trimer": {
+    "url": "https://en.wikipedia.org/wiki/trimer",
+    "wiki_id": "Q898416"
+  },
+  "oursinite": {
+    "url": "https://en.wikipedia.org/wiki/oursinite",
+    "wiki_id": "Q2905281"
+  },
+  "Koashva open pit": {
+    "url": "https://en.wikipedia.org/wiki/Koashva_open_pit",
+    "wiki_id": "Q23848646"
+  },
+  "Tachgagalt mine": {
+    "url": "https://en.wikipedia.org/wiki/Tachgagalt_mine",
+    "wiki_id": "Q26701432"
+  },
+  "Vesle Ar\u00f8y island": {
+    "url": "https://en.wikipedia.org/wiki/Vesle_Ar\u00f8y_island",
+    "wiki_id": "Q28786968"
+  },
+  "Tissint meteorite": {
+    "url": "https://en.wikipedia.org/wiki/Tissint_meteorite",
+    "wiki_id": "Q3333926"
+  },
+  "Nabi Musa": {
+    "url": "https://en.wikipedia.org/wiki/Nabi_Musa",
+    "wiki_id": "Q2909131"
+  },
+  "face": {
+    "url": "https://en.wikipedia.org/wiki/face",
+    "wiki_id": "Q3064117"
+  },
+  "para-": {
+    "url": "https://en.wikipedia.org/wiki/para-",
+    "wiki_id": "Q12195651"
+  },
+  "Evgeniy G. Proshchenko": {
+    "url": "https://en.wikipedia.org/wiki/Evgeniy_G._Proshchenko",
+    "wiki_id": "Q16874894"
+  },
+  "space group P3": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P3",
+    "wiki_id": "Q15040788"
+  },
+  "space group P6\u2083mc": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P6\u2083mc",
+    "wiki_id": "Q15041640"
+  },
+  "space group P-62c": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P-62c",
+    "wiki_id": "Q15041644"
+  },
+  "space group P6\u2083/mmc": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P6\u2083/mmc",
+    "wiki_id": "Q15041650"
+  },
+  "space group P-3": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P-3",
+    "wiki_id": "Q15040796"
+  },
+  "Washington pass": {
+    "url": "https://en.wikipedia.org/wiki/Washington_pass",
+    "wiki_id": "Q7972122"
+  },
+  "R\u00e4llingsberg ore area": {
+    "url": "https://en.wikipedia.org/wiki/R\u00e4llingsberg_ore_area",
+    "wiki_id": "Q17246606"
+  },
+  "Harstigen mine": {
+    "url": "https://en.wikipedia.org/wiki/Harstigen_mine",
+    "wiki_id": "Q23933950"
+  },
+  "Allende meteorite": {
+    "url": "https://en.wikipedia.org/wiki/Allende_meteorite",
+    "wiki_id": "Q1930079"
+  },
+  "ottr\u00e9lite": {
+    "url": "https://en.wikipedia.org/wiki/ottr\u00e9lite",
+    "wiki_id": "Q2252771"
+  },
+  "fluorine": {
+    "url": "https://en.wikipedia.org/wiki/fluorine",
+    "wiki_id": "Q650"
+  },
+  "sea urchin": {
+    "url": "https://en.wikipedia.org/wiki/sea_urchin",
+    "wiki_id": "Q83483"
+  },
+  "Irina T. Rass": {
+    "url": "https://en.wikipedia.org/wiki/Irina_T._Rass",
+    "wiki_id": "Q28966881"
+  },
+  "Wilhelm Braun": {
+    "url": "https://en.wikipedia.org/wiki/Wilhelm_Braun",
+    "wiki_id": "Q2575831"
+  },
+  "knebelite": {
+    "url": "https://en.wikipedia.org/wiki/knebelite",
+    "wiki_id": "Q4118107"
+  },
+  "hill": {
+    "url": "https://en.wikipedia.org/wiki/hill",
+    "wiki_id": "Q54050"
+  },
+  "Ottr\u00e9": {
+    "url": "https://en.wikipedia.org/wiki/Ottr\u00e9",
+    "wiki_id": "Q1091713"
+  },
+  "monazite mineral group": {
+    "url": "https://en.wikipedia.org/wiki/monazite_mineral_group",
+    "wiki_id": "Q3777755"
+  },
+  "gadolinium gallium garnet": {
+    "url": "https://en.wikipedia.org/wiki/gadolinium_gallium_garnet",
+    "wiki_id": "Q5516414"
+  },
+  "gadolinium yttrium garnet": {
+    "url": "https://en.wikipedia.org/wiki/gadolinium_yttrium_garnet",
+    "wiki_id": "Q5516417"
+  },
+  "Alice D. Weeks": {
+    "url": "https://en.wikipedia.org/wiki/Alice_D._Weeks",
+    "wiki_id": "Q29052092"
+  },
+  "Chantal Sarp": {
+    "url": "https://en.wikipedia.org/wiki/Chantal_Sarp",
+    "wiki_id": "Q55748691"
+  },
+  "Reinhard Brauns": {
+    "url": "https://en.wikipedia.org/wiki/Reinhard_Brauns",
+    "wiki_id": "Q122510"
+  },
+  "Okanogan County": {
+    "url": "https://en.wikipedia.org/wiki/Okanogan_County",
+    "wiki_id": "Q483958"
+  },
+  "Tibor Zoltai": {
+    "url": "https://en.wikipedia.org/wiki/Tibor_Zoltai",
+    "wiki_id": "Q20481637"
+  },
+  "Ian D. Hutcheon": {
+    "url": "https://en.wikipedia.org/wiki/Ian_D._Hutcheon",
+    "wiki_id": "Q21095027"
+  },
+  "Hugh J. Greenwood": {
+    "url": "https://en.wikipedia.org/wiki/Hugh_J._Greenwood",
+    "wiki_id": "Q50321496"
+  },
+  "Infinity": {
+    "url": "https://en.wikipedia.org/wiki/Infinity",
+    "wiki_id": "Q205"
+  },
+  "space group P2\u2081/c": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P2\u2081/c",
+    "wiki_id": "Q102054304"
+  },
+  "space group P-3m1": {
+    "url": "https://en.wikipedia.org/wiki/space_group_P-3m1",
+    "wiki_id": "Q15040832"
+  },
+  "Friedrichroda": {
+    "url": "https://en.wikipedia.org/wiki/Friedrichroda",
+    "wiki_id": "Q520025"
+  },
+  "Campbell R. Bridges": {
+    "url": "https://en.wikipedia.org/wiki/Campbell_R._Bridges",
+    "wiki_id": "Q5028133"
+  },
+  "Alexander E. Zadov": {
+    "url": "https://en.wikipedia.org/wiki/Alexander_E._Zadov",
+    "wiki_id": "Q16259784"
+  },
+  "Edward S. Grew": {
+    "url": "https://en.wikipedia.org/wiki/Edward_S._Grew",
+    "wiki_id": "Q17267670"
+  },
+  "Alan F. Reid": {
+    "url": "https://en.wikipedia.org/wiki/Alan_F._Reid",
+    "wiki_id": "Q18534679"
+  },
+  "Wessels mine": {
+    "url": "https://en.wikipedia.org/wiki/Wessels_mine",
+    "wiki_id": "Q16999453"
+  },
+  "Mount Rasvumchorr": {
+    "url": "https://en.wikipedia.org/wiki/Mount_Rasvumchorr",
+    "wiki_id": "Q23839192"
+  },
+  "Material'naya adit": {
+    "url": "https://en.wikipedia.org/wiki/Material'naya_adit",
+    "wiki_id": "Q24036509"
   }
 }
