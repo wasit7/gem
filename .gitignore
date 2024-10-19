@@ -1,7 +1,7 @@
 _draft/
 _old/
 gem_text/data/
-gem_text/staging/
+gem_text/staging/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
