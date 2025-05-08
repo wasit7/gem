@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-B">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MVP Masking Strategy Visualization</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; color: #333; }
+        h1, h2 { text-align: center; color: #333; }
+        .container { display: flex; flex-direction: column; align-items: center; }
+        .grid-container { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 20px; background-color: #fff; padding:10px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);}
+        .grid-item { text-align: center; }
+        .grid-item p { margin: 5px 0 10px 0; font-size: 0.9em; font-weight: bold;}
+        canvas { border: 1px solid #ccc; image-rendering: pixelated; /* Sharp pixels */ }
+        .controls { margin-bottom: 20px; text-align: center; }
+        .controls button { padding: 8px 15px; margin: 0 5px; background-color: #5cb85c; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        .controls button:hover { background-color: #4cae4c; }
+        .chart-container { width: 80%; max-width: 600px; margin: 20px auto; background-color: #fff; padding:15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Masked Patch Prediction Visualization (MVP)</h1>
+    <p style="text-align:center;">Inspired by Andrej Karpathy's MVP style. Displaying a toy 2-frame (16x16px) video.</p>
+
+    <div class="controls">
+        <button onclick="currentFrame = 0; renderAll()">Show Frame 1</button>
+        <button onclick="currentFrame = 1; renderAll()">Show Frame 2</button>
+        <p>Currently showing: <strong id="currentFrameDisplay">Frame 1</strong></p>
+    </div>
+
+    <div class="grid-container">
+        <div class="grid-item"><p>Original</p><canvas id="canvasOriginal" width="160" height="160"></canvas></div>
+        <div class="grid-item"><p>Random Mask</p><canvas id="canvasRandMask" width="160" height="160"></canvas></div>
+        <div class="grid-item"><p>Random Recon.</p><canvas id="canvasRandRecon" width="160" height="160"></canvas></div>
+        <div class="grid-item"><p>Motion Mask</p><canvas id="canvasMotionMask" width="160" height="160"></canvas></div>
+        <div class="grid-item"><p>Motion Recon.</p><canvas id="canvasMotionRecon" width="160" height="160"></canvas></div>
+    </div>
+
+    <div class="chart-container">
+        <h2>Predictor Training Loss (MSE)</h2>
+        <canvas id="lossChartCanvas" width="560" height="300"></canvas>
+    </div>
+</div>
+
+<script>
+    // --- Mock Data (simulating Python MVP output) ---
+    // Data format: [frame1_data, frame2_data]
+    // Each frame_data is a 16x16 array of pixel values (0.0 to 1.0)
+
+    // Original: Block moves from center-ish to bottom-right-ish
+    const original_frames_data = [
+        // Frame 1
+        Array(16).fill(0).map((_, r) => Array(16).fill(0).map((__, c) => (r >= 4 && r < 12 && c >= 4 && c < 12) ? 0.8 : 0.0)),
+        // Frame 2
+        Array(16).fill(0).map((_, r) => Array(16).fill(0).map((__, c) => (r >= 8 && r < 16 && c >= 8 && c < 16) ? 0.8 : 0.0))
+    ];
+
+    // Masked Display (0.5 for masked patches) & Reconstructions (will be imperfect)
+    // For simplicity, let's define mask indices and apply them.
+    // Total patches per frame: (16/4) * (16/4) = 4 * 4 = 16. Total patches for 2 frames = 32.
+    // Mask ratio ~0.6 means ~19 patches masked. Let's say 10 per frame for simplicity here.
+    
+    // Random Masking
+    const random_masked_indices_f1 = [2, 5, 6, 9, 10, 11, 13, 0, 7, 15]; // 10 random patch indices for frame 1
+    const random_masked_indices_f2 = [1, 3, 4, 8, 12, 14, 0, 6, 10, 15]; // 10 random patch indices for frame 2
+
+    // Motion-Aware Masking (targeting the moving block in frame 2, and some areas in frame 1)
+    // Patches for a 16x16 image with 4x4 patch size:
+    // 0  1  2  3
+    // 4  5  6  7
+    // 8  9 10 11
+    // 12 13 14 15
+    // Frame 1 block: patches 5,6,9,10. Frame 2 block: patches 10,11,14,15
+    // "Motion" is where frame2 has the block and frame1 doesn't, or vice-versa.
+    // High motion patches (spatial index): 5,6,9 (from F1 that disappear), 11,14,15 (new in F2), 10 (overlap but content different)
+    const motion_masked_indices_f1 = [5, 6, 9, 10, 1, 3, 8, 12, 14, 0]; // Mask some of the original block and some random
+    const motion_masked_indices_f2 = [10, 11, 14, 15, 5, 6, 9, 2, 4, 7]; // Mask the new block location and some other "hot" areas
+
+
+    function apply_mask_and_reconstruct(original_frame_data, masked_patch_indices, is_reconstruction) {
+        const new_frame_data = JSON.parse(JSON.stringify(original_frame_data)); // Deep copy
+        const patch_size = 4;
+        const patches_per_row = 16 / patch_size;
+
+        for (let patch_idx of masked_patch_indices) {
+            const patch_r_start = Math.floor(patch_idx / patches_per_row) * patch_size;
+            const patch_c_start = (patch_idx % patches_per_row) * patch_size;
+
+            for (let r_offset = 0; r_offset < patch_size; r_offset++) {
+                for (let c_offset = 0; c_offset < patch_size; c_offset++) {
+                    const r = patch_r_start + r_offset;
+                    const c = patch_c_start + c_offset;
+                    if (is_reconstruction) {
+                        // Simulate imperfect reconstruction: average with original, or make it slightly off
+                        // Let's make it slightly dimmer or a fixed "predicted" color
+                        let original_val = original_frame_data[r][c];
+                        new_frame_data[r][c] = Math.max(0, original_val * 0.6 + Math.random() * 0.2 - 0.1); // Imperfect
+                        if (original_val > 0.5 && Math.random() < 0.7) new_frame_data[r][c] = 0.6; // Try to reconstruct block
+                        else if (original_val <= 0.5 && Math.random() < 0.7) new_frame_data[r][c] = 0.1; // Predict background
+
+                    } else {
+                        new_frame_data[r][c] = 0.4; // Gray for masked display
+                    }
+                }
+            }
+        }
+        return new_frame_data;
+    }
+
+    const random_masked_frames_data = [
+        apply_mask_and_reconstruct(original_frames_data[0], random_masked_indices_f1, false),
+        apply_mask_and_reconstruct(original_frames_data[1], random_masked_indices_f2, false)
+    ];
+    const random_reconstruction_frames_data = [
+        apply_mask_and_reconstruct(original_frames_data[0], random_masked_indices_f1, true),
+        apply_mask_and_reconstruct(original_frames_data[1], random_masked_indices_f2, true)
+    ];
+    const motion_masked_frames_data = [
+        apply_mask_and_reconstruct(original_frames_data[0], motion_masked_indices_f1, false),
+        apply_mask_and_reconstruct(original_frames_data[1], motion_masked_indices_f2, false)
+    ];
+    const motion_reconstruction_frames_data = [ // Motion reconstruction might be slightly better for the moving block
+        apply_mask_and_reconstruct(original_frames_data[0], motion_masked_indices_f1, true),
+        (function() {
+            let recon = apply_mask_and_reconstruct(original_frames_data[1], motion_masked_indices_f2, true);
+            // Try to make motion recon slightly better for the "moved" block area
+            for (let r = 8; r < 16; r++) {
+                for (let c = 8; c < 16; c++) {
+                    if (original_frames_data[1][r][c] > 0.5 && motion_masked_indices_f2.includes(Math.floor(r/4)*4 + Math.floor(c/4)) ) {
+                         recon[r][c] = original_frames_data[1][r][c] * 0.8 + Math.random()*0.1; // Better reconstruction
+                    }
+                }
+            }
+            return recon;
+        })()
+    ];
+
+    // Loss Data (100 epochs)
+    const loss_random_data = Array(100).fill(0).map((_, i) => 0.5 * Math.exp(-i / 20) + 0.05 + Math.random() * 0.05);
+    const loss_motion_data = Array(100).fill(0).map((_, i) => 0.55 * Math.exp(-i / 25) + 0.04 + Math.random() * 0.04); // Motion might be harder initially
+
+    // --- Canvas Drawing ---
+    let currentFrame = 0; // 0 for Frame 1, 1 for Frame 2
+    const PIXEL_SCALE = 10; // Scale 16x16 image to 160x160 canvas
+
+    function drawFrameToCanvas(canvasId, frameData) {
+        const canvas = document.getElementById(canvasId);
+        const ctx = canvas.getContext('2d');
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        if (!frameData) return;
+
+        for (let r = 0; r < 16; r++) {
+            for (let c = 0; c < 16; c++) {
+                const pixelVal = frameData[r][c];
+                const grayShade = Math.floor(pixelVal * 255);
+                ctx.fillStyle = `rgb(${grayShade}, ${grayShade}, ${grayShade})`;
+                ctx.fillRect(c * PIXEL_SCALE, r * PIXEL_SCALE, PIXEL_SCALE, PIXEL_SCALE);
+            }
+        }
+    }
+
+    function drawLossChart() {
+        const canvas = document.getElementById('lossChartCanvas');
+        const ctx = canvas.getContext('2d');
+        const width = canvas.width;
+        const height = canvas.height;
+        const padding = 40;
+
+        ctx.clearRect(0, 0, width, height);
+        ctx.font = "12px Arial";
+        ctx.fillStyle = "#333";
+
+        // Find max loss for y-axis scaling
+        const maxLoss = Math.max(...loss_random_data, ...loss_motion_data, 0.01); // ensure not zero
+
+        // Draw axes
+        ctx.beginPath();
+        ctx.moveTo(padding, padding);
+        ctx.lineTo(padding, height - padding); // Y-axis
+        ctx.lineTo(width - padding, height - padding); // X-axis
+        ctx.strokeStyle = "#555";
+        ctx.stroke();
+
+        // Y-axis labels and lines
+        for (let i = 0; i <= 5; i++) {
+            const y = padding + (height - 2 * padding) * (1 - i / 5);
+            const val = (maxLoss * i / 5).toFixed(2);
+            ctx.fillText(val, padding - 30, y + 4);
+            ctx.beginPath();
+            ctx.moveTo(padding - 5, y);
+            ctx.lineTo(width - padding, y);
+            ctx.strokeStyle = "#eee";
+            ctx.stroke();
+        }
+
+        // X-axis labels (epochs)
+        const numEpochs = loss_random_data.length;
+        for (let i = 0; i <= 5; i++) {
+            const x = padding + (width - 2 * padding) * (i / 5);
+            const val = Math.floor(numEpochs * i / 5);
+            ctx.fillText(val, x - 10, height - padding + 15);
+        }
+        ctx.fillText("Epochs", width / 2 - 20, height - padding + 30);
+        ctx.save();
+        ctx.translate(padding -30, height / 2 + 20);
+        ctx.rotate(-Math.PI/2);
+        ctx.fillText("MSE Loss", 0, 0);
+        ctx.restore();
+
+
+        // Plot function
+        function plotLine(data, color) {
+            ctx.beginPath();
+            ctx.strokeStyle = color;
+            ctx.lineWidth = 2;
+            data.forEach((val, i) => {
+                const x = padding + (width - 2 * padding) * (i / (numEpochs -1));
+                const y = padding + (height - 2 * padding) * (1 - val / maxLoss);
+                if (i === 0) ctx.moveTo(x, y);
+                else ctx.lineTo(x, y);
+            });
+            ctx.stroke();
+        }
+
+        plotLine(loss_random_data, "blue");
+        plotLine(loss_motion_data, "red");
+
+        // Legend
+        ctx.fillStyle = "blue";
+        ctx.fillRect(width - padding - 100, padding + 10, 10, 10);
+        ctx.fillStyle = "#333";
+        ctx.fillText("Random Loss", width - padding - 85, padding + 18);
+        ctx.fillStyle = "red";
+        ctx.fillRect(width - padding - 100, padding + 30, 10, 10);
+        ctx.fillStyle = "#333";
+        ctx.fillText("Motion Loss", width - padding - 85, padding + 38);
+    }
+
+    function renderAll() {
+        document.getElementById('currentFrameDisplay').textContent = `Frame ${currentFrame + 1}`;
+        drawFrameToCanvas('canvasOriginal', original_frames_data[currentFrame]);
+        drawFrameToCanvas('canvasRandMask', random_masked_frames_data[currentFrame]);
+        drawFrameToCanvas('canvasRandRecon', random_reconstruction_frames_data[currentFrame]);
+        drawFrameToCanvas('canvasMotionMask', motion_masked_frames_data[currentFrame]);
+        drawFrameToCanvas('canvasMotionRecon', motion_reconstruction_frames_data[currentFrame]);
+    }
+
+    // Initial Render
+    window.onload = () => {
+        renderAll();
+        drawLossChart();
+    };
+
+</script>
+
+</body>
+</html>
